@@ -1,0 +1,599 @@
+Passage number 1.
+Meeting of Federal Open Market CommitteeJuly 15, 1982A meeting of the Federal Open Market Committee was held onThursday, July 15, 1982. This was a telephone conference meeting, andeach individual was in Washington, D. C., except as otherwise indicatedin parentheses in the following list of those participating.PRESENT: Mr. Volcker, ChairmanMr. Solomon, Vice Chairman (New York)Mr. Balles (San Francisco)Mr. Black (Richmond)Mr. Ford (Atlanta)Mrs. Horn (Cleveland)Mr. MartinMr. ParteeMrs. TeetersMessrs. Guffey (Kansas City), Keehn (Chicago), Roos (St. Louis),and Timlen (New York), Alternate Members of the FederalOpen Market CommitteeMessrs. Boehne (Philadelphia), Boykin (Dallas), and Corrigan(Minneapolis), Presidents of the Federal Reserve Banksof Philadelphia, Dallas, and Minneapolis, respectivelyMr. Axilrod, Staff DirectorMr. Altmann, SecretaryMr. Bernard, Assistant SecretaryMrs. Steele, Deputy Assistant SecretaryMr. Bradfield, General CounselMr. Oltman (New York), Deputy General CounselMr. Kichline, EconomistMessrs. J. Davis (Cleveland), Keran (San Francisco), Koch(Atlanta), Prell, Siegman, and Zeisel, AssociateEconomistsMr. Cross (New York), Manager for Foreign Operations,System Open Market AccountMr. Sternlight (New York), Manager for Domestic Operations,System Open Market Account7/15/82Mr. Coyne, Assistant to the Board of GovernorsMr. McIntosh (Boston), First Vice President, FederalReserve Bank of BostonMessrs. T. Davis (Kansas City), Eisenmenger (Boston),and Stern (Minneapolis), Senior Vice Presidents,Federal Reserve Banks of Kansas City, Boston,and Minneapolis, respectivelyMessrs. Broaddus (Richmond), Burger (St. Louis),Nichols (Chicago), and Soss, Vice Presidents,Federal Reserve Banks of Richmond, St. Louis,Chicago, and New York, respectivelyMr. Lang (Philadelphia), Research Officer, FederalReserve Bank of PhiladelphiaMr.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is simply providing a list of individuals who participated in a meeting. There is no indication of contention or disagreement.
+
+
+Passage number 2.
+ Pearce (Dallas), Assistant Vice President, FederalReserve Bank of DallasTranscript of Federal Open Market Committee Conference Callof July 15, 1982MR. ALTMANN. Murray Altmann here in the Board room. Asusual, I will call the roll by District. Gentlemen, we arebroadcasting. If there's any change from the attendance that you havewired to me, please so indicate as I go down the list. [Secretary'snote: Attendance roll was called]. Thank you very much. We expectto have in the Board room the Chairman, Governors Martin, Partee, andTeeters, and some staff. If you'll stand by, I expect the Chairman tobe here any minute.SPEAKER(.). Murray, do you have a number for us to call ifwe are disconnected.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The passage is simply a transcript of the roll call for a meeting and a question about having a number to call if disconnected.
+
+
+Passage number 3.
+MR. ALTMANN. Yes. Should you be disconnected, call 202-452-3042 and we'll try to get you back on as quickly as possible. Thankyou. Let me ask one question: Is there anybody who did not receivethe wire that I sent not very long ago. Good, I'm glad not to hearany response.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 4.
+MR. PARTEE. Paul is now here.
+Does the passage contain contention or disagreement? Response from the model: No. This passage simply states that Paul is present, without any indication of contention or disagreement.
+
+
+Passage number 5.
+CHAIRMAN VOLCKER. Are you ready. Well, ladies andgentlemen, greetings. I sent out this wire. I'm sorry I am so latebut I thought it might be helpful just to get some words in front ofus so we know what we're voting on, assuming we want to go in thisdirection. [Secretary's note: A copy of the draft language sent toCommittee participants is included in the Appendix.] Before gettingthere we might just have a little updating on where we stand in themore immediate sense. We have been putting a little money in themarket, as you know, and putting borrowings down. That would havebeen implied by the money supply developments, in any event, and wewere more alert to do so than we might otherwise have been--to keep alittle ahead of the market in putting some money in. I don't thinkthe market reacted all that well. For a while rates went down andthen there wasn't much carry-through and some reversal. I don't knowquite where we are at the moment. We ended up with borrowings ataround $500 million last week, if I recall correctly. They were alittle lower than I might have aimed at on path grounds alone but,since we're in the process of increasing the nonborrowed reserves pathin any event in response to the money supply figures, they probablywill be still lower this week.The latest money supply figure is not nearly as favorable,unfortunately, as the preliminary indication. It appears to be [anincrease of] between $5-1/2 and $6 billion--that's just among us--which is certainly in the range of market expectations, and it's not abad number put together with those of the past couple of weeks. Itshows, I think, essentially no July bulge. What it shows is anerratic downward movement last week replaced by an erratic upwardmovement this week, both in demand deposits rather than in NOWaccounts where the bulge was supposed to come. So, in itself itdoesn't look like a confirmation of a bulge. It's not really. Isuspect the money supply in the first week in July will be slightlybelow the June average level. As you recall we were anticipating abulge in July. I guess it's too soon to say that that possibility iseliminated entirely. But the kind of pattern we foresaw would have7/15/82allowed for a pretty big increase in July and then much smallerincreases in August and September. July would have to be bigger thanprojected at the moment to get up to the path evenly distributed overthe 3 months. And that is a basis for increasing nonborrowed reserveseven apart from disturbances we have had elsewhere in the market.I don't know what I can say about the Penn Square fallout.Having heard of the name of this bank only a couple of weeks ago, Ihave tried to forget it. But I think the obvious thing to say is thatwe haven't heard the last of it. We have had some repercussions inscattered banks, particularly in the Southwest, of a more or lessdirect nature in uninsured deposit withdrawals. We have some localbanks that were affected by the participations themselves. But thebigger questions, of course, are how the large participants will fareand how it will affect the whole tone of the market--the nervousnessin the market about financial institutions in general. We have nothad a rapidly unravelling situation but it is far from a normalsituation and there is a lot of tentativeness in the market,particularly with respect to the obligations of the institutionsdirectly affected. And enormous numbers of rumors are beinggenerated, which get reported to me regularly, about other financialor nonfinancial institutions. I think there is an undertone ofnervousness in the market. That is a very general summary. I don'tknow whether Mr. Axilrod wants to say anything more precisely and thenwe'll turn to Mr. Sternlight.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is providing updates and information without expressing any conflicting opinions.
+
+
+Passage number 6.
+MR. AXILROD. No, Mr. Chairman. You covered the aggregates:In the first two weeks of July, [ending] the 7th and the 14th, thelevel is just about equal to the June level: M1 is running well belowthe path level for July which was up around $454 billion. So, it'srunning around $3 billion below that path level.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply states the facts regarding the level of M1 in the first two weeks of July compared to the path level for July.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 7.
+VICE CHAIRMAN SOLOMON. What do you mean, Steve.
+Does the passage contain contention or disagreement? Response from the model: Yes. There is contention or disagreement suggested in this passage. The speaker is asking for clarification or further explanation from Steve, indicating a possible disagreement or misunderstanding in their conversation.
+
+
+Passage number 8.
+MR. AXILROD. Well, the Committee adopted a path for thataggregate for June through September of around 5 percent. We allowedfor a bit of a bulge in July--not much, around 7 percent--and theaverage level in July, to hit that, would be close to $454 billion.It's running around $451 billion. That's all I really meant.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply providing information about the Committee's adopted path for an aggregate in specific months. There is no indication of any conflicting views or disagreements.
+
+
+Passage number 9.
+VICE CHAIRMAN SOLOMON. The $451 billion includes the $5.8billion [increase] we will be publishing.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not mention any disagreement or contention.
+
+
+Passage number 10.
+MR. AXILROD. Yes. For another reference point, the top ofthe range for July would have been $452.7 billion, so we're runningwell below that also.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply presents two pieces of information without any disagreement or contention.
+
+
+Passage number 11.
+CHAIRMAN VOLCKER. Slightly below. Mr. Sternlight.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 12.
+MR. STERNLIGHT. I'll only add, Mr. Chairman, that the fedfunds rate has come down some in the past week, averaging about 13-1/8percent rather than the 14 percent plus levels of the previous week.And it's also in that 13 to 13-1/8 percent area today.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is providing a neutral statement of facts and does not involve any disagreement or contention.
+
+
+Passage number 13.
+CHAIRMAN VOLCKER. Are there any questions or comments onrecent developments.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply asking if there are any questions or comments about recent developments, without expressing any opposing viewpoints or initiating a debate.
+
+
+Passage number 14.
+ I assume all this discounting of the receivercertificates is going on smoothly or otherwise--7/15/82VICE CHAIRMAN SOLOMON. Which Districts have received them.We haven't had any in New York.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. It is simply stating a fact and asking for information.
+
+
+Passage number 15.
+MR. BRADFIELD. Mr. Chairman, there has only been one issuedand that was to the Wright Patman Credit Union. There haven't beenany issued in addition to that.
+Does the passage contain contention or disagreement? Response from the model: No. The passage states a fact without any indication of disagreement or contention.
+
+
+Passage number 16.
+CHAIRMAN VOLCKER. There have been a number of inquiries,haven't there.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The sentence is a simple statement and does not express any disagreement or contention. It is a confirmation-seeking question, asking for confirmation of a fact rather than presenting conflicting viewpoints.
+
+
+Passage number 17.
+MR. AXILROD et. al. Yes.
+Does the passage contain contention or disagreement? Response from the model: Explanation: Without knowing the specific content of the passage, it is impossible to determine whether there is contention or disagreement. The mention of several authors suggests that there may be differing perspectives or arguments presented, which could lead to contention or disagreement. However, without more information, it is not possible to definitively answer this question.
+
+
+Passage number 18.
+MR. GUFFEY. In Kansas City we've had a number of inquiries.But in talking with the FDIC people, apparently they haven't been verydiligent in getting these certificates out.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not mention any contention or disagreement. It simply states that there have been inquiries in Kansas City and that the FDIC people have not been diligent in issuing certificates.
+
+
+Passage number 19.
+CHAIRMAN VOLCKER. Issued.
+Does the passage contain contention or disagreement? Response from the model: No. The word "issued" does not indicate any contention or disagreement. It simply refers to something being released or published.
+
+
+Passage number 20.
+MR. GUFFEY. It's not in the hands of the holder.
+Does the passage contain contention or disagreement? Response from the model: No. This statement by Mr. Guffey is a statement of fact, without any indication of contention or disagreement.
+
+
+Passage number 21.
+CHAIRMAN VOLCKER. Well, let's turn to completing the meetingthat we had earlier and the portion on the longer-term ranges. Thelanguage I sent you attempted to encapsulate my interpretation of whatwe said. What I have in mind in adopting the decision is that insteadof just flatly having ranges in the directive--it appears essentiallyas boilerplate in the directive--we would repeat the ranges as usualbut add this bit of gloss to it. Of course, something similar wouldalso appear in the report we make to the Congress and in my testimony.But I think it's just as well to put this--whatever we agree on--inthe record so that there is some reflection of the interpretation inthe directive boilerplate as well as just the bare numbers.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It is a statement outlining the speaker's proposal on how to incorporate ranges in the directive and other related documents.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 22.
+MR. ROOS. When will the testimony be.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. This can be inferred from the speaker's use of the word "when," indicating a difference in opinion regarding the timing of the testimony.
+
+
+Passage number 23.
+CHAIRMAN VOLCKER. Tuesday.
+Does the passage contain contention or disagreement? Response from the model: No. The word "Tuesday" does not contain any information or context that would indicate contention or disagreement.
+
+
+Passage number 24.
+VICE CHAIRMAN SOLOMON. Paul, in regard to the last sentence:"The Committee also indicated that it was tentatively planning toadopt the same ranges for 1983," it seems to me that there might besome slight advantage in saying instead "The Committee also indicatedin view of present uncertainties that it was tentatively planning tocontinue the same ranges.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: There is no clear contention or disagreement in the passage. The speaker is simply suggesting a slight change in wording for better clarity or emphasis.
+
+
+Passage number 25.
+"MS. TEETERS. We're always uncertain at this time of theyear.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The statement simply mentions the uncertainty that exists during a certain time of the year, without any conflicting opinions or arguments.
+
+
+Passage number 26.
+MR. MARTIN. I think that argues against our maintaining aposition that we need flexibility.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker, Mr. Martin, is expressing his personal opinion without any opposing views or arguments being presented.
+
+
+Passage number 27.
+MR. PARTEE. Tony, I prefer the second phrase of thatsentence, which you didn't read, as the reason for our beingtentative. That's a pretty good phrase--that we'll be watchingcarefully and we certainly will feel free to reserve on those rangesafter we have looked at the second half of the year.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage.
+
+
+Passage number 28.
+CHAIRMAN VOLCKER.
+Does the passage contain contention or disagreement? Response from the model: No. The passage only mentions Chairman Volcker without providing any information or indication of contention or disagreement.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 29.
+ Do you see any significance in sayingcontinue the same ranges and saying--7/15/82VICE CHAIRMAN SOLOMON. Yes, I do. I had the feeling that"adopt" sounds like a firmer judgment as to the target ranges we wantin '83 whereas "continued" sounds like a holding action. I think itwas the sense of the FOMC at its meeting that if we were going to do arevision, we would skew it downwards. It would be easier to do thatthen whereas it would be hard to do an upward revision, and that iswhy we were continuing the same ranges tentatively. I don't know whybut I have the feeling that "continued" sounds better than "adopt.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention or disagreement in this passage. The person speaking is expressing their own interpretation and feeling about the significance of using the words "continued" instead of "adopted" when discussing target ranges. They believe that "continued" implies a holding action and that the FOMC may have wanted to revise the ranges downwards, but they are not certain why. This indicates a difference in opinion or understanding about the intention behind the language used.
+
+
+Passage number 30.
+"CHAIRMAN VOLCKER. I haven't any strong feeling about it. Ithink we ought to have separate votes when we get around to the vote--I guess that has been the tradition--for the remainder of this yearand for next year. Since you raised the issue, let's discuss nextyear and get that settled for a tentative decision anyway. The pointhere, and there was of course a lot of support for it before, was thatwe would retain the same range in the knowledge--and this would be inthe report too--that continuing the same range gives us ample scopefor an actual reduction, if that seems appropriate. And that would bementioned. I don't think it has to be mentioned here but it ismentioned in the Humphrey-Hawkins report, and my testimony says thereis nothing inconsistent about this and having lower actual growth nextyear, if that's what we want to do. But it is worded to make it alittle more tentative than usual. That was the effort, and if"continue" helps, that doesn't bother me. Any other comment on 1983.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is expressing their thoughts and opinions on a particular issue, but there is no disagreement or conflicting viewpoints presented.
+
+
+Passage number 31.
+MR. BLACK. Mr. Chairman, Bob Black. I'd rather knock off ahalf point at the top. I just think [retaining the 1982 ranges for1983] might raise unnecessary doubts about the degree of seriousnesswe attach to the targets. At the same time, we could also pull up thebottom. I don't think anybody would want anything as low as 2-1/2percent. I realize this would narrow the range from what most peopleprefer, but I believe 3 to 5 percent would have a more salutary marketimpact than what you have stated.
+Does the passage contain contention or disagreement? Response from the model: No. The speaker, Mr. Black, is expressing his opinion and suggesting a different approach, but there is no clear indication of contention or disagreement in the passage.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 32.
+MS. HORN. Mr. Chairman, this is Karen Horn. Just to followalong on Bob's comments. I have some concern about changing the policythat we've had for some time now of [reducing the M1 range by] 1/2percentage point each year, or even indicating with this tentativenessour thoughts about changing that policy for fear that it might be asignal to the markets that in fact this Committee was contemplating asignificant change in policy. And at this time I think either verysoft language with regard to not changing the target ranges oractually saying something about lowering the targets by 1/2 pointmight instill more confidence in the market.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention or disagreement in this passage. The speaker expresses concern about changing the policy and states that using soft language or actually lowering the targets by 1/2 point might instill more confidence in the market. This suggests a disagreement or different viewpoint than what Bob has previously mentioned.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 33.
+CHAIRMAN VOLCKER. Well, I have a little problem, which Imentioned in my own testimony, in that someday this velocity may notincrease so rapidly. If we had, let's say, 5 percent [M1 growth] nextyear--which may turn out to be right and it may turn out to be lowerthan that--that assumes, in order to get any kind of economic recoverynext year, that we have to have a higher-than-trend velocity figure.It would have to be well up into the ranges of what we get with a goodrecovery and rising interest rates. I gulp a little at this stage insaying that that is necessarily consistent with even the projectionsthat we have, in the light of all the uncertainties that exist aboutthis. We sit here and imply--if we want growth above 5 percent, whichI guess is what you're saying--that we have to have about a 4 or 5percent increase in velocity through the year to get real growth in7/15/82 -5-the economy of 3-1/2 to 4-1/2 percent. That's assuming that velocityis absolutely normal. And I don't know that we can make thatassumption.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention or disagreement in the passage. The speaker expresses doubt about the assumption that a higher-than-trend velocity figure is necessary for economic recovery, given the uncertainties that exist. They also question whether it is possible to assume that velocity is absolutely normal.
+
+
+Passage number 34.
+MR. FORD. Paul, this is Bill Ford in Atlanta. I want toexpress myself on the side of the last two speakers but add to whatyou're saying.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. Mr. Ford is expressing agreement and support for the previous speakers while adding his own perspective.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 35.
+ I'd be inclined to go ahead with our program that weestablished a couple years ago of continuing to try to notch thetarget down a half point a year but perhaps add on the caveat you justexpressed that we are anticipating a normal cyclical positive factorto [unintelligible] for adequate growth in the economy, and should itdevelop--CHAIRMAN VOLCKER. I think we have to say that anyway. A 1/2percentage point [reduction] isn't enough to make a difference there.It just aggravates the problem.
+Does the passage contain contention or disagreement? Response from the model: Yes. The passage suggests there is disagreement or contention regarding the effectiveness of reducing the target by half a point each year and whether it is enough to make a difference in the problem. One person believes it is not enough, while the other person expresses uncertainty and the need to consider a positive cyclical factor for economic growth.
+
+
+Passage number 36.
+MR. FORD.
+Does the passage contain contention or disagreement? Response from the model: There is not enough context provided to determine if there is contention or disagreement in the passage involving Mr. Ford.
+
+
+Passage number 37.
+ In any case I would prefer to stay with theprogram at this point, with a caveat that allows some leeway on--CHAIRMAN VOLCKER. The program is not to reduce the moneysupply forever; it's to get rid of inflation and have a little growth.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The passage does not contain any contention or disagreement. It states the author's preference to stay with the program while mentioning a caveat that allows some flexibility in reducing the money supply. The author's overall goal is to eliminate inflation and achieve moderate growth.
+
+
+Passage number 38.
+MR. FORD. I don't really believe that a 5 percent increaseis as low as we ultimately want it to be. I don't know if you regardthat as the lowest we ever want growth in the money supply to be inthe future.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not contain any disagreement or contention. Mr. Ford is expressing his personal belief or opinion about the 5 percent increase in the money supply and wondering if it could be lower in the future. There is no conflicting view or argument presented.
+
+
+Passage number 39.
+CHAIRMAN VOLCKER. I don't know. If velocity ended up atzero, I wouldn't want to end up much lower than that.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not demonstrate contention or disagreement. It is a statement expressing uncertainty about a hypothetical situation.
+
+
+Passage number 40.
+MR. FORD. Yes, that's right. But normally we don't seevelocity at zero when we are where we should be in terms of the stageof the cycle.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker simply states a fact about the usual behavior of velocity during a certain stage of the cycle.
+
+
+Passage number 41.
+MR. PARTEE. We certainly did in the first half, Bill. Infact it was negative. I'm led now, on the basis of the comments ofthe last several speakers, to support Tony in changing that word to"continue" rather than "adopt." I have two reasons for it. One isthat, substantively, I'd be opposed to narrowing the range. Rememberthat the midpoint of the present range is 4-1/4 percent. There islots of room for reduction if we want to specify that we're going tobe more toward the middle or that we [look at the full] range ratherthan that we are shooting for the upper part of it as we have thisyear. But more importantly, in order to maintain our options, I thinkit would be significant to say that we'll continue with the currentranges until we see some reason for varying them on the basis of thesecond-half experience. If, as Karen suggests, we reduce the top by ahalf point and, as Bob suggests, we increase the bottom by a halfpoint, we will be giving a sense of specificity to the plan that thenbecomes extremely difficult to get out of. I'm very much opposed tothat kind of doodling with the numbers at this point.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain contention or disagreement. Mr. Partee is explaining why he supports changing the word from "adopt" to "continue," providing his own reasons for doing so. They are based on his substantive opposition to narrowing the range and his desire to maintain options for future adjustments. There is no direct disagreement or contention with other speakers.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 42.
+MR. FORD. The way I see it, Chuck, what you're proposing, asit is in the telegram, is doodling with the numbers because the marketis anticipating that we're going to continue to bring the planned rateof expansion in the aggregates downward for some time yet. I don'tthink anybody I've talked to in the market thinks that even 5 percent7/15/82is the ultimately appropriate rate of growth in the aggregates. Sothe doodling in my view is the one that does not reduce the rate 1/2percentage point. That's the change in policy.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. Mr. Ford disagrees with Chuck's proposal and argues that the market does not believe a 5 percent growth rate in the aggregates is appropriate. He believes that the change in policy should not reduce the rate by only 1/2 percentage point.
+
+
+Passage number 43.
+MR. PARTEE. But the point is, Bill, that we have plenty ofroom to make the policy more restrictive within the present ranges.And by saying we're going to continue the present ranges, we retainthe option to review the information from the second half. Icertainly agree with Paul that if we're not going to have any increasein velocity, I'm going to support a sizable increase in the moneysupply next year. And I don't know whether that will be the case ornot.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. Mr. Partee agrees with Paul's point and expresses that he will support a sizable increase in the money supply next year if there is no increase in velocity. However, he acknowledges that he does not know whether that will be the case or not.
+
+
+Passage number 44.
+MR. BLACK. Chuck, this is Bob Black. [Unintelligible] onyour position that we have room to do what we want in the existingranges. The thing that bothers me is what the market will think if wehaven't made at least some little move in the direction we've allstated we wanted to move.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker, Mr. Black, is expressing a concern and seeking clarification.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 45.
+MS. TEETERS. Mr. Chairman, I'm worried about a differentproposition here, and that is: If we signal that we're going to lowerthe money supply next year--and we have never changed our [July]projections made 18 months ahead of time--it seems to me that themarket would take that as signalling that we want interest rates to goup and that there is an even greater probability of interest ratesgoing up as the recovery proceeds.
+Does the passage contain contention or disagreement? Response from the model: Yes. The speaker, Ms. Teeters, expresses concern about a proposed action and suggests a potential disagreement about the effect of signaling a decrease in the money supply.
+
+
+Passage number 46.
+MR. BOEHNE. This is Ed Boehne. If I had my druthers, Iwouldn't even set a 1983 target at this point.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker, Mr. Boehne, is expressing their personal preference or opinion about setting a target.
+
+
+Passage number 47.
+ There is an unusualamount of uncertainty, but we do have--CHAIRMAN VOLCKER. We tried that once but it didn't work.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The statement does not contain any conflicting ideas or opposing arguments. It simply acknowledges the existence of uncertainty and references a past attempt that was unsuccessful.
+
+
+Passage number 48.
+MR. BOEHNE. --but we do have to set it. I think we'd wantto have some language and a position here that gives us as muchflexibility as possible. And saying that we're going to stick withthe current ranges until circumstances dictate otherwise should conveythat notion. If we begin taking a half point off from whatever, thatconveys a degree of precision that we don't have--and I don't thinkanybody else has--with respect to the economy in 1983.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage. Mr. Boehne is expressing his opinion and suggesting a possible position for the group to take. He is not arguing or debating with anyone.
+
+
+Passage number 49.
+CHAIRMAN VOLCKER. Well, I happen to agree with that ratherstrongly. The weight of the opinion last time was to [adopt the sameranges for 1983]. We've heard from a couple of objectors. Do Iassume that the others who were in favor of doing this remain in favorof it.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 50.
+MR. MARTIN. I would certainly come in, along with Tony andothers, on the side of talking about a continuance of the ranges.Several of us have referred to the market. If we wish to be a littlemore literal and a bit short termed and realistic, the market peopleare now talking about illiquidity; they're talking about what bank isgoing to fail next; they're talking about surprises from the corporatesector. The market has an unusual degree of uncertainty and indeedfear right now. For us to drop the top of the range would indicate, Ibelieve, to many of these individuals and firms and banks and overseasholders of dollars that we are not taking seriously the downside risk7/15/82inherent in an unstable, illiquid market and set of corporations. Ithink that would be the wrong signal to send to them now.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Martin is expressing his agreement with others about the importance of talking about a continuance of the ranges in the market. He is discussing the current state of uncertainty and fear in the market and suggesting that dropping the top of the range would send a wrong signal.
+
+
+Passage number 51.
+MR. BALLES. Paul, this is John Balles. In thinking of theproposal Tony made, I'd like to piggyback on it and perhaps offer somelanguage in the sentence that we're talking about simply by referringto the phrase you used: "In view of present uncertainties theCommittee also indicated it was tentatively planning to retain thesame ranges for 1983," etc.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Balles is simply adding to Tony's proposal and suggesting some language to be added to a sentence.
+
+
+Passage number 52.
+MR. ROOS. This is Larry Roos. I would be most agreeablewith the wording of the wire that was sent out to us. I don't thinkanyone, including the markets, thinks that a half point one way or theother is an achievable objective. I think there is a downside risk.I certainly feel that we should continue to attempt to control themoney supply to bring down inflation. But if money really came in onthe low side of either of these suggested targets, I think that mightdo in aggregate targeting forever and ever and we'd have anothersoftening in the economy. So, I would opt for the wording that was inthe wire and whether we use "continue" or "adopt" I don't think makestoo much difference.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. The speaker, Larry Roos, expresses agreement with the wording of the wire and shares his thoughts on the objective of controlling the money supply. There is no indication of disagreement or contention.
+
+
+Passage number 53.
+MR. BLACK. Let me emphasize that I'm not talking about thelower end, Larry, in case I misled you on that. I'm talking about thehigh side.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is clarifying their previous statement and emphasizing that they are referring to the high side, not the lower end.
+
+
+Passage number 54.
+MR. ROOS. Well, Bob, the way we set these ranges in light ofthe strength in recent years is not as important as where we end upwithin a range that's either a half point higher or lower on either[end] or [whether we] indicate that we will shoot for the upper partof it, which I think would be satisfactory. I have no trouble withthe wire as is.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker expresses agreement and satisfaction with the current situation.
+
+
+Passage number 55.
+CHAIRMAN VOLCKER. Are there any other comments. I concludein the absence of any other comments that the majority wants somethingabout the way it is, with some little fiddling with the language, andwe'll test that later. But let us look at it in light of the nearterm. The first question is whether we keep the targets the same [forthis year]. Any comment on just that point. This is not language,now; this is simply saying we're going to keep the same targets thatwe set in February. To some people it may depend on what thesubsequent language says.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply seeking additional comments or input on whether the targets should be kept the same for the current year.
+
+
+Passage number 56.
+MS. TEETERS. You're talking about '82.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not indicate any contention or disagreement. Instead, it simply states that someone is talking about a specific year (1982).
+
+
+Passage number 57.
+CHAIRMAN VOLCKER. I'm talking about '82 now.
+Does the passage contain contention or disagreement? Response from the model: There is not enough information provided to determine if there is contention or disagreement in the passage.
+
+
+Passage number 58.
+VICE CHAIRMAN SOLOMON.
+Does the passage contain contention or disagreement? Response from the model: Unable to determine as the passage is incomplete.
+
+
+Passage number 59.
+ I have mixed feelings on that sectionthat says we would tolerate some kind of--CHAIRMAN VOLCKER. I'm only talking about the numbers at thispoint.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no indication of contention or disagreement in this passage. The speaker is expressing their mixed feelings about a specific section and clarifying that they are only discussing the numbers aspect.
+
+
+Passage number 60.
+MR. PARTEE. I think that we have to leave them where theyare, although I certainly believe that we ought to err on the highside in our actual performance because it would be too much of a shockto the market--not the city of Washington but the market--to change7/15/82them. So I would support, as we discussed at the meeting, leavingthem where they are and erring on the high side.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Partee expresses his opinion that they should leave things as they are and err on the high side, but there is no conflicting viewpoint presented.
+
+
+Passage number 61.
+MR. BLACK. I agree with Chuck.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The speaker states that they agree with Chuck, indicating that there is no contention or disagreement within the passage.
+
+
+Passage number 62.
+MR. BALLES. I agree with Chuck as well.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The speaker says that they agree with Chuck, indicating that there is no disagreement or contention in this passage.
+
+
+Passage number 63.
+MR. KEEHN. I agree with that also.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The speaker clearly states that they agree with the previous statement, indicating consensus rather than disagreement or contention.
+
+
+Passage number 64.
+CHAIRMAN VOLCKER. Any objections. Well, we'll turn to thesupplementary language now, but I'm presuming that we will keep thesame ranges.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It is discussing a topic and making a presumption, but there is no conflict or opposing viewpoints present.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 65.
+MR. BALLES. John Balles, Paul. There's just one little finepoint here that you might want to consider. I like the way thelanguage is now and it would be acceptable to me as it is, only fine-tuning it a bit. In the second half of the sentence that reads "andwould tolerate for some period of time growth above the target rangeshould unusual precautionary demands for money and liquidity arise,"would you want to consider saying "continue to arise".
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. Mr. Balles expresses disagreement with the current language and suggests making a change by adding the phrase "continue to arise."
+
+
+Passage number 66.
+CHAIRMAN VOLCKER. My only problem with that is that rightnow we're within the targets. I certainly will argue in my testimonythat we had unusual demands earlier in the year, that we may stillhave them, and that we have to be wary about them. But--I'm beingvery technical in some sense--we presumably allowed for that in ouroperations and right now we're within the target. Just as you weretalking I thought of a more neutral word instead of "arise." First ofall, let me say that in the absence of hearing anything else on thenumbers, we are now passing to the gloss. If we say "should unusualprecautionary demands in money and liquidity be evident," that'srather neutral as to whether they are now or have been or will be.It's not so future looking.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is discussing the current situation and considering different perspectives and possibilities.
+
+
+Passage number 67.
+MR. BALLES. That would be better in my view because the word"arise" implies that there are not yet any.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in the passage. Mr. Balles is simply expressing his personal opinion about the word "arise."
+
+
+Passage number 68.
+CHAIRMAN VOLCKER. Yes, I understand your point. And theonly reason I am a little hesitant about it is that if we have thoseunusual demands now, why aren't we above the target.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker acknowledges the other person's point and expresses their own hesitation without directly opposing or disagreeing with it.
+
+
+Passage number 69.
+VICE CHAIRMAN SOLOMON. Paul, with regard to that second halfof the sentence "and would tolerate for some period of time," etc.first of all, not only is your suggestion of "be evident" instead of"arise" a good one, but also I'm a little concerned about not havingan adjective in front of the word "growth." It seems to me that anadjective--something like "modest"--before the word "growth" isnecessary. I wouldn't go as far as Nancy went in the last FOMCmeeting as to indicate how much growth above we would accept, but Ithink there ought to be an implication that we're not talking aboutunlimited growth. I'm a little concerned about the way some peoplemight read that.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply expressing their concerns and suggesting some improvements or clarifications.
+
+
+Passage number 70.
+CHAIRMAN VOLCKER. Well, we're in a dilemma here. I don'tdisagree with what you're saying in some sense. We can put in theword "somewhat" or "some modest" growth. On the other hand, [I'm]trying to get away from this feeling in the market that every timewe're $1 billion above target--or even $5 billion above if it came out7/15/82that way at some point--that it's something terrible and we'reimmediately going to react to get it down.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker acknowledges agreement with what the other person is saying and is trying to find a solution that addresses both perspectives.
+
+
+Passage number 71.
+ So, if we put in the words"modest growth" or "somewhat above" or something--MR. CORRIGAN. I have a little of the same uneasiness. Idon't want to muddy us up with another suggestion but one thing thatmight take care of both of these concerns would be after the comma tosay "and would continue to evaluate developments in the light of anyevidence of unusual precautionary demands." Maybe I'm splittinghairs, but to me that would suggest a posture not unlike what in factwe did during the first half of the year and it might also get atTony's point a little in suggesting that we're not talking aboutletting this go crazy on us.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 72.
+VICE CHAIRMAN SOLOMON. I think it's a little too cryptic,Jerry. I don't know that that would be more clear both to theCongress and the market than saying something like "would tolerate forsome period of time." That's just my initial instinct on that.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 73.
+MR. PARTEE. Well, it also calls into question thenotification process to Congress if we have evaluated and decided.That is, if a reevaluation indicates that the range should bedifferent, we're supposed to tell the Congress that. The way it'swritten here we are giving ourselves a little cap over the range thatis specified. I would associate myself with those who want to say"somewhat above." I think "modest" has the wrong ring to it becauseit's not modest if it's above and it might need to be, before a littletime, a considerable figure. I also would like to suggest just alittle notching up in the nomenclature here. Rather than saying thatgrowth toward the top end of the range would be "acceptable," I wouldlike to say that it would be "appropriate, given the low base" andthen I would say with regard to the second phrase that growth somewhatabove the upper end of the range would be "acceptable" not"tolerable," if this unusual liquidity demand persists.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: There is no contention or disagreement in this passage. The speaker is offering suggestions and recommendations for how certain phrases and terms can be improved or changed. Their suggestions show a desire for more clarity and accuracy in the language used.
+
+
+Passage number 74.
+MR. FORD. I think those are good suggestions.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Ford expresses agreement with the suggestions.
+
+
+Passage number 75.
+CHAIRMAN VOLCKER. I don't know; that goes a little far. Itsounds a little more aggressive.
+Does the passage contain contention or disagreement? Response from the model: No. The phrase "I don't know; that goes a little far" does not indicate contention or disagreement. It signifies uncertainty or hesitation about a certain statement or idea, but it does not express an opposing viewpoint or argument. The phrase "It sounds a little more aggressive" is a separate comment or observation and does not necessarily imply disagreement either.
+
+
+Passage number 76.
+MR. PARTEE. My problem, Paul, is that I think this is toogrudging.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It is simply stating Mr. Partee's problem without any conflicting perspective or disagreement with anyone else.
+
+
+Passage number 77.
+CHAIRMAN VOLCKER. Well, this is a fine distinction we aredealing with here at any case. I think the market will read"acceptable" as saying growth is going to be up there. But I don'tknow what is going to happen.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is expressing uncertainty and lack of knowledge about what will happen in the future but acknowledges the possibility of the market interpreting "acceptable" as indicating growth.
+
+
+Passage number 78.
+MR. PARTEE. Acceptable if this condition persists.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is stating that a condition would be acceptable if it continues to persist.
+
+
+Passage number 79.
+CHAIRMAN VOLCKER The "acceptable" doesn't bother me so muchin the second part; it's the "appropriate" pinning us right to the topend of the range in the first part of the sentence. We don't knowwhat is going to happen.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain contention or disagreement. The speaker is expressing their personal concern over the use of specific language, but there is no direct disagreement with anyone else.
+
+
+Passage number 80.
+MR. FORD. Paul, this is Bill Ford. I think the lastlanguage that Chuck Partee said just might do it [unintelligible].7/15/82There's a real chance of it being interpreted as dealing with the[unintelligible] demand.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 81.
+MR. BLACK. Mr. Chairman, Bob Black. Let me try something; Idon't whether it will appeal to anybody or not. After the comma say"and indicated that it would tolerate growth somewhat above the targetranges temporarily, should extraordinary liquidity pressures arise.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply making a suggestion or proposing an idea.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 82.
+"MR. FORD. I'd feel a lot more comfortable with somethinglike Bob said.
+Does the passage contain contention or disagreement? Response from the model: Yes. There is contention or disagreement in the passage. The phrase "I'd feel a lot more comfortable with something like Bob said" suggests that Mr. Ford is expressing discomfort or disagreement with a previous statement or suggestion made by someone named Bob.
+
+
+Passage number 83.
+CHAIRMAN VOLCKER. I'm not sure my ear heard any substantivedifference in that.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is expressing uncertainty about their ability to perceive any substantial difference.
+
+
+Passage number 84.
+MS. TEETERS. The "unusual precautionary demands for money"is what was taken out.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The statement is a simple observation about something that was removed.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 85.
+MR. BLACK. What bothers me, Mr. Chairman, is theprecautionary part. One can certainly make a good case for it, but Idon't think we can prove that. I think we have clear liquiditypressures; we all know that. I guess I'm worried about ourrationalizing too much of an overshoot by saying that demand for moneyhas shifted when we really don't have any empirical evidence that ithas.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. This can be seen in the phrase "I don't think we can prove that" and "we really don't have any empirical evidence that it has". Mr. Black is expressing doubt and disagreement about the argument that demand for money has shifted, suggesting that there is a lack of evidence to support this claim.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 86.
+MR. FORD. One more thing on that, Paul. I'd like to hearwhat Pres Martin says about that because his comments earlier aboutwhat the market thinks were interesting to me, and I've been veryworried, as everybody is, about the possibility of another Penn Squareor some other institutions that we don't know about or even someinstitutions that we do know about. That's where I see thedistinction in what Mr. Black is saying: that the market emphasizes[unintelligible] and that if there are real liquidity problemsevident, then none of us is going to be in favor of clamping down onthe market and threatening or precipitating a financial crisis.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. Mr. Ford expresses concern about potential financial crises and the need for caution, while Mr. Black emphasizes the importance of the market and implies that clamping down on it may not be necessary.
+
+
+Passage number 87.
+CHAIRMAN VOLCKER. I must interject. I see no substantivedifference. If there's an unusual demand for liquidity whether wecall it precautionary or liquidity, I don't know what the distinctionis. If you're making a distinction, I think you have to raise thetargets. If the economy needs more liquidity, it needs more liquidityand we should raise the targets.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is expressing their opinion that there is no substantive difference between precautionary and liquidity and if there is a need for more liquidity, the targets should be raised.
+
+
+Passage number 88.
+MR. FORD.
+Does the passage contain contention or disagreement? Response from the model: Sorry, but I can't provide the information you're looking for.
+
+
+Passage number 89.
+ We're talking about the liquidity problems in--CHAIRMAN VOLCKER. The term "liquidity problems" to me meansthat people will temporarily want to run into money, which is whatprecautionary balances mean.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The author is simply explaining their understanding of the term "liquidity problems" and how it relates to the concept of precautionary balances.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 90.
+VICE CHAIRMAN SOLOMON. I must say, even though there isn't alarge difference, that I think Bob Black's language implies a muchgreater willingness by the Fed to "cave in," so to speak, if there isa liquidity problem in the economy, whereas what we are saying is thatif the velocity of circulation is less than what it normally would bebecause of precautionary demands as well as demands for money andliquidity, we will factor that in. So, I think that we stay moreconsistently and soundly based on technical grounds if we stay withthe same language; Bob Black's language implies a much greater7/15/82willingness to ease monetary policy if the real economy continues tobe in difficulty. Some people might expect almost an immediateeasing, given the present liquidity situation.
+Does the passage contain contention or disagreement? Response from the model: Yes. There is contention in the passage. The speaker is disagreeing with Bob Black's language and suggesting that it implies a greater willingness to ease monetary policy compared to their own stance. They argue that their own language is more consistently and soundly based on technical grounds.
+
+
+Passage number 91.
+CHAIRMAN VOLCKER. I guess that's my sense of it, too. Theeconomy clearly has liquidity problems and if we're worried aboutthose liquidity problems just in the general sense we ought to beraising the targets.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is expressing agreement with someone else's view or perspective.
+
+
+Passage number 92.
+MR. BLACK. Mr. Chairman, I'd put in the adjective"extraordinary" liquidity problems. I think that really restates ourwillingness, as always, to serve as lender of last resort eitherthrough the discount window or by supplying reserves.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It is simply stating Mr. Black's opinion on the matter.
+
+
+Passage number 93.
+ I think aboutfinancial institutions and businesses in real trouble beyond whatwe've yet seen, whereas the idea of precautionary balances--CHAIRMAN VOLCKER. We have got trouble beyond what we've yetseen; I tell you, we have trouble.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The passage does not express any contention or disagreement. It simply states the speaker's opinion about financial institutions and businesses being in trouble. There is no conflicting viewpoint presented.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 94.
+MR. BLACK. If it gets that bad, I'd have no problems withdoing this; but if we just think we have a shift in the demand curveand we really don't have any statistics to [support] that--. I'd bereluctant to leave that precautionary demand wording in there becausewhat we have had was not enough to make me want to overshoot thetargets up to now. But I can easily see, as you seem to be concernedabout it, that we could have problems where I'd want to overshoot.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. Mr. Black expresses his reluctance to include the precautionary demand wording due to lack of supporting statistics, while someone else is expressing concerns and advocating for overshooting targets.
+
+
+Passage number 95.
+MR. PARTEE. Well, I don't know. You seem to be mixing thediscount window with aggregate monetary policy, Bob, in a way that istricky. I would assume that if we made [available] extraordinary useof the window in the period to come, we would at that level ofanalysis also attempt to offset that in the open market. Are yousuggesting that we wouldn't offset it in the open market.
+Does the passage contain contention or disagreement? Response from the model: No
+
+There is no contention or disagreement in the passage. Mr. Partee is simply expressing confusion and seeking clarification from Bob about his statement.
+
+
+Passage number 96.
+MR. BLACK. I was saying that there are some institutionsthat might have liquidity problems which we couldn't reach through thediscount window because they don't have eligibility to borrow and thatwe might have to put [more liquidity in the market] for somebody elseto supply their liquidity to them.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply discussing the possibility of certain institutions facing liquidity problems and the potential need for additional liquidity to be supplied by someone else.
+
+
+Passage number 97.
+MR. PARTEE. And there is, of course, the effect on thepublic or the general populace of the perception of these problems.The public may run to more liquidity and it's not an institution. Itmay be the public, which in response to its perception of problems inthe institutions, goes into cash or goes out of market securities intoM2 forms and that kind of thing. And we have to allow for that, itseems to me. As far as the first half of this year is concerned, I'veno doubt, given the level of economic activity, that there was achange in the demand for money. There was an increase inprecautionary demands. Virtually all of the increase in M1 was in NOWaccounts. That, I think, is very, very strong evidence.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply discussing the possible effects of perception of problems in institutions on the public's behaviors and the increase in demand for money.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 98.
+MR. BLACK. I think that's thoughtful, Chuck, but most[unintelligible] advantages there are. Last year we were saying thatfinancial innovations justified a low rate of growth in M1 and Iwasn't convinced of that. And when I see the same people on the otherside of the issue, I'm not convinced this year of that.-11-7/15/82SPEAKER(.). What's the precautionary lag.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. Mr. Black is expressing his skepticism towards the idea that financial innovations justify a low rate of growth in M1, both in the past and present. He does not agree with the people on the other side of the issue.
+
+
+Passage number 99.
+MR. BLACK. [Unintelligible], I think. We probably had doneit last year and it was too low. That's, of course, something that Ican't prove; but no one has disproved it either.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker is simply expressing their personal belief and stating that it hasn't been proven or disproven by anyone else.
+
+
+Passage number 100.
+CHAIRMAN VOLCKER. We have had a massively expansionarypolicy this year.
+Does the passage contain contention or disagreement? Response from the model: No. There is no apparent contention or disagreement in the statement. It simply states a fact about the policy being expansionary this year.
+
+
+Passage number 101.
+MR. PARTEE. As reflected in all the credit that's flowingand the sharp drop in interest rates and the ease in markets.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is stating the positive effects of "all the credit that's flowing," "the sharp drop in interest rates," and "the ease in markets."
+
+
+Passage number 102.
+MR. BLACK. If we think the demand curve has shifted and wetry to offset it and it hasn't--if it has shifted back--we are goingto create a monetary disturbance. If it does shift and we don'tdetect it, we will create a monetary disturbance.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is stating a hypothetical situation and discussing the consequences of certain actions.
+
+
+Passage number 103.
+CHAIRMAN VOLCKER. That's our dilemma.
+Does the passage contain contention or disagreement? Response from the model: No. The phrase "That's our dilemma" does not indicate any contention or disagreement. It simply suggests that the speaker or writer is presenting a problem or difficult situation.
+
+
+Passage number 104.
+MR. BLACK. Either way, we're going to mess things up.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. Mr. Black is stating that regardless of the chosen outcome, they will cause problems.
+
+
+Passage number 105.
+MR. MARTIN. Even more than they are today.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: This passage does not contain any explicit disagreement or contention. It is a simple statement made by Mr. Martin without any conflicting opinions or opposing views.
+
+
+Passage number 106.
+MR. PARTEE. Thank you, Mr. Patman.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Patman is simply being thanked by Mr. Partee.
+
+
+Passage number 107.
+MR. MARTIN. Mr. St Germain, I believe you meant to say.
+Does the passage contain contention or disagreement? Response from the model: No. In this passage, Mr. Martin is simply clarifying or correcting Mr. St Germain's statement. There is no explicit disagreement or contention present.
+
+
+Passage number 108.
+CHAIRMAN VOLCKER. Are there any other comments. Doesanybody else feel strongly about some part of this. We have to returnto Mr. Partee's suggestion, I think, and analyze that. But are thereany other comments to be put in the hopper here.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 109.
+MR. BLACK. One comment, Mr. Chairman, and I'll say nothingelse at all. The language that I threw out was intended to suggestthat we would abandon our targets only in case of a clear emergency.I guess I didn't do that with my language and I would accept gladlyany language that would do that.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not show any contention or disagreement. Mr. Black is simply acknowledging that his previous language may not have accurately conveyed his intended meaning and he is open to accepting different language.
+
+
+Passage number 110.
+CHAIRMAN VOLCKER. Mr. Partee suggested changing it basicallyby taking out the word "acceptable" and replacing it with"appropriate." I think the market will read this as it is worded asour being quite content with the top of the range, but he converts ittechnically into aiming at very close to the top of the range.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Partee suggested a change in wording and the speaker analyzes how the market might interpret it differently.
+
+
+Passage number 111.
+MR. PARTEE. Let's make it "appropriate to be in the upperhalf of the range.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is suggesting a course of action without opposition or debate.
+
+
+Passage number 112.
+"CHAIRMAN VOLCKER. That's no change from what we said sixmonths ago. That doesn't say it's wrong, but this is precisely whatwe are doing. I don't know what precise wording we used, but theindication was that we expected [growth] to be in the upper part ofthe range.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It simply states a previous statement and reaffirms the current actions being taken.
+
+
+Passage number 113.
+VICE CHAIRMAN SOLOMON. I'd like to support Chuck'ssuggestion. I think it's very consistent with our posture. We wouldbe very unhappy--I think substantively unhappy--if growth came insignificantly lower than that. It seems to me, in view of the-12-7/15/82undershooting last year and in view of the situation in the economy,that coming in close to the top is appropriate.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not show any evidence of contention or disagreement. The speaker is expressing agreement and support for Chuck's suggestion, stating that it aligns with their own stance and would be appropriate given past events and the current economic situation.
+
+

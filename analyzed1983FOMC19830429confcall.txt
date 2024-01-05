@@ -1,0 +1,149 @@
+Passage number 1.
+Federal Open Market CommitteeConference CallApril 29, 1983PRESENT: Mr. Volcker, ChairmanMr. Solomon, Vice ChairmanMr. GramleyMr. GuffeyMr. KeehnMr. MartinMr. MorrisMr. ParteeMr. RiceMr. RobertsMr. WallichMessrs. Boehne, Boykin, and Corrigan, AlternateMembers of the Federal Open Market CommitteeMessrs. Balles, Black, and Ford, Presidents of theFederal Reserve Banks of San Francisco,Richmond, and Atlanta, respectivelyMr. Axilrod, Staff Director and SecretaryMr. Bernard, Assistant SecretaryMr. Bradfield, General CounselMr. Oltman, Deputy General CounselMr. Truman, Economist (International)Messrs. Balbach, R. Davis, Eisenmenger, Ettin,Prell, Scheld, and Zeisel, AssociateEconomistsMr. Sternlight, Manager for Domestic Operations,System Open Market AccountMr. Cross, Manager for Foreign Operations,System Open Market AccountMr. Coyne, Assistant to the Board, Office of BoardMembers, Board of GovernorsMr. Kohn, Associate Director, Division of Researchand Statistics, Board of GovernorsMr. Lindsey, Deputy Associate Director, Divisionof Research and Statistics, Board of Governors-2-Messrs. Burns, Keran, Koch, Mullineaux, and Stern,Senior Vice Presidents, Federal Reserve Banksof Dallas, San Francisco, Atlanta,Philadelphia, and Minneapolis, respectivelyMessrs. Broaddus, Cacy, Meek, and Soss, VicePresidents, Federal Reserve Banks of Richmond,Kansas City, New York, and New York,respectivelyTranscript of Federal Open Market Committee Conference Callof April 29, 1983[Secretary's note: The roll call and opening statements bystaff were not transcribed.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement evident in the passage. It simply lists the individuals present at a Federal Open Market Committee meeting.
+
+
+Passage number 2.
+]VICE CHAIRMAN SOLOMON. Paul, this is Tony. It seems to methat the current situation reflects the clause in the last FOMCdirective that lesser restraint would be acceptable in the context ofmore pronounced slowing of growth in the monetary aggregates, etc.And I think we ought to give serious consideration to a cut in theborrowing level assumption. In theory, a cut of $100 million from$250 to $150 million would give us about a 25 basis point reduction onaverage in the fed funds rate. On top of that there probably would besome psychological effect and we might get a drop over a period oftime down to as low as the 8 to 8-1/4 percent area. It seems to methat there's some advantage in doing that because all the arguments,including both the international side and the high level of realinterest rates, are on one side with this very major slowing. It alsoseems to me that we would want to see that development first beforeconsidering a discount rate cut. And next week there are three daysof Treasury refunding, so that it would be very hard to do a discountrate cut in the middle of that or the day after. Any discount ratecut probably would come in the early part of the following week, so wewould have about a 10-day period before we could give that reallyserious consideration and in which we could have a working out of thisreduction in the borrowing level. We ought to have some discussionand serious consideration of doing this.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a statement of one person's opinion and suggestions.
+
+
+Passage number 3.
+MR. PARTEE. Tony, this is Chuck Partee. I think you're alittle premature in your conclusion that the growth rate in theaggregates has dropped off very markedly. We only have April. Iwould be more inclined to think that if May does not show a sharprebound, as Steve apparently is projecting, but continues at amoderate rate, then there would be a basis for what you say. But atthis point it seems to me we only have one month and it very well maybe a sport. It's too early to take the kinds of actions you'resuggesting.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage.
+
+
+Passage number 4.
+VICE CHAIRMAN SOLOMON. Even if May showed a rebound of themagnitude that I understand is being considered, growth would stillaverage out for April and May at only 5 percent.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The statement is presenting a fact about the potential rebound and growth rate in May, with no conflicting opinions or arguments being presented.
+
+
+Passage number 5.
+MR. PARTEE. Well, as I recall, the projection for thequarter was on the order of 8 percent for M2 and I've forgotten whatthe M1 projection was. So, remembering that we've had very strong[growth] over an extended number of months in the case of M1 and overseveral months in the case of M2, it seems to me that people wouldthink it pretty fast to be reacting [now].
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply providing their recollection of past projections and stating their opinion about people's reactions based on recent growth.
+
+
+Passage number 6.
+VICE CHAIRMAN SOLOMON. But you would agree, Steve, that theaverage of April and May would still represent a significant slowingcompared to the growth rates we've been seeing all this year. Andgiven the facts--and I'm thinking particularly of the internationalside as well as the solidifying of the recovery here and the slowingof the inflation rate--there would seem to be a lot of good reasonsfor some modest reduction.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It seems like the speaker and Steve are in agreement about the significant slowing of growth rates in April and May. The speaker presents various facts and reasons that support their point, but there is no disagreement mentioned.
+
+
+Passage number 7.
+ If we wait until we see May data, we'retalking about waiting maybe five to six weeks--4/29/83MR. PARTEE. Or several weeks.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+In the passage, there is no indication of contention or disagreement. The speaker is simply stating the amount of time it would take to wait for May data, without any conflicting opinions or conflicting viewpoints being expressed.
+
+
+Passage number 8.
+VICE CHAIRMAN SOLOMON. --before we have a clear idea. Andwe may be losing an important period of time.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The passage is stating a potential consequence without indicating any opposing viewpoints or conflicting ideas.
+
+
+Passage number 9.
+MR. PARTEE. That's on the presumption that we are going tobe moving in an easing direction. If that's incorrect, we're notlosing an important period of time, we're avoiding an error.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is offering an alternative perspective to the assumption that the group is moving in an easing direction. They are suggesting that if the assumption is incorrect, then it is not a loss of time but rather avoiding making a mistake.
+
+
+Passage number 10.
+CHAIRMAN VOLCKER. Does anyone else want to enter into thisat this point.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage simply asks if anyone else wants to join the discussion at this point. There is no indication of contention or disagreement.
+
+
+Passage number 11.
+MR. GUFFEY. Mr. Chairman, Roger Guffey. I would like tojoin Tony for some of the same reasons, but I would restate somereasons that I have put to the Committee before. It seems to me thatwe should take advantage of a "window" to move interest rates a bitlower in the period ahead, and the window may be within the nextcouple of weeks. Even if it's a mistake, as suggested by Chuck, I'mmore concerned at the moment that we do indeed continue the recoverythan I am with the fear that there is a possibility for some fairlystrong growth in the aggregates in the second quarter.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement.
+
+
+Passage number 12.
+CHAIRMAN VOLCKER. Does anybody have any real questions aboutthe recovery at the moment.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply asking if anyone has any questions about the recovery.
+
+
+Passage number 13.
+MR. MARTIN. Well, I would like to enter my usual cautionwith regard to the so-called housing recovery, Paul. We're still notsure of the new housing sales. The anecdotal evidence from developersis that these are still predominantly and unusually first-time buyers,and that sort of market can weaken very readily.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Martin is expressing caution and uncertainty about the housing recovery, specifically regarding the new housing sales and their predominantly first-time buyer market.
+
+
+Passage number 14.
+MR. MORRIS. Mr. Chairman, this is Frank Morris. I'd like tobe recorded as supporting Tony Solomon's position as well. If we lookat the performance of the broader aggregates, we simply don't find thekind of enormous bulge that we have had in Ml and M2. Without beingtoo repetitious, I simply don't think that they have been giving us aproper clue as to what policy ought to be doing.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker, Mr. Morris, is expressing agreement with Tony Solomon's position and providing additional support for that position.
+
+
+Passage number 15.
+MR. GRAMLEY. Mr. Chairman, this is Lyle. I agree withFrank's last comment that the aggregates have not been giving us anindication of what is happening to monetary policy. And I would bestrongly opposed to the use of one month's prospective reduction inthe growth rates from very high paces to take action to lower interestrates. I interpreted Jerry Zeisel's comments as indicating that byand large the recovery is coming along as well as we could haveexpected. There are the same kinds of weaknesses and question marksthat we had at the time of the FOMC meeting, but nothing new in thatrespect. I think we ought to wait until we have a clearer indicationbefore we take precipitate action to lower interest rates.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Gramley agrees with Frank's comment and expresses his opposition to taking immediate action to lower interest rates based on a one month's prospective reduction in growth rates. He also agrees with Jerry Zeisel's comments about the recovery, stating that there are weaknesses and question marks but nothing new. He suggests waiting for a clearer indication before making any decisions.
+
+
+Passage number 16.
+MR. WALLICH. Mr. Chairman, this is Henry. It seems to mewe've reversed ourselves here. The main concerns of the present timeare on the international side and there's quite a bit of reason fortrying to get to lower real rates. Domestically I see very little.The economy seems to be moving slowly but fairly stably. So we havenow a situation where international considerations urge ease butdomestic considerations do not. In short, I think we ought to wait.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Wallich is presenting his own analysis of the situation and proposing to wait for further action.
+
+
+Passage number 17.
+4/29/83MR. ROBERTS. I'd like to be associated with those who wantto wait. I think one month is much too early to start fine-tuning,particularly when the economy seems to be moving along all right here.
+Does the passage contain contention or disagreement? Response from the model: No. 
+There is no contention or disagreement in the passage. The speaker, Mr. Roberts, is expressing his personal opinion about wanting to wait before fine-tuning, but there is no indication of any opposing viewpoint or conflict.
+
+
+Passage number 18.
+CHAIRMAN VOLCKER. I think we're all aware that thatdirective has a clause in it saying that we would ease in a sense--automatically is too strong a word--if we had a convincing lower[monetary] growth rate over a period of time. I myself think it'spremature to do it now after one month, with confusion about IRA/Keoghaccounts, seasonals, and mainly the fact that it's only one month.And the latest indication we have is that the trend may be reboundinga bit. I think we just have to wait and see a few more weeks and notget caught in a move that we may want to reverse quickly. But I thinkit's a legitimate question to be raised and to watch in coming weeks.I would assume, and I won't raise the question, that the directive iscertainly valid. I don't think we have to vote on anything.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. The speaker is expressing their own opinion and acknowledging that others may have different perspectives, but there is no explicit disagreement or argument present.
+
+
+Passage number 19.
+MR. BOEHNE. Mr. Chairman, at the last meeting you indicatedthat if there was any erring in policy, given the recovery and thestrong aggregates, that one would tend to err a little on the highside rather than the low side. It would seem to me, while it might bepremature for any significant change in policy, that the erring oughtto be more neutral and not have that bias on the high side.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The statement made by Mr. Boehne is in agreement with the Chairman's previous indication that erring on the high side would be preferable in regard to policy during the recovery period. Mr. Boehne is suggesting that while it may not be time for significant changes in policy, the bias should be more neutral instead of leaning towards the high side.
+
+
+Passage number 20.
+CHAIRMAN VOLCKER. I would say in that respect that wealready have unbiased errors. We are not trying to err--well, wenever do try to err on anything--but there currently is no attempt tobias the errors, as you put it.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is clarifying that they do not intentionally make errors and there is no effort to bias or distort those errors.
+
+
+Passage number 21.
+MR. MARTIN. Snugging is dead. Is that right.SPEAKER(.). Unbiased.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage as both Mr. Martin and the speaker seem to be in agreement that "snugging is dead." The speaker's response of "Unbiased" also suggests that there is no disagreement.
+
+
+Passage number 22.
+CHAIRMAN VOLCKER. We have a straightforward aim that is notalways reflected in results. We had very high borrowings at the endof last week. Everything was more or less on track and then went offright at the end of the week. As a result, borrowings started outheavy this week. So we may have more than $250 million of borrowingsthis week, but not because we're aiming at that; it's just because wealready have them on the books, which I suppose technically will meanthat the markets will ease after the weekend sometime, maybe around4:00 p.m. Wednesday afternoon. But, obviously, we are and have beenoperating in a very narrow range. If there is not a strong feelingotherwise--in terms of riding with the existing directive under thoseunderstandings and watching this as it evolves to see whether we doget a May rebound or not--I think we can conclude.SPEAKER(.). I think we've lost you again.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is providing information and discussing the current situation.
+
+
+Passage number 23.
+CHAIRMAN VOLCKER. What.
+Does the passage contain contention or disagreement? Response from the model: You have not provided a passage for analysis. Please provide the passage in question.
+
+
+Passage number 24.
+MR. RICE. They can't hear you.SPEAKER(.). We've lost you again.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage. It is a simple statement indicating that the speaker cannot hear Mr. Rice. The response from the speaker suggests technical difficulties rather than any kind of conflict.
+
+
+Passage number 25.
+CHAIRMAN VOLCKER. I just said that I don't think we need totalk about changing the directive. We have a directive. I interpretit at this point, on the basis of the discussion I've heard, that4/29/83we're not going to do anything or even talk about doing anything verysignificant anyway, but that we'll play an unbiased approach for thenext few weeks and watch how things develop. If we have a strongindication of a confirmation of the April trend, obviously, thingswill look differently; if the aggregates are rebounding, then for themoment, unless it's an enormously strong rebound, we will still be ontrack in terms of the aggregates. Just to see if that's acceptable, Iwill pause for 10 seconds.Let me just turn very briefly to a couple of other things asa matter of information. We have had a request for the Redbook to besent regularly to the Congress. We wouldn't want to do that withoutsome expurgation. I have agreed to do it, but I think it's better todo it in a non-Redbook form. So, I'm going to be sending a request tochange the format a bit. I don't know the details; maybe we'll do itslightly more frequently. Essentially it will be the same regionaldocument, which will be given to one Congressional Committee--notnecessarily for publication, but it may end up that way sometime downthe road.SPEAKER(.). We lost you.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is discussing their interpretation of the directive and their plans going forward. They also mention a request for the Redbook to be sent to Congress and their intention to change the format slightly. There is no indication of disagreement or opposing views.
+
+
+Passage number 26.
+CHAIRMAN VOLCKER. Well, you didn't lose anything veryimportant because I will be communicating with you in writing on whatwe're going to do with the Redbook.SPEAKER(.). Okay.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The response is accepting and cooperative.
+
+
+Passage number 27.
+CHAIRMAN VOLCKER. I might just note for your informationthat we continue to get, because of budget resolutions or whatever,these various resolutions on monetary policy. I think you should beaware that there is a more concerted review under way of the Humphrey-Hawkins Act directive, clearly with the intention at this stage ofchanging it to reduce or eliminate the emphasis on the aggregates.How that will materialize, I don't know, because there's going to be aseries of hearings and we will be testifying I think late in June.This is a direct review of the matter by the appropriate committee andit will be rather interesting to see how and if it develops.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply providing information about the review of the Humphrey-Hawkins Act directive and expressing curiosity about how it will develop.
+
+
+Passage number 28.
+VICE CHAIRMAN SOLOMON. You're going to be testifying beforethe Banking Committees of both houses. Does this mean that theparagraphs in the budget resolution are stalled temporarily or what.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It is a statement providing information about the individual's upcoming testimony before the Banking Committees of both houses. It does not address the status of paragraphs in the budget resolution.
+
+

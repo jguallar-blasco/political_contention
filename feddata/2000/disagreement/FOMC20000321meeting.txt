@@ -1,0 +1,580 @@
+
+<START>And the economy could very well be at the bottom foothill, or whatever we want to call it, of the S curve, with more positive productivity shocks to come.<END>
+Governor Meyer raised the third question about demand and supply at the last meeting, and while I don't have any verdict on it, I have been thinking about that issue.
+It strikes me that any productivity shock should, if foreseen, raise expected earnings and actual stock valuations before the shock is felt in real output changes.
+Hence, I would think that any particular productivity shock would be greeted by an initial rise in the wealth/income ratio, followed by a reversion to normal as the shock raises the growth of income.
+Therefore, it seems likely, or at least possible, that the demand effect could - 66 - be large relative to the supply effect right away, but that the supply effect would dominate over time.
+<START>If we have S curve productivity and at least some market forecast of this productivity, things get much more complicated because demand keeps on shooting up and supply may not be able to catch up.<END>
+Pessimistically one could read this as saying that S curve productivity really will not help inflation even in the short run.
+Optimistically one could read it as saying that soon the supply impact will catch up and dominate the demand effect.
+<START>This uncertainty more than anything else brings me around to the merits of what I will call our “tip-toeing strategy.” As we sit here today, policy should be tightened, perhaps fairly noticeably.<END>
+<START>But there has been both rapid and increasing productivity change and that on balance has seemed to damp inflation in the recent past.<END>
+Should the favorable trends continue, we may not have to be raising rates for very much longer.
+<START>Should they not continue--and, of course, we have to be alert to that possibility--we may have to raise rates much more.<END>
+What we have to do in the short run seems pretty clear to me.
+What we may have to do in the long run does not seem clear at all.
+Thank you.
+CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+I’m going to make some scattershot comments here to convey particular points.
+<START>In the Eighth District we have a clear sense of slowing employment growth, but it seems to be the result of labor supply constraints.<END>
+The largest states in the District by population--Illinois, Indiana, and Missouri which, of course, are shared with other Districts-- enjoy unemployment rates that are at or below the national average and labor force participation rates above the national average.
+So I don't think there is any question, as we hear from our contacts, that the reason we are seeing less employment growth is a consequence of the supply constraint.
+The people just aren't there to hire.
+- 67 - My second comment is that a recent meeting of health care professionals reinforced the fact that there is tremendous strain in the health care business.
+That is an area that is very distressed, and the problems in that sector are going to continue for a long time.
+Let me make a few comments about the national situation.
+My FedEx and UPS contacts both report continuing very strong conditions abroad, especially in Asia.
+UPS is running at capacity.
+That company’s planes are full coming into the United States, and UPS is accelerating its additions to air capacity.
+UPS also reports continuing pressure on the available supply of entry-level labor.
+<START>The company relies a lot on college students and relatively low-skilled workers to “throw boxes’’--the way I like to put it--and UPS managers are finding it more difficult to fill those positions.<END>
+UPS has added fuel surcharges, as we all know.
+When I asked my contact whether he sees any resistance to those charges, he said “no.” Their customers all understand that there have been big increases in fuel costs and are accepting those fuel charges.
+Let me make a comment about the stock market.
+I have not gone back and looked at the data systematically, but I certainly have the impression that the negative correlation we are seeing between broad indexes--the NASDAQ and S&P 500, for example--are really unprecedented.
+That it is a very, very odd circumstance.
+Historically, broad indexes are very highly correlated, and to have them moving in opposite directions is very unusual.
+I will offer a speculation as to why.
+And I mean the word "speculation" because I don't think I understand what is going on.
+What may be going on is a phenomenal commitment to investing in equities somewhere, so that when people come to question one part of the equity market they shift into some other part of it.
+Of course, on any given day there is no way that people can disinvest.
+All that happens is that securities get repriced.
+The effort to move out of certain sectors just reprices these securities as investors try to shift from one area to another.
+Historically, of course, we have - 68 - seen that process more between equities and bonds, let's say, rather than across sectors of the equity markets.
+We haven’t gotten to that point yet.
+We haven’t seen generalized changes in equity prices.
+There have been sector effects, but no generalized shift.
+<START>Historically when we start to see people questioning the equity market as a whole, of course, the effort to get out of equities depresses their prices as people try, but in the aggregate unsuccessfully, to get into other investments.<END>
+I agree with Ned Gramlich.
+I don't know how far this tightening process is going to go, but I have the sense that we are at a pretty early stage in this process.
+<START>I also have the sense that money growth, although it has slowed, has not slowed anywhere close to the extent I would have expected, given the interest rate increases we’ve had.<END>
+If one looks at some episodes of substantial tightening in the past--and I would suggest looking at some charts depicting 1983-84, 1987-88, and 1994--interest rates rose a lot and money growth just plummeted.
+By the end of all those periods I cited, money growth was down to zero or below on a 12-month basis.
+So I have a sense that we are only a short way into this process.
+And the reason I want to emphasize that is not that I know where rates are going to go or how far we are going to have to move, but because I think we are going to see increasing strains and pressures in the markets as we pursue this process.
+I believe the markets are going to be vulnerable to shocks that come from the outside.
+My leading candidate--and there are a zillion of them that might materialize--would be shocks coming from Japan because I think the Japanese financial system is very stressed and in serious difficulty.
+I don't think investors in Japanese securities have really awakened to how vulnerable that situation is.
+Right now interest rates are only about where they were in 1997, and yet by every measure the Japanese economy is substantially more stretched than it was at that time.
+- 69 - I get questions from the press and we see speculation that the oil price increases are going to serve to slow the economy.
+<START>I think that is also a false hope.<END>
+I view the situation as almost entirely a relative price disturbance.
+The consumer spending that is suppressed by people having to fill up the tanks on their big SUVs is, after all, income to oil producers.
+And those producers are going to be spending it.
+That includes the foreign producers who may be spending some of it in this country or elsewhere.
+In terms of any aggregate demand effect, as a first approximation I think it’s simply a wash.
+Therefore, we ought not to look at oil prices as a possible source of reduction in aggregate demand pressure.
+So, those are just some random comments that strike me about our current situation.
+CHAIRMAN GREENSPAN.
+Governor Ferguson.
+MR.
+FERGUSON.
+Thank you, Mr. Chairman.
+I think the question before us today, as others have suggested, whether the data and the forecasts are strong enough to catalyze an unexpected reaction from this Committee.
+is While we are used to seeing this in the tech sector, capital spending outside of the tech sector is also strong.
+I postulate that they are not.
+I believe we should stay on the same moderate course that has become a part of our strategy for the last several years.
+Clearly, the economy has continued to exhibit surprising momentum.
+Reflecting this, the staff has changed its expectations for four-quarter GDP growth quite substantially, as others have noted.
+The engines for this growth have not changed, however, since our last meeting.
+Consumer spending is still outpacing GDP growth overall, and that includes spending on both durables and nondurables.
+In addition, capital spending also continues unabated.
+I sense that we are probably just at the beginning of this productivity surprise.
+The outcome in the real economy is driven both by high levels of consumer optimism and by financial markets that are indeed somewhat accommodative to strong growth.
+Clearly, in my view, this outlook - 70 - embodies the old statement about monetary policy:
+“Bad news is bad because it is bad;
+good news is bad because it might be inflationary.” But the question really is:
+How inflationary is the good news?
+And in that regard I think there are some important changes since our last meeting.
+First, while the likelihood is that the unemployment rate will continue to hover near the lows that we are currently experiencing, I do sense at long last that we are starting to see some tightening in other measures of resource use.
+The labor force participation rate and the capacity utilization rate seem to be ticking up;
+both had been remarkably subdued.
+I think they are both likely to start trending upward.
+<START>That might be, as I think Mike Prell indicated, a setting for a stronger upturn in inflation and some accelerating trends in the wage process.<END>
+Similarly, inflation expectations have made a bit of a worrisome move in the wrong direction as well.
+However, I tend to believe that with ongoing vigilance on our part through a “gradual tightening” program clearly signaled in our statements, we can return balance to the economy.
+We have already raised rates about 100 basis points and that has occurred in the last year.
+And if we assume that the lags are long and variable, as we say, perhaps some more slowing will come from actions we have already taken.
+In addition, central banks in most of the industrialized world are also in the process of tightening, as Karen Johnson indicated, with the obvious exception of Japan.
+That would suggest that those economies are not likely to overheat and, therefore, it is unlikely that more rapid increases in foreign activity will create a problem from the standpoint of adding to pressures on our resources.
+<START>Finally, the main source of higher measured inflation thus far is current oil prices, which many observers expect to return to a more normal supply-demand dynamic before having a major impact on inflation expectations here.<END>
+In addition to those three - 71 - factors, most forecasters and the markets do not signal any imminent outbreak of inflation against the background of a gradual expected tightening on our part.
+In sum, I would say that tightening at this meeting is probably appropriate.
+I do not believe, however, that we are behind the curve, and I do not believe that we have lost credibility.
+In that circumstance, we should continue to validate market expectations and maintain the pressure that comes from clear communication.
+But to me the incoming data and the forecast, at least at this stage, do not suggest that we should change our approach to policy.
+The data at the next meeting may suggest that a more hurried pace is warranted;
+they may not.
+I think that judgment waits for the next meeting.
+At this stage I believe we should continue to validate market expectations.
+CHAIRMAN GREENSPAN.
+Governor Meyer.
+MR.
+MEYER.
+Thank you, Mr. Chairman.
+In my judgment little has changed in the outlook and hence the appropriate course for monetary policy since we last met.
+Let me emphasize the three features of the outlook that, in my judgment, support an increase in the federal funds rate target today and suggest that further increases will be warranted over the course of the next several months.
+First, the growth in aggregate demand continues to outpace the growth of aggregate supply even allowing for the recent upward revisions to the productivity trend.
+<START>Many apparently have had difficulty with the story that the productivity shock itself could generate an increase in demand that outpaces the increase in supply.<END>
+But this link only provides a possible explanation for why demand growth is exceeding supply growth.
+I believe this link is plausible.
+But all that really matters for monetary policy is that the growth in demand is exceeding the growth in supply at a time when labor markets are already very tight.
+<START>Perhaps the more important point is - 72 - that whether or not demand grows faster than supply following a productivity shock depends critically on the monetary policy response to the productivity shock, a point that President Jordan made very effectively earlier.<END>
+I find it very plausible that holding nominal rates constant in the face of a productivity shock that raises the real equilibrium interest rate will result in an excess of demand relative to supply.
+<START>The test of whether or not demand growth is in fact exceeding supply growth is what happens to resource utilization rates.<END>
+The unemployment rate has been declining by an average of almost 0.4 percentage point a year since the end of 1995 and has declined at least 0.3 percentage point each year, confirming that demand growth has been exceeding supply growth.
+The Greenbook projects a decline of about 1/2 percentage point by the end of next year to 3.6 percent in the absence of further increases in the federal funds rate.
+<START>Second, while core inflation remains well contained, I agree with the Greenbook forecast that it will soon begin to rise, reflecting the secondary effects of the recent rise in oil prices, the dissipation or possible reversal of various favorable price shocks that restrained inflation earlier, and the effects of very tight labor markets.<END>
+Monetary policy tightening today would clearly be preemptive and appropriately so.
+Third, slowing the economy to trend is unlikely to contain the risk of higher inflation.
+I very much doubt that stable inflation is compatible with a 4 percent unemployment rate.
+Slowing the economy to trend may, therefore, just the first step.
+be All of the chickens have gotten used to leaning against that wind to remain upright.
+It is an important step, but it may not be--indeed, it is unlikely to be--enough.
+We should therefore be especially determined to slow the economy at least to trend quickly and to be aggressively reactive to increases in core inflation.
+CHAIRMAN GREENSPAN.
+Governor Kelley.
+- 73 - MR. KELLEY.
+Thank you, Mr. Chairman.
+While the data are moving around a bit, as they always do, it seems to me that the situation facing the Committee today has changed very little since our last meeting.
+As has been the case for some time, as we all know, we see extremely strong demand driving the economy toward overheating on the one hand, but on the other we see to date only the scantiest evidence of rising price pressures as a result.
+However, it continues to appear highly likely that at some point strong demand will force heightened price pressures.
+Consequently, I see little choice but to stay the course that we have been following.
+Thank you.
+CHAIRMAN GREENSPAN.
+Vice Chair.
+VICE CHAIRMAN MCDONOUGH.
+<START>Mr. Chairman, the Second District’s economy continues to expand at a rapid pace and rising costs of energy and other inputs have yet to show up in core finished goods inflation.<END>
+Employment has risen at a brisk pace in early 2000, despite persistent job losses in manufacturing.
+And what had appeared to be a difficult employment situation in upstate New York has been wiped away by the revisions in the jobs data.
+It now appears that in fact jobs have been increasing quite nicely there, by 1.6 percent last year in Buffalo and 2.8 percent in Albany.
+So, all is well in the Second District.
+Turning to the international area for a moment, I would note that even the most steely-eyed investors who go from the United States to Japan return starry-eyed.
+<START>The reason is that, although they see the macroeconomic situation as difficult, they are perceiving what a very good investor might have perceived in the United States in the mid-1980s, which is that at the level of the firm things are really beginning to change.<END>
+I am going to be in Japan next week.
+<START>But on the basis of reports I’ve heard from others, I am very inclined to think that Japan is beginning to - 74 - recover--or some people who don't tend to be confused on the optimistic side are very confused indeed.<END>
+So, I think that is certainly something worth looking at.
+<START>In the domestic economy, it seems very clear to me that we have the basic, rather nice problem--but it’s a problem nonetheless--that even though the supply side of the economy can grow more rapidly, the demand side of the economy is simply too strong.<END>
+There are a variety of reasons behind that, and we may have made our jobs a bit more difficult by concentrating on one or the other aspect of the explanation.
+My pet observation is the very large size of the current account deficit, which I don't view as sustainable.
+But it is a symptom, not a cause.
+<START>We may talk about the wealth effect but if we talk too much about its effect on the stock market, I think we are taking upon ourselves the challenge of deciding what is the right level of stock market prices, as we seek to bring them down.<END>
+And since life is a solemn circle that never stops, if we decide that we can control the market at the top, certainly somebody is going to remind us that we ought to be able to control it at the bottom and get it to go up.
+In my view, we have to be very, very careful in that regard, especially since the tool we have, monetary policy, gets at those institutions that have a cost of capital related to the real world.
+The most ridiculously overpriced stocks are those of new technology companies that have never made any profits.
+So in effect their cost of capital is zero.
+We can't get at them.
+Only the logic of the marketplace will get at them.
+And I believe President Poole is right that special institutional investors want to stay in the market.
+And if so--if they either take profits or just rotate out of the tech stocks--they are going to go into the value stocks because that’s where there is to go.
+So I think that phenomenon is likely to continue.
+<START>I have no question that the path we are on of restraining the demand side of the economy through tightening monetary policy is the right one and that caution is appropriate.<END>
+I - 75 - emphasize the need for caution because there continues to be a lot about this economy that is very difficult to understand.
+CHAIRMAN GREENSPAN.
+Okay.
+I call now on Don Kohn.
+MR.
+KOHN.
+Thank you, Mr. Chairman.
+The information becoming available since your last meeting has once again indicated somewhat stronger growth of both aggregate demand and potential aggregate supply than had been anticipated.
+The behavior of the unemployment rate--essentially flat for five months now--does not suggest that underlying labor market pressures have intensified.
+<START>But, absent a continuation of the almost astonishing productivity gains of the second half of last year, there is a clear risk that those pressures will mount in coming months.<END>
+On that basis, there would seem to be little to deflect the Committee from carrying through on the intention that many of you expressed at the last meeting to raise the federal funds rate again today.
+Financial markets continue to incorporate an extended period of gradual firming, with 25 basis points expected at this meeting, and another 50 to 75 basis points by early next year.
+<START>The level and behavior of longer-term interest rates and the yield curve--even after allowance for Treasury supply distortions--suggest that markets see this degree of firming as consistent with keeping inflation pressures contained.<END>
+Indeed, over the intermeeting period, market participants have marked down a little their expectations of the ultimate extent of Federal Reserve tightening.
+<START>This revision appeared to have reflected market participants’ take on incoming information bearing on the economy--a sense of greater vulnerability in equity markets despite their reaching new highs, larger expected government budget surpluses, and good news on productivity and core inflation.<END>
+The key issue for the Committee today would seem to be whether the restraint now built into financial markets has a reasonable chance of being sufficient to accomplish your objectives for restraining inflation.
+If it does, you can validate prevailing expectations by tightening by 25 basis points.
+If it does not--if the risks have shifted significantly further toward higher inflation--you might consider surprising the market with 50 basis points of firming.
+In principle, the escalating price of oil may be one important change in economic conditions over recent months that has a bearing on this issue.
+As you know, a rise in oil prices tends to produce effects with contradictory implications for the stance of monetary policy, at least when that stance is expressed in terms of the real federal funds - 76 - rate.
+<START>Leaning on the side of higher real interest rates is the potential effect of an increase in oil prices on underlying inflation rates.<END>
+The rise in energy prices tends to get propagated into core price measures, in part through the efforts of businesses and households to raise prices and wages to protect real earnings.
+The strength of these efforts and the ultimate pressures on ongoing inflation are influenced importantly by the behavior of inflation expectations.
+<START>On the side of lower real interest rates is an increase in economic slack as more domestic income is sent abroad to pay for imported oil, which, however, helps to hold down the overall price increases.<END>
+<START>Whether real interest rates should be raised or lowered in response to an increase in oil prices depends in large measure on the relative size of these two effects and the relative weight the Committee puts on short-run deviations of output and inflation from their long-run values.<END>
+In fact, the effect of the changed outlook for oil prices since your last meeting may not be enough by itself to cause you to alter your plans for real interest rates materially.
+The upward revision to the expected path of oil prices in the Greenbook and in futures markets has been limited by the forecast that they will return to a lower level before very long.
+Moreover, the role of oil in the economy has diminished considerably over time.
+Still, the analysis does suggest some important risks to the outlook that you might need to weigh now or in the future, especially if oil prices do not look as if they will follow their predicted downward track.
+<START>On the one hand, evidence that higher energy prices were beginning to undermine consumer or business confidence or equity prices might suggest that less policy tightening was now necessary to align aggregate demand and supply.<END>
+On the other, signs that oil price increases were becoming embedded in faster increases in compensation or in higher longer-term inflation expectations would indicate that more policy firming and weaker output would be needed to contain inflation.
+In any event, should short-term inflation expectations rise, a higher nominal federal funds rate would be required at some point just to hold the real funds rate on course and prevent a destabilizing stimulus to output and prices.
+In the current circumstances, these considerations might suggest that the rise in the price of oil has, on balance, increased inflation risks at least a little.
+<START>Short-term inflation expectations have already moved higher in recent quarters, evidently in reflection of higher oil prices, and a further increase is a distinct possibility unless oil prices soon begin to reverse.<END>
+<START>Moreover, the Committee might be concerned that, with labor markets already tight and equity markets and consumer confidence ebullient, the effects of higher oil prices are more likely to - 77 - be weighted toward raising inflation expectations than toward weakening demand.<END>
+Some other developments over the intermeeting period may also be seen as pointing toward the possibility of higher inflation.
+In particular, the further increase in the broadest measure of equity wealth will add to aggregate demand at a time when strength in demand is already threatening to lead to tighter labor markets.
+<START>And, a slightly lower expected path for policy tightening has reduced intermediate-term borrowing costs a bit, contributing to the greater disparity between the market’s expectations of what tightening will be required to stem inflation and those of the staff.<END>
+An important source of that disparity seems to be a judgment on whether the economy is now operating in level terms above its long-term potential.
+The long-term interest rates in the market, even if high enough to bring the growth of demand into alignment with the growth of supply, seem much less likely to be restrictive enough to raise the unemployment rate.
+<START>If the Committee believes the economy is now beyond its sustainable potential, an appreciable tightening in financial conditions would seem to be needed to slow growth enough to keep core inflation from trending higher over the next few years.<END>
+Hence, oil price increases may be adding to the risks that can stem from pursuing a gradualist strategy--in particular, that tightening would be too sluggish.
+<START>If such a policy allows an economy that may already be operating beyond its sustainable level to increase resource utilization further, or allows longer-term inflation expectations to begin to deteriorate, control of inflation ultimately will require a larger or more prolonged damping of output below its potential.<END>
+If the Committee saw a substantial risk that the prevailing restraint in financial markets--premised on several more 25 basis points tightening moves--has become inadequate to forestall these outcomes, it might consider undertaking a larger move of 50 basis points.
+Such an unexpected action should help to bring about a configuration of real interest rates, exchange rates, and equity prices more suited to damping stronger price pressures.
+However, the Committee may see these recent developments as confirming that the balance of risks after a 25 basis point increase will remain tilted toward higher inflation, rather than as pressing enough to warrant a 50 basis point firming at this meeting.
+In that case, you could opt to continue on the gradual path of tightening, at least for a time.
+If oil prices reverse as markets expect, short-term inflation expectations also should come down, leaving core inflation and long- - 78 - term expectations largely unaffected by the most recent run-up in oil prices.
+Moreover, the path of firming in markets may well turn out to be sufficient to restrain the growth of aggregate demand to that of sustainable supply, given that the full restraining effects of the Committee’s previous tightening actions and the appreciable rise in long-term interest rates over the last few quarters have not completely played themselves out.
+So long as underlying cost and price data remain favorable, the Committee’s most immediate objective might be to balance the growth rates of aggregate supply and demand, reserving judgment about whether it needs to raise interest rates enough to elevate the unemployment rate.
+<START>In light of uncertainties about the course of demand and the level and growth rate of potential supply, the Committee might want to see firmer evidence that market participants had underestimated the required degree of tightening before taking actions to change these estimates and expectations.<END>
+Moreover, as Mike noted, recent data have led the staff to raise its estimate of structural productivity growth, which, if valid, should help to contain cost pressures for a while.
+Indeed, the possibility that productivity may continue to accelerate also may weigh on the side of caution in tightening.
+<START>Eventually, higher productivity growth probably must be balanced with higher real interest rates.<END>
+In the near term, though, the implications for policy action are not so clear.
+Financial markets may already have incorporated expectations of a further pickup in productivity growth into the unusually elevated long-term real rates now prevailing, so that all the Committee need do is validate those expectations.
+<START>Even if real private long-term rates still have more to rise, the acceleration in productivity--so long as it continued to keep pace with any pickup in the rate of increase in nominal compensation--would keep inflation damped for some time at prevailing interest rates, even if the unemployment rate fell a bit further.<END>
+<START>By forgoing more rapid tightening for a while in the face of accelerating productivity, the Committee in effect would continue the strategy of recent years that allowed the economy to realize an extra benefit of unanticipated productivity increases in temporarily higher output instead of lower inflation.<END>
+<START>In sum, so long as underlying inflation pressures remain damped and financial market expectations are not clearly out of line with continued containment of price pressures over time, the Committee may prefer to continue its gradual pace of tightening.<END>
+<START>This would allow the Committee to calibrate its firming action as new information accumulates about the responses of aggregate demand and financial markets to past increases in interest rates and about the evolution of potential supply.<END>
+A precondition for the success of this strategy is that - 79 - the markets understand your concerns and intentions, so they can react appropriately as new information becomes available.
+<START>In this regard, the ongoing strength in demand and tautness of the labor markets, along with the inflation threat from higher oil prices, suggest that the Committee would probably want to associate an increase of either 25 or 50 basis points in the federal funds rate with language indicating that it views the risks to the outlook as unbalanced toward higher inflation.<END>
+CHAIRMAN GREENSPAN.
+Questions for Don?
+If not, I will proceed.
+Let me say at the outset that I think the balance of risks clearly indicates that we are on the right policy path.
+Accordingly, I think we should be moving another 25 basis points today, retain the sentence in our press release expressing the view that the balance of risks remains tilted toward inflation, and continue on a tightening path until there are problems with that path.
+As I have commented before, something very unusual is going on in the economy, and I’d like to spend a moment or two on what I think may well be happening.
+First, the available data clearly indicate that productivity is still accelerating.
+The second derivative is still positive.
+Moreover, if we disaggregate the productivity data we find that, for the first time that I can recall, nearly all the measures are showing very significant increases.
+For example, we are getting a 4-3/4 percent increase in fourth-quarter over fourth-quarter productivity for nonfinancial corporations and for noncorporate business, and I think a roughly comparable increase for the farm sector.
+<START>The only area that actually looks weak is financial sector productivity, and I suspect that reflects a statistical problem, not a real problem.<END>
+If that is the case, it would imply that we are in fact underestimating the overall pace of productivity growth.
+<START>Clearly, the numbers that we have thus far for the second half provide only limited information on productivity developments, but there is no evidence in those numbers that the pattern of accelerating productivity is slowing down.<END>
+Indeed, one possible explanation for the - 80 - remarkable performance of the NASDAQ in relation to the Dow--this extraordinary negative correlation that Bill Poole put his finger on--is that we have in the market’s evaluation process for existing capital a clear indication that capital is moving out of the older technologies into the new.
+The only question is whether we also see that development in current cash flows.
+<START>In other words, are the savings in the economy inadequate to fund the new technologies?<END>
+If so, we would expect a drain of funds out of the older technologies into the new.
+So the question is whether the cash flows are consistent with what we are observing in the stock market evaluation process.
+There are a few clues.
+One mentioned by Bob McTeer is that despite the cash flows in the oil industry, cash is not being plowed back into that industry to the extent that ordinarily would have occurred in the past.
+Those big cash flows could be showing up in various ways--as dividends, which I doubt;
+as stock buybacks, probably in part;
+or as investments in financial assets.
+Any of the three adds to the financing pool that's available to the high-tech industries.
+Moreover, the dramatic amount of stock buybacks, which involves almost wholly the old-technology stocks, is also adding to the overall financing pool.
+We are trying at this stage to develop a detailed flow of funds evaluation that separates high-tech from low-tech.
+And while we don't have results at this stage, it is fairly clear from earlier information that the proportion of capital investment in the high-tech areas that is financed from external funds is higher than that in the older technologies, and indeed the proportion is rising in the high-tech sectors.
+Obviously, high-tech is still a very small part of the system, depending on how one defines it, and it is very difficult to draw any firm conclusions as yet from the cash flows.
+Nevertheless, it is interesting to observe that we are getting the type of evidence we would expect if productivity is still accelerating, namely, an inadequate capacity to finance rapidly rising capital requirements from internal cash flows.
+We know that if we take the ratio of - 81 - the NASDAQ to the S&P 500 and compare it with the share of producer durable equipment orders that is going to high-tech, and we define that sector broadly so we are picking up a big chunk of the capital investment, it appears that the ratio of the NASDAQ to the S&P 500 leads movements in the high-tech orders share.
+<START>This suggests that the trend toward ever increasing investment in high-tech capital, not only by the producers of these types of innovations but by everybody else, is beginning to pressure the markets in a manner that is creating a rate of economic growth that is higher than we are used to.<END>
+<START>In response to Bill Poole's comment that money growth has not slowed as much as might have been expected, I would suggest that recent money growth may not, in fact, be inconsistent with underlying conditions.<END>
+We had a discussion in February about whether we should be raising the money supply targets because structural productivity was rising.
+Accelerating productivity would lead us to expect faster money growth than otherwise would be the case.
+We would expect faster increases in housing and motor vehicles than otherwise would be the case.
+Even the interest-sensitive areas of the economy would be expected to show less response than ordinarily would be the case if productivity is continuing to accelerate.
+So as far as I can judge just looking at the data, it is not evident that we are seeing, as yet, a cresting in the growth of productivity.
+Obviously, there is an upside limit--I guess--but I don't see any evidence that we are there.
+Merely employing historical patterns strikes me as not overly useful in analyzing this type of phenomenon.
+<START>The question that we have to ask ourselves in evaluating the interest-sensitive areas of the economy is not whether they are declining, but whether they are declining as a share of the total.<END>
+I think the evidence here is mixed.
+Some data suggest that the share is flattening out or - 82 - going down;
+other data suggest that it is not.
+I agree with those who suspect that first-quarter GDP is going to be a lot higher than any of us have in our forecasts at this stage.
+<START>There are technical reasons why we would expect growth in the first quarter to be slower than in the fourth, as Mike Prell pointed out quite correctly, but we don't have enough of the first-quarter data to really be quite convinced of that.<END>
+<START>The forecast of 4 to 4-1/2 percent GDP growth implies a quite significant slowing in the growth of productivity, but it may just mean that growth is falling below the recent trend and not necessarily that the trend is flattening out.<END>
+The anecdotal evidence we are observing still strikes me as not consistent with any real slowdown.
+The question in the real world is whether the expansion is slowing.
+Let me say that, irrespective of what the GDP data show, I don't think any slowdown is occurring.
+I don't see any evidence of it, and I suspect the major reason the expansion is not slowing is that productivity continues to accelerate.
+There is no way to avoid that conclusion.
+The rate of GDP growth is equal to the growth of employment and the workweek plus the growth of productivity.
+In thinking about employment growth, I suspect that to a large extent we are underestimating immigration.
+This means that a goodly part of the problem that we have in explaining what is going on may be resolved when we get the 2000 Census, which may show a higher population level.
+We may find that, among other developments, household employment is growing faster relative to payroll employment than we are currently estimating.
+All in all, what I am basically arguing is that what is going on now is not simply explained.
+I reiterate that it is not evident to me that this economy is heating up.
+I do not deny that the growth rates are very high and may be accelerating and may be significantly underestimated in the Greenbook.
+But overheating has to mean that we are getting strong - 83 - inflationary pressures.
+I don't know how you may want to disaggregate the CPI or the PPI or a lot of the commodity indexes.
+As I have indicated before, the question in my judgment is not one of price but more an issue of unit costs because unit costs are what engender inflationary pressures.
+<START>If prices don't move with unit costs, obviously profit margins fall and the capital goods boom begins to fade.<END>
+And for the first time in a long time in the fourth quarter, unit costs for nonfinancial corporations were zero year-over-year.
+They are up 0.3 percent for total nonfarm business on an income-based estimate.
+We can talk all we want about the fact that we see this price going up and that price going up.
+Unless our data systems are really deficient in terms of the underlying cost structure as we measure it, I find it hard to reconcile these cost numbers with a belief that there is any acceleration of inflation--yet.
+I do not deny that we are still getting a decline in the number of people seeking work.
+<START>We are still getting a rise in the net trade deficit, and those safety valves cannot continue indefinitely.<END>
+Sometime, somewhere, at some point, we will experience inflationary pressures unless those gaps close.
+All I am saying is that I do not see the evidence at this stage.
+I suspect that if the gaps continue to open up, something will happen.
+But I think we have plenty of time to worry about that.
+If we continue to move in 25 basis point increments, after a while we really will begin to move the interest rate structure.
+We always have the capacity to double up the rate increases and to do something between meetings.
+But for the time being it strikes me that we are right on the mark with a 25 basis point move.
+I think that the desirability of moving at meetings and moving in a consistent pattern is very helpful in terms of promoting market stability.
+I believe such a pattern reduces risk premiums and volatility and, other things equal, it probably reduces the equilibrium interest rate required to maintain maximum sustainable growth.
+- 84 - So I’m where I was at the last meeting.
+I guess it took me a long time to say that, but so be it.
+President McTeer.
+MR.
+MCTEER.
+Are we starting the go-around?
+CHAIRMAN GREENSPAN.
+Yes.
+MR.
+MCTEER.
+A while ago leaning against the wind was mentioned.
+I noted earlier that we recently had a meeting of our Advisory Council on Small Business and Agriculture, and I learned at that meeting that on the plains of the Texas Panhandle a fairly constant and fairly strong wind prevails most of the time.
+And one day last month the wind quit blowing and all the chickens fell over!
+[Laughter] I agree with your recommendation for a 1/4 point increase in the funds rate with asymmetry.
+I think that is the correct move for now.
+I just hope that we will take it one step at a time and not say too much publicly between meetings, scaring little children and the financial markets.
+CHAIRMAN GREENSPAN.
+Vice Chair.
+VICE CHAIRMAN MCDONOUGH.
+I agree with your recommendation and the reasoning behind it, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+Mr. Chairman, I support the recommendation.
+I think we need to leave the view in the marketplace that this is the strategy--that we will have 25 basis point increases until the data convince us that a further increase is no longer necessary.
+I want to reinforce something that Don Kohn said about the importance of the market understanding what our strategy is.
+The market should know that our aim is to focus on what I - 85 - would like to call the medium-term inflation rate.
+<START>We are trying to keep the rate of inflation on average, over a two-year horizon or something like that, at a low and stable rate.<END>
+<START>All the other measures that we talk about such as the unemployment rate, NAIRU, the stock market, or anything else are all derivatives in that we’re trying to follow whatever information we can to achieve that inflation objective.<END>
+But the objective is always the inflation rate.
+I think the possibility of a 50 basis point increase has nothing to recommend it.
+Let me put the point this way:
+Suppose we knew what the ultimate end was going to be in terms of where interest rates were going to go.
+That would pin down where the 10-year bond rate was going to be.
+And whether we put off the other 25 basis points by six weeks or not makes no difference whatsoever to a 10-year bond rate or to a longer-term rate.
+But, of course, when we say right away what our understanding is about the ultimate end of this process, well, of course, that raises the problem.
+And if we were to do 50 basis points, we would raise all sorts of questions about where we were going and what we were doing.
+It would be very hard for us sitting around this table to predict what the response would be.
+On the one hand, some people might look at that and say that we think our job is over for now--we are doing one more increase, doubling up the amount this time, and we don't intend any more in the future.
+That would be one possible interpretation.
+Others would say that we feel a great sense of urgency and we have to move more aggressively to keep things under control.
+<START>In my view 50 basis points would produce a very unstable expectational environment, and we would have great difficulty in predicting what the response would be in the market.<END>
+I think it is very dangerous to take a policy action when we have so little idea about what the response will be.
+So, I would be very, very opposed to considering a 50 basis point increase unless we had sitting right in front of us some crisis - 86 - situation demanding response.
+But we don't.
+Everything is going along very much as anticipated, with differences only nuances from what we expected last time.
+CHAIRMAN GREENSPAN.
+President Boehne.
+MR.
+BOEHNE.
+I agree with your recommendation, Mr. Chairman, for the reasons you've outlined.
+CHAIRMAN GREENSPAN.
+President Jordan.
+MR.
+JORDAN.
+I agree with the recommendation.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+I support your recommendation, Mr. Chairman, but I would also like to see a 1/4 point increase in the discount rate as a way to reinforce the message that we are trying to send.
+Thank you.
+CHAIRMAN GREENSPAN.
+President Hoenig.
+MR.
+HOENIG.
+I agree with your recommendation, Mr. Chairman.
+I do want to make a comment.
+When you say “strategy,” given the level of uncertainty that we've talked about here, I want to clarify that our strategy is not necessarily that we are on a course to continually increase the funds rate.
+I favor a strategy that says we know there are upside risks and are prepared to move, but one that does not assure people that we're going to move in the future.
+Depending on how that is viewed, I think there can be quite a difference in terms of the message that we would be delivering.
+It wasn't clear to me what conclusion in fact we may be coming to here.
+CHAIRMAN GREENSPAN.
+I think we are saying that the balance of risks is on the up side.
+MR.
+HOENIG.
+Right.
+- 87 - CHAIRMAN GREENSPAN.
+That is a probabilistic statement.
+And assuming everybody agrees that the balance of risks is on the up side, I suspect that we have a very wide distribution of what people think that probability is.
+MR.
+HOENIG.
+Right.
+With this move we will have moved 125 basis points since last June and 50 basis points from where we were at the start of the year.
+<START>It may be appropriate to move again in the future, but by saying the balance of risks is on the up side, I also want to be clear that it is not a sure thing.<END>
+Our strategy isn’t to move these interest rates up 1/4 point until whenever.
+CHAIRMAN GREENSPAN.
+No, I think that's right.
+The way I put it last month was that that would be the implied strategy if indeed we continued to see the types of imbalances that we were seeing.
+<START>But should that change--and indeed, we hope and expect it to change--that will obviously affect our decisions over the longer run.<END>
+Or if the inflation outlook gets worse, I would suspect the consensus of this group would be to accelerate the pace.
+MR.
+HOENIG.
+Thank you.
+CHAIRMAN GREENSPAN.
+But I don't see how any of us can forecast that at this particular point.
+MR.
+HOENIG.
+I agree.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I agree with your policy recommendation, Mr. Chairman.
+I certainly agree with the asymmetry.
+I probably could have gone with 50 basis points, too.
+<START>I don't find a move of 50 basis points all that scary and I think it might not be a bad idea sooner rather than later to do something that expresses more concern about the imbalances that we see in demand and supply.<END>
+I don't necessarily feel, particularly in the environment that we have been - 88 - in, that the smoking gun has to be a rise in inflation that is really noticeable in the PCE or the CPI or whatever measure we are looking at.
+<START>As you and others have mentioned, the imbalances that we see in consumers’ continuing willingness to spend more than they are bringing in and to get into increasing amounts of debt plays out in what President McDonough referred to as the symptom of the trade deficit.<END>
+I believe those are all indications that demand is growing at a rate that is not sustainable and ultimately could be dangerous, depending on what happens in the future.
+Also, I would hope that we can soften the link between our policy and the level of the stock market--because I think that is pretty tricky to do--and get back into the analysis that looks at supply and demand.
+So, I am in favor of where we are going.
+I realize that we don't know exactly where we will stop, but I think it is going to take more than this.
+CHAIRMAN GREENSPAN.
+President Moskow.
+MR.
+MOSKOW.
+Mr. Chairman, I agree with your recommendation.
+I, too, am where I was at the last meeting.
+I believe the gradual approach is a very wise way for this Committee to proceed.
+On the interpretation of the balance of risks, I just want to add one little footnote.
+In our discussion of this approach when we adopted it, we made it very clear that we automatically reexamine our position at each subsequent meeting based on the new data that have come in and the forecast.
+So there is nothing we say that is forever, obviously.
+Everything is automatically reexamined at the next meeting.
+I thought we all understood that when we endorsed this policy strategy.
+CHAIRMAN GREENSPAN.
+President Parry.
+- 89 - MR. PARRY.
+Mr. Chairman, I support your recommendation with regard to the funds rate.
+I also think it is important to reinforce to the public that we are focusing on the heightened inflation risks for the future.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+MR.
+GRAMLICH.
+I support the recommendations.
+I'll admit to Bill and others that I have had private mental dalliances with 50 basis points, but I'll get over it.
+[Laughter] On the other hand, I have to say to Don that he was so convincing about the case for moving 50 basis points today that I actually thought for a moment that he might even believe it!
+[Laughter] CHAIRMAN GREENSPAN.
+President Stern.
+MR.
+STERN.
+I support your recommendation, Mr. Chairman, because virtually any reasonable framework that I can think of implies that in current circumstances real interest rates should go up.
+CHAIRMAN GREENSPAN.
+President Broaddus.
+MR.
+BROADDUS.
+Mr. Chairman, I can support your recommendation.
+But let me make a quick comment.
+I have some of the same feelings that Ned Gramlich and others have expressed in that I worry a little that we may get a bit too comfortable with this incremental approach of 1/4 point increases.
+That may be enough to do the job, but it may well be the case--and there is a good chance in my view--that more forceful actions are going to be required sooner or later.
+And I think we need to keep that in mind going forward.
+As I said earlier in the meeting, long-term rates, at least currently, are not supporting the moves up on the short end of the yield curve.
+<START>Also, I think it is worth pointing out that back in 1994 we tightened policy rather aggressively and we contained inflation and had a soft landing without a recession.<END>
+So, - 90 - maybe that will change people's attitudes about the impact of our current policies.
+<START>It’s almost as though we have too much credibility, in a sense.<END>
+[Laughter] Also, on the issue of rising productivity growth, I agree with you that the second derivative may be positive.
+But as I understand it, the economic implications of that are in the direction of even higher real rates;
+people are going to extrapolate the acceleration in productivity and try to bring the attendant higher expected future earnings forward.
+The way to cut that off is by an increase in real rates, and that might argue for an even more aggressive policy.
+In any case, again, I can agree with your basic recommendation.
+But with respect to my good friend Tom Hoenig’s comments, I would put the opposite spin on the asymmetry.
+I think I said last time that I wanted asymmetry plus.
+Maybe this time I should say I want asymmetry with a vengeance!
+[Laughter] I think we need to make very clear that we are prepared to turn up the heat quickly if we need to.
+MR.
+HOENIG.
+Al, I was anticipating your comment--that’s all!
+VICE CHAIRMAN MCDONOUGH.
+"Vengeance is mine saith the Lord!" MR.
+BROADDUS.
+I need to read the Bible more.
+CHAIRMAN GREENSPAN.
+Governor Kelley.
+MR.
+KELLEY.
+I agree with your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+Governor Meyer.
+MR.
+MEYER.
+Mr. Chairman, I agree with your recommendation.
+I think a good case can be made for the kind of gradualist policy that we've been following.
+However, since we are obviously into confessions today, I should say that I, too, didn't come to this conclusion without some internal debate of my own.
+<START>- 91 - I mentioned at the last meeting that I thought it was important, in terms of the decisions we made on the funds rate and our announcements on the tilt, that we make sure that the bond markets continue to build in appropriate assumptions about future interest rate increases.<END>
+But in fact, I think there has been some decrease in the extent of the expected rise in short-term interest rates in the bond markets.
+I didn't read the incoming data as supporting that conclusion.
+The Greenbook didn't read the data as supporting that conclusion.
+And that suggests that a time may come when we are going to have to surprise the bond markets.
+Now, the question is:
+When would we like to do that?
+<START>Would we like to do it today when the performance of the economy is in some sense unblemished and before inflation starts to rise?<END>
+<START>Or would we like to do it in the midst of rising inflation and when economic growth may have already slowed somewhat?<END>
+<START>It's possible that we could improve the performance of the economy and do a lot to reinforce the credibility of monetary policy if we decided to move more aggressively.<END>
+Well, that was the 40 percent case;
+I'm still with the 60 percent that argues for a gradualist policy today.
+<START>But in coming meetings if the Greenbook forecast is correct and we do see a rise in the core inflation rate, I think we will have a very good reason to move in a larger increment.<END>
+CHAIRMAN GREENSPAN.
+Governor Ferguson.
+MR.
+FERGUSON.
+I support both halves of your recommendation.
+And since we are confessing, I will confess that my heart is pure!
+[Laughter] MR. GRAMLICH.
+You're obviously not a Catholic!
+[Laughter] MR. FERGUSON.
+That is also true.
+I do think a 25 basis point move is appropriate today.
+As I said earlier, a 50 basis point move may be appropriate later.
+- 92 - VICE CHAIRMAN MCDONOUGH.
+You know what happens to those whose hearts are pure?
+Their strength is as the strength of ten!
+MR.
+FERGUSON.
+He has to turn his collar around the other way!
+[Laughter] CHAIRMAN GREENSPAN.
+<START>Mr. Secretary, would you read the appropriate language for 25 basis points and the balance of risks toward inflation?<END>
+MR.
+BERNARD.
+I'll be reading from page 14 in the Bluebook:
+"The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with increasing the federal funds rate to an average of around 6 percent.
+<START>" The balance of risks sentence that will go in the press release reads: "Against the background of its long-run goals of prices stability and sustainable economic growth and of the information currently available, the Committee believes that the risks are weighted mainly toward conditions that may generate heightened inflation pressures in the foreseeable future." CHAIRMAN GREENSPAN.<END>
+Call the roll please.
+MR.
+BERNARD.
+Chairman Greenspan Yes Vice Chairman McDonough Yes President Broaddus Yes Governor Ferguson Yes Governor Gramlich Yes President Guynn Yes President Jordan Yes Governor Kelley Yes Governor Meyer Yes President Parry Yes - 93 - CHAIRMAN GREENSPAN.
+May I suggest that Lynn Fox distribute a draft press statement, and I ask the members of the Board of Governors to join me in my office as we go into a temporary adjournment of the FOMC.
+[Recess] CHAIRMAN GREENSPAN.
+The FOMC is back in session.
+The Board of Governors just voted unanimously to accept the requests received thus far from almost all of the Reserve Banks to increase the discount rate to 5½ percent.
+You have in front of you a draft statement, which essentially replicates the February statement.
+Does anybody have any comment on it?
+MR.
+BOEHNE.
+I think it's an accurate statement of where the Committee is, Mr. Chairman.
+SPEAKER(?) I agree with you.
+VICE CHAIRMAN MCDONOUGH.
+Excellent!
+MR.
+BROADDUS.
+I have one question, Mr. Chairman.
+The first sentence in the second paragraph makes the statement that conditions and considerations are essentially the same as when the Committee met in February.
+I suppose if one interprets the word “essentially” quite broadly, that may be true.
+But the projections in the latest Greenbook are much stronger.
+I see a change toward greater recent strength and greater expected future strength in real activity at this meeting compared to the last meeting.
+So my preference would be to take that sentence out.
+I don't think it adds very much and it may be a bit misleading.
+CHAIRMAN GREENSPAN.
+I grant you that that is your point of view;
+you've held that view.
+But as I heard the discussion, I think this probably captures the position of the majority of the members.
+Frankly, it's a very minor issue and I don't really want us to get into a debate on it.
+As I read it, it captures the general view of the majority.
+If we took a vote, I think that's how - 94 - we would come out.
+So, if you don't mind, let's leave it as is.
+If that is indeed the case and if there are no further questions, we will release this statement at 2:15 p.m.
+today.
+MS.
+FOX.
+May I collect the drafts?
+CHAIRMAN GREENSPAN.
+Finally, to close the meeting, let me reconfirm that the date of the next meeting is May 16th.
+The meeting is adjourned.
+We will go to lunch!
+END OF MEETING
+INSTANCE OF DISAGREEMENT: 67

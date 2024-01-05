@@ -1,0 +1,49 @@
+Passage number 1.
+Federal Open Market CommitteeConference Call September 8, 1983PRESENT: Mr. Volcker, ChairmanMr. Solomon, Vice Chairman (Board)Mr. GramleyMr. GuffeyMr. KeehnMr. Martin (Telephone)Mr. MorrisMr. ParteeMr. RiceMr. RobertsMrs. TeetersMessrs. Boehne, Boykin, Corrigan, and Mrs. Horn,Alternate Members of the Federal Open MarketCommitteeMr. Black, President, Federal Reserve Bank ofRichmondMr. Axilrod, Staff Director and SecretaryMr. Bernard, Assistant SecretaryMrs. Steele, Deputy Assistant SecretaryMr. Bradfield, General CounselMr. Kichline, EconomistMr. Truman, Economist (International)Mr. Coyne, Assistant to the Board, Office of BoardMembers, Board of GovernorsMr. Sternlight, Manager for Domestic Operations,System Open Market AccountMr. Cross, Manager for Foreign Operations,System Open Market Account (Board)Mr.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement evident in this passage.
+
+
+Passage number 2.
+ Forrestal, First Vice President, FederalReserve Bank of AtlantaTranscript of Federal Open Market Committee Conference Call ofSeptember 8, 1983CHAIRMAN VOLCKER. I'd like to take advantage of this[consultation] for two reasons. One is just to get any comments orreflections that any of you might have on perceptions of what is goingon in the economy or inflation; the other is more directly in terms ofthe policy decided upon [at the last meeting]. We have gone somewhattoward the lower end of the specific range we were talking about interms of reserve pressures at the meeting. The directive clearlycontemplated less than that if there was weakness in the aggregates,particularly if it was not accompanied by signs of increased economicactivity. And I would interpret that at the moment as moving--or atleast making our errors--on the slightly easier side and not doinganything very drastic, depending upon what happens in the first partof September. If the aggregates came in low then, we would continueto move in that direction; if there were a tendency to reverse whathas happened recently, we would stop moving in that direction.Conceivably, if growth were high enough, we'd go back to where wewere. So, we're in that kind of posture at the moment of leaning alittle toward the easier side, fully in accordance with the directive.[Secretary's note: The transcript record has an ellipsis atthis point, indicating that the ensuing discussion was nottranscribed.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 3.
+]CHAIRMAN VOLCKER. Anyone else. I do not hear any commentsthat suggest a great sea change is going on in the direction ofeconomic activity at this point, and I think that reinforces a feelingthat the directive calls for some move here, but it is not going to bevery dramatic.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The passage is simply stating that there is no suggestion of a significant change in economic activity at the moment and that any action taken will not be very dramatic.
+
+
+Passage number 4.
+MR. PARTEE. By "some move," Paul, do you mean just a littleeasing within that boundary on borrowings that we were talking about.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is seeking clarification about a term used by Paul.
+
+
+Passage number 5.
+CHAIRMAN VOLCKER. No, it goes beyond that.
+Does the passage contain contention or disagreement? Response from the model: It is not possible to determine whether there is contention or disagreement in the passage without any specific context or content provided.
+
+
+Passage number 6.
+MR. PARTEE. Beyond that.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in the passage. The speaker is simply stating that there is no further information beyond the point they just made.
+
+
+Passage number 7.
+CHAIRMAN VOLCKER. But not much.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The statement "But not much" indicates that there is minimal or no disagreement present.
+
+
+Passage number 8.
+ It could go--MR. PARTEE. How much beyond that.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. It seems to be a neutral statement, possibly indicating a question or suggestion.
+
+
+Passage number 9.
+MR. GUFFEY. What are you proposing, Mr. Chairman: a lowerborrowing level to achieve a bit of easing.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not show any contention or disagreement. It simply provides a question and a statement about a proposal without any contrasting opinions or conflicting views.
+
+

@@ -1,0 +1,715 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+Importantly, there has been a significant backup in longer-term rates arising from a number of factors.
+<START>However, this development is not inconsistent with our asset purchases having been effective in the August–November period.<END>
+European sovereign banking problems have created significant uncertainties, and these problems could be transmitted to the United States via money market funds, domestic banks, or changes in risk aversion.
+Burden-sharing remains the persistent issue in Europe, which argues against early resolution of the issue.
+Bank lending and loan demand, especially by small businesses, generally remain weak, though there are some exceptions, including nonrevolving consumer credit.
+Mortgage refinancing has been limited by tight terms and conditions.
+Merger and acquisition activity is up, deposit growth December 14, 201071 of 127 is strong, but many banks remain low-rated and face challenges in commercial real estate and elsewhere.
+Rising agricultural land prices may indicate broader concerns about asset valuations.
+The fiscal situation, at the federal and the state and local levels, may ultimately pose significant financial risks, including near-term issues with municipal bonds.
+<START>Finally, core inflation measures continue to drift down with the slowdown in price increases quite well spread across categories of goods and services and across different inflation measures.<END>
+Firms do not perceive much pricing power.
+Increased energy and commodity costs are substantially offset by lower labor costs.
+<START>Inflation breakeven rates have risen in recent months, but private sector forecasts and surveys suggest reasonable underlying stability and inflation expectations at levels close to the Committee’s objectives.<END>
+Participants’ views on the outlook for inflation and inflation risks for the medium term remain somewhat diverse.
+Some expect inflation to pick up gradually as the economy strengthens, while others still see downside risks.
+Difficulties in measuring slack and in beating the random walk forecast make inflation predictions difficult.
+Overall, though, deflation risk seems to have receded somewhat since the summer.
+Comments?
+[No response] Again, thank you for the very useful discussion, which I think was very balanced and very appropriate.
+Let me add just a few thoughts.
+<START>As the Vice Chairman pointed out, on a headline basis we are a little further from our objectives, in the sense that unemployment is higher and core inflation, at least, is lower.<END>
+That being said, I agree with the thrust of the comments around the table that the intermeeting data were moderately positive for the near-term outlook.
+<START>For example, in the labor market, even though we saw a weak job growth number for November, we’ve also seen declines in UI claims, increases in vacancies and hiring plans, reductions in layoffs and discharges, increased work weeks, some decline in long-December 14, 201072 of 127 term unemployment, better surveys, and so on.<END>
+So there are a number and range of indicators suggesting a somewhat stronger and more upbeat situation in labor markets.
+In sum, then, we’ve had some improvement in the near-term outlook.
+<START>As we take comfort from that and feel more comfortable with our forecast, we should at the same time keep in mind what a deep hole we’re in.<END>
+The unemployment rate is, after all, 9.8 percent, which is 0.3 percentage point higher than it was in June 2009 when the recession officially ended.
+A remarkable statistic, which I’ve mentioned in these meetings before, is the magnitude of the decline in total hours worked, which is a measure that many business cycle theorists rely on.
+From peak to trough, total hours worked in this recession dropped 7.3 percent, which is about two and a half times the decline in the 1981–1982 recession.
+That number shows that labor input contracted at more and more margins than in previous recessions.
+We have so far recovered less than a quarter of that loss.
+Another indicator of the tremendous decline in labor input is the employment-to-population ratio, which has fallen from 63 percent to 58 percent of the relevant population, about a 7 percent decline
+—not percentage points but percent.
+And that low point was in October of 2010.
+We have not made any progress in that particular statistic.
+Participation rates, in particular, and employment-to-population ratios are particularly discouraging among younger and more disadvantaged groups.
+For example, young people between the ages of 16 and 24, during the strong growth of the late 1990s, had about a 60 percent employment-to-population ratio, and now it’s 45 percent;
+the employment-to-population ratio for teenagers is now 27 percent, a very significant decline from earlier numbers.
+So, there are encouraging signs for which we should be grateful.
+That gives me more confidence that the recovery is proceeding, notwithstanding some of the downside risks, December 14, 201073 of 127 particularly financial, that have been noted.
+But, again, we are starting from a very deep hole, and no one around the table that I heard is suggesting that we’ll be seeing rapid declines in unemployment.
+Rather, our hope is that economic growth will be sufficient to begin, at least, to set unemployment in the right direction.
+All that being said, I think that we still have risks in both directions on the economic growth front.
+I’m sure many of you around the table were here in the middle of 2003 when, after nearly two years of almost no progress from the 2001 recession, practically out of the blue in the third quarter of 2003 we had a 7 percent real growth rate followed by almost a 4 percent growth rate in the fourth quarter.
+<START>The factors leading up to that were increasing confidence, sustained monetary policy support, and a sense among producers that they were running out of room to increase productivity gains.<END>
+Suddenly, that all came together, and we began to see some significant progress, although hiring did lag economic growth by several quarters.
+Therefore, it’s entirely possible that we will see some stronger quarters going forward.
+However, we still remain close to the break-even rate, which I think of as the escape velocity of 2½ to 3 percent or so.
+<START>Given the risks that still exist in the banking sector in Europe and so on, we can’t rule out the possibility that we’ll fall back and suffer a further slowdown in growth.<END>
+On the inflation side, I don’t have much to add.
+<START>I think inflation remains quite well contained, and, indeed, if anything, the risks are still to the downside.<END>
+<START>Our LSAP program has been successful in raising inflation expectations and moderating the fear of deflation, which is a good thing.<END>
+I think that’s one of the reasons that confidence is better.
+The one issue that we had been concerned about when we discussed LSAPs last time was commodity prices, and commodity prices are up somewhat.
+But I have two observations on that.
+The first is that high commodity prices have not been associated with a dollar decline
+—they mostly reflect relative December 14, 201074 of 127 price changes and changes in real conditions.
+Evidence for that, the second observation, is that futures prices for oil and many other commodities have gone into backwardation, meaning that the expectation is that prices will be flat or down in the next year or so.
+To summarize, then, the broad contours of the outlook have not changed very much.
+Although I think we have somewhat more confidence in near-term growth, we are starting from a very deep hole, and we remain far from our objectives in terms of policy.
+I’d like to add a couple of comments about the assessment of the LSAPs so far.
+I agree with Governor Warsh that judgments at this point are very premature, and it will be quite a bit of time before we can say anything very definitive.
+Nonetheless, I agree with President Bullard that the best assessment of the evolution of financial conditions between the end of August and our last meeting has to involve a certain amount of monetary stimulus, and that includes the behavior of real rates, the dollar, the stock market, yields, spreads, etc. Again, I think it’s reasonable to attribute some of that to the markets’ anticipation of our actions, and, in turn, to their anticipation of some improvement in the outlook due to those changes in policy support.
+That being said, I would disagree with those who might suggest that we are in an excessively accommodative position.
+There are many different ways to measure policy accommodation, and, as Milton Friedman taught us, low nominal interest rates are only one indicator of policy accommodation.
+We have, of course, tried to do policy simulations, using policy rules, and the like.
+As President Kocherlakota pointed out, those depend on measured gaps, which are difficult to measure, so they have to be taken with a grain of salt.
+<START>However, our optimal policy simulation still suggests that we’re considerably above where optimal policy would be in the absence of the zero bound.<END>
+A simpler indicator
+—the real short rate
+—has risen by about a point and a half since December 2008, as we’ve been pinned at zero and as inflation December 14, 201075 of 127 has come down by about a point and a half.
+An indicator that I take to be important is nominal GDP growth
+—it was less than 1 percent in 2009 and is about 4 percent this year, and the Tealbook predicts it to be 4.7 percent next year.
+<START>It is very hard for me to imagine that we can have both a strong recovery and an inflation risk at the same time that nominal GDP growth is so constrained.<END>
+I put less weight on monetary aggregates.
+I think they are somewhat unreliable, given the changes in velocity.
+Still, M2 growth in 2010 is predicted to be about 3 percent, and for next year about 1½ percent according to the Tealbook.
+And then, of course, again, we see what is happening to inflation and inflation expectations.
+<START>Therefore, broadly speaking, given the depth of the recession and given how far we have to go, I think the evidence at least moderately favors the view that policy is not too accommodative, but that, to the extent it is accommodative, it has been somewhat successful in advancing our objectives.<END>
+When we discussed this policy last time, I promised we would continue to monitor the side effects
+—I know that has been a particular concern of President Hoenig.
+I think we need to keep doing that.
+<START>I didn’t mention that, as usual, we circulated the financial stability memos prior to the meeting, and we have been having regular meetings and discussions of financial stability.<END>
+Notwithstanding the point about land prices, there do not seem to be, in my judgment, any large growing imbalances on the financial stability side, but that’s obviously something we have to keep looking at.
+Inflation expectations remain about where they should be, and the dollar has not shown any indication of sharp decline.
+Again, I feel reasonably comfortable with the action that we took.
+<START>Notwithstanding the improvement in the outlook, I think that it was the right decision and that it remains appropriate given the depth of the decline in output and hours and the uncertainties that we still face going forward.<END>
+December 14, 201076 of 127 Let me stop there and turn to Bill English, who will introduce the policy go-round.
+MR.
+ENGLISH.2 Thank you, Mr. Chairman.
+I’ll be referring to the package labeled “Material for FOMC Briefing on Monetary Policy Alternatives.” The package includes the four draft policy statements and the associated draft directives.
+The changes to the statements that were distributed over the weekend have been incorporated into this package;
+so the language marked in red now denotes changes relative to the November statement.
+We have provided you with three alternative statements, A through C, that are similar in structure to the statement issued in November but that vary with regard to the size of the intended increase in the Federal Reserve’s securities holdings
+—$600 billion, as in November, under alternative B, $800 billion under alternative A, and $400 billion under alternative C. The staff estimates that the $200 billion increment employed between these alternatives would likely have macroeconomic effects broadly similar to those associated with a 25 basis point change in the federal funds rate target if the target rate were not at its effective lower bound.
+The final statement, alternative D, is quite different;
+in that case, the Committee would immediately cease adding to its securities holdings and would begin laying the groundwork for an exit from the current extraordinary degree of policy accommodation.
+<START>Turning first to alternative B, on page 3, the Committee may think that it is appropriate to continue with the asset purchase program announced in November in order to strengthen the recovery and move inflation back toward levels that it sees as consistent with its dual mandate.<END>
+Such a decision might reflect, in part, a desire to show a steady hand on policy and to await more information on economic and financial developments before making an adjustment.
+In addition, choice of this alternative would presumably continue to reflect three judgments:
+<START>First, despite the somewhat better economic data and the proposed fiscal agreement, that the economic recovery is not likely to be sufficiently strong to bring down unemployment at a satisfactory rate;<END>
+second, that additional purchases of longer-term Treasury securities will help support the recovery and move the unemployment and inflation rates toward the Committee’s objectives;
+and third, that the costs of additional purchases are not sufficient to outweigh those benefits.
+Under this alternative, the changes from the November statement are relatively minor.
+<START>In the first paragraph, they reflect the somewhat stronger growth now seen for the second half of this year, the ongoing weakness in the housing sector, and the continued downtrend in inflation.<END>
+In the third paragraph, the changes that we distributed Sunday were intended to make clear that the policy decision at this meeting was a routine update and restatement of the policy adopted in November.
+Other than that, the statement is virtually unchanged;
+it retains the language about “disappointingly slow” progress toward the Committee’s objectives, how “the 2 The materials used by Mr. English are appended to this transcript (appendix 2).
+December 14, 201077 of 127 Committee will regularly review” the asset purchase program, and the anticipation that “exceptionally low” funds rates will be appropriate for an “extended period.” Market participants generally expect today’s statement to update the Committee’s views on the economic outlook and to make no change to the asset purchase program announced in November.
+Thus, a statement along the lines of alternative B would probably have little effect on asset prices.
+The Committee may be concerned, however, that the run-up in longer-term interest rates over the intermeeting period could damp household and business spending significantly, and that the proposed fiscal agreement is likely to have only a modest and temporary effect on economic activity.
+If so, members might be inclined to increase the size of the Federal Reserve’s securities holdings by a total of $800 billion
+—$200 billion more than announced in November, as in alternative A, page 2.
+<START>Even if members think that the economic outlook improved noticeably over the period, they may still anticipate that unemployment will decline only very gradually.<END>
+Moreover, they may be concerned that underlying inflation has continued to trend downward, heightening the risk that adverse shocks could lead to deflation and a protracted period of extremely poor economic performance.
+<START>The description of the economy under alternative A would be quite similar to that under alternative B. But the second paragraph would note that measures of underlying inflation are “low,” not just “somewhat low,” and that progress towards the Committee’s objectives “remains disappointingly slow.” The third paragraph would note the larger increase in the size of the SOMA portfolio intended under this alternative.<END>
+And the fourth paragraph would provide more explicit forward guidance about the federal funds rate, indicating that the Committee anticipates economic conditions are likely to warrant exceptionally low levels for the federal funds rate at least through mid-2012.
+<START>Given the rise in market-based measures of the expected path for the federal funds rate and the apparent increase in uncertainty about future short-term interest rates, the firmer guidance included in alternative A could be seen as an effort to better align the markets’ policy expectations with those of the Committee.<END>
+Of course, this change in the forward guidance could be combined with one of the other alternatives as well.
+A decision at this meeting to increase further the intended size of the Federal Reserve’s securities holdings would come as a surprise to market participants.
+Combined with the strengthened forward guidance in paragraph 4, this announcement would promote a downward shift in the expected path of the federal funds rate and a reduction in longer-term interest rates.
+<START>Stock prices would likely rise, and the foreign exchange value of the dollar would likely decline.<END>
+These effects could be sizable, as market participants would likely read this decision as indicating a greater willingness on the part of the Committee to use asset purchases to provide stimulus than had been anticipated.
+<START>December 14, 201078 of 127 The Committee may have read the incoming data over the intermeeting period, as well as the proposed fiscal agreement, as suggesting a significantly stronger outlook for economic growth and employment and a reduced risk of further declines in inflation.<END>
+If so, members may want to reduce the intended size of the SOMA portfolio, as in alternative C, page 4.
+Indeed, if, in November, members had thought that the decision to add $600 billion was a close call, then even a modest improvement in the outlook could lead the Committee to mark down its assessment of the optimal size of the program at this meeting.
+Moreover, a slower pace of purchases could be seen as attractive because it would give the Committee a longer period during which it could adjust the size of the program in response to incoming information on economic and financial conditions before the purchase program is completed.
+A decision to slow the pace and reduce the intended size of the Committee’s securities purchases at this meeting would come as a surprise to market participants.
+<START>The result would likely be a further increase in longer-term interest rates, lower stock prices, and an increase in the foreign exchange value of the dollar.<END>
+These movements could well be sizable, given the sensitivity that the market has shown over the intermeeting period to prospects for asset purchases.
+Finally, the Committee may feel that, with the economic recovery continuing, and perhaps even strengthening, further monetary stimulus is likely to have costs that outweigh its benefits.
+In that case, members might immediately stop adding to the Federal Reserve’s securities portfolio and signal a less accommodative policy path in the future, as in alternative D, page 5.
+<START>That approach could seem particularly appropriate if members judged that much of the current elevated level of unemployment reflects unavoidable inertia in the reallocation of labor across sectors and regions, and so cannot be effectively addressed by additional monetary stimulus.<END>
+In addition, some members may also be concerned that continued extraordinary policy accommodation likely will lead to the development of costly macroeconomic or financial imbalances.
+<START>The first paragraph of the statement for alternative D notes that the recovery is proceeding and that the Committee expects a gradual return to higher levels of resource utilization in a context of price stability.<END>
+The second paragraph states that the Committee decided to discontinue the asset purchase program announced in November and suggests that the reinvestment policy could be changed soon as well.
+Paragraph three revises the forward guidance for the federal funds rate to indicate an earlier increase in short-term interest rates, and the final paragraph uses more neutral language to describe the Committee’s possible actions going forward.
+An announcement along the lines of alternative D would come as a very substantial surprise to market participants.
+<START>Interest rates would rise significantly across the yield curve, equity prices would fall sharply, and the dollar would appreciate.<END>
+December 14, 201079 of 127 Draft directives for the four alternatives are presented on pages 7 through 10 of your handout.
+Thank you, Mr. Chairman.
+That concludes my prepared remarks.
+CHAIRMAN BERNANKE.
+Thank you.
+Are there questions for Bill?
+President Lockhart.
+MR.
+LOCKHART.
+Bill, looking at alternative A, is it your sense
+—and I don’t want to put words in your mouth
+—that the market might see this as a sequence of steps?
+MR.
+ENGLISH.
+I’m not sure they’d see it as a sequence of steps, but I think they would see it as certainly opening the door to additional increases later on.
+CHAIRMAN BERNANKE.
+Other questions?
+[No response] Seeing none, we’ll start the second go-round.
+President Rosengren.
+MR.
+ROSENGREN.
+Thank you, Mr. Chairman.
+I support alternative B. With our announcement of the large-scale asset purchase last month, and with some additional fiscal stimulus likely to be approved before the end of the year, this is probably an appropriate time to assess the impact of these actions and to gauge whether the slow recovery embedded in most of our forecasts unfolds as expected.
+With little change to our forecast, which envisions substantial misses on both elements of our mandate through 2012 and beyond, it is difficult to imagine why we would not purchase all $600 billion of government securities.
+<START>Moreover, I remain concerned that disinflationary pressures may not abate quickly given the significant excess capacity in the economy and given that the recovery, such as we have experienced it to date, remains quite fragile.<END>
+<START>With core inflation estimates currently getting close to estimates of the inflation bias, I can easily envision circumstances in which we would want to expand our large-scale asset purchases next year.<END>
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Lockhart.
+December 14, 201080 of 127 MR. LOCKHART.
+Thank you, Mr. Chairman.
+I, too, support alternative B. I believe some patience in letting the effects of the new LSAP materialize is warranted.
+I would also say that in my view the reversal of the summer’s downward trend in longer-term inflation expectations represents an early sign of the success of our current policy course.
+Though I don’t feel any adjustment of policy is needed at this juncture, and though I am comfortable with the statement language as presented, I would favor in the coming meetings a more thorough discussion of the broad policy framework the Committee believes it has adopted and how it should be conveyed in the statements going forward.
+<START>In that regard, I would like to comment for a second in more detail about the language in alternatives A and C. Like others on the Committee, I think the policy concern of the moment is communication.<END>
+The reason I asked Bill English the question about the $200 billion change signaling potentially a sequence of adjustments on a more open-ended path is that it strikes me that A and C could be interpreted as a first step in a sequence.
+In that light, the language seems to signal a move toward an approach to policy that resembles the funds rate targeting approach when the zero lower bound did not pertain.
+In alternative A, for example, it has already been mentioned that an additional $200 billion might be viewed as roughly equivalent to a 25 basis point cut in the fed funds rate.
+In my mind, this asset purchase analogue to funds rate targeting adds two characteristics that the Committee might consider beginning to convey in statements.
+First, a sequence of similar moves is likely unless economic conditions change in some significant way.
+And, second, the total value to which the sequence of moves accumulates is left unstated, because that quantity is conditional on economic conditions.
+If this is not the policy framework we intend to communicate, then the language needs to be carefully constructed to avoid any confusion about our policy strategy.
+So I’d like to advocate that, whatever action we take next on the asset December 14, 201081 of 127 purchase program, we convey it choosing language that more openly reflects a deliberate Committee choice about our policymaking framework for the foreseeable future.
+I hope, therefore, that at the next meeting we might devote a little time to discussion of our policy framework options and the content of communications that would convey them and support the effectiveness of the chosen approach.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+President Lockhart, by “framework” are you thinking about the broader issues we talked about in the teleconference, like an inflation target?
+<START>Or do you have a more narrow idea?<END>
+MR.
+LOCKHART.
+<START>I have, in some respects, a more narrow idea.<END>
+I think some of the debate over time has been about a discretionary versus rules-based approach, so it’s that tension that I have in mind.
+To explain what I mean, I describe our approach today as involving meeting-by-meeting reviews that result in decisions around a fairly large asset purchase program that is closed-ended, in the sense that a final cumulative target for purchases is explicitly stated.
+In contrast, it has been suggested before that the Committee adopt an incremental approach with the cumulative purchase target left open.
+So that’s what I am trying to convey.
+CHAIRMAN BERNANKE.
+I understand.
+Thank you.
+President Plosser.
+MR.
+PLOSSER.
+Thank you, Mr. Chairman.
+I can accept “no change” in policy at this time as reflected in alternative B. In my remarks before this Committee six weeks ago, I expressed reservations about embarking on a second round of long-term asset purchases.
+A significant concern was, and it continues to be, in my mind, that the benefit of further LSAPs is likely to be too small to justify the cost and the risk associated with further expansion of the size of our balance sheet.
+<START>While I still hold that view, it would be difficult to reverse course at this December 14, 201082 of 127 juncture.<END>
+However, I do take seriously the Committee’s promise to reevaluate our policy on a regular basis and to adjust it as appropriate in the coming months.
+I would like to take this opportunity to discuss briefly how I think about evaluating the LSAP program going forward.
+First and foremost, I would like to reemphasize that there are significant economic and political risks that stem from the inflated size of our SOMA balance sheet.
+The economic risk is that we may find it harder to control inflationary expectations when the economy goes into full recovery mode and we have possibly upward of $1.5 to $2 trillion of excess reserves sloshing around in the banking system.
+Our reserve-draining tools are untested for large operations, and I’m concerned that they may not be as effective as we currently anticipate.
+<START>I continue to believe that asset sales will need to play a significant role in our exit, but I’m concerned that political criticisms will make both sales and increases in interest rates difficult to execute in a timely fashion, thus increasing the risks of falling behind the curve.<END>
+Moreover, by increasing the amount of excess reserves by about 50 percent, we increase the risks of falling behind the curve.
+To be clear about what political criticisms I’m worried about, consider the consequence of raising interest on reserves.
+With $1.5 trillion of excess reserves, a 100 basis point increase in the IOER rate, which could easily occur over the course of a year sometime in the future, represents a transfer of about $15 billion from the U.S.
+Treasury to the banking system.
+At a time when the government faces large deficits and the Fed is already vulnerable to intense criticism regarding its treatment of the financial sector, I’m concerned that this redistribution will lead to accusations that the Fed is continuing taxpayer bailouts of our largest banks.
+Such criticism, I fear, will find further ground because the volume of excess reserves is highly skewed towards a few of the largest institutions.
+This potentially politically unpopular redistribution will December 14, 201083 of 127 also happen as we use our reserve management tools when we have to pay banks more in IOER to sequester the reserves using reverse repos or term deposits.
+<START>Of course, this does not mean that we should back away from using these tools, and I believe we should use them when the time comes, but I think we must be cognizant of the potential cost, namely, the risk to the institution and our independence of managing such an overly large balance sheet going forward.<END>
+<START>The key challenge, therefore, is not whether we can raise interest rates in draining reserves, but whether we’ll be willing to do so at the appropriate time.<END>
+<START>Will we be reluctant to act out of fear of criticisms that might endanger our independence?<END>
+<START>Of course, that’s not the language we’ll use, but we’ll say we choose to delay because of headwinds, a fragile economy, and this will lead to a prolonged “wait and see” attitude by the Committee and its approach to policies, and we will risk acting too late.<END>
+If we do fall behind the curve, we may find ourselves needing to reduce the size of our balance sheet very rapidly to contain inflationary expectations.
+This may necessitate a large increase in real interest rates with potentially negative effects on real activity and rising inflation.
+At the end of the day, we will have contributed to greater, not less, instability in the economy.
+Given these concerns, I strongly believe that the economic forecast remains similar to what the December Tealbook looks like.
+Our goal should be to implement orderly reductions in the sizes of our balance sheets sooner rather than later.
+<START>Given our current forecast, this makes me less inclined to support policy accommodations that involve adding to our already swollen balance sheet and more inclined to support recommendations that involve reducing the pace of LSAPs and ultimately resulting in the sale of assets.<END>
+That said, I wish to reiterate my remarks from six weeks ago regarding the best way to manage our LSAP program.
+First, we need to be clear about the expected transmission December 14, 201084 of 127 mechanisms with these purchases.
+In my view, the main impact we seek is on inflationary expectations and real interest rates.
+<START>Yet our communication does not distinguish between real and nominal interest rates in the long-term Treasuries, and we continue to tie the effectiveness of LSAP to near-term paths and the unemployment rate.<END>
+We know very little about how any given LSAP purchases affect demand and supply conditions in the labor market.
+By not being clear about what we expect LSAP to accomplish, I think we risk damaging our credibility.
+Second, we need to convey what we’re conditioning the LSAP policy on.
+I worry that the tone and emphasis of our language and our communications more generally may ultimately back us into a corner.
+We seem to be increasingly stressing the level of the unemployment rate as the most important factor determining policy.
+<START>If we shift our focus from the level of unemployment to changes in it, that would be an improvement.<END>
+<START>But we still seem to be suddenly deemphasizing real economic growth and inflation or inflation expectations as important conditioning variables for policy.<END>
+This shift, I believe, is subtle but potentially dangerous.
+<START>It is a mistake because it risks creating the expectation that the Committee will delay tightening until the unemployment rate achieves some desirable level.<END>
+That would make it even more difficult for us to act in a timely manner.
+So I’ll be focusing going forward on improving economic growth rates of real GDP as well as changes in the unemployment rate, not the levels of these variables.
+<START>Many of us around this table have noted previously that we will have to begin to withdraw accommodation well before unemployment reaches acceptable levels or the perceived output gaps are closed.<END>
+Let’s not let subtle changes in our language make that task any more difficult than it will already be.
+Finally, I would strongly advocate that we revisit our earlier discussions regarding exit strategies.
+If fully carried out, LSAP2 will increase reserves by about 50 percent, which is a December 14, 201085 of 127 pretty big increase.
+I think we need to know before it’s time to begin the exit if these additional reserves will have any material consequence for how fast we will need to sell, or will be able to sell, assets or raise the funds rates and what we anticipate the consequences of those actions will be.
+We had a very fruitful discussion about this earlier this year, and I think revisiting that discussion in light of the expanded balance sheet could be a useful exercise.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Lacker.
+MR.
+LACKER.
+Thank you, Mr. Chairman.
+I still oppose the asset purchase program we decided on at the last meeting.
+<START>So I personally would favor scaling the program back as in alternative C. However, I can understand why those who supported the asset purchase program at our November meeting would be reluctant to back off right now.<END>
+<START>The economic outlook has improved somewhat since the last meeting, but probably not enough to convince many of you to switch camps.<END>
+So I won’t bother trying to persuade you to do so.
+What I would like to do is to make some comments in anticipation of discussions we may face at upcoming meetings in the new year in light of what’s happened in the last couple of weeks to the long rate, and this is by way commenting on essentially our reaction function.
+An intermediate objective of our asset purchases was to reduce longer-term rates.
+So the recent increase in those rates presents us with something of a problem, which we may face fairly often going forward, namely, how should we react to increases in long rates.
+The answer depends on just why long rates go up, obviously.
+As a general matter, if long rates are driven up by a rise in inflation expectations to levels above those consistent with price stability, I think we would all agree as a matter of principle that monetary policy should shift to a less accommodative stance.
+In the present case, obviously, the rise in nominal Treasury yields since the November FOMC December 14, 201086 of 127 meeting has been virtually all real.
+Inflation expectations haven’t risen much over that time frame, although they did rise between September and November.
+<START>If long rates are driven up instead by a significant strengthening in the economic outlook, we should applaud that strength and simply point out that higher expected growth requires higher real interest rates.<END>
+If we got enough strengthening, that would indicate that monetary stimulus should be scaled back, but, in any case, I don’t see a reason why additional economic strength would warrant additional stimulus.
+As I said before, I think the strengthening in the outlook has been modest so far.
+So it is unlikely to have been the only reason for the run-up in yields.
+<START>A third possibility is a little more disturbing, and it is that long rates are driven up by increasing fears about long-run fiscal balance, in other words, that future debt issues are expected to crowd out private investment and drive up real rates.<END>
+The rate response to the announcement of the tax deal certainly suggests that anticipated fiscal implications could have contributed to the recent rate increases.
+In this case it would be clearly inappropriate for us to try to counteract the increase in rates with an expansion in our purchase plans or by avoiding a reduction in our purchase plans that we would otherwise have been inclined to make.
+Now, I believe we would want to be clear that we will not alter policy to accommodate a deficit-driven increase in Treasury rates.
+I think there are dangers in the other direction, as well.
+<START>In the perhaps unlikely event that the Congress and the Administration move forward next year to substantially reduce the path of future federal deficits, we may be pressured to keep federal financing costs down.<END>
+Moderate long-term interest rates, after all, are one of our three supposed mandates.
+<START>Obviously, we would want to resist that, but we could find ourselves being perceived as thwarting the Congress’s attempts to resolve the nation’s fiscal problems.<END>
+December 14, 201087 of 127 I want to point out that the broader point is essentially the one that Eric Leeper was making at the Jackson Hole conference.
+Eric and Chris Sims and many others have been making the same point for many, many years, and it’s about the danger of letting monetary policy slide into a stance of passively accommodating fiscal policy, which, in our current case, is at significant risk of being dysfunctional.
+Eric Leeper argued that even before we switch to a sort of passive mode, expectations that such a switch might occur in the near future or even several years down the road could well have inflationary consequences today.
+Indeed, the story of monetary policy in the late 1960s, a period when inflation drifted upward unchecked, is largely about monetary policy becoming subservient to fiscal policy.
+<START>I think this could be a real problem for us soon if the public perception of a politically weakened Fed leads markets to question our willingness to act independently of fiscal policy.<END>
+<START>I know these dangers are well understood by this Committee, but I think it’s going to be useful to try and anticipate how we would respond publicly should that challenge face us in the future.<END>
+Thank you very much, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you for the comment.
+<START>I think I’m being only partly facetious if I reply to you and President Plosser that if our goal is to curry political favor, we’re not doing a very damned good job of it.<END>
+[Laughter] President Bullard.
+MR.
+BULLARD.
+Thank you, Mr. Chairman.
+I have argued that the financial market effects of asset purchases were substantial prior to the November meeting.
+I expect that the effects on real variables, such as consumption and investment, follow with a lag of one-half to one year.
+will The 2011 outlook is indeed improving, but it’s too early to come to any policy conclusion based on that.
+This would be similar to the real effects of monetary policy easing estimated, for instance, by Frank Smets and Raf Wouters, or possibly Christiano, Eichenbaum, and Evans.
+Inflation expectations have increased, according to the five-year TIPS measures, as many December 14, 201088 of 127 have discussed in the run-up to the November meeting, and remain higher today than they were during the summer.
+One thing about the five-year measure is that I think we should be able to hit our implicit inflation target over a period as long as five years
+—that has usually been a goal of the Committee, so I think that’s a reasonable expectation.
+Still, actual core inflation measures are low, as many have pointed out
+—measured from one year ago, nearly all inflation measures are below 1 percent.
+This is a concern to me
+—I would like to see this disinflation trend turn around.
+Until it does, I would advise remaining with the current course of asset purchases.
+Therefore, for today I support alternative B. I suggest one minor change.
+I would omit, as I have argued before, explicit reference to the $600 billion figure.
+We could interpret the $600 billion as a form of forward guidance based on current forecasts of the Committee, but I think it’s an inferior way to give forward guidance and unnecessary.
+I think that a big figure like that lumps us in with other types of stimulus programs that have been enacted over the last couple of years, when, in fact, this is ordinary monetary policy, the purchase and sale of Treasury securities.
+So instead I would simply state that the pace of purchases would be at $75 billion per month and that we are likely to continue this pace of purchases through the second quarter of 2011, and then I would let the financial markets do the math
+—they’re supposedly good at doing the math.
+In a way, that would be no real change, but it would have, to me anyway, some advantages going forward.
+We can and probably will adjust the program on the dimension of the pace of purchases, that is, we might slow or increase the pace of purchases, and we might adjust the program along the dimension of its length, so that we could say, for example, that we’re going to continue through the third quarter or only through April or something like that.
+So those are the two dimensions we’re likely to change, and we can do so without putting the big December 14, 201089 of 127 number in the statement.
+I think that might be a bit helpful at this juncture.
+I think it would also help to reinforce that the program is, indeed, adjustable and state-contingent and, above all, that monetary policy is a continuous process, not a series of temporary actions.
+I think it would also help to eliminate the talk of QE3 and QE4 that is reverberating around financial markets and instead get markets to think in terms of a policy rule for the Committee.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Hoenig.
+MR.
+HOENIG.
+Thank you, Mr. Chairman.
+As I listened to the discussions today during the first go-round, it does appear that many have revised up their forecast, as I have.
+<START>I also expect inflation, as others have said, to start low, but I do expect it to increase slowly over time.<END>
+I join those who would like to see immediate stronger growth and lower unemployment.
+<START>I continue to judge that additional monetary stimulus carries more long-term risk than short-term advantage to our economy.<END>
+The economy is undergoing a major and necessary rebalancing that includes the deleveraging of consumers, financial institutions, and state and local governments.
+The process will take time, and shortcuts are costly.
+With the amount of stimulus in place and the extended size of our combined balance sheets, the effect on expectations, confidence, and asset prices will be significant once we initiate or hint at initiating an exit involving even the most modest steps from our current highly, in my opinion, accommodative policy.
+Thus, the process of exit from an accommodative policy will be a major challenge, far more so than we’re willing to acknowledge today, in my opinion.
+It starts from the very fact that we are easing into an improving economy because unemployment is too high.
+<START>Then there would be the obvious concern that, as we start to raise interest rates, the initial downward effect on asset prices and December 14, 201090 of 127 financial activity will be outsized.<END>
+The markets will despair.
+As a result, I suspect pressure for the Committee to delay its exit from current policy will be significant.
+I suspect the challenge will only increase for the Committee going forward from here.
+I’m already hearing today that we can’t change because we’ve set this path for ourselves.
+The funds rate is near zero.
+Our balance sheet is growing, approaching $3 trillion, and excess reserves are approaching $1.5 trillion.
+<START>Accordingly, the longer the Committee delays in preparing for exit, the greater the difficulty of doing so in a timely manner, increasing systematically the likelihood that it will inadvertently invite future imbalances in inflation impulses because of the delay.<END>
+Mr. Chairman, you mentioned 2003, and I remember it well.
+We talked a lot about not wanting a repeat of Japan, being afraid of deflation and not having enough inflation.
+<START>So the Committee delayed, held back.<END>
+Unemployment was too high at that time, at 6½ percent.
+I worry about our focus on unemployment even though I’m as concerned about it as you are.
+And when we exit, we’ll require time, I realize.
+Nonetheless, we should begin that long process now.
+We first should adjust talk of the need for further monetary stimulus.
+We should indicate that sufficient stimulus is in place to attain over time long-run potential growth for the economy.
+It won’t come quickly, but it will come.
+We also need to reopen our dialogue about an exit strategy so that we don’t shock the market as we move forward from here.
+Of the options presented, I would take some combination of C and D, but I won’t go into that, because I know that’s not on the table today.
+But I will, in summary, say that I believe that our current highly accommodative monetary policy is inconsistent with our long-run mandate in an economy that is recovering and shifting from transitory, I think, to sustained sources of growth and picking up some speed.
+<START>To maintain such a highly accommodative policy in this December 14, 201091 of 127 economic environment increases the risk of imbalances developing in the longer term and the risk of longer-term inflation expectations necessarily rising over time.<END>
+We need to begin shifting our language to regain policy flexibility and avoid locking ourselves deeper into a long-term policy position that is becoming in my opinion, of course, increasingly difficult to reverse in a timely fashion with each additional step over the next six months.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Evans.
+MR.
+EVANS.
+Thank you, Mr. Chairman.
+I support alternative B. Nothing has changed sufficiently since our November meeting to suggest any other course of action.
+Inflation is too far below our mandate and resource slack remains very large, and I don’t see either of these conditions changing very soon.
+Risk aversion is still holding back spending.
+Businesses continue to accumulate cash rather than undertake expansionary investment activities or increase staffing.
+Households remain cautious in their spending plans and are further reducing debt.
+Lower real interest rates would reduce incentives to save and expand demand.
+However, we can’t get there now through lower nominal rates because of the zero lower bound.
+We continue to be mired in what I refer to as a liquidity trap.
+<START>Reducing real rates now would require inflation moving up closer to our mandate levels.<END>
+<START>It is disappointing that longer-term Treasury rates have risen so much since we last met, but it seems clear that these increases reflect nonmonetary events as well as reduced expectations for monetary accommodation.<END>
+Others have spoken on this, so I’ll let those comments stand.
+<START>It seems clear that reducing our intended Treasury purchases now would only add to these negative influences in an unhelpful manner.<END>
+So I do support alternative B. December 14, 201092 of 127 With the risks that we face and the magnitude of our shortfalls, it will be important to continue evaluating our current programs and policies.
+So I certainly agree with other comments on this matter.
+As I look at 2011, I see we have several tools that could provide additional monetary accommodation if that proved to be necessary, and we are using two of them now.
+I think the most powerful one is the FOMC’s commitment to keep short-term interest rates low for an “extended period” of time.
+Stating that commitment more explicitly with a likely calendar date could be a helpful boost, if that were necessary, as in alternative A. A second tool is our larger balance sheet.
+It also signals a firm commitment to low interest rates as necessary relative to our dual mandate objectives.
+We can add a third tool:
+Strengthening our commitment to an explicit inflation objective would be an additional instrument to signal the future path of policy.
+President Plosser’s concerns about too much emphasis on the unemployment rate could be addressed in part by stating our inflation objective more explicitly.
+I think it would be easier for us to navigate how much weight we’re putting on those two channels.
+<START>We would still disagree, perhaps, on where we stand, but I think that that would be, on balance, beneficial.<END>
+And fourth, it would be helpful to be willing to entertain having inflation at times come in slightly above our mandate.
+<START>This would be a natural feature of an unbiased policy based on symmetric losses about our inflation objective.<END>
+I personally worry a bit about the language that has been used
+—“our goal is 2 percent or a bit less”
+—which perhaps suggests that 2 percent is a ceiling on inflation, and that could add additional policy cost.
+I’m just not sure how people are interpreting that, and it bothers me a bit.
+I think it would be useful to discuss that at some point.
+<START>The Tealbook box on policy commitment and discretion is instructive on this issue about inflation rising a bit above 2 percent for a period of time.<END>
+<START>When policy commits to achieving its goals by keeping interest rates low December 14, 201093 of 127 for an “extended period” and allowing inflation to go very modestly above the 2 percent objective, while not exceeding 2½ percent, the growth and inflation outcomes are better in those economic analyses.<END>
+<START>Finally, a number of people have mentioned political risks, and I agree that those exist.<END>
+Will we be afraid to take further actions due to this criticism?
+<START>I think this cuts both ways, and I’m not really sure how to evaluate these concerns about policy risk.<END>
+I prefer to think about it on the merits of what the economy needs and take the heat that we’re supposed to take when that’s the best action.
+All that said, I find alternative B to be an acceptable policy today, although I think it has a stiffer dose of hope than I really prefer.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Pianalto.
+MS.
+PIANALTO.
+Thank you, Mr. Chairman.
+I support alternative B. The data since the last meeting haven’t changed my outlook substantially, and I see little evidence of any significant financial market problems following our announcement of additional asset purchases.
+I favor a fairly high hurdle to make changes to the program.
+In other words, it would take a surprising change to the outlook for inflation or output to cause me to want to make an adjustment to the announced program.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+First Vice President Moore.
+MR.
+MOORE.
+Thank you, Mr. Chairman.
+I’ll be very brief.
+<START>I, too, favor alternative B. I recognize that our eventual withdrawal of accommodation will, indeed, be challenging, but it seems to me that the fundamental fact for policy at this time remains that we’re likely to continue to fall short on both of our mandates, not just for a short period of time, but for the next several years.<END>
+Our announced asset purchase program is by no means a magic bullet, but it provides a December 14, 201094 of 127 nudge, if not a push, in the right direction and will provide some insurance against downside risk to the economy and inflation.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Kocherlakota.
+MR.
+KOCHERLAKOTA.
+Thank you, Mr. Chairman.
+I am in favor of alternative B, but I would like to expand on that to talk about what we should be doing in the next few months.
+I’m going to talk first about how we should structure further accommodation or tightening, and then offer some tentative thoughts about appropriate conditionality.
+When thinking about further easing, I find it useful to return to the three tools that you, Mr. Chairman, outlined last August in Jackson Hole:
+the LSAPs, forward guidance, and the IOER.
+I would recommend against doing another LSAP for a couple of reasons.
+As I suggested in October, I think that we have relatively little control over its effects.
+Its ultimate impact depends on the accumulated stock of purchases that markets expect us to undertake, and that dependence combined with its relative novelty leaves us at the mercy of outside influences.
+Indeed, even tweets from former governors of Alaska can end up affecting those expectations.
+[Laughter] I like the other two tools better.
+The staff’s analysis on pages 7 and 9 of Tealbook Part B indicate to me that forward guidance can be an effective way to provide further accommodation.
+I think President Evans spoke quite eloquently about that in his remarks.
+The work in the Tealbook is based on the FRB/US model, but it seems to me that forward guidance would emerge as a useful response to the zero lower bound in any economic model in which agents are somewhat forward-looking and the central bank is, in fact, capable of commitment.
+These statements I’m making about the efficacy of forward guidance do not necessarily apply to the LSAPs, which do not have that same effectiveness in a wide class of economic models.
+December 14, 201095 of 127 I also like the idea of cutting the IOER rate, as President Plosser suggested last time.
+Now, I have to say that cutting the interest rate on excess reserves by 25 basis points is likely to have only a slight effect on the economy, but it would have the additional benefit of solving what I’m becoming convinced is a big communication problem for us.
+When I give speeches, I’ve found that the public has a hard time understanding why we’re paying a positive interest on bank reserves when we’re trying to stimulate the economy.
+<START>They see a positive IOER rate as a sign that we’re willing to subsidize the banks even at the cost of not fulfilling our dual mandate.<END>
+So I think that in addition to providing some stimulus, it would have an effect of helping solve this communication issue.
+Having given some of my thoughts on the easing front, let me turn now to the tightening front.
+My recollection is that last spring we reached a tentative consensus, though certainly not unanimity, on how to proceed in tightening.
+I think it’s a good idea to reopen that conversation, as Presidents Lockhart and Hoenig have suggested.
+My recollection of that consensus was that we should begin by draining reserves, then raising interest on excess reserves, and then beginning asset sales.
+I was happy enough with that consensus
+—I can be flexible about how we would order things.
+I’ve heard some suggest that we could tighten by using the regular review process in alternative B to curtail our announced LSAP, but I don’t think that’s consistent with my recollection of our tentative consensus about the structure of tightening.
+So I don’t think of the regular LSAP review process as being the right way to initiate tightening.
+Instead, I view our statement in November as being a strong commitment to buy $600 billion of longer-term Treasuries over the next eight months.
+<START>I’ve thought of the regular review process as necessary, given that we don’t really know the full range of downside risks of LSAPs because of their relative novelty.<END>
+For example, I thought there was a possibility, though not a high probability December 14, 201096 of 127 one, that the dollar could have fallen to 50 euro cents, and, if it had, then I think we all would have wanted to curtail the LSAP.
+I thought the regular review process was a way to make clear to markets and the public as a whole that we stood on guard against such possibilities.
+Having talked about easing and tightening, let me turn to conditionality.
+As I mentioned in the first go-round, my preferred estimate of the output gap is near minus 4 percent, rather than the Tealbook estimate of minus 6½.
+If I take that number and plug it into the Taylor 1999 rule on page 37 of the Tealbook Part B, I get something like minus 180 basis points.
+So let’s call it between minus 150 and minus 200.
+Now, our target rate is between zero and 25 basis points and can’t be negative.
+But suppose we assume that markets expected the accumulated stock of the Fed’s purchases of long-term Treasuries will grow to be around $2 trillion.
+The staff estimates in the last Tealbook would translate those $2 trillion of purchases into a reduction in the fed funds rate of 250 basis points.
+All of this obviously has confidence bounds around it, but anyway, that would be the translation.
+<START>So, if you put that plus 25 basis points of our current interest on excess reserves rate together with the reduction of 250 basis points, we get a policy stance right now of negative 225 basis points.<END>
+It’s a little low for me compared with my minus 180, but in the right ballpark, I would say.
+So going forward I don’t believe we should be adjusting policy to every change in the output gap or realized inflation.
+I view it as being a little less continuous perhaps than President Bullard sees it.
+But I do think we should be adjusting policy to sufficiently large changes in the output gap or realized inflation in either direction, and I’m thinking right now that those would be changes in the range of somewhere between 100 to 150 basis points.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Yellen.
+December 14, 201097 of 127 MS. YELLEN.
+Thank you, Mr. Chairman.
+I support alternative B. I think we should stay the course on the policy we announced in November and make minimal modifications to our statement.
+We said that we intend to purchase $600 billion in additional Treasury securities by mid-2011.
+This decision is subject to review, but I think the bar for stopping short of $600 billion should be set pretty high.
+One relative consideration is whether the outlook has changed substantially.
+<START>I think the answer is “no.” Inflation is still below the levels we consider consistent with our dual mandate, and it’s continuing to trend down.<END>
+Inflation surprises during the intermeeting period have been on the downside.
+Unemployment is even higher than we anticipated it in November, although other measures of labor market performance suggest ongoing but very gradual recovery.
+<START>The outlook for growth in 2011 is slightly stronger due to the fiscal stimulus, but that stimulus is temporary, and the changes on balance are only marginal.<END>
+Some downside risks to the outlook have abated, but others have increased.
+On balance, I still consider the risks weighted to the downside.
+<START>So the value of the program in providing insurance against downside risk, something that’s especially important in the neighborhood of the zero bound, remains, in my view, a valid rationale.<END>
+A second consideration is whether potential risks associated with the program appear to be materializing.
+Again, I think the answer is “no.” In particular, inflation expectations have not become unhinged, and the program has not generated noticeable flight from the dollar.
+The third consideration is whether asset purchases are actually efficacious in stimulating the economy.
+Here the incoming data strengthen my view that they are.
+We saw very significant movements in longer-term Treasury yields and equity prices between Jackson Hole and the November FOMC, and those seem clearly to have been conditioned on market expectations of the program.
+That market response was consistent with the key assumption on December 14, 201098 of 127 which the program was premised, namely, that relative supplies of securities of different maturities matter to the structure of yields and term premiums.
+Of course, we’ve seen an enormous run-up in longer-term nominal and real yields since the announcement.
+Strong data do appear to explain part of the backup;
+end-of-year positioning and convexity hedging likely also played some role.
+But I agree with Brian and the staff that a significant contributor was the scaling back of market expectations about the likely size and duration of the program.
+The evidence suggests that criticisms of the program and the ensuing political backlash contributed to this adverse market reaction and, at the same time, raised the degree of uncertainty concerning longer-term rates and Fed policy.
+Higher risk premiums due to increased uncertainty may also be pushing up yields.
+These market responses are unfortunate, but they serve to strengthen my view that asset purchases do matter in influencing financial conditions.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Warsh.
+MR.
+WARSH.
+Thank you, Mr. Chairman.
+Given where the Committee finds itself today, I can accept alternative B. Let me just make a couple of brief comments.
+First, I’m comforted by the Committee’s commitment to subjecting the asset purchases to regular review, but I don’t think that that means that at every meeting we should be tweaking or micromanaging the asset purchase amount.
+I think that, in all likelihood, the most important policy judgment this Committee will face next will be what to do after June.
+Obviously, we’ll have to debate that well in advance of the end of the $600 billion purchases, but that is where the action is.
+During the intermeeting period, there were some interpretations of market chatter about whether this Committee would fulfill its stated goal of purchasing $75 billion of Treasuries a month and live up to the $600 billion headline number.
+I think that is a serious misreading of December 14, 201099 of 127 what the market chatter and questions were about.
+Markets have wondered during this period whether we would be doing more once the QE2 program ends.
+That continues to be their question.
+As a result, I think we should be very careful about not prejudging that question.
+<START>It will be tempting, particularly in the new year, as we’re all speaking and communicating to markets and giving our assessments on the economy, to put a thumb on the scale showing a bias, describing what we’re comfortable or uncomfortable about.<END>
+<START>I think we’d be making a serious mistake by starting to influence what the asset purchase profile or other policy options that Narayana talked about might be once that period arrives.<END>
+<START>I think we would do ourselves far greater favors by not being terribly newsy on what happens thereafter, and by being reasonably stealthy about what our dispassionate analysis is yet suggesting, giving it more time.<END>
+And so what should we be doing during the period of January, February, and March?
+My vote would be to describe what policy actions more broadly could be done by the U.S.
+government to help the economy grow at the level that we would all hope.
+<START>So that’s a hope and an expectation, because I worry that we could otherwise fall into a trap of again trying to make news in the winter when we really aren’t yet, at least in my view, in a position to be making any final decisions on what would happen in the post-June period.<END>
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Duke.
+MS.
+DUKE.
+Thank you, Mr. Chairman.
+It’s very difficult for me to determine what the effect of the $600 billion purchase announcement has been.
+I confess I don’t see the success of the program, but I don’t see evidence of heightened risk either.
+<START>I never expected big results, but now I suspect that whatever the actual results of the purchases themselves were has been swamped by the uncertainty over the size of the program, given the public debate over our policy, including communications highlighting the differences of opinions on the Committee, as December 14, 2010100 of 127 well as a surprisingly, to me, anyway, vocal outcry from economists, politicians, and foreign officials.<END>
+Nevertheless, the near-term outlook is slightly stronger now than it was at our last meeting.
+<START>I don’t know whether the positive surprises occurred because, as it turns out, we were just going through a soft patch anyway, or whether the lower rates and higher stock prices we experienced between Jackson Hole and our last meeting were already having beneficial effects or whether something else was at work.<END>
+But I do know that right now our immediate economic future looks a bit brighter.
+So I think we should hold very, very still and let whatever is helping continue to work, and I support alternative B. CHAIRMAN BERNANKE.
+Going to play possum.
+[Laughter] Thank you.
+Governor Tarullo.
+MR.
+TARULLO.
+Thank you, Mr. Chairman.
+I support alternative B as well.
+For the reasons stated by Narayana and Kevin, I wish that it communicated rather more precisely than I think it does what the threshold for a change in our intended path ought to be, but it’s 12:35 p.m., and if we get into a discussion of that, we’re not likely to finish in a timely fashion.
+I would also reinforce Kevin’s caution about the impact of “FOMC chatter.” We used to refer to that as what other people said about the FOMC.
+Now it’s the FOMC itself that seems intent on chattering continuously in a way that I just don’t think is helping communications or the integrity and external perception of this Committee.
+That’s it.
+Everything else looks fine.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Raskin.
+MS.
+RASKIN.
+Thank you, Mr. Chairman.
+I would support alternative B. I also believe that the verdict on our latest round of LSAP purchases is still out.
+I’m discouraged by the rise in December 14, 2010101 of 127 the longer-term yields since our last meeting but am well aware that there’s no way of knowing where yields would have been if we had not acted.
+At the very least, we’ve learned that the communication of monetary policy is as critical to the conduct of monetary policy as is the actual decisionmaking.
+I think more work has to be done in identifying up front the various audiences of our actions with an eye to considering how to tailor the message of our policy decisions.
+Regardless of the ultimate verdict on this round of large-scale asset purchases, I think it would be premature to reverse last month’s decision.
+I believe it has been somewhat successful in moving us towards meeting our dual objectives.
+In any event, the fact that there is a significant hole to dig out of suggests the need for no reversal.
+In addition, and significantly, such a reversal would, at the least, cause confusion and could well threaten the Fed’s credibility.
+Thanks.
+CHAIRMAN BERNANKE.
+Thank you.
+President Fisher.
+MR.
+FISHER.
+Thank you, Mr. Chairman.
+Governor Raskin just sort of took the words right out of my mouth.
+I am not a fan of QE2, as you know.
+I would balk at expanding it.
+I see no economic justification, and I think it would be politically suicidal to do so.
+That’s a little bit less erudite and academic than your presentation, President Kocherlakota, but I’m happy not to hear anybody advocate for alternative A. I was going to suggest that, if they were, they had been living on Pluto and then I’d remind them that Pluto is no longer part of the official planetary system.
+[Laughter] At the same time, I think it would be a mistake to pare it back at this juncture.
+<START>The strong economic growth that my staff and I envision has not yet been confirmed by the data, and I think December 14, 2010102 of 127 correcting course after making the very tough decision that we made at the last meeting would make us look extremely indecisive and make us quite vulnerable.<END>
+<START>Now, I want you to bear with me for a minute here because I’m sympathetic to many of the arguments that President Hoenig and others have made.<END>
+<START>At the last meeting I attempted to provide a sober assessment of the possible costs that should at least be considered alongside the surmised benefits of the LSAP, and I expressed skepticism about what likely happened on the foreign exchange front and warned about speculative activity in stocks and commodities.<END>
+<START>I believe I used the term “monetary kudzu,” something that would be very difficult to cut back long term, and I concluded that we could possibly be prescribing the wrong medicine at the wrong time given the economic circumstance.<END>
+<START>But the most worrisome to me, as I stated, was the cost of possibly placing our quasi-independence in jeopardy, and I said that we know that once the central bank is perceived as targeting government debt yields at a time of persistent budget deficits, the concern about debt monetization quickly raises its ugly head, and I went on to say I expect the propensity to draw that conclusion has been enhanced by this congressional election<END>
+—that we’d be waving a red flag in the face of those who are our most volatile critics.
+So I wasn’t surprised, Governor Duke, at the reaction that we received.
+<START>Now, I made my best arguments.<END>
+The Committee decided to pursue a course.
+There were others who made similar arguments, but the Committee made a decision.
+<START>When I was an undergraduate I was disappointed not to receive a scholarship, and a friend of mine, who became a well-known folk singer named Tom Rush, gave me a great lecture about making the best of a bad situation.<END>
+I’ll summarize it and clean it up a little bit, but I think it gets to the point.
+<START>December 14, 2010103 of 127 He told me a story about a neighbor who would go to work every morning, very diligent, and 10 minutes after he left, the milk truck would pull up and the neighbor’s wife would come out in her kimono, and the milk truck driver would kiss her on the cheek and go into the house and come out two hours later.<END>
+<START>It bothered the heck out of Mr. Rush, so he went up to his neighbor, and he said, “You know, it’s none of my business, but I want you to know what’s going on.” And the neighbor said, “Well, yeah, but look at it this way.<END>
+<START>We’ll never run out of milk or cottage cheese or yogurt.” I think we need to make the best of this situation.<END>
+The people who did voice concern mainly were coming not from theory, but from the marketplace or from the real economy.
+Remember that, in theory, theory and reality are the same, but in reality they’re not the same, and we have to be driven by the reality that we hear from people who come from financial market backgrounds or from the real economy or from the Districts.
+I hope that one byproduct of making the best of the situation is weighing very carefully the input from the Banks and the Districts, as well as the theory that we try to put into practice.
+I would also say that we must not make the situation worse.
+I do believe we are politically vulnerable.
+I listened very carefully to the comments you all made recently, and there’s a subtext there.
+I think we have to be very careful about what we say, and I think we need to unify as a team.
+Otherwise those who mean us harm will take advantage of the cacophony that comes out of this Committee.
+I confess that I may have been part of that cacophony.
+I haven’t said a word publicly since November 8, and there’s a reason for it:
+Once we make a decision as a Committee, I think we have to knit together and get our message very clear.
+Of course, we should allow dissent, and I may well dissent in the future.
+<START>But knitting together and being very clear about our message are important because there are a lot of people December 14, 2010104 of 127 just looking for opportunities to tear us apart, and I think there’s going to be a great proclivity for that, particularly going forward politically.<END>
+So, in summary, Mr. Chairman, if I were a voter, I would support alternative B. I’m sympathetic a little bit to the comment about the $600 billion, but the $600 billion is already in there.
+Having looked at the chart we were given earlier by the Desk, if we took the $600 billion out and just talked about $75 billion, I think we’d see that number all over the place in terms of expectations.
+As others have mentioned, I do take it seriously when you say that we’ll regularly review the pace of the securities purchases and the overall size of the asset purchase program.
+I learned earlier today that Bill Dudley and I had the same dreams when we were kids.
+We both wanted to be physicists, believe it or not, and I do believe in the physical principle of
+— VICE CHAIRMAN DUDLEY.
+I’m not sure what to make of that.
+MR.
+FISHER.
+We both would have been a disaster.
+But I do believe in stochastic optimal control, and what that means in terms of a rocket launch is that you continually reevaluate the course you’re going through time, and I take the Committee at its word that we will do so.
+<START>But for now, Mr. Chairman, to change course and not embrace alternative B I think would be a serious mistake, and I hope that all of us, including myself, in terms of our future expression are able to convey the seriousness with which these decisions are made and support the Committee as a whole, even if we are tempted to dissent and even though at times we are uncomfortable with the decision that’s made.<END>
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+<START>Vice Chairman.<END>
+VICE CHAIRMAN DUDLEY.
+Thank you, Mr. Chairman.
+I’m glad to see that Richard and I are on the same page today, just as we were when we were children.
+[Laughter] MR. FISHER.
+There’s a big space in between though.
+December 14, 2010105 of 127 VICE CHAIRMAN DUDLEY.
+I do want to talk about how we communicate as a group to the market and the public.
+<START>I think we’ve done a very poor job relative to what we’re capable of, and I think that judgment is borne out in a number of ways.<END>
+One way is the low score we received in the recent primary dealer survey conducted by the Desk, even though the survey and its comments said the Chairman did a very good job on 60 Minutes.
+That was cited by a number of the respondents.
+It is not helpful for opponents of any policy we embark on, whether asset purchases or other actions, to criticize the policy in public in harsh terms as soon as possible after an FOMC meeting is over.
+I really do think there are right ways and wrong ways to disagree.
+I think dissent is completely appropriate, and I’m not trying to discourage that.
+I think the right way is to say that reasonable people may disagree, but this is the decision made by the Committee.
+This is why the Committee is doing what it’s doing, and here’s how the Committee expects this particular policy action is likely to work in practice.
+<START>I think the wrong way is to paint the consequences of the decision in more apocalyptic terms and/or to create doubts and fan fears about the ability and/or will of the FOMC to execute policy successfully.<END>
+In my opinion, some of the most recent comments we’ve seen have undermined the effectiveness of the most recent round of LSAPs.
+<START>I say this not only because of our poor communications score, but also because the evidence suggests that a good portion of the backup in bond yields is due to a higher risk premium.<END>
+When I ask myself how the higher risk premium got there, obviously it was the critique of the Fed by outside observers, but I think we also did a little bit of that to ourselves.
+I think the higher risk premium stems from uncertainty about our commitment to the program
+—in other words, would we be cowed by the criticism
+<START>—and thereby represents a loss of credibility on our part.<END>
+December 14, 2010106 of 127 That being said, it isn’t the only reason that bond yields have risen.
+I think there are lots of other reasons, and they’ve been talked about this morning.
+First, expectations going into the last meeting were for a somewhat larger program than what we actually initiated.
+Second, Treasury supplies likely increased due to the shift in fiscal policy, so the net supply held by the public is going to go up relative to what the public expected.
+And, third, the economy looks like it’s on a more solid growth track.
+So these three factors all interact.
+More stimulative fiscal policy implies faster growth, and it implies more net supply, as well as a smaller expected LSAP program.
+Overall my policy view hasn’t changed.
+The LSAP program still makes sense, and it’s helping at the margin.
+We have damaged its effectiveness to some degree.
+I think it’s important in reaching this conclusion to note that some of the primary risks of the asset purchase program, such as dislodging inflation expectations to the upside or causing a free fall in the dollar, have not materialized in any way.
+Instead, the dollar has been strengthening, and the increase that we’ve seen in the yields have occurred entirely in real rates rather than in break-even inflation rates, at least as we measure them from November to today.
+So I’m with pretty much everybody else, not quite everyone, in supporting alternative B. I think we want to have a “low drama” meeting as Governor Duke said.
+So I don’t mind playing possum either.
+I think the small changes contemplated in alternative B are right.
+They acknowledge some of the intermeeting data.
+We still have a long way to go in terms of our dual mandate.
+A very accommodative policy stance to me is still fully appropriate.
+<START>Any retreat from our LSAP program at this juncture I would view as disastrous, not just because yields would back up further, tightening financial conditions, but also because such a shift would significantly undercut our credibility.<END>
+We would be viewed as weak and as intimidated by outside criticism December 14, 2010107 of 127 and political pressure, and that would be, I think, devastating to this institution.
+<START>To my mind, this would cause our independence and our will to keep inflation in check over the longer term to be questioned.<END>
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you, and thanks to everyone for your comments.
+Substantively, of course, I am supportive of staying the course and alternative B
+—I gave my reasons earlier.
+Notwithstanding the very welcome improvement in the tone of the data, the general contours of the recovery remain similar to what they were in the last couple of meetings.
+We are still missing our objectives by a wide margin, in expectation, not just currently.
+<START>I agree with President Kocherlakota that measuring the stance of policy is quite difficult and can be quite humbling, but I think it’s not at all clear that our policy is excessively easy given the state of the economy.<END>
+So I think we should stay where we are.
+We should take more time to assess developments in the economy.
+For those who mentioned it, I remain serious that we should continue to review the policy on three grounds:
+What’s happening to the outlook, what’s happening to the efficacy of the policy, and what’s happening in terms of any side effects.
+I think a responsible approach would involve all three of those aspects.
+For today, I counsel watching and waiting to see how the outlook evolves.
+It could change sharply
+—it has done so in the past, and in that case we would need to be willing to respond to that.
+I have two comments on communication.
+Several of you have already spoken about it.
+The first is that we have multiple objectives in communication.
+One, of course, is to give our views, which is very important, but we also want to convey the fundamental collegiality, comity, and mutual respect in this Committee, which I think we need to make clear to everyone.
+Another is that we need to do everything we can to maintain the independence of this institution to make policy.
+<START>We should be free to make mistakes, and we need to convey clearly that that’s December 14, 2010108 of 127 something we all share.<END>
+The main thing we can do that would be constructive, as far as I’m concerned, is to pull down the heat a little bit.
+You know, I’m not asking for any real changes.
+<START>Let’s just keep the heat down and give this policy some chance to work or not to work and give ourselves some time to make a better assessment, and I think that will work fine.<END>
+The other aspect of communication was, I think, raised a bit by President Lockhart and President Evans.
+<START>It’s a little ironic that this Committee has spent years and years talking about inflation targets and similar kinds of structures, and one of the main issues has been whether we could succeed politically in creating an inflation target or whether there would be pushback from the Congress, etc. I think we’re at a moment that if we wanted to do something like that, it would actually be welcomed by the political world.<END>
+<START>I see absolutely no problem whatsoever from a political perspective if we want to go ahead and put some more structure, whether it’s an inflation target or some other kind of structure, on our policymaking.<END>
+Yet, in our video conference discussion of this, we just kind of talked ourselves out of it somehow, I think possibly because we couldn’t come to agreement on some appropriate way to talk about the other part of the mandate.
+It seems to me that was kind of a shame.
+I’m not suggesting anything specific, but maybe we can continue to talk about this informally, because I do think there would be very little resistance at this point.
+<START>In fact, a number of people would probably welcome it if we were to be more explicit about our inflation objective, and it might help with the communication issue going forward.<END>
+But that’s something for the intermeeting discussions and for future meetings.
+Turning back to the business of this meeting, I’d like to propose alternative B as it stands, and thank you again for a thoughtful discussion.
+Debbie.
+MS.
+DANKER.
+This vote covers the statement and directive for alternative B in the handout.
+December 14, 2010109 of 127 Chairman Bernanke Yes Vice Chairman Dudley Yes President Bullard Yes Governor Duke Yes President Hoenig No President Pianalto Yes Governor Raskin Yes President Rosengren Yes Governor Tarullo Yes Governor Warsh Yes Governor Yellen Yes CHAIRMAN BERNANKE.
+Thank you very much.
+The next meeting is Tuesday and Wednesday, January 25 and 26.
+<START>We will have a special topic at that meeting on structural unemployment, obviously a topic of great interest to all of us.<END>
+A number of the Reserve Banks are working very hard on this, and we thank you for your contribution.
+The Board is also involved in this project.
+So I look forward to that discussion.
+There will be a lunch as soon as the meeting is adjourned, and Linda Robertson will provide us with a legislative update.
+Thank you all very much, and have a safe trip home.
+Meeting adjourned.
+END OF MEETING December 14, 2010110 of 127
+INSTANCE OF DISAGREEMENT: 107

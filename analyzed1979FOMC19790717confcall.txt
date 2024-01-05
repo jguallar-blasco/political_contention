@@ -1,0 +1,313 @@
+Passage number 1.
+FEDERAL OPEN MARKET COMMITTEECONFERENCE CALLJuly 17, 1979PRESENT: Mr. Miller, ChairmanMr. Volcker, Vice ChairmanMr. BlackMr. ColdwellMr. MayoMr. ParteeMr. RiceMs. TeetersMr. WallichMessrs. Guffey, Morris, Roos, and Winn, Alternate Members of the Federal OpenMarket CommitteeMr. Baughman, President of the Federal Reserve Banks of DallasMr. Altmann, SecretaryMr. Bernard, Assistant SecretaryMr. Petersen, General CounselMr. Mannion, Assistant General CounselMr. Axilrod, EconomistMessrs. Ettin, Henry, Keir, Keran, Kichline, Scheld, and Truman,Associate EconomistsMs. Greene, Assistant Manager for Foreign Operations, System Open MarketAccountMr. Coyne, Assistant to the Board, Office of Board Members, Board ofGovernorsMr. Kalchbrenner, Associate Director, Division of Research and Statistics,Board of GovernorsMs. Farar, Economist, Open Market Secretariat, Board of GovernorsMrs. Deck, Staff Assistant, Open Market Secretariat, Board of GovernorsMessrs. Doyle, Forrestal, Gainor, Smoot, and Williams, First Vice Presidents,Federal Reserve Banks of Chicago, Atlanta, Minneapolis, Philadelphia,and San Francisco respectively-2-Messrs. Boehne, Burns, Senior Vice Presidents, Federal Reserve Bank ofPhiladelphia and Dallas respectivelyMessrs.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. It is simply a list of individuals present at a meeting.
+
+
+Passage number 2.
+ Broaddus, Cacy, Cox, Danforth, Mac Donald, Vice Presidents, FederalReserve Banks of Richmond, Kansas City, Atlanta, Minneapolis, andCleveland respectivelyTranscript of Federal Open Market Committee Conference Call ofJuly 17, 1979MR. ALTMANN. Good morning, everybody. This is Murray Altmann. I would like to callthe roll by Districts and I would appreciate it if each President or First Vice President would tell uswho is there with you. [Secretary's note: The attendance list is provided on the previous page.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It is simply providing a transcript of a roll call for a conference call.
+
+
+Passage number 3.
+]CHAIRMAN MILLER. Let me outline why I have asked that we have this consultation. Atour last FOMC meeting the discussion included some thoughts [about] what the President mightpropose in his energy speech, and we tried to anticipate what monetary posture we might be preparedto arm ourselves with. At that meeting it was, I think, our mutual view that we shouldn't try to guesswhat the President would say in his energy speech but should wait to hear it and then consult ifappropriate. Our purpose would be to evaluate the outcome, its effect on markets, and how [the energyprogram] relates to our general monetary and economic strategies and see where we go from there.I will give you a quick personal reaction. The President's speech is still being evaluated; thefleshing out of his concrete proposals will have to take place before there is finally a sense of how thiswill work and whether it will make the kind of progress that we all hope. In the meantime there hasbeen a mixed reaction in both domestic and, particularly, international markets. The internationalmarkets I'm going to have a report on in a moment. I would just note that when the President spoke,the markets in the Far East were open. Upon the completion of his speech there was a slight uptick, Ibelieve, and then generally a bit of softening but nothing momentous. But in the intervening days themarket generally has been eroding downward and considerable resources have been required in[foreign exchange] intervention. Under those circumstances rather than wait for some event that mightbe more difficult than we've had so far I just thought we would be well advised to (1) have a briefingand (2) get a reaction from people and viewpoints so that we are prepared and up to date. Now we'velost Boston. We may just have to forget this whole thing and try it again later. I think we ought to notpay the bill for this [teleconferencing] system until it works every time. There's just no point ofhaving this. Boston is not on. Well, let's all hang up again and we will try it once more. Anybodyleft on the line.[Secretary's note: The phone connection was re-established and the roll was called again.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply explaining why they have asked for a consultation and providing an update on the President's speech and its effects on the markets. The mention of losing the connection to Boston and the frustration with the teleconferencing system does not indicate any disagreement or contention.
+
+
+Passage number 4.
+]CHAIRMAN MILLER. Again, I thought it would be wise if we would all consult. To start offI think we have in New York--I hope--Gretchen on the line to give us a rundown on what is happeningin the foreign exchange markets.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage.
+
+
+Passage number 5.
+MS. GREENE. I'm afraid I have to report that the market responded to the Carter address withsome disappointment--disappointment that some of the immediate questions about the economy havenot been addressed and that the issues that were addressed were of a long-term nature providingnothing for the market at the moment. And in that position the market has a bit in its teeth. It is truethat the initial reaction in the Far East to President Carter's speech was, on balance, positive. But itwas not sufficient to keep the dollar rate at the level at which it was trading at the time of the speech.As of this moment we have lost approximately 1 percentage point from that level, going down to a low7/17/79this morning of 180.90 to 181. In the process we provided sustained support both in the Far East andin New York Sunday night, Monday, and Monday night. As of 11:30 this morning the U. S.authorities had sold net something like $700 million of foreign currency, mostly German marks, sincethe Carter speech. This has brought the total of our intervention since the time the market turnedaround in mid-June to $3.1 billion. Of that, $1.3 billion had been on behalf of the System. Theamount of swap drawings totals about $1.2 billion if we include what we have done today. Theremaining $1.8 billion has been financed by the ESF; that has brought the ESF into a net minusposition inasmuch as the marks that it now holds in balances are less than required to cover the Carterbonds. The $3.1 billion of net currency sales since the middle of June compares with about $3.7billion of purchases by foreign central banks. The most important of these has been the Bundesbankbuying about and the Swiss National Bank I'd be very happy to answer anyquestions you may have.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply reporting on the market's response to President Carter's address and providing information on currency sales and purchases.
+
+
+Passage number 6.
+CHAIRMAN MILLER. Gretchen, what is your feel of the market. Who is in the market.What is its direction. Are we seeing official accounts, corporate accounts, and trading accountsshifting out of dollars. What is your evaluation.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker simply asks Gretchen for her opinion and evaluation of the market and its direction.
+
+
+Passage number 7.
+MS. GREENE. I would say that the pressure has been building up since about this timeyesterday. It started, I would have supposed, largely with professionals. There was quite a bit ofEuropean selling yesterday and in the Far East last night that pattern continued. Sterling is in verystrong demand this morning, the rate being up to 2.7. The Bank of England says they have also heardthat in addition to professional buying of sterling there is considerable Middle East interest, which hasthe smell of diversification about it. So I would have to say that on very sketchy impressions wecannot exclude the possibility that the dollar is being hurt by these shifts of investment funds. I havenot heard of a lot of Latin American names or a lot of corporate names such as we heard last fall; Iwould say that it has been more European and more traditional investors.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is providing information and opinions based on their observations and impressions.
+
+
+Passage number 8.
+CHAIRMAN MILLER. Phil.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 9.
+MR. COLDWELL. Gretchen, is there any marked change in the Bundesbank's position as faras intervention is concerned. Are they moving aggressively in this market.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It simply asks for information about the Bundesbank's position on intervention in the market.
+
+
+Passage number 10.
+MS. GREENE. I am not sure I heard the question.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Ms. Greene simply states that she is unsure if she heard the question.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 11.
+CHAIRMAN MILLER. The question was whether the Bundesbank in the week since thespeech has shown any different attitude, the implication being that perhaps they were somewhatreluctant in supporting the dollar prior to the speech--from mid-June to last week. Have they becomemore active in helping to support the dollar or not.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is a disagreement in the passage. The phrase "the implication being that perhaps they were somewhat reluctant in supporting the dollar" suggests that there is a difference of opinion about whether the Bundesbank was reluctant or active in supporting the dollar prior to the speech. Some may argue that they were reluctant, while others may believe they were active.
+
+
+Passage number 12.
+VICE CHAIRMAN VOLCKER. If I can try to respond to that one, Mr. Chairman: Inamounts they have been much more modest than we have been. There is a little feeling in the market,I'm sure, of reluctance on the part of the Bundesbank but it has not been as evident as earlier. And theydid make a little splash in Frankfort this morning by spending right off the bat rather openly,which the market saw as a kind of signal. So the answer is a bit mixed. Now, as to the extent they7/17/79have been aggressive, and they haven't been terribly aggressive, Gretchen and others have been inpretty continuous contact with them telling them that we have been aggressive. So it's hardly [anaggressive] response [in terms of] having responded to what they perceive as our attitude.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply providing information and clarifying the actions of the Bundesbank.
+
+
+Passage number 13.
+CHAIRMAN MILLER. Well, let me just pick up from what has been said to give you an ideaof what my concern is and what I would like to feel out the Committee about. One could take the viewthat this is a natural reaction following the weakening of the dollar, for whatever reasons, from mid-June until the present and that as people understand and see the follow-up action by the President therewill be a renewed sense of confidence in the dollar. And with active intervention but not with massiveintervention the dollar will stabilize and we will not see it dip below the November 1 levels and wewill work our way out of this.The other possibility is that we're seeing the tip of the iceberg [from] both the U.S. and foreignauthorities. Plus there's the question about the impact of the substantive moves the President isinitiating. Plus there is beginning to build up the usual groundswell of action, which leadsprofessionals to be followed by others into these accounts and it ends up with a more precipitous moveon the dollar, which gets away from us. If it gets away from us and if central banks have already in amonth spent $6-3/4 billion, of which $3.1 billion of the $6.8 billion, I guess, is for the U.S. accounts,we'll probably spend over a billion dollars this week. Are we in for a period that we can [manage to]hold it. If we do not, what worries me, of course, is that we will trip the confidence lever again. Wenot only do that but a lower value of the dollar also has actual impacts on our economy through thehigher cost of imports and the same inflationary impact we saw before. And that only exacerbates ourproblem and puts us back on the track that was troubling us last year. So, what to do.One [alternative] is to make a judgment regarding which general direction is correct. If theformer [view] is correct, I think our option would be just to stay in here and keep our intervention[going], be persuasive with the Germans to be helpful, and weather the storm. If the latter is likely tobe the case, then one option is for the Federal Reserve to take monetary action that would indicate ourdetermination to defend the dollar and to try to turn around the psychology of the situation. Thedisadvantage of that, of course, is that we already have a weak economy. Nothing has happened newin the economy that we know of that would change the outlook from what we were looking at a weekago. Therefore, would our action--if we did it--to help the dollar and to offset the inflation [effects]set off some other chain of events that would worsen our recession. Would it lead to counter actionsin the form of tax reductions or other things that would merely take away what we had justaccomplished. Or would it be possible to take the action, risking that with a stabilized dollar andrenewed confidence we'd be able to back off of the monetary action in a couple of months and go backto the path that we thought most likely [to be successful]. Those are the kinds of the issues that I see.I haven't come to a conclusion; I just wanted to suggest that we kick them around. Why don't we starthere with some of the governors and then we'll go right down the list and ask for everybody's view.Phil.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement. The speaker is presenting different possibilities and asking for input and opinions from the Committee.
+
+
+Passage number 14.
+MR. COLDWELL. Mr. Chairman, it seems to me that we have not yet fully evaluated whatthe market trend is going to be. I think we are getting hit with some reactions here. I'm not yetwilling to buy it as having a snowball effect that forces action but I do think we are going to have to7/17/79watch it with intense care. And if by the end of this week we see any snowballing of this[development], then I think we will have to consider monetary action and my preference there wouldbe a prompt discount rate increase.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. Mr. Coldwell expresses his cautiousness and suggests that further monitoring is required before taking any action. He also mentions that if there is a snowballing effect by the end of the week, then monetary action should be considered. There are no conflicting opinions or disagreement in this passage.
+
+
+Passage number 15.
+CHAIRMAN MILLER. Chuck.
+Does the passage contain contention or disagreement? Response from the model: There is not enough information provided to determine if there is contention or disagreement in the passage as it is incomplete.
+
+
+Passage number 16.
+MR. PARTEE. Well, I agree with Phil that it's a little early. It looks as if it could be quite aproblem but it's a little early to say for sure. I believe that a significant tightening of money wouldhave bad consequences for the U.S. economy in a situation that is weakening. [Our economy] isweakening already and, therefore, it's something that I would contemplate with only the greatestreluctance. But I guess I have to indicate that if we have a snowballing situation, with a cumulativedecline in the dollar and a loss of confidence in the currency, that may be our only course. I think thatan increase in the discount rate wouldn't be sufficient; we'd have to follow through with some federalfunds rate action. So, let's be clear about it. What we are really talking about is a tightening inmonetary policy that isn't associated with the performance of the domestic economy and that is amajor, major step to take. In the meantime, of course, I think we ought to try to defend the currency.And we ought to have an active intervention program because it's particularly difficult for thePresident in the way his speech is received to see the market declining hour after hour and day afterday. That will certainly undermine whatever psychological effect it might have had.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is expressing their agreement with Phil about the situation being a little early to determine, their concerns about the consequences of tightening money, and their belief that defending the currency and implementing an active intervention program would be beneficial. There is no explicit disagreement or conflicting viewpoints presented.
+
+
+Passage number 17.
+CHAIRMAN MILLER. Thank you. Nancy.
+Does the passage contain contention or disagreement? Response from the model: No. This passage is a simple expression of gratitude and does not include any statement or information that could lead to contention or disagreement. It is a polite and straightforward thank-you message.
+
+
+Passage number 18.
+MS. TEETERS. Mr. Chairman, I strongly support an intervention policy to maintain the valueof the dollar in this particular situation. I think it was inevitable that we were going to get an adverseresponse to the President's speech regardless of what he said. I have a feeling that the market was justlooking for something to use as an excuse to start speculating again in the dollar. I think we need tokeep in contact as we go along. I would join Chuck in saying that I am extremely concerned about thedomestic economy. To move to increase interest rates and to [tighten] for international purposes, [theconcerns] have to be overwhelmingly important to offset the adverse effects on the domestic economyif we do that.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker expresses strong support for an intervention policy to maintain the value of the dollar and agrees with Chuck's concern about the domestic economy.
+
+
+Passage number 19.
+CHAIRMAN MILLER. Thank you, Nancy. Emmett, you may want to pull that mike forward.We are having a little trouble with the sound system.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is simply addressing two individuals, thanking Nancy and advising Emmett to adjust the microphone.
+
+
+Passage number 20.
+MR. RICE. I agree with everything that has been said so far. I think we have to watch thesituation very carefully and when we are sure that the situation is beginning to get out of hand then weneed to consider monetary action. At this time I would consider that a very serious step, as Chucksaid. In the meantime, I would favor a very active interventionist policy--perhaps the strongerinterventionist policy we normally would take in circumstances like this--with the hope that it would[avert] any need for monetary action.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not show any contention or disagreement. Mr. Rice agrees with everything that has been said and simply suggests a more interventionist policy to potentially avoid the need for monetary action.
+
+
+Passage number 21.
+CHAIRMAN MILLER. Thank you, Emmett. Let's go right down the list [by District].Boston, Frank.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain contention or disagreement. It simply acknowledges Emmett and proceeds with a list.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 22.
+7/17/79 5MR. MORRIS. Mr. Chairman, with the economy in the fourth month of a recession whichcould turn out to be quite severe, I don't think we can use monetary policy to deal with the[international] situation. The recession will improve the fundamentals of our balance of payments.When that shows through, that's going to help the position of the dollar. In the meantime, I think theonly instrument that is appropriate for us to use is intervention policy, which I would be willing to useon a wide scale.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The speaker, Mr. Morris, suggests that monetary policy should not be used to address the international situation due to the ongoing recession. However, he argues in favor of using intervention policy on a wide scale. This indicates a difference in opinion regarding the appropriate approach to address the situation.
+
+
+Passage number 23.
+CHAIRMAN MILLER. Thank you, Frank. We will go to New York and while we are therelet's have both Paul Volcker and Henry Wallich give their comments.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It simply suggests involving both Paul Volcker and Henry Wallich to share their comments during the visit to New York.
+
+
+Passage number 24.
+VICE CHAIRMAN VOLCKER. Well, If you want me to begin, I guess I have a somewhatdifferent opinion. Nobody knows the future but I think there is a substantial risk of an iceberg hereand in my view a little action earlier rather than later would be effective, particularly since I don'tthink the market is expecting it. Observing this market for the last couple of days, I've come to theconclusion that now is the time to move on the discount rate and a bit on the funds rate in amountsunspecified for the moment. I say that against [the background of] an additional element that I don'tthink has been mentioned--that the aggregates are running a bit on the high side. Though notdramatically so, they are off in that direction. I am extremely skeptical that intervention will beadequate to handle a situation of this sort. The market has had enough experience with interventionalone that it gets to the point where one wonders whether it's helpful or harmful in somecircumstances, particularly against the background where the Bundesbank may well get very restivevery soon about the amounts of liquidity we're creating in their markets. I think they've been, in theirlight, quite cooperative up to now but they haven't been doing very much and we are going to begetting complaints very soon. Gretchen [heard] some grumbling [about that] this morning and it lookslike it's pretty big. So I think it's a bit of an illusion, if this continues, to think that we can rely uponintervention. It seems to me that there is enough [reason] internationally and with the aggregatespointing in the same direction for us to make a modest move that I think could be reversed if thingsturned out well. We would be better off in the long run [and would not inflict] any substantial damageor any damage at all, as I see it, to the domestic economy.The main comment that I picked up about the President's speech was that it wasn't really a badspeech--I agree a little bit with Nancy here --but that he didn't address himself at all to the inflationproblem. And indeed there is skepticism as to whether the Federal Reserve is addressing that problem.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain contention or disagreement. It is an individual expressing their personal opinion and observations.
+
+
+Passage number 25.
+MR. WALLICH. This is Henry Wallich. I think we have the makings here of a possible crisis.I define as a crisis a situation where in the case of quite heavy intervention we would find the marketbreaking 180 on the D-mark. I think under those conditions monetary policy action would beappropriate--some rise in the discount rate, some rise in the funds rate. Hopefully we can say that thiswill be reversed as soon as conditions in the markets stabilize, although that would reduce theeffectiveness of the action somewhat. I think what we will need in order to take monetary policyaction in the face of the weakening economy is clear evidence that there is an urgency in the exchangemarket. And that, in my view, will be brought about by some snowballing effect in the face of strongcountering intervention. I think intervention has a very limited effect. Certainly it should be tried asfar as we can, but we should not rely on that.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is offering their opinion and discussing potential actions that could be taken in a certain situation, but there is no disagreement with anyone else's viewpoint.
+
+
+Passage number 26.
+7/17/79CHAIRMAN MILLER. Thank you, Henry. We will go to Philadelphia. Am I correct thatDick Smoot is on the line.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 27.
+MR. SMOOT. That's correct, Mr. Chairman. We would agree that it was a predictableresponse to the speech. We would be reluctant at this point, due to the condition of the economy, totake a monetary policy action. But we don't in any way discount the potential buildup of additionaldifficulties and suggest that we watch the situation closely.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker, Mr. Smoot, agrees with the statement made by the Chairman and suggests monitoring the situation closely.
+
+
+Passage number 28.
+CHAIRMAN MILLER. Thank you, Dick. Cleveland, Willis Winn.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. It is simply a statement expressing gratitude.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 29.
+MR. WINN. Mr. Chairman, I have a feeling that we may have more of an iceberg here thanwe like to think. Intervention alone won't [work] and probably is too expensive [if our aim is toachieve] a turnaround. I am a bit sympathetic to [taking action] a little earlier rather than later becausewe can reverse it. A discount rate change and a slight fed funds rate [increase seem] appropriate. ButI think the question we need to ask is: If the first move in this direction doesn't stem the flow, are wereally prepared to go further along this line. Apparently the answer to that question is more uncertain.I think I'd have a tendency to march down that road much earlier than later, however, thinking thatwe'll know very quickly [as we undertake] that move.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The speaker expresses reservations about the effectiveness and cost of intervention alone and suggests taking action earlier rather than later. However, they also mention uncertainty about the potential need for further action and acknowledge that the answer to that question is uncertain. This suggests some level of disagreement or contention within the speaker's thoughts.
+
+
+Passage number 30.
+CHAIRMAN MILLER. Thank you, Willis. Richmond, is Bob Black on.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The passage is simply a statement of thanking someone and asking about another person's whereabouts.
+
+
+Passage number 31.
+MR. BLACK. Yes, I'm here, Mr. Chairman. With the situation as fluid as it is now, I don'tbelieve it's wise to move at this particular point. I think a move could be interpreted as a lack ofconfidence in the President's program, which some of us may feel, but nevertheless it would not lookgood as a policy action. And we've not yet reached the trigger point on the aggregates although, asPaul Volcker pointed out, we are quite close. Like Paul, Willis, and Henry, I'm afraid that this is thetip of the iceberg. But I would wait until the weekend and no later and then if we see signs that it issnowballing as Governor Coldwell suggested, I would be prepared to move at that time.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker, Mr. Black, is expressing his opinion and suggesting a cautious approach in making a policy move. He agrees with others (Paul, Willis, Henry) that there may be a larger issue at hand, but suggests waiting until the weekend before taking action.
+
+
+Passage number 32.
+CHAIRMAN MILLER. Thank you, Bob. Atlanta, I believe we have Bob Forrestal.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not show any indication of contention or disagreement. It is a polite expression of gratitude towards Bob Forrestal.
+
+
+Passage number 33.
+MR. FORRESTAL. Yes, that's correct, Mr. Chairman. Yesterday we were heartened by thefact that the effects on the dollar were rather insignificant. It was not as bad as we had expected.Having said that, we think it's probably premature at this time to make a move. I, too, would be quiteconcerned that a Federal Reserve move at this time [would be viewed] as reflecting a lack ofconfidence in the President's program. And given the domestic situation with the aggregates, whileadmittedly at the upper end of the ranges, they are not bursting out at this point. For all of thesereasons we think that for the short term, intervention activities are probably appropriate. I do thinkthat we have the potential of a crisis developing, perhaps rather significantly even today, but we wouldbe inclined to give it a little more time and to hold firm for the time being.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is expressing their own thoughts and opinions in a clear and cohesive manner.
+
+
+Passage number 34.
+CHAIRMAN MILLER. Thank you, Bob. Bob Mayo in Chicago.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 35.
+7/17/79MR. MAYO. Well, Mr. Chairman, I would give it one more day and that's all. It seems to methat if intervention doesn't quiet things down or if the markets don't quiet by themselves by this timetomorrow, we should move with a quarter percentage point on fed funds rate and a half percentagepoint on the discount rate. I would put it strictly on the basis, as both Paul and Henry have said, of amove that is required for support of the dollar. I would not, however, announce that it could bereversed. People know that and I think it might have a backfire effect. The President's speech, fromwhat I've heard--and there was a lot of conversation about it among executives from all over thecountry prior to the dinner with the Chinese Finance Minister dinner here last night--was generallyviewed as the most brilliant speech that President Carter has ever given. But there was generalagreement, too, that it was a bit too "preachy" in the first part and a bit too long-range and [expansive]in the second part, with no concern shown for the short-term situation either on the inflation front orthe [energy front]. Many of my friends say it was really a missed opportunity to take a positiveleadership role in the restoration of nuclear power as an important source of energy for the next tenyears. [That] could eliminate half the problem if he would have gone forward on that. And we are farenough away from Three Mile Island now that a lot of the emotional response--and most of it wasemotional--could have been reversed with a strong leadership position. But as I say, on our ownproblem I'd give it one more day and then I would move if things don't quiet down.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply expressing their opinion and discussing the views of others.
+
+
+Passage number 36.
+CHAIRMAN MILLER. Thank you, Bob. St. Louis I don't know if you are hearable, Larry.We are not picking up a signal from St. Louis here at the Board. I don't know what we can do otherthan suggest that we contact Larry later and get his thoughts. We are not going to take a vote oranything anyway; we are just trying to get counsel. Larry, if you can hear me, that's what I wouldsuggest. I'll just go on to Minneapolis where I hope Mark Willes can hear me.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply stating that they are unable to hear a signal from St. Louis and suggesting that they contact Larry later for his thoughts.
+
+
+Passage number 37.
+MR. GAINOR. Mark Willes is not at the Bank. This is Tom Gainor and I'll make theremarks.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker simply states that Mark Willes is not present and introduces themselves as Tom Gainor.
+
+
+Passage number 38.
+CHAIRMAN MILLER. Okay, Tom.
+Does the passage contain contention or disagreement? Response from the model: There is not enough context provided to determine if there is contention or disagreement in the passage.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 39.
+MR. GAINOR. We have not been encouraged by the President's speech nor by the reactionsto it. We agree with the points that have already been raised that the condition of the economy makesit very difficult for us to take monetary action at the present time. I understand the crisis in theinternational markets, though, and I agree with the comments that have been made that we're in a day-to-day situation here and we should look at it from that basis. I would be very glad to see us considerit again tomorrow or the next day if something changes in the international situation. We don't favoraction at this time.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. Mr. Gainor expresses disagreement with the President's speech and the reactions to it, and states that the condition of the economy makes it difficult to take monetary action. He also acknowledges the crisis in international markets but suggests considering action in the future if the situation changes.
+
+
+Passage number 40.
+CHAIRMAN MILLER. Thank you, Tom. Kansas City, I think Roger Guffey is on.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not provide enough context to determine if there is any contention or disagreement.
+
+
+Passage number 41.
+MR. GUFFEY. Yes, I am, Mr. Chairman. With respect to the President's speech, Bob Mayosynthesized the comments that I've heard here almost to a tee. That is, there isn't great enthusiasmperhaps because of the long-range nature of [the proposals] and it was not aggressive in terms of thedomestic inflationary problems. As to the international situation, it does seem to me that[unintelligible] have been met, they're going to go farther than they perhaps should. Under the7/17/79circumstances we face, I would be prepared to recommend that we take rather aggressive action in theintervention [area] for obvious reasons but also I would increase the discount rate later this week ifconditions remain as they are today. Also, I'd be prepared to increase very modestly the fed fundsrate either at the same time or preferably early in the following week if the discount rate [move] doesnot have the effect that we'd like it to have.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Guffey is expressing his own opinions and recommendations, but there is no clear contradiction or disagreement with any other person's viewpoints.
+
+
+Passage number 42.
+CHAIRMAN MILLER. Thank you, Roger. We'll go to Dallas and I believe Ernie Baughmanis on.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not imply any contention or disagreement. It is a polite response to Roger and a transition to mentioning Ernie Baughmanis.
+
+
+Passage number 43.
+MR. BAUGHMAN. Mr. Chairman, I am inclined to the view that what we are seeing may bethe front end of a very substantial development. It seems to me that it would be advisable to use somefairly strong and obvious ammunition fairly early in the game. Therefore, I would be inclined to letthe funds rate move up a bit now, particularly if the market has been tending in that direction anyway,but then follow along with a discount rate change as early it can conveniently be put in place. Insofaras the response to the President's speech was less than supportive, it seems to me that it's primarily ontwo counts: (1) the lack of attention to inflation; and (2) the indications of a tendency to go the controlroute as compared with a heavier reliance on competitive markets [to address] the oil and gas problem.I read the sentiment of foreign countries as being that they will not view our energy program asrealistic unless we do let our domestic prices fully reflect world prices.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any clear contention or disagreement. It is a statement from Mr. Baughman expressing his views and suggestions.
+
+
+Passage number 44.
+CHAIRMAN MILLER. Thank you, Ernie. San Francisco, John Williams.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+This passage is a simple expression of gratitude towards Ernie and a mention of San Francisco and John Williams, without any indication of disagreement or contention.
+
+
+Passage number 45.
+MR.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage is not providing any information or statement that can be subject to contention or disagreement.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 46.
+ WILLIAMS. Yes, Mr. Chairman. With respect to reactions to the President's speech, Iwould agree with what Ernie Baughman has just said. With respect to monetary policy, we wouldagree very strongly with Frank Morris and Bob Black that we ought to stand pat at the present time.We would suggest that if there is a move for raising [interest rates] that the discount rate be raisedbefore the fed funds rate [because] it's 75 to 80 points below the funds rate and raising the discountrate would have the announcement effect without tightening the financial markets [unintelligible].
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. The speaker agrees with one person's opinion regarding reactions to the President's speech but strongly disagrees with two others regarding monetary policy. They propose a different approach to adjusting interest rates.
+
+
+Passage number 47.
+CHAIRMAN MILLER. Thank you, John. I think we have now completed the go-around.From this I would say the sentiment of concern is pretty clear but [the preference is for] no action atthis point. I gather from almost everybody that we should be watching this very closely and I assumethat it would be appropriate to have similar conferences each day or as often as necessary as long asthe situation is uncertain. But we will try not to have them unless there is some real change indirection or some indication of movement. Are there any comments or questions. I just want to say Iappreciate having this opportunity to hear from everyone. It helps greatly to get your views. Anyother comments.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker acknowledges John's input and expresses their understanding of the sentiment and preference for no action at the moment. They also suggest having regular conferences to monitor the situation, indicating a shared understanding among the participants. The speaker then asks for any additional comments or questions, expressing appreciation for the opportunity to hear from everyone.
+
+
+Passage number 48.
+MR. COLDWELL. Do you want to take a vote.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Coldwell is simply asking if the audience wants to take a vote.
+
+
+Passage number 49.
+CHAIRMAN MILLER. I don't think we intended to take a vote. This was just a consultation.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply stating their belief that they did not plan to hold a vote, rather it was meant to be a consultation.
+
+
+Passage number 50.
+MR. COLDWELL. No, I'm just talking about the intermeeting limit.
+Does the passage contain contention or disagreement? Response from the model: No. The speaker is stating a fact or personal opinion without presenting any opposing viewpoints or disagreement.
+
+
+Passage number 51.
+7/17/79CHAIRMAN MILLER. Oh, the intermeeting limit, I'm sorry. Phil Coldwell was suggestingthat we get FOMC permission to raise the intermeeting limit [on changes in the System's foreigncurrency position] to $2 billion. Is that necessary [today].
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply asking if it is necessary to seek permission to raise the intermeeting limit to $2 billion.
+
+
+Passage number 52.
+MR. AXILROD. Well, the present limit is $1-1/2 billion. Between meetings the Manager canchange the System's position [in foreign currencies] by up to $1-1/2 billion and then [beyond] thatpoint he has to go to the Committee. It might be advisable, in view of the Committee's sentiment,simply to suspend that limit of $1-1/2 billion.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is simply stating the current limit and suggesting a possible change in that limit based on the sentiment of the Committee.
+
+
+Passage number 53.
+CHAIRMAN MILLER. When we were in trouble, last October I think it was, we suspendedthe limit for a while. Let's consider that. I'm not sure; do we need a vote on that at this moment.
+Does the passage contain contention or disagreement? Response from the model: No
+
+There is no evident contention or disagreement in this passage. The speaker is simply suggesting the idea of suspending the limit and asking for clarification on whether a vote is needed.
+
+
+Passage number 54.
+MR. AXILROD. Well, if intervention continues in size today and tomorrow, we will need togo to the Committee to request that [the limit] be suspended at that point. So you could either do itnow if you wish or we could simply send a telegram when required.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a statement explaining a possible course of action.
+
+
+Passage number 55.
+CHAIRMAN MILLER. It might be easier if we could send a telegram because I think it'shard--unless there's an overwhelming sentiment among the voting members to suspend the limit.Let's just see quickly.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is suggesting sending a telegram as an easier option and also mentioning the possibility of suspending the limit if there is a strong agreement among the voting members. However, there is no clear opposing view or conflicting opinions presented.
+
+
+Passage number 56.
+VICE CHAIRMAN VOLCKER. Excuse me.
+Does the passage contain contention or disagreement? Response from the model: No. The phrase "Excuse me" does not contain any contention or disagreement as it is a polite way to get someone's attention or ask for forgiveness when interrupting or apologizing for something.
+
+
+Passage number 57.
+CHAIRMAN MILLER. I'm just asking what the sentiment is among the voting members onsuspending the intermeeting limit on [changes in] foreign currency [holdings] because of currentconditions, as we did last summer.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 58.
+VICE CHAIRMAN VOLCKER. I won't vote against it but my own sentiment is that I thinkthat action may be built on an illusion that this is the answer to the problem.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: There is no contention or disagreement in this statement. The speaker is stating their personal opinion and acknowledging that they won't vote against the action, but they believe it may not be the true solution to the problem.
+
+
+Passage number 59.
+CHAIRMAN MILLER. Yes. Well, Bob Black.
+Does the passage contain contention or disagreement? Response from the model: Sorry, I cannot complete this prompt as it is incomplete. It seems like there is a missing statement or context needed to determine if there is contention or disagreement in the passage.
+
+
+Passage number 60.
+MR. BLACK. I'd just as soon wait and vote by telegram, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any form of contention or disagreement. Mr. Black simply expresses his preference to vote by telegram.
+
+
+Passage number 61.
+MR. COLDWELL. I don't care. I think we don't have to do this.
+Does the passage contain contention or disagreement? Response from the model: No. The speaker, Mr. Coldwell, explicitly states that he does not care and does not see a need to do something. There is no mention of disagreement or contention.
+
+

@@ -1,0 +1,616 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+<START>There are lots of ways to do Social Security reform, but I think the most likely is that some payroll tax revenue will be diverted to individual accounts, with benefit payments to be cut only in the far future.<END>
+In principle, recipients of these individual accounts should save exactly the same as before.
+<START>But if individuals are already saving in eligible assets, will some of their payroll tax reductions show up as consumption increases and national saving decreases?<END>
+I bet they will.
+On the tax side, there will be statements that reform should be revenue neutral.
+But when loopholes are closed and some people actually have to pay more taxes, how long will that last politically?
+I bet not long.
+<START>I would be all for thoroughgoing tax reform, but I greatly fear that tax reform will, in the end, be simply another tax cut<END>
+—with some taxes going down and none going up.
+November 10, 200465 of 107 Maybe I’m being excessively paranoiac, but I worry greatly about the new fiscal atmosphere.
+We may have a much more expansionary budget than the Greenbook is presently forecasting, and it may happen fairly quickly without the friction of political gridlock.
+This is another reason that I think we have to be at least thinking about higher rates than in the Greenbook path.
+There is also an interaction between these two points.
+If the budget falls even more out of balance, national saving is likely to drop from its already historically low levels, magnifying the current account deficit and the dollar problems.
+Monetary policy can’t really solve any of these problems, but it can make them worse by letting inflation come loose from its moorings.
+Obviously, none of this is certain.
+<START>I am merely trying to point out that, while there are valid downside risks in the forecast, some worrisome upside risks have also recently come into view.<END>
+<START>Let’s remember that the uncertainty distribution still has two tails.<END>
+As for policy, I’m perfectly happy to go with the flow this time.
+In the future, we obviously can’t move the funds rate up at every single meeting, and as many of you pointed out, it would be nice to find a way to say or signal that.
+I’m not quite sure how to do that.
+I’m also not sure how ready for a more immediate pause I am.
+The whole pause issue does give me pause.
+[Laughter] CHAIRMAN GREENSPAN.
+Governor Olson.
+MR.
+OLSON.
+Thank you, Mr. Chairman.
+I will briefly continue on the same subject that Governor Gramlich just discussed because I’d like to talk about fiscal policy issues for a moment.
+I’ve been encouraged even with the absence of gridlock
+—or at least to a certain extent the loosening of gridlock
+—that the President and some of his team have focused on fiscal policy issues such as Social Security and Medicare.
+I take that as a positive sign.
+But in terms of returning to a budget surplus or even to budget neutral, I think it’s important to remember that the last time we were in that area, it was primarily a revenue issue and secondarily a spending or budget discipline issue.
+Now, there is nothing in our forecast for the immediate future that would suggest an November 10, 200466 of 107economy that is poised to generate tax revenue in the 20 percent plus range relative to GDP that allowed for the surplus.
+But it is possible at least to reinstate some of the spending discipline by a re-imposition of the PAYGO provisions.
+And as Governor Gramlich is well aware, the PAYGO provisions also apply to tax cuts.
+I think the reinstatement of that policy would do two things.
+First, it would impose some discipline on the appropriation process.
+One cannot be involved in the appropriations process when PAYGO is in effect without being alert to it.
+Second, it would be a signal of a return to fiscal discipline and to fiscal management policies, which I think could be important.
+So as the Chairman and others indicated at the beginning of the meeting, we should be out there talking about the need for fiscal discipline.
+The Chairman a few months ago spoke on the importance of reinstating the PAYGO provisions, and I would encourage others to consider that as you speak to the issue of fiscal policy.
+With respect to monetary policy, when we began to move from accommodative toward neutral, we recognized that there were a number of risks associated with it, one of which as you may recall was a concern that rising rates might shut off any improvement in the underlying economy.
+Also, I think we were a bit gun-shy, given the succession of exogenous factors
+—terrorism, governance issues, and the like
+—that had derailed the economy previously.
+As Dino reminded us earlier and as the charts show, longer-term interest rates have actually declined, particularly the ten-year Treasury yields.
+So a derailment has not happened.
+And even the parade of hurricanes and the rising oil prices have not significantly deterred this slow but steady recovery in the economy.
+I think the jobs numbers will be adjusted marginally, with the unconditional firing of everybody involved in exit-polling a few weeks ago!
+[Laughter] But even with that, it seems to me that the markets clearly anticipate a continued reduction in the degree of monetary policy accommodation and a return to neutral, and I think we ought to be sticking with that course.
+CHAIRMAN GREENSPAN.
+Governor Ferguson.
+<START>November 10, 200467 of 107MR. FERGUSON.2While the upside risk from dollar depreciation is clear, the possibility of a more persistent pool of underutilized resources creates a more complex set of risks, and that’s what these charts that are being handed out now address.<END>
+Even considering the October employment surprise, the changes in payroll employment have been remarkably subdued during the course of this turnaround.
+This observation led me to ask Andy Figura and Bill Wascher to prepare an analysis to explore labor market developments
+—I don’t know if it explains them
+—in the recession and postrecession period.
+In particular, I was interested in the question of whether this labor market performance is more easily explained by increased productivity or a shortfall of demand.
+The first step of the analysis I called for was to identify the industries that have had unusually poor labor market performance since the 2001 business-cycle peak, measuring both absolute net industry employment changes and net industry employment changes relative to changes for a period of comparable length preceding the business-cycle peak.
+Thank you, Mr. Chairman.
+I’m having some materials handed out here;
+and while that’s happening, let me say that I am in broad agreement with the baseline forecast in the Greenbook.
+I find it a reasonable basis for making policy judgments at this meeting and going forward.
+Having said that, however, I think the risks and uncertainties around the forecast are quite large, and I find them very difficult to reconcile.
+High on the list of upside risks is one that Dave Stockton has already highlighted in his presentation, which is that the dollar may continue to depreciate at a pace faster than in the baseline.
+Since Dave spent some time in his presentation discussing that, I won’t pursue it in my prepared remarks.
+Four industries at the two-digit NAIC level ranked as noticeable underperformers in both absolute and relative terms, and these are highlighted in table 1.
+They were durable manufacturing, information, transportation and warehousing, and professional and technical services.
+Now, it is 2The materials used by Mr. Ferguson are appended to this transcript (appendix 2).
+November 10, 200468 of 107well understood that one of the unusual features of the recent downturn is the sizable and persistent increase in the share of layoffs that have been permanent.
+Job destruction increased during the recession and then fell back, while job creation fell during the recession and has remained low.
+The four underperforming industries that I just highlighted more than accounted for the overall increase in the average pace of job destruction between 1998 and 2000 and in the years 2001 and 2002, whereas job creation was more equally spread across industries.
+Tables 4.
+A and 4.B highlight the relative rankings of various industries with regard to job creation and job destruction.
+The most interesting question is the following:
+Is the slow net job creation, particularly in these four underperforming industries, due to demand shocks, which would be a negative?
+<START>Or is it due to supply shocks, which would be a more positive development in these industries?<END>
+If you turn now to the next page, chart 5 clearly indicates that there’s a strong positive correlation between changes in value-added share and changes in employment share.
+The actual correlation coefficient is 0.77, and it is significant at a 5 percent level.
+The four underperforming industries
+—and here we have divided them up into the three-digit level, and they are designated by the “Rs” on your chart
+—all tend to be clustered in the lower, left-hand quadrant.
+That indicates that these industries experienced losses in both employment and output shares.
+On the other hand, if you turn to the next chart, labeled chart 4, you’ll see that there is not a strong relationship between the change in employment share and the change in productivity growth.
+There’s a mild, very small negative relationship;
+it’s significant only at the 10 percent level.
+And importantly, the underperforming industries are not strongly clustered.
+There are a few outliers, which are mostly high-tech service industries.
+I must admit, though, that this analysis is somewhat incomplete since we have productivity data only through 2002.
+So, based on this analysis of these four underperforming industries, what do I conclude?
+First, obviously, the weak labor market performance in this turnaround is more than explained by November 10, 200469 of 107just a handful of industries.
+<START>Second, I tended to conclude that the slow growth of employment in these industries is due mainly to a negative demand shock<END>
+<START>—and not a positive supply shock<END>
+—at the industry level.
+Negative demand shocks at the level of the industry identified, combined with the slow pace of overall job creation, have led to a large pool of underutilized resources.
+So far, so good.
+But then the question is, What is the implication for policy?
+Here, unfortunately, things get a lot more confusing.
+Some analysts would interpret this configuration of relative demand shocks as being equivalent to an aggregate negative supply shock
+—a change in the optimal allocation of labor resources across industries.
+Unfortunately, this type of aggregate negative supply shock can be problematic and ambiguous for the outlook for inflation and for monetary policy.
+On the one hand, it is possible that the process of reallocating labor resources is particularly sticky and reflects structural changes, which could confront us with some upside risk.
+To put it another way, it’s possible that the short-term NAIRU could be somewhat higher than the long-term NAIRU and, therefore, we could be confronting some upside risk of inflation.
+On the other side, it could well be that we have a very large pool of underutilized resources that will decrease only very slowly, and that phenomenon is perhaps undermeasured by the unemployment rate.
+This is a point that I think Governor Bernanke has made a few times.
+And that would cause us to face the possibility of continued downside pressure on inflation as household incomes do not keep up.
+Now, it’s a little hard at this stage to know which of these risks will prevail.
+But I would say, if one looks at the relatively benign performance of unit labor costs and at other signals from the labor markets more generally, that it seems as though we aren’t really confronting the upside risks.
+I think we’re more likely confronting the downside risks.
+In either case, it seems to me that as we go forward, labor market indicators broadly defined
+—not just the unemployment rate but also job creation, unit labor costs, and other measures of both resource utilization and cost pressures
+<START>—November 10, 200470 of 107are likely to be a reasonable sign of economic health and also an important indication of emerging risks.<END>
+Therefore, I will continue to repeat the usual statement that Ned Gramlich referred to, which is that I think our policy approach should be heavily influenced by incoming data, with a particular eye on the broad range of labor market developments.
+Having said all that, I would also note that, like a few others in the room, I recognize that as we go forward we are going to be confronted with the need to take a pause.
+I agree with Ned to some degree in that the question of pausing also gives me some pause.
+But I’m also certain that as we get new data
+—and if we’re careful about what we say
+—the markets will soon come to recognize that their expectations and ours may not be fully aligned.
+How this will get resolved, obviously I cannot foresee.
+But I am really quite comfortable with the relatively modest upward trend in the federal funds rate that is built into both the markets and the Greenbook forecast.
+Thank you.
+CHAIRMAN GREENSPAN.
+Mr. Reinhart.
+MR.
+REINHART.3 Thank you, Mr. Chairman.
+Carol Low is handing out some materials I’ll be referring to.
+This was one of those intermeeting periods that served to remind me of the ephemeral nature of my work here.
+Not long after the Bluebook was distributed, the Bureau of Labor Statistics reported that it found 450,000 new payroll jobs
+—337,000 in October and back revisions worth 113,000
+—and the document we struggled over would be read, or at least skimmed, in a different light.
+In particular, the shifting up of policy expectations following the employment report brought the net intermeeting rise in federal funds futures rates, shown in the chart at the top left of exhibit 1, to 10 to 40 basis points.
+The 3 percent funds rate expected for the end of 2005 is consistent with the belief that you plan to tighten policy in ¼ point increments at about half of the FOMC meetings between now and then as Governor Kohn noted.
+<START>I take that to mean that market participants have apparently come to define “measured” as “carefully calibrated” rather than “regular and rhythmic.” As for today, as shown in the middle left panel, respondents to the Desk’s survey of primary dealers universally predict that the Committee will firm policy ¼ point, assess the risks to its goals as balanced, and will retain the “measured” language in the statement.<END>
+will A minority of dealers still expect a marker in the statement indicating that you’re likely to pause in December in the process of removing policy accommodation, although the number that actually expect such a pause dwindled after Friday morning.
+3The materials used by Mr. Reinhart are appended to this transcript (appendix 3).
+November 10, 200471 of 107 With this revision to policy expectations, the nominal Treasury yields shown at the top right gained 14 to 38 basis points over the intermeeting period, with the largest increases posted at shorter maturities.
+But this should not be read as a tightening in financial market conditions, as indexed debt yields fell;
+more broadly, equity prices gained 4¼ percent, and the dollar depreciated 6 percent against a basket of major currencies.
+Fluctuations in oil prices dominated the chatter among participants in global financial markets during much of the period.
+Although the price of West Texas intermediate crude ended yesterday about $1 above its level at the time of the September meeting, it varied in a $10 range.
+There are three main channels of influence of energy prices on the economy.
+<START>First, a rise in oil prices makes a direct arithmetic contribution to consumer prices, which should be of concern primarily to the extent that it prompts an increase in underlying inflation expectations.<END>
+Second, as the United States is an oil importer, a rise in prices amounts to an increase in an excise tax, which tends to restrain aggregate demand.
+Third, since energy is a factor of production, an increase in its price tilts the production mix toward other inputs, lowering their marginal products;
+down the road, this leads to a lower level of labor compensation.
+But given adjustment costs, this latter effect emerges only slowly over time.
+In consequence, as long as inflation expectations are well contained, market participants might expect policymakers to focus mainly on the effects of energy prices on aggregate demand
+—that an increase in oil prices is associated with lower aggregate demand and hence with lower interest rates.
+As shown by the three bar charts in the bottom right of the exhibit, that seems to be what happened over the intermeeting period, as Governor Bernanke noted.
+Day-to-day changes in oil prices were inversely correlated with share prices and ten-year Treasury yields
+—and statistically significantly so.
+Moreover, inflation compensation over the next five years (as derived from the Treasury market) was not correlated with oil price movements, at least at a daily frequency.
+As discussed in the top left panel of your next exhibit, the case for firming policy today may rest on the view that economic data, including solid gains in employment (the red bars), on balance indicate that financial conditions are supporting a durable economic expansion.
+As those financial conditions are predicated on firming policy today, you may feel it appropriate to validate those expectations.
+You may also be concerned that pressures on inflation may soon emerge.
+<START>While longer-term inflation compensation (plotted as the black line at the right) has been well contained, there has been a notable updrift in the shorter-term measure (the red line).<END>
+As shown in the middle panel, raising the nominal funds rate to 2 percent today would put it at about the midpoint of the range of standard policy prescriptions.
+As shown in the bottom panel, a ¼ point hike would also turn the real federal funds rate more decidedly positive and raise it further above the lower limit of estimates of its equilibrium value.
+The more difficult part of your decision would seem to be how to describe your future action, which is the subject of the third exhibit.
+<START>In the staff forecast, a variety of factors combine to make it possible to hold the funds rate at 2 percent for about one year without exhausting resource slack and putting upward pressure on inflation.<END>
+Even if you don’t anticipate waiting that long before firming policy, you might see merit in November 10, 200472 of 107contemplating the possibility of sitting on the sidelines in December and letting the world know of that likelihood now.
+A pause would give you the opportunity to assess the durability of the expansion
+—an opportunity that might seem to be particularly attractive if some of the recent strength in spending has been borrowed from next year in anticipation of the end of partial expensing.
+Signaling that intent would limit the risk that market participants, extrapolating from four consecutive tightenings, mark up their rate expectations inappropriately.
+Let me say a bit more about this point.
+The chart at the top right plots FOMC rate decisions over the past five years as hollow bars and shades the relative surprise (as judged from futures quotes) from that action.
+Being more explicit in your statements over the past year or so has allowed market participants to peg precisely the past three tightenings.
+But it may also have led them to expect such guidance going forward.
+In that case, silence about a pause might very well be taken as a signal that no such pause was being contemplated.
+That said, you might, as discussed in the middle panel, view the “measured pace” language as already encompassing enough scope to allow you to keep the funds rate at 2 percent in December if you see fit.
+The extent to which the outlook for policy has changed in the past few days may underscore the need to remain flexible.
+<START>Indeed, as shown by the probability density function implied by options prices at the right, market participants already place a wide band of uncertainty around where the funds rate will be just six months from now, suggesting that you already have latitude in the pace with which you remove policy accommodation without surprising markets.<END>
+Alternatively, you might view yourselves as unlikely to pause in December.
+As noted at the bottom left, with oil prices higher and the dollar weaker, inflation pressures may emerge relatively quickly.
+They could do so especially if we are in the midst of a slowing in the rate of growth of structural productivity that will put upward pressure on unit labor costs.
+As plotted at the bottom right, the four-quarter growth rate of output per hour in the nonfarm business sector (the black line) has turned down, whereas at the same time, unit labor costs have picked up (the red line).
+<START>As an alternative scenario presented in the Greenbook attests, monetary policy choices will be much less attractive should structural productivity growth ratchet down permanently.<END>
+For your reference, the last exhibit repeats the table of alternative statements that staff circulated on Friday with one change noted in bold.
+<START>Consistent with the view that the aggregate demand effects of the oil shock seemed to have been relatively more important, the phrase “despite the rise in energy prices” has been moved to refer to output growth.<END>
+That concludes my prepared remarks.
+CHAIRMAN GREENSPAN.
+Thank you.
+Questions for Vincent?
+President Minehan.
+MS.
+MINEHAN.
+I just had a quick question.
+Have we given some thought to whether by being clearer about what we expect to do in the future we are, in effect, getting information back from the market that is what we told them, as opposed to what the market’s own expectations are?
+November 10, 200473 of 107Do we know what the market thinks with regard to the need, in this case, for an increase in interest rates?
+<START>Or are we involved in a self-fulfilling situation here where we are clear and, therefore, the market says, “The Fed is saying this, so we’re going to give them back the same information they’re giving us,” without a lot of added market intelligence?<END>
+MR.
+REINHART.
+That’s the reverse of what we used to talk about as “looking in the mirror.” That was the issue of whether we were being guided by market signals because, if the market was guided by our signals, then again there was this positive feedback question.
+<START>Also one worries that market participants are not investing independently in the effort to forecast the economy and to decide what is the appropriate monetary policy.<END>
+<START>In that regard, I think a good example is not this intermeeting period but the prior two where data came out that seemed to suggest that aggregate demand would be weaker than previously thought.<END>
+Market participants didn’t change their view of the monetary policy actions over the next five months because the Committee’s statements seemed to suggest that you would be removing policy accommodation.
+Everything that moved was at a further-ahead time horizon.
+So the whole structure of the term structure of fed funds futures rates shifted down past four or five months out, whereas the near-term track of tightening seemed to be baked in the cake.
+That said, volatilities are low, but market participants seem to understand the conditioning nature of the Committee’s decisions.
+In support of that notion, as we’ve noted in past briefings, implied volatilities are low but the reaction to surprises in the data have been much larger than in the prior decade.
+So if you look at the reaction to surprises in the employment report or consumer prices, you see that markets are repricing their expectations for policy action.
+There just seems to be less idiosyncratic noise about where policy will be.
+CHAIRMAN GREENSPAN.
+Further questions?
+If not, let me get started.
+We are seeing what appears to be the first indication in this Committee of an increased variance of opinion which, November 10, 200474 of 107if you go back over the previous meetings, you will find was virtually nonexistent.
+The reason that our opinions are only now beginning to spread is that the policy stance we’ve taken over the last year or two has been very unusual.
+<START>During this period, we have had a very substantial and surprising growth in productivity, which drove unit labor costs down and created a view that inflation had very little probability of emerging.<END>
+Therefore we could be fairly well convinced that a low funds rate, a highly accommodative funds rate, be maintained for quite a significant period of time.
+could As a result, our general policy and the variety of terminology that we began to use, including “patient” and “considerable period,” became the central mantra of this Committee.
+I think that period is coming to an end.
+It’s not that we suddenly found some extraordinary capability to communicate to the markets our views, which would then craft their general expectations.
+It’s that the last couple of years were a very special and unusual period and not likely to be continued into the future.
+<START>We’re going to move back, I suspect, far closer to our more general position, which at one point was that we never projected the future, we merely tried to give a sense of the balance of risks.<END>
+That assessment often didn’t convey very much because we didn’t behave as though we really viewed it as a projection;
+we responded largely to the data as they evolved.
+My suspicion is that we’re moving back in that direction, and we’re beginning to see the reasons for that in the context of structural productivity gains.
+<START>If, indeed, structural productivity growth is 2¾ percent and if the general response of the wage market to the unemployment rate continues where it is, we will end up with, as the projection in fact implies, a 4 percent increase in compensation per hour and around 1¼ percent for the core inflation rate.<END>
+<START>Were we able confidently to project that indefinitely into the future, we could be fairly well convinced that inflation will be contained.<END>
+<START>The only problem is that our ability to make judgments about separating cyclical from structural output-per-hour changes is questionable or, I would say, modest at best.<END>
+This issue is November 10, 200475 of 107coming forward, for example, in the context of the slowdown in high-tech investment, which a number of people have mentioned.
+Now, if there is, indeed, a slowdown in high-tech investment or, as the Vice Chair of the Board of Governors indicated publicly, if the slower rate of decline in high-tech prices is suggesting a reduction in the extent to which the high-tech area is contributing to productivity, then we have to ask where we should place the long-term productivity number.
+And what is our confidence level for that number?
+It’s quite likely at this stage that 2¾ percent may well be the right number.
+<START>I say that in part because, despite the 337,000 increase in employment in October, if you examine the hires less separations, which theoretically should be coming from the same data source, that series is showing a smoother trend of gradual decline in the rate of job gains.<END>
+The latest data we have on that obviously are for September.
+That series shows less volatility than the payroll numbers but, on average, is not terribly different from the payroll series since the beginning of the year;
+both indicate a gradual slowing.
+If that were, indeed, the trend, then the productivity outlook is better.
+<START>If it is not and we are looking at an acceleration of employment, then chances are we are getting closer to a level of structural productivity growth that is lower than 2¾ percent.<END>
+Now, the reason I raise this issue is that, although we may choose 2¾ as our number, the argument that 1¾ may actually be what we’re looking at is not readily dismissible.
+<START>Making the distinction between what is happening short-term in output per hour and what is happening to underlying productivity is very difficult.<END>
+Indeed, the data for the numerator of output per hour come from a source wholly different from that of the denominator.
+I think we felt a sense of comfort that a goodly part of the productivity growth had to be structural when we had this very high rate of growth.
+That was almost certainly the case because the numbers were so high.
+As a result, what we were observing was definite downward pressure on inflation, to the point in fact where we were at the edge of being really quite concerned about the onset of deflation.
+That is no longer the case.
+November 10, 200476 of 107And I think we’re beginning to confront problems that really bring us back to the way we used to do forecasting, which had much wider areas of variance.
+Clearly, the variance of the views of this group is beginning to reflect that.
+Earlier we discussed the issue of the dollar.
+We’re not sure exactly how to translate the exchange rate into unit import costs.
+Indeed, for those of us who were in Basel the last couple of days, the startling new piece of information was that the fascinating decline in the rate of pass-through of exchange rates into unit import prices, a decline that is progressing in the United States at a fairly remarkable pace, is exactly what they are finding in the United Kingdom, according to Mervyn King at the Bank of England.
+When he raised that point and I mentioned our findings on that, everybody looked around, and there was general agreement that we were all seeing the same phenomenon.
+It all started, as you may recall, in the failure of the devaluations in Brazil and Argentina to create increased inflation, which they did not.
+Something very unusual is going on with respect to the exchange rate translation issue.
+And this is obviously a very important question for how we view currency depreciation and inflation and, therefore, what the implications are for monetary policy.
+<START>We have very significant problems with private saving.<END>
+The household saving rate has come down very dramatically and now is close to zero.
+We have to resist the notion that there’s some floor at zero, which the saving rate can’t go below, and that therefore it must flatten and turn up.
+<START>The idea of having a negative personal saving rate is not out of line with the way the world works.<END>
+Remember, the average household does not look at the book value of its equity holdings, which is what the saving rate is.
+The average household looks at the market value.
+And we can readily have, as our data have shown in the past, a negative saving rate with a significant part of the population believing that they are saving at a fairly pronounced rate, which has been the experience of recent years.
+We don’t know how that is going to come out.
+November 10, 200477 of 107We do know that Australia, as I understand it, has had a negative saving rate for a while.
+<START>Our flow-of-funds accounts here do not show a negative saving rate, but they indicate that almost all of the change in the saving rate in the last decade has been in the upper quintile of the income distribution, and there it is driven very substantially by asset values.<END>
+People in the upper quintile look at the market value of what they own.
+Adjusting their saving behavior in response to the book value of their net worth would never enter anybody’s mind.
+Hence, this is a synthetic number, and let’s be careful not to presume very much about what it is telling us.
+<START>The fiscal issue is very critical because it is the only issue in which policy per se has a clear positive contribution to make.<END>
+It is going to be very interesting to see how this plays out.
+I must say that I’ve turned a little optimistic in the last week or so listening to some of the Administration people in this respect.
+I’m not sure whether it will translate into something of significance or whether in fact, Ned, as you put it, “we all know how likely” that is.
+When it comes to policy, with the increased uncertainties that we have about how the economic situation is evolving, we have to acknowledge to ourselves that our forecast is going to be wrong.
+It always is.
+We expect it to be wrong.
+The question is, Where do we want to take the risks?
+<START>If we project continued low core inflation because of a 2¾ percent projection for structural productivity growth and that growth is in fact at 2 percent or less, inflation expectations will rise, bond yields will rise, and asset prices will fall, as, of course, the dollar in that context.<END>
+will We could face problems of balance sheet losses if the change is rapid.
+Our ability to separate cyclical from structural changes in output per hour, as I said before, is modest at best.
+<START>Should inflation expectations rise, the higher the funds rate, the better position monetary policy will be in to address unexpected inflation increases.<END>
+If we signal today a pause for December, the ten-year note yield will decline, engendering an even larger correction should underlying inflation unexpectedly rise in the months ahead.
+November 10, 200478 of 107Capital gains do not impair balance sheets.
+Capital losses do, however, especially if they are rapid.
+If rates move up and the economy slows, the ten-year yield will decline and possibly equity prices as well, but balance sheets will not be impaired.
+The structural damage obviously would be quite limited in that regard.
+Should the economy weaken, of course, we always have the option of moving rates lower.
+<START>It strikes me, therefore, that even if we believe the risks are symmetric with respect to how the economy is going to emerge, a cost–benefit analysis of the consequences of our taking various actions leads me to conclude that we would be far better positioned today not only to move 25 basis points but also to signal nothing about December.<END>
+The best thing that can happen is for the market to perceive that we are implying another rate increase in December because the further beyond the 1 percent range and into a positive real rate that we can get, the better off I think we will be.
+I want to repeat that we don’t know very much about the interaction of very large productivity gains, wage rates, unit labor costs, and the NAIRU.
+We’ve been experiencing these gains only in recent years.
+I personally would feel a lot more comfortable if the federal funds rate were back in a range that is consistent with much of our historical data rather than on the edges of a number of our econometric functions of how the economy works.
+The edges are significant in the overall picture, but I wonder how much emphasis we can put on the outer edge.
+Their significance depends on whether or not the functions are bending in one way or another, whether they are still linear, or what their nature is at those points.
+Therefore, overall, I think we are far better positioned to get the funds rate up as fast as we can this year and then recognize that we have time to discuss pausing as we get into next year.
+Now, in the December meeting we may want to suggest a pause for February 2, which I guess would be the particular day of the meeting.
+That will very much depend on what is evolving.
+If, for example, the weakness in the high-tech area continues into next year, I’m not sure how to read that.
+<START>If it says that we’re getting much less in the way of November 10, 200479 of 107technological advance, it suggests that the productivity growth rate is lower.<END>
+<START>If it is suggesting that capital investment is going to slow, we get a potential decline in the outlook for real GDP.<END>
+How we should play this is going to depend very much on how these numbers evolve, and at this particular stage, I think that we have to start preparing for a communication transition as we get into the early weeks and months of next year.
+We do have our semiannual report on monetary policy in which to make a very broad statement.
+But we may have to decide something in December about how we want to position ourselves for February, especially if, as now seems likely, we move another 25 points in December.
+What I’d like to propose is that we move 25 basis points today and have a statement that is as little changed as possible, so we seem neutral with respect to the move we might or might not make in December.
+Then we can proceed to observe how the data evolve over the next number of weeks.
+It is very unlikely to turn out that an upward move in December will be inappropriate and yet the markets will not have made that judgment already.
+If we deem a move in December inappropriate, it will be because of the types of evidence that will move the federal funds rate and indeed the whole financial structure.
+So the concerns that we would have about moving in a manner that would shock the market would not be relevant.
+I don’t think that is going to be a problem, but I do think we have to start thinking of the word “measured” as having a fairly short life expectancy.
+<START>We have to begin to reflect on how to approach our communications in a way that will be more consistent with an increased variance of opinion in this Committee in coming months, as I think is going to be the case.<END>
+President Hoenig.
+MR.
+HOENIG.
+Thank you, Mr. Chairman.
+I agree with your recommendation.
+I wanted to say, notwithstanding your comments on productivity, with which I don’t disagree, that the fact is that the real fed funds rate today is zero.
+I’d be more inclined to the view that we need to pause if the real fed funds rate were in fact positive
+—or to put it another way if the nominal rate were in the November 10, 200480 of 1072½ to 3 percent range, which is what I think you may be suggesting.
+So as long as the rate is below what I would consider a reasonable, neutral rate
+—and zero fits that criterion
+—then I don’t think we should be pausing.
+That’s not to say that we should move every time we meet next year
+—I realize that’s not the case
+—but I think the rate needs to be at a positive level, as you’re suggesting.
+In my view, the discussion at our meeting in February of next year will be important, and I think changing the language at that point will be important as well.
+CHAIRMAN GREENSPAN.
+<START>Maybe we ought to circulate the potential statement so that, if you find that any of the language is inconsistent with your views, you can comment on it.<END>
+Why don’t we do that?
+It’s the one labeled B′.
+People may misinterpret what is actually being proposed, so let’s not leave that to chance.
+President Minehan.
+MS.
+MINEHAN.
+Thank you very much.
+I’m in strong agreement with what you have proposed, Mr. Chairman, both the move of 25 basis points and the selection of the language that does not attempt to signal anything for December.
+I understand the logic in the Greenbook.
+We in Boston have the same kind of perspective about the future.
+So I realize that there is an identifiable
+—maybe even baseline
+—probability that even with a relatively flat fed funds rate over the next year or so, we’ll still have an output gap.
+I recognize all that economic logic.
+But my basic instinct says that we need to get out of the zero zone on the real fed funds rate and to a positive rate for any number of reasons, which you’ve done a better job of touching on than I ever could.
+I also would like to say that I think our use of language over the last year or so was prompted by a set of extraordinary circumstances.
+Whether one views those circumstances as related to the extraordinary productivity performance or to the unusual market volatility when deflation concerns were very prominent, we needed to do something to calm things down.
+We did calm things down for a good period of time.
+I really feel that in our communication we now need to move back to something that says what we did, why we did it, maybe gives some perspective on November 10, 200481 of 107the balance of risks, and leaves it at that.
+Whether we move there in December or in February
+—or in March, April, or May of next year
+—I don’t care, but I’d like us to move there.
+To be explicit, I’d get rid of paragraph 6.
+Thank you.
+CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+Thank you, Mr. Chairman.
+I support your recommendation both for the increase in the funds rate and the statement.
+I’d like to offer just a couple of other observations.
+The reason the communications process is so important is that it’s highly desirable that the market and the Federal Reserve read incoming data the same way and that the interpretation is a correct assessment of the significance of the incoming data.
+<START>That’s not so easy to do but, as Cathy Minehan pointed out earlier, we certainly don’t want to run the risk that the market’s assessment is simply flowing from what we have said about future policy actions, which when we get to the point of taking action may not reflect our own assessment of the data that have come in.<END>
+I think that the statement will have to evolve, as you suggest.
+<START>I’d also like to mention that I think the greater diversity of views around the table reflects the fact that the probability distribution of where we’re going to go has become considerably more spread out.<END>
+Or I’ll state it this way:
+My own probability distribution is considerably more spread out.
+If I think about where we were six months ago, I thought it was extraordinarily unlikely that we were going to remain at 1 percent on the funds rate.
+But my own view of where we’re going to go has become more spread out, and where we’re going to end up six months from now, I think, is going to depend much more on the data that we get in the next six months than anything that I can now put into my forecast.
+So I think that that divergence of views probably reflects each one of us becoming more uncertain as to where we’re going to go.
+CHAIRMAN GREENSPAN.
+A divergence of both the mean and the aggregate variance.
+Governor Ferguson.
+November 10, 200482 of 107MR. FERGUSON.
+Thank you, Mr. Chairman.
+I agree with your recommendations on both the 25 basis point move today and also language that doesn’t hint very much one way or the other about future policy.
+There are a couple of other things I’d like to add, though.
+One is that I don’t want to forget what exhibit 2 in Vincent’s presentation showed or what President Yellen talked about, which is that, if we move to 2 percent today, we are well up into the range of estimated equilibrium real rates historically.
+So while, yes, the rate is low, let’s not get ourselves too wrapped up in the thought that we are outside an acceptable range.
+We may be in the low part of it, but we seem to be in the range.
+Second, obviously having thought about this issue of a slowdown in productivity and in high-tech investments
+—I’ve talked about it here and publicly
+—I’d make a couple of other points.
+<START>One is that what we do with respect to the possibility of a slowing of productivity growth depends very much on how quickly the market picks it up and it is reflected in asset prices and other things.<END>
+If, in fact, the market doesn’t pick this up and if asset prices continue to rise inappropriately, we have to do something to slow aggregate demand down to the new expectation of slower increases in aggregate supply.
+<START>On the other hand, if the markets pick it up relatively quickly, asset prices won’t move up as quickly, aggregate demand won’t be out of line, and we still may be in a mode where we want to raise rates for a variety of reasons, but we may not feel as pressed because of the productivity uncertainty you talked about.<END>
+So I think in both cases we need to recognize the probable direction, but I at least am still very much open minded, as I think President Poole suggested we should be, about the pace at which we’re going to move in this direction.
+<START>In essence, I don’t think that the market necessarily has it wrong, nor do I think that the Greenbook has it wrong either.<END>
+So I am very much of a pragmatic view about what our policy stance next year might be.
+CHAIRMAN GREENSPAN.
+President Yellen.
+November 10, 200483 of 107MS. YELLEN.
+Mr. Chairman, I support your recommendation to increase the funds rate 25 basis points, but I am concerned about adopting the proposed statement.
+When I opened the Bluebook this time, I was actually pleased to see in alternative B what I thought was a well-crafted statement that hinted at a possible pause in a way that was rather artful and subtle, without foreclosing any option in the future whatsoever.
+And I thought the reasoning in the Bluebook in support of “B” was strong and convincing.
+As Vincent stated, both before and after the employment report, market participants expected some hint in the statement of a possible pause.
+After we received the employment report, there was an update to the Bluebook that contained alternative B′ as the proposed statement.
+So I took B′ as a response to the employment report, and to my mind that was an unwarranted shift.
+I would note that the Greenbook assessment of the appropriate path for the funds rate had not changed as a consequence of the employment report.
+<START>But we observed a large and, if the Greenbook is right, excessive market response to the employment report.<END>
+We saw that in the immediate move in the fed funds futures.
+I suppose if one interprets the employment report as a very strong signal
+—and perhaps this is the view that you were expressing
+<START>—that structural productivity growth is lower than we had been assuming, then this B′ statement would be an appropriate response.<END>
+<START>But it seems to me that the Greenbook has already incorporated an expected decline in productivity growth.<END>
+<START>I suppose in the Greenbook the decline is cyclical not structural, but it is built into the Greenbook forecast.<END>
+The employment report simply confirmed what the staff had earlier been expecting when they had been surprised by the low employment growth.
+So it seems to me that adopting B′ reinforces the market expectation about the future path of monetary policy in a way that I would not like to see it reinforced.
+My own preference would be to move today but to adopt alternative B rather than B′.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+November 10, 200484 of 107MR. GRAMLICH.
+Thank you, Mr. Chairman.
+I agree with your recommendation in all parts.
+I’m madly looking around for the sentence that Janet is referring to, and I can’t find it.
+CHAIRMAN GREENSPAN.
+It’s the first sentence that relates to alternative B
+—the very top one.
+MR.
+GRAMLICH.
+Oh, they’re putting in a reference to the cumulative increase.
+CHAIRMAN GREENSPAN.
+In other words, by stipulating how much we have done already, it suggests that that may be enough.
+MR.
+GRAMLICH.
+Right.
+So I’m for B′
+— the statement that was passed out.
+<START>But I agree with some combination of the views expressed by Janet, Cathy, and you that soon we should change this sentence that says, with inflation expected to be low, “the Committee believes that policy accommodation can be removed at a pace that is likely to be measured.” At some level, that statement is inoffensive and all-inclusive, but the problem is that the more we move up 25 points per meeting, the more we define what measured is.<END>
+We’ve now done that four times, so we are coding that sentence, and we probably have to change it pretty soon.
+I wouldn’t want to change it this time;
+I have at least some hawkish elements in my head, as you heard before.
+I think next time may be the time to change the sentence in a way that undoes the coding we have given it.
+CHAIRMAN GREENSPAN.
+President Santomero.
+MR.
+SANTOMERO.
+I support the two parts of your recommendation, Mr. Chairman.
+I think alternative B′ is preferable to B. I appreciate your observation on the diversity around the table, and I think President Poole is correct that it’s because each of us has a wider distribution in our heads regarding what is likely to happen.
+We’re just talking about where our mean is, I guess, or maybe where our insecurities are.
+In reality, my thought is that there is a good deal of uncertainty on both sides, as I pointed out in my formal comments.
+<START>There is uncertainty on the weak side as well as the strong side, for the reasons you noted.<END>
+Accordingly, I think it is time for us November 10, 200485 of 107to look at this language issue again.
+We enjoyed it so much the first time, and the second, and the third.
+[Laughter] CHAIRMAN GREENSPAN.
+President Stern.
+MR.
+STERN.
+Thank you, Mr. Chairman.
+I support the recommendation of B′.
+It seems to me that there is no need to change the language, at least at this point, because I think market participants understand the conditional nature of what’s going on here.
+So in that sense, I think we’re positioned rather well.
+I remain open as to when we may want to change the language and how we may want to change it, but for now I think we’re still reasonably well positioned.
+CHAIRMAN GREENSPAN.
+President Moskow.
+MR.
+MOSKOW.
+Mr. Chairman, I support your recommendation to increase the fed funds rate by 25 basis points.
+On the language question, I think it is time to start moving away from the term “measured.” It has worked well
+—quite frankly, better than I thought it would.
+I was concerned about it when we started using a series of forward-looking statements.
+So I would like to move away from the forward-looking statements
+—obviously not at this meeting, but possibly at the December meeting.
+At the same time, however, we should also seriously consider the balance of risk statement that we had previously.
+After two task forces working on this with Roger Ferguson, I’m not going to suggest a third task force.
+But the balance of risk language has evolved over the ten years that I’ve been here.
+<START>It has been useful at times, but I think it is getting increasingly difficult to craft a balance of risk statement, given the complexity of the economy.<END>
+CHAIRMAN GREENSPAN.
+Governor Bernanke.
+MR.
+BERNANKE.
+Thank you, Mr. Chairman.
+I support both parts of your recommendation.
+I have just two comments.
+One is that I think you overstate a bit the idea that the current funds rate is outside the range of historical experience.
+As President Poole noted, it’s not so unusual in real terms
+— November 10, 200486 of 107CHAIRMAN GREENSPAN.
+I’m sorry
+—I was referring to the 1 percent.
+MR.
+BERNANKE.
+Oh, the 1 percent, okay.
+I don’t think there’s a basis to move just on an allergy to a 2 percent funds rate;
+I think it should be based on the data and on the economy.
+I would just note additionally that the economy responds most directly to overall financial conditions, and there I don’t think we’re anywhere close to the border of what has been experienced in history.
+My second comment is on communications.
+As everyone knows, I disagree with President Minehan;
+I think we should be trying to provide guidance.
+In my view it has worked very well the last couple of years.
+I don’t think it was surprising that it worked well.
+Precisely because we are assessing such complex matters
+—for example, we’re trying to assess the course of productivity
+—it’s very difficult for the market to read our minds.
+We need to provide some kind of guidance;
+whether it’s conditional or whatever it may be, I think we should.
+<START>I’m personally comfortable with dropping the “measured” language or modifying the language, but I hope we do not go back to a completely uninformative statement, at least without some thorough discussion of what the options might be.<END>
+Thank you.
+CHAIRMAN GREENSPAN.
+Governor Kohn.
+MR.
+KOHN.
+Thank you, Mr. Chairman.
+I support both parts of your recommendation, raising the funds rate and keeping the statement essentially as it was last time.
+I also hope we reconsider the language in December.
+To some extent I may have a different focus than some others who want to do that.
+I hope we leave open the possibility that we could pause from needing to move
+—that we’re not locked in to tightening at each meeting.
+My concern about “measured” and about the current language is that it does seem to lock us in one meeting ahead, but I don’t think it has really constrained the market when it looks much beyond the next couple meetings.
+I think we see that we’re getting good feedback from the market;
+our “measured” language hasn’t impaired that feedback except for the very short term maturities because market participants see our November 10, 200487 of 107announcement as triggering the next action.
+So I believe we need to think about how to do this in December, if we’re going to keep an open mind for February.
+If we remove “measured,” I hope we don’t do so in a way that suggests we’re on an even steeper upward track and our pace of tightening is not going to be measured.
+I don’t think that’s consistent with the economic outlook.
+<START>You seemed to imply that the inflation risks were quite skewed because of the productivity risks, and I admit that productivity growth may be slower than we had anticipated.<END>
+The staff has a slowdown built into the Greenbook and it could
+— CHAIRMAN GREENSPAN.
+I’m not saying that.
+I’m saying that the cost of a mistake in policy is skewed, which is a different statement.
+<START>I’m acknowledging that the probability distribution is symmetrical on the outcome of the event, but the cost–benefit analysis on a mistake is not.<END>
+MR.
+KOHN.
+Perhaps.
+I think there is a cost to being too high as well as being too low.
+CHAIRMAN GREENSPAN.
+Absolutely.
+MR.
+KOHN.
+Maybe the cost of being too high is that we have a more sluggish economy with fewer people put back to work and too low an inflation rate if some of these upside risks to inflation don’t occur.
+So I think there are costs on both sides here.
+If we take out “measured,” I hope we give some sense, even if it’s a balance of risk sentence, of our assessment looking forward, as Governor Bernanke said.
+I hope we don’t induce people to raise intermediate- and long-term rates by a considerable amount because they think we’re no longer going to be measured in removing policy accommodation.
+I think that would be a problem, given the outlook.
+Thank you.
+CHAIRMAN GREENSPAN.
+President Pianalto.
+MS.
+PIANALTO.
+Thank you, Mr. Chairman.
+I also am in strong agreement with your recommendations both to increase the fed funds rate and on the statement.
+My thinking on how we would remove our accommodation has evolved over the past few months, along the line that November 10, 200488 of 107President Poole has already articulated, and I’m just not certain when a pause may be necessary.
+So I am supportive of language that gives us that flexibility.
+And I was encouraged by Vincent’s comments that some market participants do think that the current language gives us that flexibility.
+So I’m in support of your recommendations.
+CHAIRMAN GREENSPAN.
+Governor Olson.
+MR.
+OLSON.
+Thank you, Mr. Chairman.
+I also support both parts of the recommendation.
+With respect to the statement, I also think it is appropriate at this time to make as little change in the statement as is necessary, for a couple of reasons.
+First of all, the markets understand that the absence of change is not a result of inattention;
+they know it is the net result of a great deal of thought and consideration.
+So any change whatsoever is interpreted, and occasionally over-interpreted, and I don’t think we are at the point yet where we need to open that possibility.
+With respect to communication in the future, I’m with Governor Bernanke.
+I don’t think we can go back to communicating in the fashion that we were doing even a year ago.
+I think we have set an expectation that we will make a real effort to communicate some of our underlying sense of what’s happening with the economy, and I think we will be called on to continue that trend.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+I support your recommendation, Mr. Chairman, including the language.
+CHAIRMAN GREENSPAN.
+Governor Bies.
+MS.
+BIES.
+Thank you, Mr. Chairman.
+<START>I support your recommendation, including the language, for this meeting, but I do share some of the concerns that several of my colleagues around the table have expressed.<END>
+I think some of the language may not be seen as particularly consistent with our policy of improved communications.
+If the words are seen as boilerplate every time, in a way it may take away from our flexibility going forward.
+So at the December meeting, I’d like us November 10, 200489 of 107to look at some alternatives.
+If the word “measured” continues to be part of our statement, I think, as others have said, it will end up tying our hands.
+<START>Another part of the statement is the second sentence, in which we’ve talked about this “robust underlying growth in productivity.” We saw in the ’90s that we moved to a different level of long-term productivity growth, but as I said in my comments, we may be in a part of this business cycle or stage of the recovery when productivity growth is going to look weaker.<END>
+We need to think about how that is worded.
+I think that language could raise some questions about what productivity we are focusing on
+—the long-term versus the cyclical
+—if productivity turns out to be weakening, as the forecast in the Greenbook lays out.
+So as the recovery continues to move forward, there are aspects of the statement that we have to be careful about in terms of leaving in some of the language for such a long period of time.
+We need to think through and begin to anticipate prior to a meeting how to make those kinds of changes in order to give us flexibility.
+CHAIRMAN GREENSPAN.
+President Lacker.
+MR.
+LACKER.
+I agree with your proposal, Mr. Chairman, about raising the rate and about the statement.
+My own sense is that the funds rate is more likely to lie on the path of the market’s forecast than that in the Greenbook, and I don’t think it’s the right time to pull down the yield curve.
+With regard to our statement, I agree with Governor Bernanke that we shouldn’t be looking to turn back the hands of time and increase the variance in the market’s forecast for the future fed funds rate.
+CHAIRMAN GREENSPAN.
+Vice Chair.
+VICE CHAIRMAN GEITHNER.
+I support your recommendations.
+I wish I knew what I thought about the desired statement!
+[Laughter] I would just point out not only that the market now expects us to slow the pace of increase significantly from what we’ve been doing but also that the minutes from our last meeting have some nice artful language near the end
+—which is probably November 10, 200490 of 107relevant to some of the concerns many of you expressed
+—saying that the market has not misinterpreted us as signaling a steady reflexive march up at 25 basis points per meeting.
+<START>I think the minutes are helpful against that risk of being misinterpreted, and I look forward to a discussion about the future structure of the statement in December and beyond.<END>
+SPEAKER(?).
+You may be the only one!
+[Laughter] CHAIRMAN GREENSPAN.
+Are you volunteering to be the chairman of a committee to look at that issue?
+Do you want to make a statement, Ms. Holcomb?
+MS.
+HOLCOMB.
+Well, I thought maybe my silence could serve as assent, but I do support your recommendation.
+And our expectation is that there will be a need for pause and that at the next meeting the language might need to be changed.
+CHAIRMAN GREENSPAN.
+Would you read the appropriate language?
+MS.
+DANKER.
+This is from page 13 of the Bluebook, on the directive:
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+<START>To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with increasing the federal funds rate to an average of around 2 percent.” And then the risk paragraph from the press release on the assessment of risks:<END>
+“The Committee perceives the upside and downside risks to the attainment of both sustainable growth and price stability for the next few quarters to be roughly equal.
+<START>With underlying inflation expected to be relatively low, the Committee believes that policy accommodation can be removed at a pace that is likely to be measured.<END>
+Nonetheless, the Committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability.” CHAIRMAN GREENSPAN.
+Call the roll, please.
+MS.
+DANKER.
+November 10, 200491 of 107Chairman Greenspan Yes Vice Chairman Geithner Yes Governor Bernanke Yes Governor Bies Yes Governor Ferguson Yes Governor Gramlich Yes President Hoenig Yes Governor Kohn Yes President Minehan Yes Governor Olson Yes President Pianalto Yes President Poole Yes CHAIRMAN GREENSPAN.
+I want to confirm that the next FOMC meeting is scheduled for Tuesday, December 14.
+Before adjourning, the FOMC will go into recess while the Board members join me in my office to discuss discount rate requests.
+[Recess] CHAIRMAN GREENSPAN.
+The Federal Reserve Board has just voted to raise the discount rate at the request of ten of the Reserve Banks.
+This FOMC meeting is now adjourned.
+END OF MEETING November 10, 200492 of 107
+INSTANCE OF DISAGREEMENT: 59

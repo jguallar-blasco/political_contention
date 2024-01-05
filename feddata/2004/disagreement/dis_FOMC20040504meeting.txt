@@ -1,0 +1,850 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+It is true that markets expect commodity prices to come off a bit, as May 4, 200465 of 112 the Chairman and Karen were discussing earlier, but we have been surprised on that score.
+It is also historically true that the commodity-price pass-through has not been an important part of inflation dynamics.
+But again, one should be cautious.
+In my view, more worrisome than this issue about commodity prices
+—where by and large I think the standard wisdom is likely to hold
+—is the question of inflation expectations and inflation dynamics.
+Some of us are concerned that a consistent series of upside surprises on inflation might start to become embedded in inflation behaviors and inflationary expectations.
+That is something certainly to be aware of.
+Ned talked about mistakes that this institution made in the ’60s and ’70s.
+<START>I think many of those mistakes can be traced back to some misunderstandings about the dynamics of the economy but also to a willingness of the Committee at that point to buy into special stories to explain almost every upside surprise.<END>
+So we should be very careful not to quickly reject this whole negative scenario with respect to inflation and the inflation dynamics that come from upside surprises.
+<START>While putting some weight on those things, my general view is that the greater probability is that inflation will pick up only relatively slowly from this point.<END>
+I would still say that I tend to focus more on the more traditional views of what drives inflation.
+I think there continues to be a great deal of evidence of some slack in the U.S.
+economy, though it may be less than we thought it was at the previous meeting or the previous several meetings.
+Labor markets clearly have not completely recovered.
+It is true that we’ve had one good data report, but we have to be careful in interpreting that;
+we’ve had a few head fakes in that regard in the past.
+I would say that the rate of hiring still is showing only some early signs of picking up.
+<START>The ECI seems relatively well contained, but we probably want to exclude some one-time effects.<END>
+Trend unit labor costs also, it seems to me, most May 4, 200466 of 112 likely will be increasing at only a gradual rate.
+Finally, I would say that the structural productivity story is still in place, while obviously the cyclical components of that will clearly wane a bit.
+So, at this stage I come down
+—admittedly somewhat uneasily
+<START>—agreeing with the general sense of the Greenbook that inflation is likely to pick up only gradually going forward.<END>
+This suggests to me that, when we get to the second round of our discussion today, there may be two or three ideas that I would hope we could all agree on.
+<START>One is a clear recognition that the risks obviously have become balanced with respect to inflation and that we’d lose credibility if we weren’t ready to say that.<END>
+But I don’t think that they necessarily have moved to the upside.
+<START>Second, I think we should continue the process of clearing impediments to raising rates to more neutral levels.<END>
+We have moved from “considerable period” to “patience.” Like Governor Bernanke, I endorse the proposed new language in the Bluebook, and I’d suggest that we continue to move on that path.
+And third, I think it is very important that we signal as we move forward that a moderate pace of moving rates back to neutral is most likely.
+By definition, we’re going to be driven by the incoming data.
+But given the range of uncertainties we face now, I think it would be a mistake to lock ourselves into any particular path of rates going forward, implicitly or explicitly.
+Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+Governor Bies.
+MS.
+BIES.
+Thank you, Mr. Chairman.
+I will take the opportunity for the last time, I guess, to say that I agree with President Broaddus.
+As I prepared for this meeting, I too found that the changes since our last FOMC meeting were significant.
+As I looked at the different indicators I track, I saw more change than I had for quite a long time.
+I want to talk about three aspects of the data that I ended up focusing on:
+inventories, employment, and the various inflation indicators.
+May 4, 200467 of 112 Let me start with inventory growth.
+I think we all were surprised about how little inventories grew in the last few months, below even the Greenbook estimates.
+If one looks at the historical trend in both inventory–sales and inventory–consumption ratios, what is remarkable is that the downward trend of these ratios that began in the ’90s has continued
+—except for a slight flattening in wholesale manufacturing inventories during the recession.
+<START>In fact, even the Greenbook forecast of inventory accumulation this year, based on the recent changes in the GDP numbers, suggests a level of inventories in 2004 that will be less than that held by companies in 2000, despite double-digit sales growth in the intervening four years.<END>
+So, what is happening with companies’ inventory management practices?
+Recently I had an opportunity to be with some financial officers of several different types of businesses, and one of the things I found was that the anecdotal commentary was mixed.
+Particularly among manufacturing industries, there is still a lot of caution out there.
+These tended to be firms that had suffered a lot in industries where there is real pressure on profits.
+Perhaps like the company President Pianalto talked about, they’ve been worried about building their book of sales and have been trying to get their inventories down even further.
+On the other hand, folks in the retail industry told me stories about how they continue to be on a path of substantially changing the way they integrate information systems across their companies, going from the prospect books of their sales forces to order books and to inventory management.
+While a lot has been accomplished in that regard, many of these financial officers felt there were still significant ways that they could continue to improve their management of inventories.
+Manufacturing firms also are doing this, but again they started more on the cautious side than the retailers, who were talking more about improving their inventory management processes.
+May 4, 200468 of 112 In terms of employment, I was glad to see that in March we had for the first time some growth in payrolls.
+<START>I’m still a little pessimistic because it has been so long since we’ve seen real job growth.<END>
+But it clearly is one of the indicators that I’m sure we all hope will be showing sustained growth going forward.
+Payroll income has not moved a lot in the last couple of years, and I personally am concerned that, after the tax refunds have played out this year and we see a slowing in the pace of equity extractions from housing due to rising mortgage rates, we will need to have significant payroll growth in order to sustain a strong level of final consumption.
+<START>And finally on the inflation numbers, it was amazing that after our March meeting every indicator of inflation that came out suddenly showed a reversal in the trend that we saw in 2003.<END>
+In 2003, every month
+—and even on a twelve-month rollover measure
+—rates of inflation continued to fall.
+But that has really changed, and the anecdotes that many of you mentioned at previous meetings have come to bear.
+As I looked at the various pieces of the inflation picture, I focused on the question that some of you have already asked:
+Is something fundamental happening, or is this attributable to unusual events?
+Clearly, we have issues with some commodities where we’re seeing worldwide demand-driven price changes.
+But overall what is amazing is that prices on the goods side generally have stopped their decline
+—a decline that obviously helped to lower the overall inflation rate for the last couple of years.
+And this is true for everything from used cars to apparel;
+it’s not just raw materials or commodities prices.
+The other side, though, is that the rate of inflation for services
+—which had been relatively high in the last couple of years
+—has continued to come down.
+If one takes out medical services in particular, it is clear that the rate of inflation for other services is continuing to moderate.
+And since services are such a big part of our economy, if that trend continues I believe it will help to offset some of the lack of price declines on the goods side as we go forward.
+May 4, 200469 of 112 2 The materials used by Mr. Reinhart are appended to this transcript (appendix 2).
+Putting all that together, my position is that I do believe that the inflation risks are finally balanced.
+I would also echo the comments that were made earlier about changing our statement in order to allow us as much flexibility as possible so we can respond to whatever the data show in the next couple of months and can take the appropriate steps when needed.
+CHAIRMAN GREENSPAN.
+Thank you.
+I think we have covered everybody.
+Mr. Reinhart.
+MR.
+REINHART.2 Thank you, Mr. Chairman.
+I will be referring to the material that Carol Low distributed to you during the coffee break.
+Market interest rates staged a remarkable runup over the intermeeting period, spurred on by data releases that surprised investors by their strength and by comments of the Chairman during congressional testimony.
+As shown in the top panel of your first exhibit, the funds rate expected to prevail one year ahead advanced 85 basis points.
+The red line in the middle left panel indicates that market participants currently believe that you are on a path to raise the funds rate 3 percentage points over the next two years
+—and that you’ll embark on that journey sometime soon.
+Indeed, a full ¼ point tightening is first priced in by the August meeting, and as shown by the bars at the right, significant weight is placed on the funds rate being at least as high as 1¾ percent by October.
+<START>Nonetheless, no weight is placed on action at this meeting, although surveys suggest that you’ll seek to carve out additional elbow room for future action by dropping or modifying the “patience” language.<END>
+The revision over the intermeeting period to the outlook for policy prompted a 75 to 90 basis point rise in nominal Treasury yields, which was recorded predominantly in their real components.
+Despite some narrowing of corporate risk spreads, an average of real corporate yields (weighted by capital spending and plotted at the bottom left) gained 60 basis points since your March meeting.
+Adding in the appreciation of the dollar and the small net change in equity prices, it would appear that financial conditions tightened appreciably over the intermeeting period
+—a point Governor Bernanke has made.
+An important element in your decision today is whether you view this tightening as commensurate with the revision to the economic outlook.
+To help frame those deliberations, three alternatives were presented in the Bluebook, which are repeated at the top of exhibit 2.
+The wording of alternative A was designed to address the worry that market participants may have built in excessively prompt and aggressive policy tightening and that the associated firming in financial conditions could threaten economic outcomes in 2005.
+Alternative B might be favored if you believe that market participants have pegged about correctly your assessment of the odds of policy action over the next few meetings but you also desire to emphasize that policy May 4, 200470 of 112 firming will be gradual to limit the chance of an overreaction in markets when tightening commences.
+<START>In contrast, alternative C includes a ¼ point hike in the funds rate, which might seem appropriate if you interpret the tightening of financial conditions as the initial signs of building pressures on inflation or increases in equilibrium real interest rates.<END>
+Taking these alternatives in turn, the case for A, which makes only minor changes to the wording of the statement and retains the commitment that you’ll be patient, likely rests at least in part on dissatisfaction with the slow progress in working down resource slack in most forecasts and perhaps, too, on concern about downside risks to such forecasts.
+<START>In the staff outlook, as shown in the middle left panel, substantial resources go unused over the next one and three-quarters years, with the output gap lingering at ¾ percentage point in the final quarter of 2005, while core PCE inflation still runs at just 1¼ percent.<END>
+Although readings on payroll gains and CPI increases might indicate that businesses have become less hesitant to hire and that some pricing power has returned, the two histograms derived from data since the early 1980s at the middle right serve as a reminder that those monthly readings are very volatile.
+A 70 percentile range of the monthly change in payroll employment spans 300,000;
+the comparable figure for CPI inflation is 0.3 percentage points at a monthly rate.
+Moreover, given the outsized increase in the core CPI last month and the evidence of some tendency toward reversal, you might think that the risks around the next CPI release are skewed to the downside.
+The Committee might be inclined to go slowly if recent developments seem reminiscent of the false economic dawn of two years ago.
+Back in March 2002, as sketched out in the bottom left panel, market participants were also firmly of the view that tightening was imminent and priced in 1¾ percentage points of funds rate increases over the balance of that year.
+<START>Both economic data and the moral fiber of some of the leaders of corporate America subsequently proved shaky, and those expectations unwound, just as (in the bottom right panel) the consensus expectation of the year-end unemployment rate rose.<END>
+This time around may really be different.
+<START>The discussion of alternative B in your next exhibit begins by noting that members might find the staff forecast both plausible and acceptable in its outlook for durable economic expansion and muted pressures on inflation.<END>
+A notable aspect of the economic releases over the past six weeks was the consistency with which they surprised on the upside.
+But economic forecasts are always uncertain.
+Some sense of that can be gotten from the middle panels, which plot the distributions of three-quarters-ahead Greenbook forecast errors for the unemployment rate and four-quarter CPI inflation, centered around the current forecasts for 2004:
+Q4.
+Those distributions
+—derived from the past twenty-five years
+—are notably spread out.
+Over the last year or two, we’ve pointed to the lower tail of the distribution at the right, in conjunction with the zero bound to nominal interest rates, as a rationale for maintaining any unusually easy stance of policy.
+Now, with the risks of deflation substantially diminished, you may wish to shift your focus more to the upper tail of the distribution.
+<START>The possibility of significant upside May 4, 200471 of 112 surprises unfolding in short order may make you uncomfortable with the commitment that “the Committee believes that it can be patient in removing its policy accommodation.” But “patience” was meant to convey two notions:<END>
+that the Committee believed it could wait awhile before acting and that, once policy firming commenced, it could be gradual in returning the real funds rate to its neutral setting.
+It is the former, not the latter, that at the moment may seem to be confining.
+In the Bluebook, we offered modified language that the “Committee believed that policy accommodation can likely be removed at a measured pace” to emphasize that you see yourselves entering a tightening phase but one that likely will not be as aggressive as in prior episodes.
+That emphasis seemed important because, as in the table at the bottom left, market participants currently anticipate about 200 basis points of firming in the next year.
+That is probably influenced by the experience of the three prior tightening phases, in which the funds rate moved an average of 2⅔ percentage points higher within the first year.
+But with inflation lower now than in those prior episodes, you may see less need at this juncture for such firming, perhaps viewing as more likely something on the order of the 100 basis point increase assumed by the staff.
+In the Greenbook, the gradual realization by investors that you will not need to tighten as sharply as they now believe imparts an accommodative offset to your policy firming.
+Without that offset, you may be concerned that the swing of both monetary and fiscal policies toward more restraint may slow the growth of spending next year even more than is built into the Greenbook.
+There are potential costs associated with delaying tightening and conveying a sense of gradualism.
+The recent increase in short-run inflation expectations
+—say, as measured by inflation compensation in the Treasury market as in the bottom right panel
+—may represent a cautionary flag in that regard.
+<START>But inflation compensation between five and ten years from now seems much better anchored, perhaps encouraging you to believe that a statement along the lines of alternative B would not cause market participants to question your inflation-fighting resolve.<END>
+If you think that the odds are higher that inaction might prompt building of inflation concerns, you might opt for alternative C, which is discussed in exhibit 4.
+In particular, a ¼ point firming might be favored if you are of the view that inflation has more than bottomed
+—that businesses have regained a considerable measure of their pricing power and intend to use it rather than absorb higher costs by cutting into their fat profit margins.
+In that environment, persistent monetary policy accommodation may spell trouble down the road.
+<START>And as shown in the middle left panel, monetary policy has probably become more accommodative of late, as higher inflation by some measures has sent the real federal funds rate further into negative territory and the brighter outlook for the economy has been associated with an increase in the equilibrium funds rate.<END>
+Such concerns would be heightened if you suspected that the natural rate of unemployment was higher than the staff currently assumes.
+As an alternative simulation in the Greenbook indicated, a natural rate of 5¾ percent, instead of less than 5 percent as assumed by the staff, would add more than May 4, 200472 of 112 ½ percentage point to the inflation forecast for next year (as shown in the middle right panel).
+One consideration regarding the timing of such a move is that, as in 1994, it could spark significant financial market turbulence.
+Indeed, as shown at the bottom left, in both episodes the Committee kept rates low for a protracted period.
+This time, however, market participants seem better prepared, in that the expected path of the federal funds rate (the dashed red line) points decidedly higher than was the case in 1994 (the dashed blue line).
+<START>Moreover, the large upward revision to expectations over the course of 1994 should not necessarily be taken as evidence of the primary role of a self-feeding dynamic in which policy tightening prompted investors to expect more tightening.<END>
+<START>Rather, a portion was due to the response to incoming data that suggested a more rapid improvement in the labor market, seen as the downward drift in a consensus forecast of the unemployment rate at the end of the year (shown at the bottom right).<END>
+That said, you should be prepared for a sharp revision to expectations and heightened volatility should you surprise markets by firming today, especially acting so close in advance to key readings on employment and inflation.
+That in itself may be sufficient to dissuade you from such an action before making your intentions more clear.
+In the last exhibit, I provide an updated version of the table from the Bluebook that gives the statement wording for the three alternatives that I have discussed.
+Of particular note across the columns is the characterization of inflation risks as now balanced
+—which was driven by recent data
+—and the promise that policy tightening would be measured under B and C. Based on feedback I got since the Bluebook was distributed, I offer three changes to the suggested wording, one in the rationale paragraph and two in the risk-assessment portion, with all three highlighted in bold.
+<START>First, some members were troubled by the characterization that inflation was well anchored, so that has been softened to “contained.” Second, it seems appropriate to stress that the outlook has changed by noting that “the risks to the goal of price stability have moved into balance.” Lastly, to be sure that the qualifier “likely” obviously applied only to the pace that you intended to remove policy accommodation rather than when you’d start the process, I redrafted the last portion of the last sentence to read “policy accommodation can be removed at a pace that is likely to be measured.” That concludes my prepared remarks.<END>
+CHAIRMAN GREENSPAN.
+Questions for Vincent?
+President Moskow.
+MR.
+MOSKOW.
+Thank you, Mr. Chairman.
+Vincent, I just had a question about the word “measured.” I guess there are three options here.
+We have been using the word “patient,” and that gives a certain message to the financial markets.
+So as you’ve outlined in the Bluebook, we could retain the word “patient,” substitute the word “measured” for it, or we could take it out completely.
+May 4, 200473 of 112 As I read the Bluebook, it said that if we put in the word “measured,” interest rates would still go up.
+If we take out the word “patient” and put nothing in its stead, interest rates would go up further.
+I was wondering if you could give us some idea of the magnitude of those differences.
+[Laughter] MR. REINHART.
+To what significant digit?
+MR.
+MOSKOW.
+Whatever you decide!
+MR.
+REINHART.
+I think we can agree on the sign.
+The experience of taking out the promise of remaining accommodative for a “considerable period” and substituting what seemed to be a similar concept of “patience” was that it prompted a good-sized market reaction.
+Similarly, “patience” has now become a loaded word, and the first thing traders will do at 2:15 this afternoon is to look to see if that word is in our statement today.
+If there is nothing there at all, then I think you should expect a movement up in forward rates on the order of 10 to 15 basis points.
+Leaving the sentence there but changing the language and using the term “measured” will send them to their dictionaries where they will find that the second meaning in most common dictionaries is “connotes a gradualism.” In my view, that will prompt a reaction on the order of, say, 5 to 10 basis points.
+I’m looking to Dino to see if he agrees or disagrees.
+MR.
+KOS.
+My dictionary aligns perfectly with Vincent’s.
+MR.
+MOSKOW.
+But does your market sense align with his?
+MR.
+KOS.
+Vincent makes a very good point about the initial reaction in January, when “patience” replaced “considerable period.” And I think he’s right that market participants will look to see if “patience” is in today’s statement.
+If it is not, there will be a knee-jerk reaction pushing yields higher.
+MR.
+MOSKOW.
+Thank you.
+May 4, 200474 of 112 MR. REINHART.
+The other point I’d like to make, President Moskow, is that in the total scheme of things, any reaction to the wording today is going to be dwarfed in significance relative to what happens at 8:32 Friday morning after the employment report comes out.
+MR.
+MOSKOW.
+Right.
+But basically you’re talking about a small number of basis points from the difference in the wording?
+MR.
+REINHART.
+Yes, but it will also influence how market participants subsequently react to the data.
+That is, their view of the employment report or the CPI is going to be filtered through the lens of what they think the Committee is going to be doing.
+In that sense “measured” is a speed bump to them as well, in terms of overreacting to the data.
+So it’s not just a matter of what happens this afternoon;
+it’s what happens over the next six to eight weeks.
+CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+Thank you, Mr. Chairman.
+I was going to raise a question that goes right to the point that Vincent was just making.
+<START>The critical issue is not how the market will respond this afternoon but how best we can create language that will align our reaction to the data and the market’s reaction to the data.<END>
+As Roger Ferguson mentioned before, obviously we’re going to be responding to the incoming information.
+I think he said it goes without saying.
+MR.
+FERGUSON.
+But I had to say it nevertheless!
+[Laughter] MR. POOLE.
+So I think it might help to give some sense of that
+—to modify this language and say something like “with inflation low and resource slack and given the economic outlook”
+— to emphasize the point that, if the economic outlook changes as a consequence of the incoming data, then of course it makes sense for us to reconsider the pace at which we would remove the accommodation.
+I’d put it in those terms.
+Between now and our next meeting, we’ll have two employment reports, and I guess we’ll have two CPI reports.
+<START>If each of those suggests a revision to May 4, 200475 of 112 the outlook such that the outlook for activity is one standard deviation higher and inflation the same way, that would be quite a major change.<END>
+And I think it would require us to react a little less gradually than we might otherwise.
+I agree that gradualism makes a lot of sense if the world comes out according to the staff forecast.
+But if it doesn’t come out that way, we don’t want to lock ourselves into a market assumption that we’re going to be moving gradually, it seems to me.
+Thank you.
+CHAIRMAN GREENSPAN.
+President Santomero.
+MR.
+SANTOMERO.
+I’d like to go to this point of what the market’s reaction will be.
+Obviously the market reaction is going to be dependent upon what we do relative to what market participants expect us to do.
+Their expectations are the relevant issue here.
+But I don’t know how we measure market reaction when we don’t have a way of going out there and asking market participants, “What would you think if we said ‘measured’?” The market is expecting an adjustment, I would argue
+<START>—an elimination of the word “patience.” But I don’t know how to split that hair and say that, if we eliminate “patience,” which is what the market expects, but don’t put in a word that is somewhere between patience and an imminent move<END>
+—a word such as “measured” whose second definition is “slow movement”
+—we’re going to get a 10 basis point increase in rates.
+More to the point, we’re then going to have to sit around here next time and worry about whether it is time to be less measured, and that troubles me as well.
+<START>I thought that the combination of the speeches and the market’s expectations as to the data would allow us the opportunity to do what the market expects by taking out “patience.” I just wonder whether we’re generating another problem by adding “measured.” I don’t know what the reaction to that is going to be.<END>
+Whatever the reaction is, we’re going to have to pay for it later when we no longer want to characterize our prospective policy actions as measured.
+I don’t know if that’s May 4, 200476 of 112 a question!
+[Laughter] You answered the question of what you expect the market to do, though I don’t know how one could even begin to answer that question.
+I think market participants are going to scramble to their dictionaries and ask, “What does ‘measured’ mean?” And then they’ll try to figure out our intentions and how to react.
+MR.
+BERNANKE.
+Haven’t you done surveys on the market’s expectations regarding the language?
+I think you have.
+MR.
+REINHART.
+<START>In the survey by the Desk, the question we asked market participants was whether they expected us to drop or modify the word “patience.” MR. SANTOMERO.<END>
+<START>If they expect us to drop it or modify it, I read that as an opportunity to drop it.<END>
+If we really wanted to know more, I guess we should have asked, but I’m not sure how to do that.
+There are lots of words in the English language.
+MR.
+REINHART.
+It’s hard to know how to interact with market participants about potential wording.
+Obviously I am making a guess here, but it does seem, on the basis of reading various newsletters, that the preponderance of economists who write about the issue expect the Committee to modify rather than to drop the word “patience.” But that is a guess.
+I once asked a Nobel laureate what he thought was the best way of finding out how market participants would react to wording in the statement.
+He suggested that we do what those in the survey industry do
+—have focus groups and really experiment with traders.
+My reaction was that the only time I’ve ever thought about experimenting with traders it involved cattle prods!
+[Laughter] It’s just hard to
+— CHAIRMAN GREENSPAN.
+Traders react to what they think other traders are going to do who react to the way they think still other traders are going to react.
+To try to anticipate how they will react is a futile activity in my experience.
+President Hoenig.
+May 4, 200477 of 112 MR. HOENIG.
+Vincent, this may be more of a statement than a question also.
+But in my experience on this Committee we’ve never acted in other than a measured way.
+And I can’t see our doing otherwise as we go forward, depending on the data we get.
+In my view the only thing we accomplish with this word specifically is to put a collar on ourselves and to tell the market that we’re putting a collar on ourselves going forward.
+I think that’s what we’ve done in the past, with the result that, anytime we want to make a change, we have to wait at least one more meeting to prepare the market for the change
+—using the statement as the vehicle.
+That is the point Tony was making earlier.
+We have an opportunity here to drop this language, and I think we should.
+CHAIRMAN GREENSPAN.
+May I just interrupt?
+I’ll anticipate what I’m going to say in my comments to you in a few moments.
+This language enables us to move the next time.
+But the wording is very interesting.
+The word “measured” is referring solely to the rate of increase, not to when the increase will begin.
+We have no way of knowing what the data are going to show over the next several weeks.
+As Vincent pointed out, whatever we decide here and whatever the response, the reaction is likely to be a small fraction of what the market will do on Friday.
+If, for example, we were to go very far and try to move more than the markets expect and we end up with a 50,000 payroll number and 0.1 on the core CPI, we will have moved awkwardly.
+I’m not sure what the reactions would be to that.
+But I don’t think this proposed language restricts us in the slightest.
+As you say, Tom, we always move in a measured way.
+So the use of the term “measured,” if I take you literally, should have zero effect because that’s the way we always move.
+Merely stipulating that doesn’t change anything.
+MR.
+HOENIG.
+<START>Partly my concern is what will happen if the payroll numbers come out better than 300,000 again and we have more inflation.<END>
+Then what are we going to do next time?
+CHAIRMAN GREENSPAN.
+Do you mean what will we say or what will we do?
+May 4, 200478 of 112 MR. HOENIG.
+What are we going to do?
+We’ve already told the market if we say “measured” today, what we’re going to do next time.
+CHAIRMAN GREENSPAN.
+What we will do is that we will move the funds rate up.
+MR.
+HOENIG.
+Okay.
+CHAIRMAN GREENSPAN.
+And the first move we make will be a big deal, especially if it’s in June and not in August as everyone expects.
+Unless you want to move either today or in the intermeeting period, which I would not recommend
+— MR. HOENIG.
+I understand what you’re trying to do in terms of preparing for the next meeting.
+My only concern is that, once we put this language in there, when the next meeting comes and we have our policy discussion we’ll have to worry about the word “measured”
+—which I think was President Santomero’s point.
+CHAIRMAN GREENSPAN.
+Anything we do, whether it’s 25 basis points or 125 basis points is by definition measured.
+[Laughter] MR. HOENIG.
+That makes me feel a whole lot less well.
+MR.
+GRAMLICH.
+You had a measured rise in your temperature!
+[Laughter] CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+We’re beating to death the issue that I want to raise here, so it’s probably not helpful for me to raise it again.
+We are debating the term “measured.” If we take the phrase that includes “measured” out of sentence 8, we’re left with a statement that says we think the policy accommodation can be removed.
+That raises the question:
+Well, if that’s what you think, why you do it?
+didn’t So we’d have to take out the whole sentence if we want to get rid of “patience” and “measured” altogether.
+But I’m not sure what the market reaction would be to something like alternative B without sentence 8
+—without any statement whatsoever that reflects, as we’ve been May 4, 200479 of 112 doing all along, some sense of bias in our policy intentions.
+As much as I am in agreement with the view that putting yet another phrase into our quiver will perhaps raise all kinds of consternation about what we mean by it, I think we’re left with a hard choice here.
+So given that hard choice, I think maybe “measured” has to stay.
+CHAIRMAN GREENSPAN.
+President Moskow.
+MR.
+MOSKOW.
+May I ask just one other question?
+Do you see a time when we would take this word out?
+MR.
+REINHART.
+I think you would take this word out if you envision circumstances comparable to the latter part of 1994 where you’d be moving, say, 50 or 75 basis points.
+In other words, if it were February 1994 and we were using this framework, we probably would have sent you a Bluebook that said “policy accommodation can be removed at a measured pace.” Most likely that would have stayed in the Bluebook until July or August when you felt you were behind the curve and had to do larger increases.
+MR.
+MOSKOW.
+So while we have a series of 25 basis point increases it would stay in?
+MR.
+REINHART.
+In some circumstances it might be helpful to keep in the “measured” phrase even in the act of tightening so market participants don’t extrapolate that tightening more than you think appropriate.
+MR.
+GUYNN.
+I have a question of process.
+Do you want to continue this discussion?
+I can hold my comments and wait, but I want to weigh in on this issue as well.
+It’s a question of whether we’re going to come back to it or not.
+CHAIRMAN GREENSPAN.
+Oh, of course we can come back to it.
+MR.
+GUYNN.
+I’ll hold my comments until later then.
+May 4, 200480 of 112 MR. GRAMLICH.
+Mr. Chairman, at this point I think it would be helpful if you would give your views and your policy recommendation, and then we could all say what we think about this.
+[Laughter] That may avoid our being surprised, just as we don’t want to be surprised by the upcoming unemployment report.
+CHAIRMAN GREENSPAN.
+Okay, let me talk in a measured manner.
+[Laughter] First of all, I think there’s no question now that this recovery is broad, deep, and evolving into a sustainable expansion.
+Indeed, I have the suspicion that a very unusual factor in this recovery allows us to project it further than is usually the case.
+Corporate management is very conservative and not prone to anticipate a recovery and, hence, to move ahead of it.
+<START>Moving ahead of the recovery usually means putting in plant facilities more quickly, expanding the company’s labor force well before the additional workers are needed, and making all the other expenditures that corporations have made in past recoveries, with the result that capital investment plus inventory accumulation has invariably exceeded internal cash flow.<END>
+In 2003, for the first time since 1975, cash flow exceeded capital investment, which suggests that there is a very considerable hurdle
+—in terms of spending decisions
+—to which the business community is still responding.
+And I suspect that it relates to the corporate scandals and other corporate concerns that have emerged in the last couple of years and are still lingering.
+We are seeing very considerable gains in corporate profits, and margins are up very significantly.
+Cash flow in the first quarter was quite strong, and analysts are continuing to raise their estimates for the second quarter.
+In short, business managers are being pulled along by the data rather than being anticipatory.
+<START>This is not unusual because we’ve had a very shallow recession and we’re not getting the usual rebound in any respect, with the exception of the very strong growth in profitability.<END>
+May 4, 200481 of 112 All of this leads me to conclude
+—and I think this view is held pretty much universally as well as within this Committee
+—that we have completed our period of accommodation, which was an endeavor to address the rather substantial contractionary forces that became evident in mid-2000.
+In retrospect our policy accommodation appears to have worked.
+Whether we will look back upon this period two years from today and say that our policy was the right policy is going to depend on how we come out of this period of accommodation.
+With regard to the outlook for inflation, we have a number of indicators that we look at.
+For one, as many of you have mentioned, we have the “gap.” I am uncomfortable with the gap analysis basically for two reasons.
+One is that it requires that we view the inflation projection from the perspective of regression analysis, and that kind of analysis always has a large element of potential error in it.
+<START>If the projected inflation rate is above the current rate, we’re never quite sure whether there has been a fundamental change in the structure of the economy, which isn’t captured by the regression, or whether the actual inflation rate is eventually going to move up.<END>
+As a consequence, unless our projections are right on the money all the time, which they almost invariably are not, there are always serious questions about whether our gap regression analyses are really telling us something that we need to know.
+Second, there is the question of whether a single figure describes the process.
+A number of you have mentioned the skilled labor shortage.
+The very soft rise in wages and salaries in the production worker data is suggestive of the development that we’re all aware of
+—namely, that the skill differential has been rising fairly dramatically.
+As a result, we have a shortage of skilled workers and a corresponding surplus of lesser-skilled workers.
+<START>And as I’ve argued in certain speeches recently, what we are failing to do in this country is to raise the degree of skill in the workforce as a whole sufficiently quickly to create a more balanced skill supply–demand situation May 4, 200482 of 112 and in the process to remove the surplus of the lesser skilled so that we end up with an overall balance.<END>
+We don’t have that at this stage.
+<START>I’m wondering whether or not the differential pressures of stronger wage growth in skilled areas and weaker wage growth in lesser-skilled areas create problems in doing this type of evaluation.<END>
+In my view that is at least open to question.
+As a consequence, I think that it is important to look at the structure of underlying costs.
+<START>Because profit margins tend to be constrained, within limits, the issue we ought to be looking at when we are trying to evaluate the behavior of inflation is not the core PCE or the core CPI but underlying unit costs in the economy, as best we can judge them.<END>
+One way of analyzing this is to look at a set of data composed of nonfinancial, non-energy corporations that account for maybe 55 percent of the GDP but obviously a significantly higher proportion of the growth of the business sector.
+If we look at those data, we see that the acceleration in costs has been very limited.
+Indeed, over the last four quarters this sector has registered an average price rise in the neighborhood of 1 percent.
+And it turns out that two-thirds of that rise is reflected in higher unit profits and that actual underlying unit costs are rising very modestly, the result of a combination of declining unit labor costs and declining unit interest costs, offset in part by rising costs of energy, indirect business taxes, and business transfers.
+<START>I understand the issue of whether we mis-evaluated the data on prices last year and, hence, have been operating under a presumption that inflation had gotten lower than it actually did.<END>
+But I think that the more important question here is what unit costs are doing.
+Consequently, trying to get a long-term projection of where inflation is going may require that we start from a higher base than the one we’ve been assuming is currently the base.
+As I think David Stockton mentioned, we have now reached the point where changes in unit labor costs have become positive.
+We have to assume that there has been some upward movement in unit energy costs and probably in unit interest costs.
+May 4, 200483 of 112 But one has to remember that, whenever we are talking about unit costs, if the denominator is rising at a fairly rapid pace, it holds down unit costs, all else being equal.
+So it is not clear to me that unit interest costs are in the process of going up.
+Nevertheless, I think the point here is that we are not yet in a position where we are seeing underlying cost structures moving significantly.
+To be sure, they have picked up in the last several months.
+In fact, my recollection of the data is that productivity growth from December through March, as distinct from the first quarter over the fourth quarter, is in the area of just under 4 percent.
+In fact, if I sort all the pieces of paper in front of me, I may actually come up with a number.
+[Pause] Voila!
+The staff estimate of output growth per hour between December and March is 3.9 percent at an annual rate.
+Compensation per hour, interestingly enough, is up at a 5 percent rate for the same period, reflecting a 3.1 percent increase in wages and salaries and significant increases in other labor income.
+The latter increase, as you saw in the ECI, is to a large extent pension costs and medical insurance costs.
+So we are beginning to see a process of increasing costs.
+But the productivity numbers are still sufficiently strong to suppress the overall rise.
+Remember, the major difference between 1994 and today is productivity growth.
+In 1994 we didn’t have any productivity growth to speak of, and we had to move very fast to contain inflationary pressures.
+The reason we have been able to be patient in this recent period is that we knew unit labor costs were falling fairly abruptly, and whatever the price data showed was frankly irrelevant in that respect.
+I think we have a set of data here that, as far as I can judge, seems to be consistent with a gradual building-up of inflationary forces.
+But I fully recognize that we can’t measure that by looking at different simulations as we try to do in certain respects in the Greenbook.
+I’m uncomfortable with the very narrow ranges that the Greenbook’s alternative simulations show.
+That’s because, if we look back over the last several years or maybe the last decade or so and ask if May 4, 200484 of 112 we were wrong at times because we misforecast the exogenous variables, I’d say “only partly.” Mostly, the reason we were off was that the model structure was changing.
+The coefficients inside the model were moving, and that created a wholly different environment from the one we had expected.
+We alter the exogenous variables in our simulations, but we do not change the structure of the models.
+Of necessity the simulations are based on the assumption of a fixed model structure, and at this stage, I am a little concerned that that may be giving us some false sense of complacency, if that is indeed what we have.
+Still, the change in unit labor costs in March, if we’re going to take the staff’s figure, is zero.
+And with profit margins apparently continuing to rise, that is suggestive of a unit cost change that on a monthly pattern is not exhibiting any acceleration.
+<START>In that respect, I think we can state that the pace at which we’re likely to remove our policy accommodation is going to be “measured.” The data could run away from us, and obviously that would create a problem.<END>
+In any event I would say that we have to position ourselves for the possibility of moving at some meeting, unless we want to take the very unusual step of making a move between meetings.
+That, I will tell you, would create some extraordinary impact in the marketplace largely because we are perceived as highly credible.
+So, if we eliminate that option, we either move today, or we wait until June.
+We are not going to move today in part because we are awaiting, and will soon get, a couple of major statistical reports that could cause us some difficulty, to say the least, if they differ radically from what we expect.
+And the point of waiting until June is to be sure that we are positioned to move at the June meeting if we desire to do so then.
+When I say “move,” I mean by 25 basis points.
+I mention that partly because of the experience of February 1994.
+Those of you who were here then may remember that there was a groundswell opinion within the Committee in favor of moving rates up not 25, but 50 basis points.
+<START>May 4, 200485 of 112 And I went berserk for the first time and, I hope, the last time at an FOMC meeting, on the grounds that, whatever we did, the markets were going to respond fairly exceptionally, which in fact they did.<END>
+So, on the basis of that particular history, I would say that we should not move more than 25 basis points in June.
+We may move 75 basis points in August.
+I don’t know what we will decide then.
+But the point at issue is that, if we’re not going to move more than 25 basis points in June, then the type of statement proposed in the Bluebook
+—which was more recently revised by Vincent, and I’ll read the specific rewording
+—strikes me as an appropriate response to the data we now have.
+<START>The sentence as it now reads is, “At this juncture, with inflation low and resource use slack, the Committee believes that policy accommodation can be removed at a pace that is likely to be measured.” Frankly, I think that positions us appropriately, considering our lack of knowledge.<END>
+I know that President Poole has raised the question of putting in something about the economic outlook.
+I have no objection to that particularly.
+I’m not sure it adds anything, frankly.
+It does add words, and I think the fewer words that we put in these statements, the better off we are.
+You will have observed that we are spending more time on this statement than we have on previous statements, which is fine.
+<START>Indeed, since we’re limiting ourselves to very few issues, in my judgment that says that this process is turning out to be the right way to do this.<END>
+In any event, to repeat myself, my recommendation is that we stay where we are and make the few changes in the statement that Vincent suggested.
+I would be curious to hear your reactions and get the conversation going again.
+Who would like to start?
+Governor Gramlich.
+MR.
+GRAMLICH.
+First of all, I support your recommendation, Mr. Chairman.
+As I said in my earlier statement, I’d prefer to be gradual, and I’d prefer to start early and stay ahead of the curve, understanding that we can change our mind depending on the way the data come in.
+<START>To be May 4, 200486 of 112 positioning ourselves for a move of 25 basis points in June is fine and would satisfy my Rogers and Hammerstein test.<END>
+On the language, I actually think the sentence in alternative B is brilliant.
+In my view it does not put a collar on us.
+Second, we have not always moved in a measured way.
+Our policy moves weren’t measured over the course of ’94, and they weren’t measured in ’01.
+So to say that we prefer to be measured I think does add to the dialogue.
+The wording probably does not make our actions as contingent on the data as Bill would like, but it does say that our stance is conditioned on inflation being low and resource use being slack, so it does tie into the data at least to some extent.
+And to me the phrase “likely to be measured” really is the gradualist mantra.
+So how could I object to that?
+I think it’s just perfect, frankly.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+Mr. Chairman, I wish we were in a position to move today, but obviously we’re not.
+I’m among those who have a strong preference not to introduce another word such as “measured” into our statement.
+Again, we’re all trying to play English major, I think.
+But I agree with your comment that we cannot know with any certainty how the data will come in.
+Indeed, they may run away from us a bit, and we may want to be in a position, if not in June then sometime in the summer, to make more than a 25 basis point move.
+Vincent, in his response to a question, indicated that he thinks “measured” will, in fact, be interpreted to mean 25 basis point moves, and I just don’t think we need to say that.
+In my view, we have enough credibility that we’re going to operate in a reasonable and measured way.
+I believe we would be doing ourselves and the financial markets a disservice by implying a pre-commitment to a particular path for policy
+—a commitment that we may later wish we had not made.
+I think we can operate just fine by dropping the word “patience” and leaving well enough alone.
+Thank you.
+May 4, 200487 of 112 CHAIRMAN GREENSPAN.
+President Santomero.
+MR.
+SANTOMERO.
+I support your proposal.
+I am a little uneasy about the word “measured” for the reasons I indicated.
+If I may, I’d like to ask you just one question concerning your thought process.
+You indicated that at the next meeting we may indeed be in a position of responding with a 25 basis point move
+—to the extent that the incoming data are satisfactory
+—and that if the economy gets stronger, then we will go 75.
+CHAIRMAN GREENSPAN.
+I don’t know what the next move will be.
+MR.
+SANTOMERO.
+I’m teasing, of course, just giving an example.
+CHAIRMAN GREENSPAN.
+Remember, though, that we haven’t made an intermeeting move in quite a long while, and one of the reasons is that we haven’t been in the process of making changes in our policy.
+If we go back and look at the history, we have often moved between meetings.
+MR.
+SANTOMERO.
+I agree with you.
+The question I want to ask is this:
+If we got positive surprises between now and the June meeting and we felt we needed to raise the funds rate target by 25 basis points, would we also conclude that we needed to take out “measured”?
+CHAIRMAN GREENSPAN.
+We might.
+MR.
+SANTOMERO.
+Therefore, the next move could be more on the order of 37.5 basis points
+—that is to say two steps, involving both a 25 basis point increase and the removal of “measured.” CHAIRMAN GREENSPAN.
+Look, unless something very unusual happens between now and June, I think if our first move were 50 basis points that could create some real market disruption.
+But if our presumption is that we have to accelerate the pace, then I think “measured” be dropped in June.
+<START>should If we move and the economy suddenly improves in a manner that is consistent with moving further, it may be more disruptive to have put the word “measured” in the statement than to have left it out.<END>
+May 4, 200488 of 112 MR. SANTOMERO.
+CHAIRMAN GREENSPAN.
+It may.
+The tradeoff here is that a disruption will occur now if we don’t say something like “measured.” And we are at an earlier stage of the economic recovery than presumably we will be later, in which case it’s quite conceivable that we might do inadvertent collateral damage.
+If the market is likely to respond to this statement by tightening, which we suspect it will, it’s going to tighten more if we don’t use “measured” or some similar word.
+And subsequently we might find that we’re running into a period where there’s more slack in this economy than we now anticipate.
+I don’t think it’s a high probability, but the cost of a mistake here today may be much larger than the cost of a mistake later.
+MR.
+SANTOMERO.
+With that said, I support your recommendation.
+CHAIRMAN GREENSPAN.
+Governor Ferguson.
+MR.
+FERGUSON.
+Thank you, Mr. Chairman.
+I also support your recommendation.
+We are obviously deep into the question of how we communicate with markets, and we have a general view, I think, that this is not the time to actually move up the funds rate.
+So let me focus on the way I think about our communications with markets.
+My sense of it is that we want to reinforce market expectations if we believe they are about right and we want to change market expectations if we think they’re wrong.
+And we use communications to do that.
+As I look at exhibit 4, it is hard for me to say at this stage that market expectations are fundamentally wrong compared with the judgments I heard expressed in this room
+—namely, that inflation is relatively low but it might be picking up, though we aren’t really sure and so we have to give ourselves a little more time.
+I believe that this proposed language is helpful in saying to the May 4, 200489 of 112 markets that we wouldn’t want to work hard to disabuse them of the expectations that have been built in at this stage for a modest tightening probably starting sometime in August.
+That doesn’t mean that that assessment can’t change.
+It may change as the data change, and we may move more aggressively than we anticipate.
+I’m not sure.
+But I would definitely say that the word “measured” will help us to avoid triggering any real snapback in expectations in the context of what I continue to view as an economy that is still working hard to get rid of slack.
+So I’m very supportive of this language.
+My second point relates to Tom’s question and others about what we can do here.
+As I read this language
+—putting on my English major hat
+—it says basically “at this juncture.” So as of today, contingent on the conditions that Ned pointed out
+—low inflation and slack in resource use
+—our belief is that the pace at which we will remove policy accommodation is likely to be measured.
+I sense that to be an accurate reflection of where we are at this stage.
+If over time, based on a number of data releases that come in, it turns out at some future juncture that this assessment is no longer relevant, I don’t think our hands are tied.
+In my view we can move if we have to move in June.
+I actually think the markets probably understand that
+—or at least that seems more likely than not.
+So I think this language is
+—I know Ned used the word “brilliant,” but I thought we had moved away recently from declaring our statements to be brilliant
+—certainly extremely good.
+[Laughter] CHAIRMAN GREENSPAN.
+You are indeed measured.
+MR.
+FERGUSON.
+But supportive.
+CHAIRMAN GREENSPAN.
+Vice Chair.
+VICE CHAIRMAN GEITHNER.
+I was going to give a less ringing endorsement by characterizing the proposal as better than the known alternatives.
+[Laughter] Essentially what we’re debating is whether a statement with this ending is too soft, too reassuring about the future May 4, 200490 of 112 path of the fed funds rate.
+I believe that’s the right question to debate.
+But I think it’s important to recognize that this wording gives us the flexibility to move in June, if necessary.
+Although our risk assessment is balanced, this statement has an overt asymmetric bias, whichever way one looks at it.
+As Roger just said, the last sentence is qualified in at least four different ways.
+It says “at this juncture”;
+it is conditioned on certain fundamentals;
+it says “likely”;
+and the word “measured” itself must have a range of possible interpretations.
+Now, it’s difficult to defend the statement both as not constraining and helpful as a signal, but maybe that’s its virtue.
+[Laughter] So I’m comfortable with it, and I support the recommendation.
+CHAIRMAN GREENSPAN.
+President Stern.
+MR.
+STERN.
+I, too, support the recommendation.
+I think the language does give us adequate flexibility at least for the next two or three months, as best I can read the situation.
+And I’m hard pressed to suggest any better alternative.
+So I support your proposal.
+CHAIRMAN GREENSPAN.
+President Pianalto.
+MS.
+PIANALTO.
+Mr. Chairman, I also support your recommendation.
+I have to admit that, when I first read the “measured pace” language in the Bluebook, I was concerned that it would be interpreted by markets as indicating that we had a predetermined path for moving rates up and that we would be doing it based on a time schedule rather than reacting to information about the economy.
+<START>And as I said earlier, I was leaning toward wanting the flexibility to react more quickly if the data continue to come in stronger, especially the inflation numbers.<END>
+I think the new language that Vincent proposed, “is likely to be measured,” does give us the added flexibility.
+So I support your recommendation.
+CHAIRMAN GREENSPAN.
+Governor Kohn.
+May 4, 200491 of 112 MR. KOHN.
+Thank you, Mr. Chairman.
+I support your recommendation and all aspects of it.
+Like President Minehan, I’d be concerned that, if we just dropped the last sentence, the markets would overreact if not immediately then over the intermeeting period.
+As data come in, they’d start to build in a 1994-type tightening, which is what I think they’re looking for and what a lot of the discussion is about in the markets.
+My personal view
+—or at least my best guess
+—is that we won’t need to tighten like that.
+Inflation is lower, and I think the output gap is disappearing but is disappearing slowly.
+So not signaling the markets that expectations of a 1994-type tightening would be the wrong
+<START>—and allowing those wrong expectations to get built into the markets<END>
+<START>—would give us, I think, more trouble than dealing with this word “measured.” So I believe that we need some way of indicating that our best guess is that the firming, when it comes, be gradual.<END>
+will I thought the reaction to your testimony, Mr. Chairman, was perfect because you dropped “patience,” everybody noticed it, and rates reacted a little but not a lot.
+And you balanced that by providing a somewhat more detailed outlook.
+<START>You said that you didn’t expect inflation to rise and you talked about the downside risk that you discussed earlier.<END>
+Well, we’re not doing that here;
+we’re not giving a detailed outlook in our statement.
+So I think the suggestion of a moderate and measured pace of tightening is a way of substituting for a detailed forecast in an effort to moderate the market’s reaction to our statement.
+Thank you.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I support your recommendation.
+I think we may need to move sooner than the markets now expect.
+But that is going to depend largely on the strength of the incoming data, even in the next week.
+So I look forward to seeing what is in store for us.
+I very much agree with what Don just said.
+I think if we left out sentence 8, we would be sending the wrong message.
+We actually could be sending the wrong message in another way.
+<START>We May 4, 200492 of 112 could be interpreted as saying that everything is hunky-dory and that we don’t have plans to remove the policy accommodation.<END>
+<START>That could be read as the message in the statement that the risks to the outlook are balanced, whereas sentence 8 does say positively that, all other things being equal, we’re going to take the policy accommodation away.<END>
+We plan to do it in a measured way, but we’re going to do it.
+I think that’s an important follow-up to your testimony as well.
+Whatever way we look at it, I think we’re stuck with sentence 8.
+We’re probably going to take grief from some quarters for this new language, but I think we’re stuck with doing this.
+So I agree with your recommendation.
+CHAIRMAN GREENSPAN.
+President Broaddus.
+MR.
+BROADDUS.
+Mr. Chairman, I’m very comfortable with your recommendation.
+I feel very strongly that we should use the “measured” language for all of the reasons you have listed.
+I also agree with Roger’s and Don’s points
+—and Cathy’s as well.
+Fundamentally there’s still a considerable amount of slack in the economy, as I see it.
+<START>Also, and this is a point I would emphasize, I believe that we still have credibility for low inflation.<END>
+This is not late 1993 or early 1994, when we did not have credibility.
+<START>I know there is some survey evidence of rising inflation expectations, and there are a lot of anecdotal reports as well, but I don’t see any really dramatic recent change in inflation compensation or in spreads for indexed bonds in financial markets, especially in the longer-term five-year to ten-year area.<END>
+Basically, I believe that we need to think differently about the potential benefits of a preemptive tightening of policy
+—or what might be perceived as a preemptive tightening of policy
+<START>—in a situation where we have price stability as distinct from a situation where we were at the last stage of ending a twenty-five-year war against inflation.<END>
+In my view, the language indicating that we can remove policy accommodation at a measured pace would be consistent with these considerations.
+May 4, 200493 of 112 Earlier, Mr. Chairman, you told me that I could have about thirty additional seconds to talk today.
+If I may have about five seconds here, I’d like to quickly share a little anecdote that you may enjoy.
+Some of you may recall that at the last meeting I was pretty much at one end of the spectrum
+—even beyond the Kohn camp.
+[Laughter] I paid for that at the hands of my colleague, Jack Guynn, a few days ago.
+Jack, of course, is the President of the Atlanta Fed, which is the Sixth Federal Reserve District.
+But as some of you may know, he was actually born in the Fifth Federal Reserve District, in the Shenandoah Valley.
+He has a nice younger brother named Doug, who is a very prominent attorney there.
+I had to make a speech in that area a couple of weeks ago, and Doug very kindly invited me to stay with him.
+Jack happened to be there as well.
+Doug has a wonderful house overlooking the mountains, and he gave me a beautiful room to stay in, and for the first time in my career, there was a bouquet of flowers in my room.
+But Doug kept asking me to look carefully at the flowers.
+I couldn’t understand why until, eventually, I saw that in the flower arrangement there was a carved wooden dove sent by his brother, Jack.
+[Laughter] Jack, that really hurts!
+I hope you take some comfort that I’m a bit closer to the center of gravity today.
+MR.
+GUYNN.
+It was fun!
+CHAIRMAN GREENSPAN.
+Well done.
+Governor Olson.
+MR.
+OLSON.
+Thank you, Mr. Chairman.
+I, too, support the recommendation, and I’ve been looking carefully at both sentence 8, which Cathy talked about, and the March FOMC statement shown in alternative B. If I compare them word-by-word or even phrase-by-phrase, I can see only minor differences
+<START>—primarily the removal of the word “patient” and the addition of “is likely to be measured.” But as I read the two, I think that alternative B comes across much more strongly, and I think it’s the position of the word “remove.” We’re not talking about when at some point in the future the policy accommodation will be removed.<END>
+We’re describing the circumstances May 4, 200494 of 112 or the manner in which it will be removed.
+Consequently, I would not be surprised
+—though I’ve never been good at judging what the market response to our statements will be
+—if there’s a stronger reaction than what many around the table have been suggesting.
+Having said that, I think the statement is exactly accurate.
+And recognizing that we review these generally within a six-week time frame, it seems to me that this is the appropriate way to describe where we are as of today.
+CHAIRMAN GREENSPAN.
+President Moskow.
+MR.
+MOSKOW.
+Thank you, Mr. Chairman.
+I wasn’t here in February 1994, but I’m certainly going to go back and read the transcript to see when you went berserk!
+[Laughter] CHAIRMAN GREENSPAN.
+My “berserkedness” was partially edited out.
+[Laughter] MR. MOSKOW.
+As for your proposal, I agree with your recommendation on the rate.
+On the language, I find it hard to disagree with language that people I respect call “brilliant” or “extremely good,” but I must say that I’d prefer a different path.
+I would prefer to drop the word “patience” and not substitute the word “measured.” I just don’t like putting another word into the lexicon now.
+I think it is going to pose problems for us down the road whenever we try to take it out.
+I realize that this wording is going to be approved, but I’d like to make a couple of comments so that the next time this issue comes up my views will at least be in the record.
+First of all, on the point that we conditioned it four times, I remember that at the Jackson Hole conference there was a lot of discussion about whether the markets can understand central banks’ conditioned statements, and the clear consensus was “no.” The view was that the conditioning in a statement by a central bank doesn’t mean anything to the markets.
+They just read it as unconditioned.
+Second, on Cathy’s and Don’s point about line 8, the part of the sentence that I think is important
+—namely, “with inflation low and resource use slack,” which I agree should be May 4, 200495 of 112 somewhere in the statement
+—could be moved up to line 3 and incorporated in the rationale section.
+I think that would describe the situation as it is now without having to provide a forward-looking element
+—in other words, without adding “measured.” So, on balance, I would prefer to take that word out.
+CHAIRMAN GREENSPAN.
+President Hoenig.
+MR.
+HOENIG.
+Mr. Chairman, having expressed my opinion somewhat earlier and having listened to all of this commentary, at this juncture I want to give you my measured response to the conversation so far and that is that we have the direction right.
+I know where we stand in that we need to be looking at the next meeting for some action.
+And I think that’s the most important thing we’ve decided here today, so I support you in that.
+I think we would be better served not to have this last sentence, line 8, in the statement.
+We could convey this message in speeches, as you already have in some ways, over the coming period.
+The data coming out will decide a lot of this for us and move us toward a June time frame anyway.
+But I think the more important element of today’s decision is that we cannot move now and we should be thinking about June.
+In that sense, I support your recommendation.
+CHAIRMAN GREENSPAN.
+Governor Bies.
+MS.
+BIES.
+Thank you, Mr. Chairman.
+I, too, am still in the camp that would prefer not have a commitment in the statement.
+But I like the idea that many of us have been expressing in speeches
+—that the policy accommodation has to be removed.
+What I struggled with
+—and I was interested in listening to what was said about it around the table
+—was the word “measured.” If I were an outsider trying to read the message in that word, I’m not sure that I would know what it means.
+Are we trying to signal a slower pace than in ’94
+—a gradual and moderate but not pre-emptive pace?
+I guess we’ve come up with a word that I don’t know the meaning of.
+If the idea is May 4, 200496 of 112 that it says we’re going to determine the pace as the facts come in
+—and we’ll determine the level at that time, too
+—then I think we have the perfect word.
+I don’t necessarily think it means that we wouldn’t be as aggressive as we were, say, in ’94.
+I don’t know how it relates to the average numbers that Vincent provided here because I don’t know what magnitude we’re talking about with “measured.” My only concern is what we really want to signal.
+Are we just going to determine our moves as the facts come in, or do we really want to signal a gradual pace?
+CHAIRMAN GREENSPAN.
+The answer to that is that the facts are going to determine policy and I should hope that the markets are acutely aware of that.
+If that were not the case, they wouldn’t have been moving the federal funds futures around as the data came in.
+At the end of the day, if we wished to be stubborn, we could keep the federal funds futures at 1 percent indefinitely.
+It would have certain odd implications for the economy, but we could do that.
+We could just basically create enough reserves to make that possible.
+MS.
+BIES.
+I guess I’m asking, Why don’t we just say that the pace at which the policy accommodation will be removed will be determined as economic events unfold?
+I’d prefer to say something like that rather than use a code word such as “measured.” CHAIRMAN GREENSPAN.
+I thought that’s what you interpreted that word to mean.
+MS.
+BIES.
+Well, I’m hearing a lot of different interpretations of it, even around this table.
+CHAIRMAN GREENSPAN.
+All of which suggests that when we have nineteen people around a table trying to write a statement, as we’ve indicated on innumerable occasions, there are difficulties in the process.
+MS.
+BIES.
+Yes, there are.
+CHAIRMAN GREENSPAN.
+President McTeer.
+May 4, 200497 of 112 MR. MCTEER.
+<START>I also would prefer just to drop “patience” without substituting anything else, but I’ll concede that the argument is over.<END>
+Just so Al can go out as the lonesome dove, though, [laughter] I would like to point out that I don’t think any of us
+—well, maybe one or two of us
+<START>—really believes that the risks to our goal of price stability have moved into balance.<END>
+To me, our comments indicate that we really believe there’s a risk of rising inflation;
+and I think we feel that the risk of unwanted disinflation or deflation is behind us.
+So, while we may not want to move that risk assessment two whole notches in one meeting, if we were totally honest about it, I think we would.
+CHAIRMAN GREENSPAN.
+We had that discussion about our statement earlier, as you may recall
+—a couple of meetings ago.
+We said that, if we had retained our old terminology, “asymmetric to the downside” was really how we viewed the outlook on inflation.
+But our judgment was that we’d create more problems by changing the wording in our statement than not.
+And I think a two-step move
+— MR. MCTEER.
+I understand the practical problem of going two steps, but I think we ought to at least recognize that.
+“Like a fish” I think is the term we used in high school.
+CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+Thank you, Mr. Chairman.
+I want to make a couple of points.
+First of all, with regard to long-term inflation expectations, I’m going to use an analogy with the federal funds futures market.
+Take the reading for September in the futures market.
+We interpret that not as providing us with any evidence about the state of the economy other than the market’s expectation of what this Committee is going to do.
+I think that’s the only information we can extract from that observation.
+By the same token, I think the long-term inflation expectations that we extract from the inflation indexed bond is really a statement about the market’s expectations on what this Committee is going to do over a period of years.
+We can’t extract any real information relevant to May 4, 200498 of 112 understanding underlying inflationary pressures.
+It’s really a statement about what this Committee is likely to do.
+And once the indexed bond starts to move, the information, just like the September futures reading, will represent the market’s changing view about how the Committee is going to react in the future.
+Once it starts to move
+—if it moves to the upside
+—I think it will mean that we are beginning to lose credibility.
+That’s the way I would interpret it.
+Second, I agree with Bob McTeer regarding the inflation risks.
+The problem we have is that it’s not very transparent to use language that is ostensibly is about the state of the world and our forecast as a hint about our probable future policy stance.
+That to me is unfortunate.
+I don’t think there’s anything we can do about it right now because I understand that the two-step move would send that signal.
+However, I think it’s unfortunate that we have mixed-up language here that in principle ought to be about the state of the economy or our assessment of it but it is interpreted as an indication of what our policy stance is going to be.
+<START>I share the view that going cold turkey in taking out “patience” is probably counterproductive, given the history of “a considerable period,” “patience,” and now “measured.” I think the market is going to read “measured” as a nuance on “patience.” I’m concerned about that, and I think we need to try to find a way to extract ourselves from this kind of language.<END>
+I would like to see language along the following lines substituted at some point:
+“The Committee expects that its future policy stance will depend on the future pace of economic growth and developments regarding inflation risks.” That’s just a statement that our policy is going to depend on the incoming data and, of course, the implications of the data for our assessment of the risks going forward.
+Having a very plain statement along those lines is to me a good substitute for the current language.
+I don’t think we can just eliminate this language cold turkey;
+that’s going to cause all sorts of questions and misunderstandings.
+We have to substitute something eventually.
+And I would try to May 4, 200499 of 112 substitute something that gets us out from under the “considerable period,” “patience,” “measured” progression.
+Thank you.
+CHAIRMAN GREENSPAN.
+Governor Bernanke.
+MR.
+BERNANKE.
+Thank you, Mr. Chairman.
+I support your recommendation.
+I think the debate going around the table has less to do with our differences in outlook than that there continues to be some fundamental confusion about how we’re communicating to the market and what our mechanisms ought to be.
+I just raise the point that we really ought to revisit these issues at some time in the near future.
+<START>Given where we are today, though, I think that the language being proposed is both useful guidance to the market and protects against the risk of an overreaction in interest rates that would be counterproductive both to the markets and to the economy.<END>
+Our statement is a forecast;
+it is not a commitment.
+And I don’t think that it constrains us unduly, even if it becomes necessary to make larger moves.
+CHAIRMAN GREENSPAN.
+The secretary will read the resolution for us.
+MR.
+BERNARD.
+As far as the directive is concerned, the wording can be found on page 14 of the Bluebook:
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with maintaining the federal funds rate at an average of around 1 percent.” With regard to the wording also being voted on, taking Vincent’s revised draft, sentence number 6, of course, is unchanged from last time.
+It reads:
+<START>“The Committee perceives that the upside and downside risks to the attainment of sustainable growth for the next few quarters are roughly equal.” And then we have the revised wording under alternative B for sentences 7 and 8:<END>
+<START>“Similarly, the risks to the goal of price stability have moved into balance.<END>
+<START>At this juncture, with May 4, 2004100 of 112 inflation low and resource use slack, the Committee believes that policy accommodation can be removed at a pace that is likely to be measured.” CHAIRMAN GREENSPAN.<END>
+Call the roll, please.
+MR.
+BERNARD.
+Chairman Greenspan Yes Vice Chairman Geithner Yes Governor Bernanke Yes Governor Bies Yes Governor Ferguson Yes Governor Gramlich Yes President Hoenig Yes Governor Kohn Yes President Minehan Yes Governor Olson Yes President Pianalto Yes President Poole Yes CHAIRMAN GREENSPAN.
+Before we adjourn, I think Vincent wants to discuss some audits.
+MR.
+REINHART.
+Yes.
+Just last night we received copies of the audit statement on the System open market account and the participation of the Reserve Banks.
+We’ll be circulating those to you in a couple days, and we’ll seek a notation vote.
+CHAIRMAN GREENSPAN.
+If there is no other business, we are adjourned.
+The next meeting is June 29-30, 2004.
+END OF MEETING May 4, 2004101 of 112
+INSTANCE OF DISAGREEMENT: 57

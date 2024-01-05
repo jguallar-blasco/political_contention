@@ -1,0 +1,493 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+But in looking at alternative C, what you did there was to move the forward-looking language into the descriptive rationale part of the statement, which in my understanding is not subject to a vote.
+To me there’s a governance issue there that I find troubling, and I wondered if you would comment on it.
+Was your expectation in alternative C that the forward-looking language would not be voted on?
+Or do you envision the Committee voting on the entire statement?
+So, my question has to do with governance.
+MR.
+REINHART.
+I think it’s a governance issue for the Committee to decide.
+I was presuming that you would continue to vote on at least a portion of the statement, the part that contains the forward-looking language.
+But it is an open issue why you vote only on a part of the statement and not the entire document.
+MS.
+YELLEN.
+Is there a reason why the vote now does not cover the rationale sentences?
+November 1, 200584 of 114MR. REINHART.
+What the Committee voted on has changed over time.
+Initially, starting February 4, 1994, the statement issued was explicitly the Chairman’s statement describing what the Committee did.
+<START>Somewhere about a year and a half later that characterization was dropped, and it became less clear whether it was the Committee’s statement or the Chairman’s statement.<END>
+By 1997 or 1998, market participants generally viewed it as the Committee’s statement.
+Most of the people sitting around this table, I think, viewed it as the Committee’s statement.
+<START>When we last rethought what the Committee voted on, it seemed important to bring into the statement the forward-looking guidance, the risk assessment portion, and that’s why we did that.<END>
+So, it has evolved.
+I assume that it will evolve again if you change the basic structure of the statement.
+MR.
+MOSKOW.
+Vincent, I had a question on a different part of this.
+You raised the issue of whether you should use the inflation projection in your calculation of the equilibrium federal funds rate instead of the backward-looking inflation numbers that you use.
+I was wondering if you could elaborate on that a bit.
+<START>I certainly would think that the forecast would be a better measure to put in here than the backward-looking figures.<END>
+<START>What is the argument or the logic for putting the backward-looking inflation numbers in there?<END>
+MR.
+REINHART.
+The main one, which has been reflected somewhat in the conversation already, is that it’s hard to know what inflation expectations are.
+We don’t have a consistent proxy over the entire period.
+<START>And it’s not obvious that if you took the entire sample and estimated your model using measures of inflation expectations that you necessarily would have a different gap right now because you would not only change the actual expected real funds rate, but you’d also change your estimate of the equilibrium real funds rate.<END>
+November 1, 200585 of 114MR. MOSKOW.
+Maybe I misstated my question.
+I’m not talking about an inflation expectations forecast but the inflation forecast you have.
+Why not put that in the model?
+MR.
+REINHART.
+Among other things, the staff inflation forecast is judgmental and need not be accepted by the Committee.
+I think computationally you’re talking about something, if you wanted to go to the FRB/US model, that would be difficult to do and
+— CHAIRMAN GREENSPAN.
+If you put in an inflation forecast, you’ve just targeted inflation to a point, not a range.
+That’s what will happen.
+We’ll be locked in to explaining why we didn’t move on either side of the forecast.
+I think it’s very tricky.
+MR.
+REINHART.
+Let me also say, President Moskow, that the passage of time is helping in terms of providing other measures of the equilibrium real funds rate.
+We now have indexed debt quotes.
+We use them to back out an estimate of the equilibrium real funds rate.
+We don’t have a long enough time series to know its properties as, say, a predictor of aggregate demand or inflation.
+Over time, I would think that would become a more standard feature of our analysis, although this analysis is done in Dave Stockton’s area, and I wouldn’t want to commit his resources.
+[Laughter] MR. MOSKOW.
+You probably did.
+Thank you.
+CHAIRMAN GREENSPAN.
+<START>I think we’re missing an opportunity as fiscal agent for the federal government to have an audience for this meeting and collect revenues, which could probably balance the budget!<END>
+[Laughter] President Fisher.
+MR.
+FISHER.
+<START>Setting aside the governance issues that Janet raised, it seems to me that the key operative phrase and the change in alternative C is taking out “accommodation can be removed at a pace that is likely to be measured” and replacing it with “likely making further policy firming necessary.” I’m of the school that we likely have a little bit further to go, partially driven by our own analysis of the inflation trend<END>
+—meaning PCE inflation data
+—that we do in Dallas.
+But I’m November 1, 200586 of 114curious as to what the staff ventures might be the market reaction to this particular wording change.
+Would changing this language to “making further policy firming necessary” sound as if we have a more severe situation on our hands that we are worried about?
+What’s your judgment?
+MR.
+REINHART.
+In talking about market reaction to potential statement wording, you’re getting as far from economic science as what we do here, and that’s pretty far.
+It is hard to say, and maybe I’ll ask Dino to help here, too.
+But our presumption was that using the “firming” word would send a signal that you envision not stopping at what you think is the neutral rate but going above that, and so market participants would raise their sights for how much you would tighten.
+But that’s only a guess, and that’s the guess we put in the Bluebook.
+MR.
+KOS.
+I think that’s right.
+I believe it would be viewed as very hawkish because you’ve taken out the accommodative language and you’re talking about firming.
+So I think Vincent is right that it would be taken as a very hawkish statement.
+MR.
+REINHART.
+I guess I would like to make a couple points about that.
+When you think about the language, the characterization of “accommodation” and the “measured pace” are linked.
+So if you were, for instance, to take out “accommodation” while leaving in something about “measured pace,” that would signal that you’re going past the firming now anticipated.
+On the other hand, if you left in “accommodation” but took out “measured pace,” market participants would probably view that as an indication that you want to pick up the pace of tightening
+—that is, start doing 50 basis points.
+The other thing I would like to mention is that this proposal really is, in a sense, “back to the future.” The Committee at one point did signal its intentions about the possible future direction of its next action in the form of the directive.
+And the experience back in 1998, when the directive became part of the Committee’s statement, was that market participants didn’t deal with the November 1, 200587 of 114conditional nature of that directive very well.
+If you were leaning in one direction, they tended to just slam into that corner.
+So the purpose of the old balance of risk language was to step back from there by talking about the Committee’s goals.
+So, those are all among the things that the Committee would have to consider in framing new statement language.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+<START>Mr. Chairman, since Vincent has raised the question of process, and I get the sense that we’re probably not prepared today to deal substantively with changing the statement, I’m wondering out loud if we shouldn’t try to go even further than Vincent has suggested between now and the next meeting.<END>
+<START>Perhaps we should try to get ourselves in a position at least a couple of weeks before the next meeting where we have some viable optional language worked out that we could make operative at the next meeting if we choose to.<END>
+It has been pretty clear that we’re not going to have a very productive discussion today on the statement
+—or next time either, unless we do some work on it in advance.
+Given the amount of thinking that has been done on this and the suggestions Janet has made and Tim has made, I think we ought to be able in a couple or three weeks to get something on the table that we could all look at if we truly want to have an option that we could exercise, if we choose, at the December meeting.
+So I just want to push on the process side a little bit and ask if we could do that.
+CHAIRMAN GREENSPAN.
+I think that’s precisely the direction in which Vincent is going at this point.
+MR.
+REINHART.
+I really didn’t want to promise too much in my prepared remarks.
+MR.
+GUYNN.
+I would push a little bit.
+MR.
+REINHART.
+The sequence I envision is first surveying you on general principles.
+Are you comfortable with putting in forward-looking language?
+If there’s forward-looking language, November 1, 200588 of 114would you prefer it to be about interest rates or the risks to your objectives?
+There are differences of opinion on a number of those basic questions.
+Then once those survey results are collated
+—to see if there really is a middle ground or if there are a couple of distinct alternatives that lend themselves to these questions
+—I’d send a document around.
+MR.
+GUYNN.
+But we need to have that more than a couple of days before the meeting if we’re really going to have something that’s workable.
+I guess it sounds like what you have in mind is what I’m hoping we can do.
+Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+Further questions?
+To quote somebody from last night, why don’t I proceed?
+[Laughter] Something very unusual is occurring both in the economy and, as a consequence, in monetary policy deliberations.
+Essentially, this surprisingly long
+—and I must say in retrospect rather successful
+—interval of incremental measured changes over a protracted period of time, has turned out a lot better than I think we could conceivably have imagined.
+But it’s clearly coming to an end.
+And I think the reason it’s coming to an end is that our grasp on what’s going on in the world is a little more tenuous than it was when we started.
+You may recall that we had a general view of the way we thought the world was going to work in the spring of 2004 when we started to indicate that we were going to tighten.
+The markets all began to respond.
+The duration measures, the convexity measures, and all the various forward-looking measures were adjusting the whole structure of interest rates in the context of how we and the rest of the world thought the world was working.
+Then suddenly the whole thing crumbled.
+It crumbled because there was essentially an X factor out there which we had not anticipated
+—a disinflationary force.
+And we worried about that.
+It resurfaced this year, and I think we finally concluded that it reflected essentially the significant increase in the active workforce in the market economy.
+That increase was a result of over 100 November 1, 200589 of 114million people from the former Soviet Union coming from a centrally planned, isolated economy and being added into the world market economy.
+Even larger, but a little later was the addition of a workforce of 750 million in China, as that country began moving in the direction of market forces.
+And more lately, India
+—although India is a bit laggard in this respect.
+The consequence, of course, was to double the number of workers in the labor force who are participating in world markets.
+<START>They are not necessarily wholly involved in tradable goods, but there has been a definite shift in the structure in the world labor force.<END>
+These are educated, but not highly productive workers;
+and obviously, they are producing a much smaller fraction of world output in these emerging nations than is coming from the developed world.
+But what we are observing is this phenomenon where unit labor costs are undergoing for the world as a whole a significant but one-time change.
+If we had the data, which we would have only very crudely, we could make a judgment as to what bringing all of these people into the workforce does to world unit labor costs.
+Indeed, we have all sorts of examples of what’s happening at the margin, not the least of which is in the United States.
+In Germany the impact of workers from the Czech Republic, Slovakia, and Poland is very pronounced.
+It’s very pronounced in the United States and in a lot of countries as a result of China’s workforce.
+What we are clearly seeing are disinflationary forces that are reflected in inflation premiums in the longer tranches of the interest rate market.
+<START>So, the tenth-year tranche of the 10-year note has been really quite suppressed and only very recently has moved up.<END>
+We know without actual data that the shift, which politically occurred in a very short period of time, occur that rapidly economically.
+cannot There has been a gradual absorption of all of these people into the labor force.
+And we know that it is, indeed, a one-time event.
+When you’re November 1, 200590 of 114experiencing gradualism from a one-time event, the rate of change at which the transition is occurring has a very significant impact.
+I would argue
+<START>—looking at world inflationary patterns and the high correlations between core inflation worldwide and the remarkable decline in inflation in the emerging world<END>
+—that this is a global process.
+<START>Even in earlier periods when we had low inflation in the developed world, we had huge problems in the developed world.<END>
+We do not even have that anymore.
+We have, as we were discussing very early in the meeting, this convergence of interest rates, so that what we are looking at is quite evidently a global phenomenon.
+And when we try to reconcile, as we are trying to do, the anecdotal evidence of these inflation pressures that we’re seeing with what’s coming out of our models, there is a dissonance.
+In other words, the models are not consistent with an anecdotal example of the kind President Fisher was talking about in terms of the surge in prices in Texas.
+A lot of you have noted similar examples.
+It goes beyond the issue of a mere pass-through of energy costs.
+Energy costs are being passed through, we know, and because profit margins generally are not being squeezed by it, we’re essentially seeing a full pass-through.
+But because the productivity in the use of energy is clearly improving, the pass-through is in fact partial.
+There’s more to this story, though, than we’re observing because energy is a much less significant factor than it used to be.
+Indeed, we’ve just had a decline in the last two months of 57 cents a gallon at the pump for regular gasoline.
+Now, that is clearly going to have effects, though we’re not quite sure what they will be.
+But it strikes me that our real policy problems involve how to make a judgment as to what phase we’re in of this disinflationary set of pressures.
+When does it eventually come to an end
+—or more exactly, when do we get enough of the adjustment so that the adjustments thereafter slow down?
+What that means is that the disinflationary effect on just the November 1, 200591 of 114normal rise in structural unit labor costs worldwide is easing.
+In other words, if there’s a lot of pressure, that pressure will keep the inflation rate down.
+But the deflationary pressure eases as we complete the process, and we begin to get
+—and would expect to get
+—a gradual rise in core inflation.
+And that is what we’re getting.
+That’s not to say that we’re getting a rise in core inflation.
+What we have to do, I think, is come to grips with a very large element of uncertainty regarding how this process is emerging and how it’s going to come out.
+<START>I do think that the indications of the rise in core inflation, as modest as it is, be<END>
+may—and I underline the word “”
+may— a sign that the first difference of that adjustment process is changing.
+Yet we’re not getting it in the inflation compensation.
+To be sure, as I said, the 10-year tranche has moved up 20 to 25 basis points.
+It’s not a big deal;
+indeed, a good part of that could be real and probably is.
+So we’re really delving into areas where our past experience is not all that helpful.
+If in the spring of 2004 the big surge in expectations in terms of where the 10-year note was going to end up and where the mortgage rate was going to end up had actually materialized, we’d be in a different world today.
+And that world would be based a lot on the way our old models worked and the way certain relationships have worked in history.
+But there is something new here with which we have to come to grips.
+And strangely enough, the most beneficial way to address this particular subject in our communication, in my judgment, is through the statement.
+In the statement, we are, indeed, recognizing the elements of uncertainty with which we are confronted.
+The surety we had and went forward on starting in the spring of 2004
+—in terms of how we were viewing developments and the appropriate policy to follow
+—has proceeded literally almost unchanged.
+That’s really quite a remarkable stretch.
+But it’s over.
+Or I should say it’s about on the edge of being over because we can no longer be as sure as we were about the intermediate-term outlook.
+<START>November 1, 200592 of 114I feel a little queasy about using the word “accommodative” for a 4 percent federal funds rate largely because, as you may recall, we didn’t get to “accommodative” until we went from 2 percent to 1¾ percent in the earlier period.<END>
+So I find that Don has the obvious solution to all of this.
+“Accommodative” is the state we wanted to leave for whatever reason and, therefore, raised the rate.
+[Laughter] In any event, yes, I do think that we need to move today.
+I wouldn’t worry about the statement being stale.
+It has been stale for a very long time.
+[Laughter] And it’s not going to change that much.
+I think at the December meeting we’ve got to make some fundamental choices, and it would certainly be helpful if we could come together and essentially complete the structure of what we are going to do
+—if not in actuality at least the conceptual underpinnings of it
+—so that we will be on a new path with new wording.
+And depending on how Vincent decides he wants to read your responses to his questionnaire, perhaps we will have a new statement.
+[Laughter] So that’s the direction I would suggest we take.
+Now, the actual wording of the proposed statement, I think, is slightly different from what we have here, isn’t it?
+MR.
+REINHART.
+No. The one in my briefing material is
+— CHAIRMAN GREENSPAN.
+But I thought there was a semicolon somewhere.
+MR.
+REINHART.
+This has the semicolon.
+[Laughter] The latest version is the one in the last exhibit of the handout that was distributed just prior to my briefing.
+CHAIRMAN GREENSPAN.
+My apologies.
+So everyone has actually seen this.
+If it is acceptable, this is the statement we will be going with.
+I would, therefore, put it as a suggestion that we move 25 basis points and use the alternative B statement as is.
+Governor Kohn.
+November 1, 200593 of 114MR. KOHN.
+I agree with your recommendations
+—moving 25 basis points, sticking with this language, and giving full consideration to new language between now and the next meeting.
+I’m actually not as worried as some others about the statement being stale.
+It has been accomplishing our objectives, I think, in an amazingly successful way.
+Markets have correctly interpreted what we’re talking about and what we’re doing.
+We haven’t had the slip-ups that we had when we were changing language a lot.
+CHAIRMAN GREENSPAN.
+When we try to be original!
+VICE CHAIRMAN GEITHNER.
+I withdraw the word “stale.” [Laughter] MR. KOHN.
+No, it has been unchanged for quite a while;
+I agree with that.
+But we can defer this discussion.
+CHAIRMAN GREENSPAN.
+President Hoenig.
+MR.
+HOENIG.
+I agree with what you are proposing.
+CHAIRMAN GREENSPAN.
+President Pianalto.
+MS.
+PIANALTO.
+I support your recommendations.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I support your recommendation as well.
+And I’d like to think that this discussion will get in the minutes so that if the words change in December
+—let me put some odds on the fact that they will change somehow
+—it won’t come as a big surprise to people.
+CHAIRMAN GREENSPAN.
+We want to be reasonably clear in which direction we may change it rather than leave the question open.
+<START>Just to say we’re going to change but we’re not going to tell you how, I think will create substantial unnecessary uncertainty.<END>
+MS.
+MINEHAN.
+Well, should we take some of your thoughts in terms of how the minutes are written?
+My understanding of what you said
+—and what I think I heard around the table, November 1, 200594 of 114although not explicitly
+—was that the statement would have a sense of greater uncertainty about it.
+It would be moving in the direction of not promising as much going forward.
+Now, maybe I’m reading too much into what you said.
+CHAIRMAN GREENSPAN.
+That’s what I did say.
+That’s what I believe.
+MS.
+MINEHAN.
+Yes.
+CHAIRMAN GREENSPAN.
+<START>I can’t speak for the rest of the Committee in that respect, but we’ll all be vetting the minutes so we can try to do our best in conveying our thoughts.<END>
+<START>My only concern is not to introduce a new uncertainty in the process since we’ve done exceptionally well for so long.<END>
+Being innovative has less value than I think we’ve realized.
+VICE CHAIRMAN GEITHNER.
+May I just add to that comment?
+I think we need to be careful not to telegraph in the minutes any change until we have a little more confidence about how we want the statement to evolve.
+So I think the minutes can reflect the fact that we’re discussing, as the world hopes we’re discussing, what evolution might be sensible.
+We’re not
+— CHAIRMAN GREENSPAN.
+The term is “ongoing discussion.” That will clarify it.
+That’s basically saying:
+Don’t take this as some dramatic change.
+MS.
+MINEHAN.
+Then it’s not a surprise;
+if something different comes out, it would be the result of an ongoing discussion.
+CHAIRMAN GREENSPAN.
+Yes.
+President Santomero.
+MR.
+SANTOMERO.
+I support your recommendations.
+Just to continue on this topic, I think we all have to be careful, number one, to read what’s in the minutes and, number two, to think about what we’re going to say when we’re asked about the minutes and what it is the minutes are communicating.
+We know there’s going to be a rash of questions about what it means.
+And I think November 1, 200595 of 114we just have to be prepared for what we as individuals are going to say to the press when they ask about what is that ongoing conversation.
+VICE CHAIRMAN GEITHNER.
+But, Mr. Chairman, may I say something?
+CHAIRMAN GREENSPAN.
+Yes.
+VICE CHAIRMAN GEITHNER.
+I don’t think we normally take it upon ourselves to try to interpret the minutes for the world.
+We let the minutes speak for themselves, and we convey whatever personal views we have about what we think going forward, but
+— MR. SANTOMERO.
+All I’m pointing out is that the press is going to say, “You talked about changing.
+What do you mean by that?” I think we all just have to be prepared to recognize that that’s an inevitable part of mentioning in the minutes ongoing discussions about change.
+Perhaps it’s obvious to all, but it will be a new area of inquiry by the press, and we have to recognize that.
+CHAIRMAN GREENSPAN.
+We might want to get involved in that as we proceed with the minutes and see where, in fact, everybody is.
+Perhaps we can give, implicitly at least, some guidance as to what we all ought to be doing when the minutes come out.
+President Lacker.
+MR.
+LACKER.
+I support your recommendations, Mr. Chairman, and I support the statement.
+I just want to register a thought or two about language.
+As we approach December, I recognize that the change in language that everyone is anticipating is a change that would be associated with stopping or at some point moderating the pace at which we increase the funds rate.
+I, like Don Kohn, have always interpreted “accommodation” to mean the rate is less than what we think it’s going to be after the next meeting.
+I can’t think of another coherent way to interpret that.
+I think that is always what it has meant.
+In that regard, there are lots of words that people use that involve implicit counterfactuals.
+The word “neutral” is one, for example;
+the word “equilibrium” is another one.
+I understand very November 1, 200596 of 114well the mechanics of what the Bluebook does, but that to me doesn’t correspond to a path our economy could conceivably get to from where we are now.
+So it has always troubled me for us to make reference to these fairly complicated and elaborate counterfactual simulations in describing interest rates.
+And I’d be reluctant to go in the direction of the formulaic option that Vincent put before us yet again
+—with compliments for his persistence
+—that makes reference to something that’s clearly off the equilibrium path.
+Let me mention another thought about language.
+I recognize that some around this table don’t share as heightened a sense of concern about an uptick in core inflation as I do.
+My fear is that that has some positive probability.
+<START>And if at some point we feel about a rise in core, if it should move up, the way we felt about a fall in core in mid-2003, I think we would find it desirable to communicate our dissatisfaction with that and our intention to prevent it.<END>
+Obviously, our sequence of communications in mid-2003 had some fits and starts, but it was ultimately the communication of our intentions that stabilized expectations.
+That established sort of an effective floor to the level of inflation that market participants thought we were willing to tolerate.
+And I worry about changing the statement in a way that everyone associates with a pause when there’s still a likelihood out there that we may have to engage in a communication exercise of another sort.
+I’ll leave it at that.
+CHAIRMAN GREENSPAN.
+President Fisher.
+MR.
+FISHER.
+Well, I accept your suggestion, Mr. Chairman.
+I was just thinking about the introduction you provided, which is something I’ve been consumed with because I’m supposed to give a lecture at Harvard on Thursday night on the globalization of monetary policy.
+I’m worried about the phenomenon that you described
+—it’s one of the reasons I feel quite hawkish even relative to President Lacker
+—and the direction in which it is proceeding.
+Let me cite a small data point.
+The retailers will tell you that they got 10 percent relief last year from China but that they’re only November 1, 200597 of 114getting 5 percent relief now.
+Now, where that number comes from, I’m not quite sure.
+But the point is that the disinflationary mitigating factor is being reduced, and yet we have no sense of the measure of capacity or of the utilization of capacity outside our own borders, particularly in the parts of the world you spoke of.
+And I want to make sure, however we word things and whatever we communicate in the minutes, that we don’t close the door to still be very vigilant, though not vigilantes, on the inflation front.
+But I accept and support your recommendation.
+CHAIRMAN GREENSPAN.
+President Moskow.
+MR.
+MOSKOW.
+Mr. Chairman, I agree with your recommendation on the rates and I support your plan to review the language, as we’ve all talked about here or, as you put it, to continue our ongoing discussion of the language going forward.
+Just a comment on the point
+—I forget who said this but I think it was Tim
+—that the statement speaks for itself and the minutes speak for themselves.
+I agree completely with that.
+And I think it is important, as we give talks and answer questions, that we make it clear that our comments represent our own personal views.
+They are not interpretations of the minutes.
+They are to be read as “In my view, X or Y….” I think that is a very important distinction to make going forward.
+Let me add just one final point.
+I, too, am concerned about inflation, as we all are around this table.
+And I must say that I think the costs of inflation coming in above the Greenbook forecast now outweigh the costs of inflation coming in below the Greenbook forecast going forward.
+CHAIRMAN GREENSPAN.
+President Stern.
+MR.
+STERN.
+I support all parts of the recommendation
+—the change in the funds rate, the existing language, and the possibility that we will alter the familiar language at the next meeting.
+CHAIRMAN GREENSPAN.
+Governor Olson.
+November 1, 200598 of 114MR. OLSON.
+I support the recommendation, Mr. Chairman.
+With respect to the language, what I think I’m supporting is the process by which we will be looking at what changes would be appropriate.
+But I certainly agree that the next meeting is the appropriate time to look at it and that in order to do that we need some intermediate communication about the options.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+<START>Mr. Chairman, there are words and phrases that I’m not as comfortable with as I’d like to be, particularly the part dealing with inflation risk.<END>
+The word “potential” has crept into the sentence in terms of inflation pressures;
+I see those pressures as clearly there and not just potential.
+But I certainly can support your recommendation and I look forward to a discussion between meetings of how to fundamentally restructure the statement we’re using.
+Thank you.
+CHAIRMAN GREENSPAN.
+President Yellen.
+MS.
+YELLEN.
+Mr. Chairman, I support your recommendation for the policy move and also the statement today.
+And I look forward to more detailed discussions about revising the statement going forward.
+CHAIRMAN GREENSPAN.
+Governor Bies.
+MS.
+BIES.
+Mr. Chairman, I support the 25 basis point increase and the language in alternative B, and I look forward to seeing how Vincent will help get a consensus within this group.
+One thing I’ve learned is that whenever we try to tinker with this, we end up with a wide variety of viewpoints around the table.
+So I wish him good patience with all of us as he tries to get our comments in.
+CHAIRMAN GREENSPAN.
+He can find agreement where none exists!
+[Laughter] Governor Ferguson.
+November 1, 200599 of 114MR. FERGUSON.
+Mr. Chairman, I support your recommendation of 25 basis points.
+I support the language in alternative B. On the issue of what we should say about the minutes, I would caution all of us to be very careful because the real answer is we don’t know.
+<START>To say much more than “ongoing discussion” perhaps is signaling more than anyone wants to or should.<END>
+On the question of whether or not we should wait until we’re fully done tightening before we change the language, I think that will create an incredible gong reverberation that says, “Boy, they’ve changed the language.
+They must think they’re really done.” In my view, the reality is that if we change the language before we think we’re really done, then the language can evolve in a way that may be more helpful.
+<START>Having broken my sword on this issue over several years with the help of Don and then Vincent, I, too, look forward [laughter] to seeing the wisdom of Vincent.<END>
+<START>And I admire the way he will bite the hand that feeds him.<END>
+[Laughter] CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+Mr. Chairman, I support your recommendation on the rate and the language for today.
+I’d like to make just a couple of other points.
+There has been a lot of discussion in the newspapers and among people I talk to about the influence of the remarks in our speeches regarding our concern about inflation risk.
+That clearly, I think, has made a difference to market sentiment.
+And with respect to the neutral rate, I hope that we don’t start making statements that we regard the neutral rate as being a narrow range or a number.
+These calculations come from a model.
+One way of looking at this is that if the neutral rate has averaged about X over some historical period, we might anticipate that that would be the average going forward.
+However, the rate that is consistent with equilibrium at any moment of time has varied a lot.
+If we look at 2002 or 2003, for example, the rate was low and yet the economy was barely moving forward.
+<START>If we look at 1983, November 1, 2005100 of 114that was a period of vigorous recovery from the 1981-82 recession, and the real federal funds rate was about 6 percent.<END>
+So the rate that at any moment of time is consistent with equilibrium can vary widely, and I hope we don’t give the impression that the neutral rate is some narrow little target toward which we are likely to go.
+We talk about it as an average of historical experience.
+I think we could really be misleading the market as to where we’re likely to end up if we leave the impression that it’s in the neighborhood of 4½ or 4¾ percent or any other such number that we might mention.
+Secondly, I’d like to point out that the Greenbook forecast for the core PCE inflation rate next year, fourth quarter to fourth quarter, is 2.3 percent.
+And there is a view abroad in the marketplace that some members of the Committee have an explicit target range in mind for that measure of 1 to 2 percent.
+Others will say that by revealed preference the Committee has made clear its preference for an inflation target of 1 to 2 percent.
+<START>And if we, in fact, consistently start getting year-to-year inflation rates that are noticeably above 2, we are going to produce a market reaction that we need to be aware of<END>
+—one that may well be ahead of us
+—and understand where that may take us.
+Thank you.
+CHAIRMAN GREENSPAN.
+Vice Chair.
+VICE CHAIRMAN GEITHNER.
+I support your recommendation to raise the fed funds rate 25 basis points and to use the language of alternative B. And I want to clarify just for the record, given what Mike Kelley said last night, that in not rushing immediately to compliment you on the brilliance of your proposal I’m not implying any less confidence [laughter] but actually more confidence.
+CHAIRMAN GREENSPAN.
+Let the record show that I had an enigmatic expression.
+[Laughter] November 1, 2005101 of 114Ms. Danker, would you read the appropriate language?
+MS.
+DANKER.
+I’m reading the directive wording from page 24 of the Bluebook:
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+<START>To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with increasing the federal funds rate to an average of around 4 percent.” And the assessment of risk, unchanged from the September statement, is:<END>
+“The Committee perceives that, with appropriate monetary policy action, the upside and downside risks to the attainment of both sustainable growth and price stability should be kept roughly equal.
+<START>With underlying inflation expected to be contained, the Committee believes that policy accommodation can be removed at a pace that is likely to be measured.<END>
+Nonetheless, the Committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability.” CHAIRMAN GREENSPAN.
+Call the roll, please.
+MS.
+DANKER.
+Chairman Greenspan Yes Vice Chairman Geithner Yes Governor Bies Yes Governor Ferguson Yes President Fisher Yes Governor Kohn Yes President Moskow Yes Governor Olson Yes President Santomero Yes President Stern Yes MR. SANTOMERO.
+I have a question.
+I think you read the assessment of risk without the word “remaining” in it.
+Maybe I misunderstood what you read.
+MS.
+DANKER.
+I read it from this table as unchanged from September.
+MR.
+SANTOMERO.
+Which one are we voting on
+—with remaining or without remaining?
+November 1, 2005102 of 114SEVERAL.
+Without remaining.
+MR.
+SANTOMERO.
+I just wanted to make sure.
+I got confused about what we were looking at in that line.
+That’s fine.
+My vote stands.
+CHAIRMAN GREENSPAN.
+Let’s have a recess, and the Board of Governors will convene in my office.
+[Recess] CHAIRMAN GREENSPAN.
+The Board passed unanimously the requests of all 12 Reserve Banks for an increase in the discount rate to 5 percent.
+Our next meeting is Tuesday, December 13, 2005.
+Shall we go to lunch?
+END OF MEETING
+INSTANCE OF DISAGREEMENT: 27

@@ -1,0 +1,1078 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+<START>Expansion is held back by the high cost of bank credit, uncertainty about sales and income prospects, household needs to rebuild wealth, and, as many have remarked, uncertainties about the legislative and regulatory environment.<END>
+I expect that these restraints will dissipate over time and that some favorable feedback loops will develop between improvements in labor markets and household and business confidence in spending, and between improved profitability and declining loss experience at banks and better credit availability for small businesses and households.
+I think both of those favorable loops are likely, and I’m somewhat heartened by the conversation around the table, namely, that some of you are beginning to see a little more encouragement from your business contacts.
+But in both cases I think these are mostly forecasts at this time and not yet supported by data.
+There are also some downside risks.
+We’ve brought a lot of spending from the future to the present through very low interest rates and through fiscal policy;
+in many cases, policy explicitly encouraged bringing spending from the future to the present, such as the “cash-for-clunkers” and first-time homebuyers programs.
+At some point, we’re going to get to that future [laughter].
+MR.
+TARULLO.
+Some of us will, Mr. Kohn.
+MR.
+KOHN.
+That was a broad “we.” We’re also are aware that rising bank capital and liquidity requirements could damp the easing in credit conditions.
+<START>The incoming information on consumer prices suggested a somewhat greater deceleration than had been expected, especially outside the energy sector, to relatively low rates of inflation.<END>
+March 16, 201069 of 146The slowdown has been evident not only in the usual core consumer price indexes but also in the trimmed means.
+I looked at the trimmed means the way everyone else did
+—I think President Plosser can take credit for incenting people to look more deeply into price indexes
+—and they have come down quite substantially over the last year to about 1¼ percent in the CPI and PCE;
+they do abstract from outliers.
+The slowdown is evident in the higher frequency data, too.
+The trimmed mean three- and six-month inflation rates are a little below the one-year trimmed mean inflation rate.
+So unless inflation picks up, we’re going to see continued deceleration there.
+Measures of nominal compensation have also tended to slow or hold at very low levels.
+In my view, the behavior of prices and costs, while inflation expectations remain anchored, tends to confirm that a large margin of underutilized capital and labor resources and a very competitive environment are exerting considerable downward pressure on prices.
+<START>With petroleum prices having flattened out since last fall, we can expect headline inflation to retreat to these low core measures, well below the 1¾ to 2 percent level favored by most Committee members.<END>
+In sum, I see the data since the last meeting as having tended to confirm that there’s a considerable output gap;
+<START>that the gap is unlikely to close very quickly, even at very low interest rates;<END>
+and that the result is likely to be very slow inflation below Committee members’ objectives for some time to come.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Warsh.
+MR.
+WARSH.
+Thank you, Mr. Chairman.
+I’m not from the south, and those from the south had witty aphorisms to begin.
+I’m a Yankee, and I went to a public school in upstate New York, and it was a rambunctious crowd at school.
+We were all bussed in from smaller towns to go there.
+And so I can only begin by saying what the principal would say on the loudspeaker.
+March 16, 201070 of 146After the Pledge of Allegiance he would tell us, “Don’t just say something
+—sit there.” [Laughter] So let me try to accomplish that.
+I think there are a couple of differences in amplitude of concerns from when we last met, though, like most of you, my modal forecast, which is a little less optimistic than the Greenbook, still hasn’t changed much.
+<START>So let me talk a little bit about those risks are, and then, second, I’ll provide an obvious insight on the nature of this cyclical recovery.<END>
+First, I think the European economic risks, as Nathan discussed, are rising as much as we feared.
+The cyclical story there is not pretty
+—the recoveries are remarkably weak, even given massive monetary stimulus.
+I think the near-term trends there are quite troubling.
+<START>And potential economic growth seems to be falling as well, with rising protectionism, political infighting, a more fragile banking system than many in Europe may have been willing to admit during the darkest days of our turmoil, perhaps a mistaken understanding of what ails their economy, and further extensions of implicit guarantees, all of which have to be doing harm to their productivity, their unemployment rate, and to their growth.<END>
+<START>I would say that Greece is indicative of European troubles, not the source of European troubles.<END>
+<START>I take much less comfort than other observers cited in the papers about these “successful debt offerings” from Greece due to its new austerity program.<END>
+For example, what if we said that there were successful bank offerings after the TLGP came into being?
+<START>We’d say, “Well, there aren’t successful offerings by all these banks.<END>
+<START>These are guarantees that the government put in place.” And if I look for new investors in these so-called successful debt offerings, they’re almost impossible to find.<END>
+The investors in these offerings are the same large institutions that hold lots of old vintage paper who are buying new vintage paper as if to protect the value of the old.
+March 16, 201071 of 146I think the open question is:
+Will the whistle be blown on the strength of European financial institutions, or it?
+won’t I did share the conventional view that they might be able to pull just it off with less capital than U.S.
+financial institutions before the crisis and after.
+But, as we learned in the U.S., once the pressures in markets build, it’s not obvious that you can get away with disclosures that are not up to best practices around the world and to levels of capital, which, I think on an apples-to-apples basis, look rather poor.
+The periphery, as staff here describes
+—Portugal, Italy, Spain, and Greece
+—looks to me to be expanding.
+The Greek spreads are likely to stay elevated as issuance continues.
+Even when these spreads come down, we see new sellers in that market, making it impossible for them to come down on a dependable basis.
+So I don’t suspect that we’re going to see Greek spreads or spreads of some of the other peripheral nations narrow too dramatically.
+There could be narrowing, but it could happen because the German and French debt securities actually rise in price.
+So European weakness, in general, is bad news for U.S.
+prospects directly, and indirectly I think there’s a real risk of some shock that could find its way into our economy.
+Markets in the U.S.
+somehow believe that these shocks are very much of a piece with the events of 2008 or 2009, and that those are behind us.
+I’m not convinced.
+If I look at 2010, I think there’s a risk of some meaningful discontinuities.
+If you look at sovereign credits, currencies, political regimes, there are plenty of sources of what could cause that.
+Take government borrowing, which looks to be exploding in 2010.
+There should be somewhere between $3 and $4 trillion of new net issuance from sovereigns this year.
+That’s three to four times the average of the level of issuance from 2002 to 2008.
+I think the prospects of what could otherwise be dismissed as sloppy auctions could end up leading markets to get much more concerned.
+Regarding U.S.
+March 16, 201072 of 146relationships with our big trading partners, an important issue during a period of global recession, I think they aren’t what they could be or should be.
+The greater rhetoric we’re hearing from countries that are having their own domestic problems and trying to direct those at the U.S.
+speaks to some internal weaknesses that we shouldn’t take lightly.
+So a shock in the world this year is more likely than markets expect, and I think such a shock is more likely to originate outside the U.S.
+than inside.
+Now to my second and final point, which is the cyclical recovery.
+It may just be that this recovery is driven by big firms and not small.
+And the nature of the cyclical recovery might look different from we’ve grown accustomed to, based on past recessions.
+Big firms look more poised to lead, not lag.
+Big firms’ cap-ex seems to be improving smartly, more smartly than smaller firms.
+February U.S.
+tax revenues were up for the first time since April 2008
+—it’s hard to get more detailed data, but it looks as if it’s largely due to large corporate profits.
+Big business is leading small business on cap-ex and on confidence.
+One thing that’s harder for us to wrestle with is the implication of that for the labor markets.
+It’s more likely that we’ll see continued cyclical upsurge in productivity coming from these big firms than some robust change in economic growth prospects.
+But this development of the nature of the cyclical recovery certainly bears watching, and I’d be more comfortable if we saw small businesses entering with the same kind of confidence that we’ve seen in the last quarter from the big businesses.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Duke.
+MS.
+DUKE.
+Thank you, Mr. Chairman.
+<START>The banker outlook remains pretty much the same, with credit losses reaching a plateau and loan demand weak.<END>
+One banker summed it up by saying, “2010 won’t look better, but it will feel better.” There is a lot of concern about March 16, 201073 of 146regulatory and supervisory issues, and most are worried about the fragility of the recovery.
+<START>A number of them mentioned a double-dip recession as a possibility, but I suspect they may also be talking about a double peak, because most of them are mainly worried about the unemployment rate.<END>
+Given the time frame, I’m going to skip to the residential lending market.
+Mortgage loan volume is down.
+The mortgage bankers speculate that most of the borrowers who can qualify for a refinance have already done so, and they’re concerned that much of the purchase volume is driven by the tax credit.
+In the construction lending area, the builders that remain are still selling off their inventory at a loss.
+The new product that’s going up is smaller, with fewer extras but quality finishes, and at entry-level price points.
+In some markets, recently built resales and foreclosures are coming to market at prices lower than the cost to construct them.
+Most markets have multi-year inventory of unsold lots, and higher-end new homes and condos are not selling at all, as they’re very difficult to mortgage.
+Supply and demand for construction loans is weak, with the remaining builders and lenders very skittish.
+<START>Most lending is for contract homes, as lending for speculative construction requires strong cash investment by the builder, and even model homes are being financed on an amortizing basis.<END>
+Given the lending conditions, the price levels, the mortgage availability, and competition from existing home inventory, I continue to be pessimistic about any significant pickup in residential construction.
+In the existing home market, I could not find a single lender that was having any difficulty moving foreclosed inventory or even one that was deliberately slowing foreclosures to avoid building inventory.
+The banks that are selling their REO are seeing strong demand from investors and foreign buyers and a high proportion of cash sales.
+So the bottleneck seems to be March 16, 201074 of 146in the foreclosure process.
+We’re now two years into various iterations of mortgage modifications, foreclosure moratoriums, and state legislatures lengthening the legal foreclosure process.
+The results for the HAMP are likely to be disappointing.
+At this point, it looks as if modifications will be in the hundreds of thousands rather than in the millions.
+Lenders, borrowers, and most recently the Administration, are now focused on principal write-downs, short sales, and deeds in lieu of foreclosure.
+<START>From the borrower’s perspective, many are now tired of struggling to make payments on houses that they cannot afford or that have negative equity.<END>
+So even those who have received a modification, made all their trial modification payments, and completed all the documentation to make those modifications permanent, are now hesitating as the prospect of a short sale with the ability to walk away, rent for a while, and reenter the housing market later, seems to be an attractive option.
+For the lenders and servicers, short-sale agreements provide a quicker, less expensive resolution than foreclosure.
+<START>Short-sale programs are becoming more formulaic regarding the price the lender agrees to accept and the fixed time period after which the borrower must turn over the home through a deed in lieu of foreclosure.<END>
+Some lenders require income documentation and perform asset searches to determine whether or not the borrower can actually pay the loan or a deficiency balance;
+others do not.
+Some agreements extinguish the debt entirely;
+others don’t.
+Some provide relocation assistance or cash for keys.
+<START>I think these programs have the potential to move us through the problem faster, but probably with more inventory coming to market and correspondingly lower prices.<END>
+<START>However, to the extent that hardship is not documented and deficiencies are not pursued, moral hazard is going to be exacerbated.<END>
+March 16, 201075 of 146Finally, home equity loan and other junior claims make all modifications, short sales, and other foreclosure avoidance programs much more difficult.
+<START>Those with a strong interest in modifying first mortgages charge that the junior lienholders are just being selfish and ignoring their losses.<END>
+There do seem to be two categories of second liens.
+First, those that were originated through indirect channels or as piggyback loans have had very high default rates and have been written off for the most part.
+But just because they were written off does not mean the liens have been released, and those liens become worthless only in foreclosure.
+So if foreclosure is taken off the table, those lienholders seem likely to hold out for some payment.
+The second group, banks with large portfolios of home equity loans generated through branch offices, report that approximately 30 percent of their loans are underwater with combined loan-to-value ratios greater than 100 percent.
+But of those underwater loans, more than 95 percent are current.
+A startling number of borrowers are delinquent on their first mortgages but still paying on their home equity loans.
+If these loans are modified, the accounting and regulatory rules require them to be written down to the same value that would be received in foreclosure, and in a short sale their position is partially or totally wiped out.
+So these lenders have very little incentive to come to the table unless foreclosure is imminent.
+Programs are now being developed to make payments to junior lienholders.
+Fannie Mae has a program.
+The Administration’s HAMP effort has a companion program.
+Various private lenders have programs to offer small payments to second lienholders.
+But getting the holders of performing loans to accept pennies on the dollar seems unlikely to generate any big participation.
+None of the current modification programs address unemployed borrowers.
+Programs are in development that will include six to nine months of payment forbearance, followed by a March 16, 201076 of 146modification or a short sale depending on reemployment, but accounting and regulatory rules again require that these loans be written down to foreclosure value.
+<START>All in all, it seems likely that the roughly five million loans that are seriously delinquent or in the process of foreclosure will take at least two to three more years to resolve, and that there is still a large dollar amount of mortgage debt to be extinguished.<END>
+<START>Going forward, if mortgages are to be booked at lower loan-to-value ratios, and those ratios are applied to lower home values or new homes at lower price points, and lower home ownership rates result in fewer homes being financed, it seems likely that the volume of mortgage debt outstanding would continue to contract.<END>
+Adding to that a debate about the future of Fannie Mae and Freddie Mac that won’t start until next year, a private securitization market that seems unlikely to restart until the role of government in housing finance is resolved, and the effect on securitization of the interaction of accounting, skin in the game, and capital proposals, I don’t expect a normal housing market anywhere in our planning horizon.
+So while consumer credit is beginning to rebuild slowly
+—and I do believe C&I lending will recover with the economy, and nonfarm, nonresidential real estate volumes are likely to be flat but with better quality
+— I expect overall lending to stay down as residential construction and mortgage volumes continue to fall.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Tarullo.
+MR.
+TARULLO.
+Thank you, Mr. Chairman.
+Let me try to do this in the form of bullet points, with staccato delivery where possible.
+[Laughter] First point
+—overall assessment:
+unchanged.
+We have a reasonably well-grounded recovery, but it’s still halting and there seems little prospect that it’s going to strengthen any time soon.
+March 16, 201077 of 146With that in mind and with little else to say, let me go to three contextual points.
+Point two
+—most important uncertainty:
+jobs and job creation, not just because it is an explicit statutory responsibility of this Committee to promote maximum employment, but also, obviously, because any recovery in self-sustaining demand is going to depend on personal consumption expenditures, which, I think, ultimately will depend on job creation.
+<START>While it is true that the deceleration of job losses and the levels of temporary hiring continue to give reason to hope that significant net job creation is just around the corner, we’ve been looking around that corner for a little while, and, as David pointed out in his presentation, this is a phenomenon still more anticipated than actualized.<END>
+Third point
+—vulnerabilities of the economy.
+Here I’m a little bit more balanced.
+I agree with Bill and Kevin that the fiscal vulnerability is probably increasing a little bit, in the sense that there’s potential market reaction to fiscal situations
+—almost a demonstration effect in Europe may be coming over here a bit.
+Having said that, though, I thought it was mildly reassuring, both with respect to the Dubai situation last year and the immediate reactions to the Greek situation this year, that financial markets overall were not particularly thrown off stride.
+For example, CDS spreads are still up, so it’s not as if all of that has just been absorbed.
+But, it didn’t feel as though the markets were so on edge that anything was going to throw them off.
+I would also mention on the upside something that has been less remarked.
+The edginess I felt about foreign exchange markets for a time last fall has actually diminished in response not only to some of the international stresses, but also to increased confidence in U.S.
+recovery.
+The strengthening of the U.S.
+dollar has, I think, removed the concerns that some were beginning to feel about whether foreign exchange markets could themselves be a source of instability.
+<START>March 16, 201078 of 146Ironically, of course, that’s likely to provide something of a drag on our exports and thus economic performance going forward, but in a vulnerabilities analysis, it’s probably not a bad thing.<END>
+And finally, as Don mentioned, the withdrawal of liquidity facilities and the change and normalization of discount rate policy raised issues only about whether we were moving towards an increase in the federal funds rate, and I think that also was a confirmation that there is substantially more financial stability now.
+Point four
+—new worries.
+We always have to have new worries.
+Like many of you, I’ve heard a lot of caution from some market participants about incipient asset price bubbles developing in this lengthy period of zero interest rate policy.
+I think there’s little doubt but that a search for yield has been on for some time, particularly since equity markets in the U.S.
+leveled out towards the end of last year.
+Having said that and after having made some inquiries and looked at some data, I don’t see much evidence of asset bubbles at present.
+<START>It’s a little harder to tell if the very low interest rates over this period have increased leverage in some asset markets to levels that could suggest that we’re going to have bubbles at some time in the foreseeable future, but, based on some very helpful analysis from Board staff and from staff in the New York Fed’s Markets Group, it doesn’t appear at present that there are any obvious suspects.<END>
+<START>We’ll obviously want to watch this going forward, because I think the distinction between, on the one hand, a return to normal levels of risk and leverage and, on the other, a potentially unhealthy buildup of leverage in some asset classes may not be so clear.<END>
+We should surely be monitoring behavior and experience of our regulated institutions with this issue in mind.
+<START>In sum, lots of slack, lots of unemployment, no evidence of inflation, and little evidence of incipient asset bubbles.<END>
+While I can tell the story of how some of these conditions could turn March 16, 201079 of 146reasonably quickly, I don’t see any evidence yet that this has happened.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you, and thank you all not only for insightful comments, but concise ones as well.
+Let me try to summarize and then I’ll just add a few observations.
+Intermeeting data were perhaps slightly weaker than expected, and some bouts of bad weather further muddled the picture.
+<START>The economy was characterized as flat, fragile, lethargic, choppy, and improving.<END>
+<START>Generally, moderate growth is projected for 2010, with slow improvement in the labor market and low near-term inflation risks.<END>
+Private demand needs to pick up where the inventory cycle and fiscal policy are leaving off to create a sustainable expansion.
+<START>Outside of Europe, foreign growth continues reasonably strong, especially in China and other EMEs, although there are various risks abroad ranging from an overheated China to a fiscally strapped Greece.<END>
+Financial markets generally continued to be supportive of recovery.
+Inflation risks appear low in the short run, but may be higher in the medium run, and uncertainty about the forecast remains quite high.
+<START>Recent data suggest that retail sales and household spending are growing at a moderate rate, though consumers remain pessimistic about income growth in the labor market, and income and the saving rate have been revised down.<END>
+<START>The most recent labor market report was mildly encouraging, and job growth might have been positive except for weather disruptions.<END>
+Temporary jobs have increased considerably.
+However, labor market conditions overall remain very weak.
+Unemployment is high, especially among men, and long-term unemployed are losing skills.
+The decline in UI claims has stalled, suggesting that layoffs have not entirely stopped, and, while there are signs of hiring, they are still somewhat limited.
+Firms are quite reluctant to add to payrolls, given the level of uncertainty March 16, 201080 of 146about the sustainability of the recovery and about government policy.
+Nevertheless, some job creation is expected in coming months, as very lean firms are forced to respond to higher demand.
+<START>Housing sales and starts have been stalling in most regions, despite various forms of government support.<END>
+<START>Foreclosures are likely to remain quite high and may depress both housing prices and mortgage quality further.<END>
+Construction generally is contracting as commercial and industrial sectors struggle.
+<START>Some glimmers of optimism were detected among firms, perhaps especially the largest firms, although caution remains the watchword as firms worry about regulatory roulette.<END>
+<START>Investment in equipment and software is largely for maintenance or updating of technology, and investment in structures continues very weak.<END>
+Manufacturing looks to be expanding in part because of growing export demand.
+Other sectors showing signs of life include energy and petrochemicals, agriculture, shipping, and advertising.
+Construction remains very weak.
+State and local employment and investment remain tightly constrained by lower revenues.
+Public equity and credit markets continue to perform well, but bank lending remains constrained.
+Mortgage quality is a risk for banks, and housing finance remains troubled, but banks are able to sell their REO.
+Markets have expressed some concerns about sovereign risk, notably in Greece and other European countries, which may pose risks to the banking system and to the broader economy.
+Bank capital and liquidity requirements could dampen the easing of credit conditions, which we are beginning to see.
+<START>Finally, on inflation, shelter costs continue to account for part of the decline in overall inflation, but core or trimmed measures suggest that underlying inflation trends are moving downward in a broad-based way.<END>
+Inflation expectations moderated slightly over the intermeeting March 16, 201081 of 146period, as seen, for example, in TIPS spreads.
+<START>Growth in wages and unit labor costs remains low or negative, labor market slack remains high, inflation expectations stable, and productivity growth accelerated.<END>
+The dollar has also strengthened.
+Near-term inflation risks appear low and even to the downside, although expansionary monetary and fiscal policies imply some medium-term risks.
+<START>Fiscal imbalances both here and abroad could restrain growth if they push up rates, and on the monetary side, a long period of low rates may lead to increased leverage or financial imbalances even if they don’t cause inflation.<END>
+That’s my summary.
+Any comments?
+[No response.] Well, usually the summary is the most useful part of my presentation.
+I’ll say a couple of additional things here.
+First of all, I think we might as well take note of the fact that this is the one-year anniversary of the March 2009 meeting where we took some very strong measures to add something on the order of about $1 trillion in additional asset purchases.
+Since then, we have maintained our low interest rate policy.
+We have conducted the stress test of the banks.
+<START>We have managed and closed our liquidity facilities, and the economy obviously is doing a lot better.<END>
+I don’t think that’s entirely accidental.
+Economic growth is where we were a year ago, and relative to the challenges we faced a year ago, I think we should be a little bit pleased at least.
+That being said, of course, the economy is still quite weak.
+I listen to the comments around the table about “optimistic projections” of 3 percent growth, and I ask myself where is that going to take us in terms of labor markets and financial conditions.
+<START>So this is still quite an unsatisfactory situation, but certainly one that we should feel we have made an important contribution towards stabilizing.<END>
+March 16, 201082 of 146Looking forward, my concern basically is, again, where strong economic growth is going to come from.
+<START>I think the 3 percent scenario is plausible, but even in that case, there are downside risks.<END>
+Notably, as people have mentioned, after the big inventory correction, we’re going to need private final demand growth to take up the slack from inventories.
+In order to get its 3 percent plus growth for 2010, the Greenbook is looking for average growth in private final demand at an annual rate of 3.7 percent for the rest of the year.
+That would be a considerable pickup
+—more than 2 percent over each of the last three quarters
+—so there really needs to be some pickup of final demand from where we are.
+It seems unlikely to come from housing, given what’s developing there.
+In the household sector, I was very pleased to see, as all of us were, the recent consumption spending numbers, which suggest we might have 3 percent growth in consumer spending in the first quarter.
+But, again, will this be sustainable?
+Will we see stronger household spending?
+I note one serious weakness is the lack of income growth.
+Real disposable income in January of 2010 was essentially identical to what it was in January of 2009, and, indeed, it would not have been that high except for the fact that transfer payments were up 12 percent over the year.
+So we’re looking at a situation where growth in income is not yet transpiring and, therefore, we’re relying very heavily on continued confidence in the household sector and the expected rebound in the labor market.
+<START>Again, we’re looking at a situation where we’re going to need some pickup in income and final demand to get 3 percent growth, and I think that does pose a risk.<END>
+I do think the labor market is looking a bit better.
+We saw some positive signs in terms of hiring indicators, such as help wanted, workweek, diffusion indexes, and temporary work.
+At the same time, of course, UI claims have remained quite sticky, and the number of people on March 16, 201083 of 146temporary and emergency unemployment is extraordinarily high, and it has not begun to come down.
+A point that no one mentioned
+—and it’s rare at this point for me to find something that nobody really mentioned;
+maybe somebody did and I missed it
+<START>—is that a big uncertainty about labor market going forward is what’s going to happen to productivity growth.<END>
+The Greenbook is projecting that, after 6 percent productivity growth in 2009, productivity will grow ¾ percent in 2010, and that provides a reasonable growth in employment.
+<START>Obviously, if we get stronger productivity growth and demand is not more robust, then we could have a worse outcome.<END>
+So there are a lot of uncertainties in the labor market.
+Financial conditions, as people have noted, are generally better.
+There certainly are some risks.
+I took note of an interesting financial conditions index that was constructed by a number of people, including our ex-colleague Governor Mishkin and others, which gave a very broad- based look at financial conditions.
+The interesting result was that, although there was a big improvement in financial conditions through most of 2009, once you hold constant the improvement in the economy, financial conditions had become something more of a drag in the latter part of 2009 and 2010.
+That’s mostly due to quantities rather than prices, for example, the lack of rebound in securitization and the lack of rebound in lending.
+So I think there is, again, still a headwind coming from the financial side.
+I want to restate a theme that President Hoenig has raised a couple of times and Governor Tarullo mentioned, which is the question of financial imbalances.
+<START>As inflation looks a little less worrisome, that’s clearly something we want to pay attention to.<END>
+I think you can break it down into more than one category.
+I think we need to worry about valuation, that is, bubbles, asset prices.
+We need to worry about leverage.
+And we need to worry about underwriting quality.
+March 16, 201084 of 146Those are three separate dimensions, all of which deteriorated during the crisis.
+As Governor Tarullo mentioned, Board and New York Fed staff have been looking at some of these things, and we have various indicators for stock prices and bond spreads.
+We have various measures of leverage.
+We are, after all, bank supervisors, and we’re telling the world we need to be bank supervisors so that we can follow this stuff.
+So I would suggest that we all do it and that we increase our focus on these things.
+It is possible to try to make an assessment of those risks, and it is very important that we continue to look at them.
+Finally, a word on inflation.
+I have a small thing to add here as well on the debate about OER.
+<START>There is another important component of the inflation rate which is the nonmarket-based component, and interestingly that turns out to be almost exactly the same weight as OER in the PCE index, and it has been running at 2.6 percent, which is above the rest of the basket.<END>
+So maybe we want to put those all together in one big element and decide that it’s not making that much difference at this point.
+I also looked at the various trimmed means, and we want to thank the Dallas and Cleveland Banks for maintaining those useful numbers.
+<START>As the Vice Chairman pointed out, there does seem to be a broad-based slowing, although I think we can’t be too complacent, certainly, and among other things, we’re still seeing some increase in energy and commodity prices, and that is, of course, something we have to worry about.<END>
+So again, I think we should be grateful for what has happened in the last year and the stabilization we’ve seen.
+We do look to be in a recovery.
+I wish it were stronger.
+I wish the labor market were improving more quickly, and we need to pay very close attention to the real side of the economy.
+Regarding inflation, we must always pay attention to it.
+<START>At the moment it seems not particularly worrisome, but certainly we are in a very difficult world in which a variety of issues, including financial imbalances, need our attention as well as the conventional March 16, 201085 of 146inflation measures.<END>
+So let me stop there, and let’s turn to the policy go-around, and I’ll call on Brian.
+MR.
+MADIGAN.4 Thank you, Mr. Chairman.
+I will be referring to the package labeled “Material for Briefing on Monetary Policy Alternatives.” This package includes the draft policy statements as they appeared in the Bluebook, with the addition to alternatives C and C′ of alternative language suggested by President Hoenig, in brackets.
+Also included are a revised version of Bluebook Table 1, summarizing the alternatives, and draft directives.
+4 The materials used by Mr. Madigan are appended to this transcript (appendix 4).
+<START>Your policy decision today takes place against a backdrop of continued improvement in financial market conditions overall, evidence that a moderate economic recovery is on track, and signs that inflation pressures remain subdued and inflation expectations contained.<END>
+Still, the staff anticipates a relatively slow recovery, with the unemployment rate still at 8¼ percent late next year.
+<START>And with considerable resource slack expected to prevail over the projection period and inflation expectations steady, the staff sees core inflation this year as edging down to a 1 percent rate and holding at that level next year.<END>
+<START>Your remarks this morning suggest that many of you have a similar outlook, and, as the Chairman noted, Committee participants may see the forecast as somewhat unsatisfactory.<END>
+In these circumstances, it would seem that one question facing the Committee is whether additional monetary stimulus would be appropriate to help reduce downside risks and spur the recovery to a brisker pace that would result in a steeper decline in resource slack and, eventually, inflation at rates closer to desirable levels over the longer run.
+Under alternative A, page 2, the Committee would provide such stimulus by extending and increasing modestly its purchases of mortgage-backed securities.
+The description of the economic backdrop in paragraphs 1 and 2 would generally be similar to that in the January statement, but it would note that unemployment is high and that housing activity continues to be sluggish.
+<START>It would state that, “in light of the weakness in labor markets and prospects for a subpar economic recovery, the Committee judges that further monetary stimulus is warranted.” With the federal funds rate at its effective lower bound, the Committee would apply additional stimulus by increasing its MBS purchases by $150 billion to $1.4 trillion and extending them through the end of the second quarter.<END>
+That modification to the program would entail a continuation of MBS transactions at approximately the $10 billion average weekly pace that the Desk has maintained recently.
+Market participants are not expecting any change to the LSAP program, and the staff estimates that increasing MBS purchases by $150 billion would lower mortgage rates and other long-term rates by 5 to 15 basis points.
+This announcement could also prompt market analysts to push off the date at which they expect policy firming to commence and more generally lead to a somewhat flatter path for market expectations of short-term interest rates.
+All in all, the staff estimates that this policy March 16, 201086 of 146would provide modest additional stimulus to the real economy that could lower the unemployment rate relative to baseline by perhaps one-tenth percentage point two years ahead.
+However, some significant uncertainties would attend this policy.
+For example, with mortgage spreads already very tight, the actual extent of the effects of additional purchases on mortgage rates is unclear.
+And the possible effects on inflation expectations are difficult to gauge.
+In view of such considerations, the Committee might believe that its existing degree of policy stimulus appropriately balances the costs and benefits, and so it might favor the language presented in alternative B, page 3.
+As in alternative A, this alternative would note that unemployment is still high and is one of the factors constraining household spending.
+<START>It would mention that business spending on equipment and software has picked up significantly but that housing starts have been flat at a depressed level.<END>
+<START>The statement would again indicate that the Committee anticipates a gradual return to higher levels of resource utilization in a context of price stability.<END>
+<START>In paragraph 2, the Committee would repeat the view that with substantial resource slack continuing to restrain cost pressures and longer-term inflation expectations stable, inflation is likely to be subdued for some time.<END>
+<START>The Committee could add the bracketed sentence, which in effect notes that monetary policy is responsible for controlling inflation over time.<END>
+<START>Although the wording does not say so explicitly, the sentence could also be read as indicating that the Committee anticipates that inflation would edge up over time from “subdued” rates to somewhat higher rates that are consistent with price stability and thus that excessive disinflation should not be a concern.<END>
+In paragraph 3, the Committee would indicate that it is retaining the existing 0 to ¼ percent target range for the federal funds rate and would reiterate that it sees economic conditions as likely to warrant exceptionally low levels of the federal funds rate for an extended period.
+The Committee would also note that its large-scale asset purchases are coming to an end.
+In place of the indication in January that “the Committee will continue to evaluate its purchases of securities,” the statement would make the more general indication that “the Committee will continue to monitor the economic outlook and financial developments and will employ its policy tools as necessary to promote economic recovery and price stability,” thus finessing the purchases versus holdings issue that the Committee has previously discussed.
+This statement would be silent about the Committee’s exit strategy, pending further discussion at the April meeting.
+In paragraph 4, the Committee would note that the Federal Reserve has been closing most of the special liquidity facilities that it created to support markets in the crisis and would indicate that the TALF is still expected to close down on the previously specified schedule.
+The statement at the end of the January statement that the Federal Reserve is prepared to modify its plans to close its lending programs March 16, 201087 of 146 would be dropped.
+Our sense is that market participants already see essentially no likelihood that the TALF will be extended.
+The Desk’s survey suggests that investors generally do not anticipate any changes in the Committee’s forward policy guidance at this meeting.
+Overall, the statement for this alternative seems to be about in line with market expectations, and it would likely prompt little market reaction.
+By contrast, alternative C, page 4, and its variant C′ would summarize plans for exit and would suggest that the Committee was moving more quickly toward reducing monetary policy accommodation.
+In paragraph 1, the statement would note various positive economic developments and indicate that a sustainable economic recovery is now under way.
+<START>Paragraph 2 would recognize that energy prices have recently boosted inflation modestly but would observe that underlying inflation pressures remain muted.<END>
+It would also say that “the Committee will adjust the stance of monetary policy as necessary over time to ensure that longer-term inflation expectations remain well anchored and that inflation outcomes are consistent with price stability.” In paragraph 3, the Committee would indicate that its fed funds target range would remain unchanged for now but would modify its conditional expectation for exceptionally low levels of the federal funds rate such that it now extends only “for some time” rather than “for an extended period.” If it wished, the Committee could provide more specific guidance by indicating that exceptionally low rates were likely “at least through the end of the second quarter.” Changing “extended period” to “for some time” alone would likely cause market participants to advance sharply the time at which they expect policy firming to commence;
+adding “at least through the end of the second quarter” might help moderate that shift a little.
+But even that language would probably lead investors to believe that policy firming beginning in the third quarter was quite possible and perhaps even likely.
+The first sentence of paragraph 4 would provide more information on the Committee’s rationale for modifying its forward guidance.
+In the Bluebook version of the language
+—the phrase shown in red and bracketed
+—the motivation is solely to prevent the development of inflationary pressures.
+In language suggested by President Hoenig, shown in blue and bracketed, the motivation would be to prevent the buildup of financial imbalances as well as inflationary pressures.
+In this regard, one issue for consideration might be whether the Committee would see an express indication that adjustments to monetary policy were undertaken to prevent incipient financial imbalances as consistent with the dual mandate established by the Congress.
+With the Committee preparing to firm policy under alternative C, paragraph 4 would also provide some indication of how the Federal Reserve intended to use the various tools at its disposal to effect the tightening.
+Although the Committee plans to discuss these issues in detail at the April meeting, I will comment briefly now on the exit strategy language that was prepared for alternatives C and C′.
+Alternative C March 16, 201088 of 146would note plans to continue to test tools for draining reserves, for subsequently scaling up those operations to drain more reserves, and for then increasing IOER rate and the target federal funds rate.
+The Committee would indicate an expectation that “any sales of the Federal Reserve’s securities holdings would be gradual and would not occur until after policy tightening is under way and the economic recovery is sufficiently advanced.” Alternative C′, page 5, is identical to alternative C except for its description of some key aspects of the exit strategy.
+In particular, under this variant, the Committee would indicate that it would let all maturing securities run off beginning on April 1.
+It would also note that the Committee “will also be assessing the possibility of gradual sales of the Federal Reserve’s securities holdings to accomplish further reductions in the size of its portfolio.” Although both of these changes are presented in C′, they do not have to be paired necessarily.
+Market participants do not expect a statement along the lines of alternative C or C′.
+Depending to some extent on whether the Committee included the bracketed phrase in paragraph 3, investors would revise sharply the time at which they anticipate policy firming to begin and possibly steepen their expected path of tightening.
+The message they took from the shift from “extended period” to “some time” would be reinforced by the Committee’s discussion of its exit strategy in paragraph 4.
+Because this would be the first time that the Committee covered such ground in a policy statement, it would likely bolster the sense that the Committee had now set in motion a process that would lead to policy tightening.
+Finally, I should note that the directives for alternatives B, C, and C′ incorporate significant changes from recent directives, partly to reflect the imminent termination of the large-scale asset purchases.
+I might note particularly that for alternative B, the directive, which is shown in the second page from the end of the handout, would delete the sentences that provide qualitative guidance to the Desk for asset purchases and that indicate the Committee’s expectation that asset purchases will cause a significant increase in the balance sheet, again because these purchases are nearing their completion.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Are there questions for Brian?
+President Kocherlakota.
+MR.
+KOCHERLAKOTA.
+Thank you, Mr. Chairman.
+Brian, I have just one question.
+I saw, in the Bluebook, that there is an analysis of the long-run scenarios for the balance sheet under alternative A and under alternative B. I didn’t understand the logic of not including such scenarios for alternative C. If you could, please talk through that one.
+March 16, 201089 of 146MR. MADIGAN.
+We did discuss whether or not to include those, President Kocherlakota.
+Our rationale simply was that it was not very clear at this point what sort of assumptions to employ for all of the variables that the Committee now faces as policy instruments
+—redemptions, asset sales, the various reserve-draining tools, and so on.
+We’d be happy to include them in the future, obviously, but we felt that our decision to include them would be better informed by further Committee discussion of these issues.
+MR.
+KOCHERLAKOTA.
+In some sense those choices are also implicit under alternative A and alternative B, and you’re opting for a no sales default across all three alternatives or possible alternatives.
+MR.
+MADIGAN.
+That’s true.
+CHAIRMAN BERNANKE.
+We should have alternative scenarios to discuss in the next meeting.
+Any other questions for Brian?
+[No response.] CHAIRMAN BERNANKE.
+Okay.
+President Plosser.
+MR.
+PLOSSER.
+Thank you, Mr. Chairman.
+There has been increased communication about our exit strategy
+—I think this is a good thing
+—but I think we’re a bit hampered, because we really haven’t decided upon yet as a Committee or reached a consensus on many of the facets of the exit strategy, which we’ve just been alluding to, and I hope we’ll continue to make progress on this important topic.
+As I’ve mentioned, our choices on the various elements of our exit strategy are all interrelated in some way, and we need to look at them collectively rather than as one-off.
+In particular, I think that we need to discuss further our longer-term operating framework, including the appropriate operating target, and that we need to do so in conjunction with the management of our asset holdings as we seek to shrink the size of reserves and move towards an March 16, 201090 of 146all-Treasuries portfolio.
+As the Chairman just indicated, I hope this will be an active discussion on the agenda in April so we can get a sense of where the Committee stands as we, so to speak, hone our exit strategies.
+I think having a better idea of where we’re going will help us decide how we exit.
+In general, we want our language to help us implement policy, not hinder us from implementing policy or inappropriately constrain us.
+Given the economic outlook, I do think it’s time for us to seriously consider backing away from the “extended period” language.
+I would like our language to give us more flexibility with regard to policy than we currently have.
+The forward guidance language, I believe, is beginning to become a hindrance rather than a help.
+The longer we maintain it, the more difficult we may find it to unwind from it.
+We will need to prepare the markets for the eventual start of our exit from this period of extraordinary policy accommodation.
+It’s important for the public to understand that zero interest rates is not normal policy.
+In fact, a 1 percent interest rate is not normal policy.
+I view in many ways the start of moving rates up or selling assets from our portfolio not so much as a tightening in the usual sense of the word, but as a step towards normalization of policy in the same way that we’re unwinding our liquidity facilities.
+With the large size of our balance sheet and with rates at zero, policy will remain accommodative for a very long time to come after we start normalization.
+<START>I like the idea of discussing some of our plans for exiting in our statement, but again, I think we need to be careful and choose language that will not become a constraint on us as we try to react to economic conditions.<END>
+This means being careful not to make commitments to a particular sequencing until we have more evidence on how our tools are working and how the economy is evolving.
+We are in new territory.
+We may find that we aren’t able to maintain a March 16, 201091 of 146particular sequencing and simultaneously meet our policy objectives.
+From my perspective we ought to be trying to describe a reaction function that depends on the state of the economy to the extent we are able, not on something that looks like a mechanical set of actions that are a function of calendar time.
+It probably won’t surprise anyone that I’m in favor of alternative C′, but with a couple of changes.
+I would change the forward guidance in paragraph 3 to “some time,” period.
+I oppose an additional clause that says “at least through the end of the second quarter.” As I said, our policy needs to be contingent on the state of the economy, not on the calendar.
+And I wouldn’t be conveying that idea that it’s tied to the calendar even if we thought economic conditions will likely mean that we won’t be raising the target funds rate.
+Again, I want the description in terms of the state of the economy, not in terms of the calendar.
+I had similar views to my colleagues, President Lacker and Fisher, regarding alternative C, paragraph 4:
+I think the C′ language is a little better.
+<START>I think President Hoenig’s suggestions for the first sentence would be fine, but I do have some concern about whether that might be read as indicating that the Committee is going to act on bubbles, and that part of it makes me a little cautious.<END>
+However, in paragraph 4, I would not necessarily commit us to using tools for draining reserves before raising the IOER rate and the funds rate target.
+I think this locks us in before we know how effective these tools will be;
+nor would I commit to saying that we’re only considering possible gradual sales of assets from our portfolio or that they would only occur after we began to raise IOER rate.
+Based on our previous discussions, it’s not clear that these sequencing decisions represent any conclusions or consensus of the Committee.
+I would note here that I believe to a large degree that President Kocherlakota’s view of the functioning of financial markets is correct.
+<START>In a market where longer-term and short-term March 16, 201092 of 146rates are integrated and where we have an appropriately functioning term structure, there may not be much difference in the effect on longer-term interest rates of selling longer-term assets versus the expectation effects of beginning to raise the IOER rate and, through expectations of a tightening cycle, raising long-term rates;<END>
+it’s not clear how those two pieces could fit together.
+I think those are the kinds of interactions we need to explore as we think about our exit strategy.
+Let me turn briefly to alternative B, because I don’t think alternative C will be the consensus here.
+<START>As I’ve discussed in previous meetings, I like the idea of conveying that it is monetary policy actions rather than structural features of the economy that influence inflation over the longer run.<END>
+Thus, I am strongly in favor of including the bracketed sentence in paragraph 2.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Rosengren.
+MR.
+ROSENGREN.
+Thank you, Mr. Chairman.
+<START>I strongly support alternative B. With no change in the federal funds rate through 2011, the Greenbook still expects an unemployment rate above 8 percent, and most measures of core inflation are around 1 percent.<END>
+<START>My own forecast is not significantly different, implying at the end of 2011 we will still be well below my inflation target and well above my estimate of full employment with no change in interest rates.<END>
+If this forecast is right, the “extended period” language will need to remain for an extended period.
+In the popular press, many have raised the concern that keeping interest rates at very low levels could spur a leverage-supported bubble in asset prices.
+<START>While I find the historical evidence for this connection ambiguous at best, I see no evidence currently of excessive extensions of credit in this country.<END>
+In fact, my concern is the exact opposite, that even at these low interest rates, lending is shrinking, not growing, and leveraged financial institutions are still deleveraging.
+March 16, 201093 of 146In assessing the risk to a policy of keeping rates unusually low, I see an important asymmetry.
+<START>Large positive shocks would get us somewhat closer to our desired targets, but still leave us plenty of time before a tightening would be required.<END>
+<START>Large negative shocks, on the other hand, would be difficult to offset and would push out further the date we reach either element of our dual mandate.<END>
+<START>In short, there is little risk of growing too fast, but a significant risk if the economy grows too slowly.<END>
+In terms of the questions posed on reinvestment strategy, I would use the following two principles.
+First, the reinvestment strategy should be consistent with the interest path.
+If we need to remain accommodative, any reduction in reserves should be done in ways to minimize the impact on borrowing costs of households and businesses.
+Second, in the long run, we should return to an all-Treasury portfolio, but, in the short run, we should be focused on getting the right macroeconomic outcome.
+Given my expectation for the need for accommodative policy for some time and my concerns that selling of MBS will have a more significant impact on borrowing costs for households than Treasuries, I would not expect to sell any mortgage-backed securities until after we have begun tightening.
+It is quite possible that the recovery is slow enough that sales of MBS will not be required at all.
+<START>I would be comfortable not rolling over some Treasury securities if it was viewed as desirable to reduce reserves more quickly and the impact on yield was minimal.<END>
+I would suggest a gradual reduction in rollover so that we can determine the potential impact.
+Assuming yield movement is minimal, we could continue to let Treasuries roll off.
+Once we had reduced our balance sheet to low levels of excess reserves, we could replace mortgage-backed securities as they rolled off with Treasuries eventually returning to an all-Treasuries portfolio.
+March 16, 201094 of 146Finally, I would not retain the bracketed sentence in paragraph 2.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+In the interest of time, we will be discussing the issues of balance sheet adjustment in April.
+MR.
+ROSENGREN.
+Okay.
+CHAIRMAN BERNANKE.
+Let’s not all give those views now.
+Everybody will have a chance to discuss it.
+President Yellen.
+MS.
+YELLEN.
+Thank you, Mr. Chairman.
+I favor alternative B, and I would exclude the bracketed sentence which is arguably redundant, given the last sentence of paragraph 2.
+<START>The economy is clearly operating far below maximum sustainable employment, and inflation is undesirably low.<END>
+Under these circumstances, I see no case now for tightening monetary policy, and this includes any additional language that would trigger changes in market expectations about the pace of tightening.
+I found it striking that none of the alternative scenarios in the Greenbook have an increase in the funds rate this year.
+Furthermore, I believe that the risks associated with tightening prematurely still exceed those resulting from tightening too late.
+I think we’ve been quite clear that the promise of low rates is not unconditional or calendar-dependent.
+<START>Rather it depends on explicit economic conditions, including “low rates of resource utilization, subdued inflation trends, and stable inflation expectations,” conditions that still prevail.<END>
+I think this guidance does not bind future policy to the mast.
+Rather it helps inform our passengers of the likely direction of the journey, and that type of communication facilitates the transmission of policy.
+It’s true that the “extended period” statement isn’t explicitly conditioned on developments in asset and credit markets, and I agree with President Hoenig and with the March 16, 201095 of 146comments of the Chairman and Governor Tarullo that we should be considering the possibility that our monetary policy could foster the emergence of new financial imbalances, and that we should be monitoring financial markets closely.
+But I would just say at this point that I, too, do not see evidence that excessive investor risk-taking has developed.
+<START>As supervisors, we have potent regulatory tools at our disposal to address these risks, and I believe that we need to use them to ensure that financial imbalances do not emerge.<END>
+<START>At this point in the cycle, with exceptionally high unemployment and very low inflation, I believe our policy actions should focus squarely on our mandate for price stability and full employment.<END>
+CHAIRMAN BERNANKE.
+Thank you.
+President Kocherlakota.
+MR.
+KOCHERLAKOTA.
+Thank you, Mr. Chairman.
+I’m not in favor of alternative A. I see no evidence that further expansion of the LSAP would be appropriate at this time.
+However, I like elements of both alternatives B and C′.
+<START>I like B because I believe the current high rate of unemployment and low levels of expected and realized inflation support continued use of the “extended period” language.<END>
+On the other hand, I’m in favor of communicating our exit strategy immediately as is done in alternatives C and C′.
+I don’t see a logical reason to wait to start communication until we drop the “extended period” language.
+In terms of exit strategy, I liked C′ better than C, without the language in blue type that’s included in C′.
+I indicated in the economics go-round that I remain concerned about the inflationary risks of our large balance sheet.
+Given those current concerns, I like C′ because it allows the possibility of sales beginning before raising rates, although it does not necessarily require that.
+Likewise, C′ is explicit about our desire to run off maturing and prepaid securities.
+March 16, 201096 of 146Putting these thoughts together, I support alternative B with the inclusion of a new paragraph 4, which would be paragraph 4 of alternative C′.
+<START>To be consistent with the rest of alternative B, I would change the first sentence in paragraph 4 to refer to “an extended period” rather than “for some time.” Keeping the Chairman’s admonition about time in mind, but having been in favor of C′, I have to say something about the exit strategy.<END>
+I will tax you with my thoughts on that, I hope briefly.
+I think the Bluebook expressed some concerns that paragraphs like C′ 4 may generate uncertainty about our exit, and so may lead to untoward asset-market volatility.
+<START>I’m very sympathetic to these concerns.<END>
+The right answer is not simply to avoid the topic entirely, as is done in alternative B, but rather to improve upon C′ 4 by being much less vague about our intentions.
+For 2008 and 2009, the Committee was explicit about timing and quantities.
+We should be explicit about timing and quantities during our exit.
+In my memo on reverse tapering, I offered one way to proceed.
+One thing we should be actively considering is committing as much as possible to an end date and to a rate of sales.
+In the meeting last time, I think we said we all wanted to be out of the housing market and back into an all-Treasury portfolio eventually.
+I would like to be explicit about what “eventually” means and state that we anticipate not having agency securities in our portfolio at the end of a given date
+—I’ll suggest 2016.
+I’m not wedded to 2016, but I strongly prefer it to be an end date in this decade as opposed to the 2020s or 2030s or President Rosengren’s strategy, in which I think it would take until 2040 before we got out of agency MBS.
+In terms of the speed of sales, I recommend we explicitly state that, through the end of 2016 or whatever end date we choose, the Federal Reserve would put a cap on sales.
+I’ll make another suggestion along these lines:
+$25 billion of assets in a month.
+March 16, 201097 of 146I think the big concern among market participants about our sales procedure is that, once we start selling, we’ll go crazy and start to sell everything in a very short period of time.
+I think we should commit to not being that kind of actor in the marketplace.
+Now, I think that my proposed slow rate of sales would have little in the way of price impact, given the kind of financial market functioning we’re seeing right now.
+The results of the March 2010 working paper by Gagnon, Raskin, Remache, and Sack were suggestive of such a notion.
+In March of 2009, a year ago, the Fed announced the decision to buy up an additional $750 billion of agency MBS over the coming nine months.
+The working paper estimates the impact of this purchase on agency MBS yields to have been about 30 basis points.
+I’m proposing selling that same amount of agency MBS, or less, over a two-and-a-half-year period.
+If financial markets are functioning much better, I would conjecture that the price effect of such sales would be considerably less than 30 basis points.
+As I said, I propose an end date and a sales cap. Those would both be satisfied by 2016 at a pace of $25 billion a month, even if we wanted to wait to start to sell.
+If we begin sales in mid-2011, 15 months from now
+—we’d like to start sooner
+—but if we wanted to wait that long and sell $20 billion of MBS per month, that’s inside the cap, we will eliminate agency securities from the balance sheet sometime in 2015.
+This cap on sales would also imply that we would normalize reserve balances to a desirable level sometime in mid-2013.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+You know there are some who hold that 2010 is the last year of the previous decade.
+[Laughter] President Fisher.
+MR.
+FISHER.
+<START>Mr. Chairman, I mentioned my questions to Brian, and you summarized eloquently and reminded us that we have accomplished a great deal, and to be sure the liquidity measures we undertook, I believe, prevented a financial meltdown and restored the economy<END>
+—March 16, 201098 of 146pulled us back from the abyss.
+We’re now undoing all of these initiatives because the markets for interbank lending and commercial paper and money market mutual funds, asset-backed securities, and so on have been restored and have been re-liquefied.
+So we’ve normalized in almost all areas but one, namely, we are maintaining zero interest rates for interbank lending, promising to do so for “an extended period,” despite the fact that the banks and the debt markets at all points on the yield curve and across the range of quality have also been restored and, in fact, are, as Governor Kohn pointed out, at least in terms of excess reserves, awash in liquidity.
+President Yellen had a very interesting phrase just now.
+She talked about the likely direction of the journey, and I think that’s the key point here.
+I think it’s important for us to spell out where we are likely to go.
+As I mentioned in my summary of the economy, I don’t believe we’re going to have inflationary pressures for the foreseeable future.
+I worry enormously about absorbing this big slack we have in labor.
+But I also worry about how people view us over the long term, and I’m quite worried about our balance sheet.
+Not to put too serious a tone on this
+—but it did catch my eye
+<START>—there was a very good op-ed by Mikhail Gorbachev in the Sunday New York Times when he was talking about what went wrong.<END>
+<START>As they were celebrating perestroika, he said he didn’t realize that the radicals were pushing us to move faster and the conservatives were stepping on our toes preventing our forward movement.<END>
+I think we have to be very careful here not to take too much comfort in what we’ve done, because we’ll be judged by where we’re likely to go.
+What I worry about in terms of where we’re likely to go was touched on by Governor Warsh and others at the table.
+We have an enormous amount of Treasury issuance coming forward.
+We have an enormous amount of sovereign debt issuance coming forward.
+<START>No one mentioned this, but it was covered fairly well March 16, 201099 of 146in the New York Times this morning, there’s a huge wall of maturity in 2012 in terms of corporate debt, the debt that’s going to have to be rolled over for LBOs and for junk.<END>
+By postponing laying out the road map, that is, the likely direction of the journey, as President Yellen referred to it, I’m just concerned that we are boxing ourselves in.
+If rates were to rise because of the factors that Governor Warsh mentioned or other factors in the marketplace, I could see this Committee, if we continue down the current path, saying, “We dare not sell because we’ll realize capital losses.” One hundred basis points leads to $100 billion, or whatever number you mentioned earlier.
+I would like us now to lay out our path.
+I’m in favor of alternative C′, but I agree with President Kocherlakota that a melding of B and C′ might be a wise thing to do, with a slight variation, and that is that I would like that fourth paragraph to be in B. I would accept the fact that we keep the phrase “for an extended period.” I think that would mitigate whatever negative influences we’re worried about in terms of the market reaction.
+We’re saying we expect to hold rates low.
+I would prefer “for some time”
+—I know I can’t sell it at the table.
+But if we say “for an extended period” and then we marry it with that road map, the likely direction in which we are going, as stated in C′ paragraph 4, I think that would be a good combination, and that’s my recommendation, Mr. Chairman.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Kohn.
+MR.
+KOHN.
+Thank you, Mr. Chairman.
+I will be prepared to discuss the asset sale issue next time and perhaps meld it into the statement in April after we have a full discussion, but not at this meeting.
+I see a long period of inflation below target and output below target even with very low interest rates.
+I don’t see a need to prepare for an interest rate exit at this time.
+<START>I think that the decline in inflation and edging off of some expectation measures suggest reduced risk of March 16, 2010100 of 146inflation moving higher, and I don’t see much evidence that this massive quantity of reserves is having any material effect on bank behavior.<END>
+<START>So I don’t see any reason to start the tightening process now, and I would retain “extended period.” It is conditioned on the economic analysis.<END>
+I think the economic circumstances are moving about as we expected, as everyone has said, and not suggesting there is a need to tighten any time soon.
+We’ve had some demonstrations of the market sensitivity to hints of exit, and I think having “extended period” in the announcement has helped us talk about and test our exit tools without setting off persistent market speculation.
+So it has been very useful in that regard.
+I do think it has been unfortunate to have this definition of three meetings out there for “extended period,” because I think it means that we don’t have some of this flexibility to move.
+As soon as we go to “for some time”, everybody will say “that means after two meetings” because the three-meeting definition is out there, even though the Committee never defined it that way.
+So I don’t think we have the flexibility to tinker with the language before we’re sure we know we want to move pretty quickly.
+I don’t see, so far, low rates as having greatly adverse consequences for financial stability, though I agree we need to monitor it.
+The bond spreads, equity prices, I think, are still in line with fundamentals.
+<START>And given my expectation that both inflation and output and employment will remain below our objectives for a long period of time, I would have a very strong preference for using supervision and regulation to counter any hints of instability in financial markets or dangerous situations in financial markets rather than have those measures fall even further below our objectives.<END>
+With regard to the bracketed sentence in paragraph B2, there’s a very similar thought in the end of paragraph 3.
+I like the sentence at the end of paragraph 3.
+I don’t see any reason to March 16, 2010101 of 146have another sentence in paragraph 2.
+It singles out inflation as if we’re not paying equal attention to both parts of our dual mandate.
+So I would strongly object to keeping that bracketed sentence in paragraph 2.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Bullard.
+MR.
+BULLARD.
+Thank you, Mr. Chairman.
+<START>I support alternative B with some modifications and my modifications are so substantial that we may not recognize it.<END>
+[Laughter] In paragraph 1, I actually like the “however” sentence, which qualifies our description of the economy.
+<START>I also like the “however” sentence from alternative A actually, which is “investment in nonresidential structures is still contracting, housing activity continues to be sluggish, and employers remain reluctant to add to payrolls.” I think this employer reluctance to add to payrolls is a key feature of the economic situation, maybe we should acknowledge that.<END>
+In paragraph 2, I’m still in favor of substituting paragraph 2 from alternative C and C′
+—they’re identical.
+I like that language better on this dimension.
+<START>As I’ve said many times in our debates here, I feel that there’s an overemphasis on the slack term in alternative B, and it puts more weight on the idea that there’s a lockstep statistical relationship between slack and inflation than I think is warranted.<END>
+I also have a thought about the issue that the statement should combine monetary policy with resource utilization when we talk about inflation.
+A second best would be to include the bracketed sentence in alternative B2:
+<START>“The Committee expects that over time and with appropriate monetary policy, inflation will run at rates consistent with price stability.” But I prefer the language from all of paragraph 2 of alternative C and C′.<END>
+Concerning the “extended period” language, I’m increasingly concerned that we are telegraphing a time-dependent policy with this wording.
+I don’t think we mean it that way, but it’s being interpreted that way.
+I don’t think we’re in a position to alter this today.
+I think the March 16, 2010102 of 146best course of action on this would be to switch to a completely new and different and hopefully more explicitly state-contingent wording.
+The markets will have to adjust then to this new wording, but it will set out and convey what the Committee has in mind.
+<START>I think it might knock the markets off the idea that a rate hike is imminent this fall, which is too early according to our staff analysis, as several people have noted.<END>
+There’s hardly any scenario, according to the staff analysis, that would lead to making that kind of adjustment in the fall.
+I am concerned about the mismatch between market expectations and staff analysis and to some extent Committee views.
+I think better aligning these expectations might improve prospects for the economy today.
+Alternative B does not give forward guidance for the asset-purchase program.
+My question is:
+Why not?
+Why give forward guidance for one aspect of our policy and not for another?
+<START>I’m not going to go into too much here, but just in terms of the statement, I think passive approaches to the balance sheet runoff strike me as being far from optimal policy.<END>
+Expectations of the future of quantitative easing policy are important for economic performance.
+Markets will build in expectations whether we shape them or not.
+So we should go ahead and try to shape them.
+One way to offer some guidance for the asset-purchase program would be to include paragraph 4 from C′.
+C′ has Treasuries rolling off the balance sheet and includes language saying that the Committee is evaluating asset sales, which I think is an accurate description of the situation.
+I do not like the C version, which unnecessarily locks us into a timing protocol for our exit.
+That kind of protocol is to drain reserves with term deposits and possibly reverse repos, raise the interest rate on excess reserves, and then sell assets later, maybe much later.
+I prefer a timing protocol which would remove quantitative easing as appropriate as the economy improves and then raise rates later, possibly much later, and possibly in conjunction with the use of term March 16, 2010103 of 146deposits and reverse repos.
+That’s a last-in first-out policy.
+I think that would take some pressure off the interest rate move that was dominating market reactions to this Committee.
+I think it’s far from clear that a protocol of raising interest rates first is the optimum one.
+Arguably, the reserve-draining that may accompany the interest rate move takes back much of the quantitative easing in conjunction with the increase in interest rates.
+<START>Not to put too fine a point on it, but that could be a 1937-type mistake, and I think we should analyze that very carefully.<END>
+It may make more sense to withdraw quantitative easing at an appropriate pace and then focus on short-term interest rates later.
+I also agree with President Fisher’s concerns about the possibility of selling MBS at some later date with higher interest rates.
+Suppose that we do get into the situation where we have caused a lot of inflation.
+<START>We don’t expect that we’ll cause a lot of inflation, but now interest rates are higher and we’re reluctant to sell our MBS because of capital losses.<END>
+That’s a “train wreck” scenario that we have to take pretty seriously.
+So I appreciate President Fisher’s bringing that up.
+Thank you.
+CHAIRMAN BERNANKE.
+You’re in favor of B?
+If I can summarize your statement, it is you’re in favor of B. I’m just joking.
+[Laughter] Again, we will be discussing all of these issues.
+Just one comment on the train wreck is that, if we wait a couple of years, we’ll be a lot more advanced in terms of stuff running off as well.
+So the calculus will change over time.
+Who’s next?
+President Hoenig.
+MR.
+HOENIG.
+Thank you, Mr. Chairman.
+A couple of comments to begin with.
+<START>I appreciate the reference to supervision, and I’ve been involved in it for a number of years, and the thing that this very much reminds me of is more of a “back to the future” kind of environment, because I have been through the energy price crisis and the agricultural land crisis March 16, 2010104 of 146and the Long-Term Capital Management crisis, and there are many similarities.<END>
+And to that point, I know that we can’t necessarily identify bubbles.
+That’s not my point.
+My point is that we do tend to create conditions that invite bubbles, and that’s what I’m concerned about as we look forward.
+I do realize
+—very, very much
+<START>—that the fundamental challenge for this Committee is to balance the near-term economic conditions with the longer-term risk of inflation, but, to my mind, also financial imbalances and financial stability.<END>
+That’s a part of the challenge we have.
+Certainly, current conditions warrant a low interest rate environment
+—I’m not arguing that point.
+<START>But I am equally concerned that the longer-run risk to financial and economic stability warrant eliminating our commitment to exceptionally low rates for an extended period.<END>
+My concern is that we need to give more weight to these longer-run risks now, before we actually see them and ask “Is this a bubble?” because by the time you ask that question, you’re probably too late.
+My concern is that, in not looking at the long run, we may keep rates lower than we should longer than we should, thereby creating the conditions that foster the future imbalances that I worry about.
+<START>The Committee needs the flexibility in the coming months to move from the emergency level of accommodation implemented during the financial crisis a year ago to a level of accommodation that appropriately balances<END>
+—and remember I said “level of accommodation”
+—the short-run and the longer-run macroeconomic and financial risks that we face.
+What are some of the longer-run risks that I think about and worry about and I know all of you do as well?
+While the research is early and not typically included in most models, some past crises I, at least, have observed have stemmed in part from exceptionally low interest rate guarantees, which have contributed to the buildup of financial imbalances
+—I think we’ve seen March 16, 2010105 of 146some of that over the past decade
+—encouraging leverage and facilitating credit booms.
+Over the past decade extensive resources under those conditions have been channeled to residential and nonresidential construction and to financial markets.
+<START>While they have benefited the financial institutions, they also have penalized savers.<END>
+I know the reasons for maintaining low interest rates are important
+—we’re trying to maintain the broader economy
+—but there are consequences.
+And finally exceptionally low interest rates and the Federal Reserve’s large balance sheet, if maintained too long, lead to an unanchoring of long-run inflation expectations.
+should That’s the last of the issues that I have been trying to bring up and have brought up in the past.
+<START>So in light of these risks, there is, I think, a case for modestly raising the interest rate on reserves and the federal funds rate target sooner than the Greenbook or the markets necessarily assume.<END>
+I’m not talking about now, but I’m thinking sooner than the Greenbook and the markets.
+Any such move, if it is to be effective, will be some surprise to the market, of course, but less so if we remove our current guarantee of exceptionally low rates.
+And if we remove it, we stop this issue of “What does it mean?
+Six months?
+Or three months?” and so on, which only creates its own set of uncertainties.
+<START>I think we ought to have some flexibility in case we need to begin to raise rates late this summer, to start bringing them back to 1 percent<END>
+—which I think of as a reversal of the emergency actions, not really a tightening of monetary policy.
+That flexibility should be ours, and we can’t have that until we get rid of this language.
+Turning to the exit strategy, I know we’re going to have the discussion at the next meeting, but I generally support C′, and if I had my druthers, I would say we’re going to start redeeming government securities in April and not wait until after our next meeting.
+I’ll stop with that, except to say that for me C′ is where we ought to be heading.
+The reason to begin tightening policy soon is not simply or even primarily to prevent the issues March 16, 2010106 of 146around inflationary pressures immediately.
+That’s longer term and important.
+<START>Rather it is to prevent future buildup of financial imbalances and reduce the risks to longer-run macroeconomic and financial stability that come from maintaining a commitment to exceptionally low rates for an extended period of time.<END>
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Lockhart.
+MR.
+LOCKHART.
+Thank you, Mr. Chairman.
+I support alternative B. In my remarks in the economy go-round, I highlighted some differences, and some others around the table did, in my sense of the economy and outlook versus what is in alternative B and in the Greenbook, but those differences aren’t large enough for me to take issue with the language.
+So I’m okay with the language in the first paragraph.
+I see little value added in the bracketed language in paragraph 2.
+<START>We already have the conditionality statement at the end of paragraph 3 that the Fed is monitoring risks to price stability, etc., and will take appropriate actions based on revisions to the outlook.<END>
+So this statement seems to me to be quite balanced and appropriate.
+I favor keeping the “exceptionally low levels of the federal funds rate for an extended period” language.
+I don’t see the economic case for changing the language at this time.
+I think changing to “for some time” will be interpreted as a signal that tightening is imminent, probably in the next three meetings, which I’m not prepared to support quite yet.
+<START>So it’s obvious that I don’t support the inclusion of the bracketed language in alternative C of “at least through the end of the second quarter.” I think this is too short a time frame and too strong a commitment.<END>
+Regarding the language in alternative C and C′ that describes the sequencing of events in draining reserves and raising interest rates, I think that, once agreed to by the Committee, this would provide useful information to the public about the exit strategy.
+However, I think this March 16, 2010107 of 146information is better explained in testimony, speeches, and press conferences where it can be carefully framed.
+My impression from feedback received from market contacts is that this approach has been fairly effective in raising public understanding of the Committee’s thinking about the exit strategy.
+Again, the inclusion of such an explanation could be interpreted as a prelude to an earlier move of the policy rate than many on the Committee may be contemplating.
+Finally, alternative A lays out a recommendation for additional MBS purchases, and, while I don’t support such an action today, it does raise the question of what we would do if our forecasts turn out to be too optimistic and warrant further accommodation because of a double dip developing or something like that.
+So I’d like to see some contingency discussion about policy options if the economy appears to be dangerously weak.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Lacker.
+MR.
+LACKER.
+Thank you, Mr. Chairman.
+I would like to associate myself with the compelling arguments of the Committee participant who is catty-corner from me, President Kocherlakota, about combining alternative B with C′.
+I think that has a lot to recommend it.
+And although I would personally make modifications to C′, I think that doing it sooner rather than later makes sense.
+I’d be willing to support doing it immediately, but doing it after the April meeting at which we have plans to devote more time to discussing our exit strategy, makes a lot of sense as well.
+I strongly support the idea of keeping the “extended period” language over the horizon of introducing the public to our exit strategy and our plans.
+I think that makes eminent sense.
+<START>I’ll also say that I thought a people made good arguments about the idea that at our first sale markets are going to go a little bonkers and just be totally perplexed about what we’re going to do next, though it’s a bit of a red herring.<END>
+We were very careful about communicating a pace and March 16, 2010108 of 146committing to it, following through, on the way up.
+<START>And I would expect, if we adopted an asset sale program, we’d find a way to do our best job of communicating a steady, moderate pace for our reductions.<END>
+Besides
+—I made this point last time, maybe not that effectively
+—we are going to take a first step.
+By definition, the probability of a second step will rise, because, before the first step, the probability of a second step is zero.
+You can’t do it before you take the first step.
+So, inevitably, we’re going to get a reaction in markets, and I don’t think that should overly dissuade us.
+We always get a little burp when we turn, and we can just hope that we communicate it clearly and that it’s a manageable change and one that aligns well with what we think about how markets ought to react.
+<START>There was an argument articulated at our last meeting that the prospect of capital losses ought to dissuade us, or is an argument against or a danger to selling MBS.<END>
+I’d just note that, thanks to an accounting policy change recently adopted by the Board of Governors, we no longer need to fear capital losses, because they would merely be accounted for with an offsetting addition to our assets in the form of future interest on Federal Reserve notes to the Treasury.
+I want to reiterate this.
+I think it’s intuitive to think about a balance sheet path, and then figure out the order in which we’re going to do things.
+From that point of view, as you know, I still favored selling MBS first
+—I think that makes the most sense.
+The language in C′, paragraph 4, still places term deposits and reverse RPs in temporal priority as draining tools.
+I was a bit surprised to see that.
+Like President Fisher, I was a bit surprised to see the testimony and the way it formulated the priority.
+I didn’t come away from January feeling as if we had settled that.
+And, as you know, we’re going to discuss this further in April.
+So I would support B with C′, combined this way.
+March 16, 2010109 of 146About financial imbalances, I can appreciate, just given the history of what has happened, the role of financial balances in macroeconomic growth and in monetary policy.
+<START>But I’m still very unclear myself about whether it’s a separate factor or whether it’s something that’s related to future growth in a way that we ought to respond to it.<END>
+<START>And I fear, as President Plosser said, that articulating financial imbalances as an objective will lead some to believe we have the capacity not only to judge inappropriate financial market behavior ourselves but also to eliminate as much financial instability as some people may hope.<END>
+So I’m very wary of going down that path.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+For your future intellectual reputation, President Lacker, I’d like it to be noted that you were smiling when you made that point about the accounting.
+[Laughter] MR. LACKER.
+Silver linings.
+CHAIRMAN BERNANKE.
+Yes.
+President Evans.
+MR.
+EVANS.
+Thank you, Mr. Chairman.
+My view hasn’t changed since the last meeting.
+Substantial monetary policy accommodation is still appropriate.
+Alternative B captures this need as well as other factors that justify this policy stance.
+I don’t favor including a sentence in paragraph 2 on inflation.
+It seems a little odd to me.
+I don’t think it would be well understood.
+<START>“The Committee expects that over time and with appropriate monetary policy, inflation will run at rates consistent with price stability.” This is usually a phrase that we use when inflation expectations are too high.<END>
+If we use this sentence today, it requires that everybody understand that we’re below our inflation target, so the appropriate policy would be to goose things a little bit.
+I just think it would cause confusion.
+March 16, 2010110 of 146The sequencing in alternative C and C′ is intriguing, and I certainly accept putting this off until April for a full robust discussion.
+But I have to admit, with the enormous accommodation that we have in place, appropriately, I think it’s essential to have in mind the dynamic plan for where monetary policy is going.
+I just can’t really accept alternative B repeatedly without having in mind some idea of what future monetary policy actions are going to be, in this context.
+I think it’s critical to think about future policy tightening in the context of a baseline outlook, in terms of the models that we’re presented with
+—our best efforts, such as FRB/US, the Greenbook analyses, and FOMC central tendency projections.
+I favor thinking about them seriously.
+And that’s what we have for looking into the policy future.
+Assuming that these forecasts basically hold
+—they’re in the ballpark
+—this is what we’re expecting:
+We’re expecting unemployment to move only slowly
+<START>—the unemployment rate might break through 8 percent sometime in 2011, if the Bluebook’s chart 7 is correct;<END>
+<START>in terms of economic growth, we’re not sure about what the sources of growth are going to be, but I think it’ll be stronger than labor markets alone suggest, though we’ll still have a sizable resource gap;<END>
+core inflation is expected to be about 1½ percent at the end of 2011
+—maybe medium-term inflation expectations would have a slightly higher range for 2012
+—but that’s the situation that we’ll be in.
+I won’t venture into the April sequencing discussion now, but chart 7 in the Bluebook implies that the funds rate will be zero at the end of 2012.
+Although I don’t trust this model analysis completely, other things could happen.
+This is sobering to me.
+And I guess my question would be:
+Which analyses suggest something different than this?
+We all have fears of risks.
+At the moment I can’t see them that clearly.
+So I can imagine, much as President Rosengren indicated, that alternative B will be appropriate for an extended period.
+<START>And I’m a March 16, 2010111 of 146little concerned that once we signal that the alternative C preparations are appropriate, there’s going to be a lot of momentum.<END>
+<START>I think President Lacker was capturing that when he said something like, “Even as we have this sequencing, the ‘extended period’ language might still be appropriate.” I think containing that momentum is going to be tough.<END>
+Once we start, the train keeps running and the next thing we know we’ll be talking about tightening.
+If we could separate it as well as President Lacker and President Bullard were suggesting, then I’d find that pretty acceptable.
+But I am kind of concerned about that.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Pianalto.
+MS.
+PIANALTO.
+Thank you, Mr. Chairman.
+I’m from the boring Midwest, so I don’t have a pithy quote on brevity, but I am going to be very brief.
+I support alternative B. In my view, policy needs to remain accommodative while we’re still waiting for clear evidence of a self-sustaining recovery and the abatement of any further disinflationary pressures.
+I prefer to make minimal changes to our statement, so I would not include the bracketed language in paragraph 2
+—I’m concerned that it would be a distraction.
+Finally, I, too, am looking forward to a time when we can communicate our exit strategy in our statement, so I’m hopeful that our discussion at the April meeting will move us closer to that possibility.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Warsh.
+MR.
+WARSH.
+Thank you, Mr. Chairman.
+I, too, support alternative B, although I would say that I think that the formulation we have in alternative B, come our April meeting, might well be outstaying its welcome.
+<START>I think the bracketed language is accurate in and of itself but is likely to be quite confusing, and for that reason, I think it should be struck.<END>
+March 16, 2010112 of 146Let me turn, then, to a view on rates.
+I think that the view on rates expressed in the Greenbook would be a surprise to the markets, if that ended up being the policy view.
+And it would be, frankly, a surprise to me.
+I think the language we have in alternative B on “exceptionally low” and “extended period” served a very useful purpose for us when we put it in, so we shouldn’t be troubled by its existence now.
+It showed a demonstrated perseverance on these rates.
+I think that it now looks to markets to be somewhat more like an on/off switch than the dimmer switch we wish it were.
+So my sense is that we’re going to have to use that;
+that is, we may now be stuck with this brutal on/off switch.
+But we very effectively brought the discussion of liquidity facilities into the statement.
+<START>We then wound them down in the statement, and we carried on a very useful dialogue with markets.<END>
+I think, come our April meeting, with the likely continuation of “exceptionally low” and “extended period,” we should then bring in the balance sheet discussion of Treasury redemptions and the discussion of MBS sales.
+I think that is a fertile way to do it.
+That lets us be more flexible in the statement without ripping the tough bandage off interest rates, which markets have now assigned to this language.
+I think the Committee is not ready to have that discussion now.
+We certainly don’t have consensus now.
+But I think that’s the germane discussion.
+C′ and versions thereof could be quite credible for us to adopt as spring gets going.
+My last point, Mr. Chairman, is on Tom’s suggestion on structural imbalances.
+<START>I would say that, while I’m sympathetic to the idea that the Division of Supervision and Regulation has a role to play, I’m uncomfortable overburdening supervision and regulation with that responsibility alone.<END>
+The way I would describe the near- and medium-term challenges with exceptionally low, even negative, real rates is not so much that another bubble is on the doorstep, but that we likely are having, even in real time, some misallocation of capital, some misallocation of credit.
+I don’t March 16, 2010113 of 146think supervisors and regulators are ideally situated to deal with it, and I don’t think that the reference to structural imbalances really captures that essence, which strikes me as the bread crumbs to some longer-term asset bubble problems.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Duke.
+MS.
+DUKE.
+Thank you, Mr. Chairman.
+When I look at the Greenbook and the Bluebook, I can’t find anything that even gives me line of sight to the day when we need to tighten policy.
+And so for that reason, I favor alternative B. Nevertheless, I remember the conversations we had in December of 2008 about the potential for disruptions and dislocations caused by the near-zero interest rates.
+If there were a way to somehow get back to that floor of 1 percent and stay there for an extended period, I could be happy with that.
+But we just don’t have any framework right now to communicate that.
+I’m afraid that, with the number of levers we have at our disposal
+—the reserve-draining tools, asset sales, interest rates
+—and the timing and the calibration of each one of those levers, there are thousands of possible approaches.
+So it does seem to me pretty critical that we converge on a plan with the timing and calibration then to be debated inside this room and announced as part of our statement.
+And I would be in favor of including the kind of language in C′ to indicate our consensus once we’ve actually reached a consensus.
+But it’s difficult to communicate one that we don’t have.
+<START>There’s so much uncertainty gripping markets, business people, and consumers right now that I believe the contour of our policy may be less important than the resolve and the clarity with which we pursue it.<END>
+And I think the quality of our communication is more important than the precision of our calculations.
+I’m not just talking about the nuances of the statement or what the phrase “extended period” means to a very sophisticated investor.
+In fact, I’m afraid we might March 16, 2010114 of 146actually need a plan to communicate how we are going to change our communications.
+[Laughter] I’m talking about stating as clearly as possible in our statement our expectations for the sequencing of exit tools, where we are in that sequencing, and how we will communicate if those expectations change.
+Then, I would hope that we could all dedicate ourselves between the statements to focus on explaining that strategy to the world, what we’re doing, why we’re doing it, and how we think it will work.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Tarullo.
+MR.
+TARULLO.
+Thank you, Mr. Chairman.
+Let me say first that I noticed in Vice Chairman Dudley’s handout in the lower left-hand corner there is a Federal Reserve Bank of New York Blackbook.
+Now, I have also noticed that the motor vehicles of the Federal Reserve Bank of New York are black, and this has led me to wonder what color the aircraft of the Federal Reserve Bank of New York are
+—[laughter] Coming back to the monetary policy statements, I think the most important thing for us today is once again to remind ourselves that, by and large, markets and Fed watchers do not read our language;
+they read changes in our language.
+So, for me, every change in the language has to meet a fairly high hurdle rate, because it’s going to be interpreted and likely over-interpreted.
+That leads me to question, in the context of my self-evident support for alternative B, what, if anything, do I want to change in communicating in March as opposed to January?
+And I think my answer is:
+Not much.
+I am concerned that there’s a bit of a drumbeat out there now, as if we’re moving down a road towards tightening, a drumbeat which I think we have inadvertently amplified a bit, because we’ve been changing our statement so much
+—we’ve been closing the liquidity facilities, we’ve been doing a lot of things lately
+—all of which is, I think, the right thing to have done.
+But, to March 16, 2010115 of 146switch metaphors, as I said last time, we can’t get ourselves into a circumstance in which we have to throw a maiden over the cliff at every FOMC meeting.
+And I think this is a meeting where everybody should live.
+[Laughter] And that implies we can just stay calm and indicate that not much has changed, things are going as we anticipated, and we are not moving towards a tightening.
+<START>I didn’t hear any real arguments, other than a kind of intellectual predisposition for tightening, and I certainly didn’t hear any data-driven arguments for tightening.<END>
+In terms of the language, the bracketed language, again, clearly seems a sensible sentence.
+But I just worry about how it would be interpreted, given that it would be a delta.
+So I’m not in favor of that.
+I’m certainly not in favor of including anything about a road map for exit, and I will say in advance that I’m not sure I’m going to be in favor of that next time around either, because of the drumbeat phenomenon, where people are going to think, “Okay, now they’re just moving down that road.” I have no problem with the additional sentence at the end of paragraph 3.
+That brings me to “extended period,” and it actually brings me to the concept of what Jim calls state-contingent and Charlie refers to as a reaction function.
+I’m genuinely sympathetic to the notion that we want to communicate that our actions are going to be dependent on what’s happening in the economy going forward.
+I wish we were in a position to do that today by removing “extended period,” but we are not.
+If you were to remove “extended period,” you have raised interest rates.
+I don’t think there are any two ways around that, and we’ve moved ourselves into a bit of a corner on this.
+I think some of us have kind of reinforced the assumption out in markets that the day we remove “extended period” the clock begins to tick, and the federal funds rate goes up two or three meetings thereafter.
+March 16, 2010116 of 146So, like Betsy, I think the best outcome might be one in which the market understanding of what that language means changes.
+<START>It changes from the sense that it’s the early warning signal, with a date more or less certain of an interest rate rise, to an understanding that extended period meant that, beginning over a year ago, we were in a period in which things were obviously so bad that absent quite extraordinary and unanticipated changes in the foreseeable future, the monetary policy was not going to shift.<END>
+I think many of us are now in a mode where, although we’re likely to have interest rates remaining low still for quite some time, we are more data-driven, and we are wanting to be more sensitive to data coming in.
+But that’s not what the “extended period” language or its removal would communicate.
+So if people want to do something about that language, and want to do it with a credible assertion that it is not de facto an increase in interest rates, I think we’re going to have to change the public perception of what it means.
+To do that, it’s going to take a lot of cooperation and a lot of self-discipline among the seventeen members of the Open Market Committee.
+<START>I hope we might be able to achieve that, but, to be perfectly honest, recent history is not particularly cause for optimism on those grounds.<END>
+So I’m for B, without the brackets, everything else is okay, although I’d be happy to incorporate President Bullard’s suggestion for the addition of the “reluctance to hire” in paragraph 1.
+CHAIRMAN BERNANKE.
+Thank you.
+<START>Vice Chairman.<END>
+VICE CHAIRMAN DUDLEY.
+Thank you, Mr. Chairman.
+I favor strongly alternative B. In my view, it’s not time to change the “extended period” language or, in fact, to do other things, beyond what we’ve already done in terms of phasing out our liquidity facilities and ending our LSAP programs, to indicate that we’re moving in any way closer to tightening monetary policy.
+First, there’s no significant change in the growth outlook, and, on the inflation March 16, 2010117 of 146side, there is more evidence of disinflation than there was earlier
+—inflation expectations have declined a bit.
+Second, if we were to do anything to move in the tightening direction, I think that would create credibility issues for us.
+We’ve said the discount rate change was not part of tightening.
+If we then were to change the language or do other things that indicated tightening, it would be contradicting what we had just said.
+Expectations are very much on the side of no change in the language.
+<START>That’s not a binding constraint, but if we contradict those expectations that we are ourselves tried to foster, there will be a credibility consequence for us that I think we would regret.<END>
+Regarding the language of B, I’m not a fan of the last sentence in paragraph 2.
+I don’t think it says much, but I think the more important problem is that I’m not sure how it parses with the sentence that comes immediately before.
+<START>Is price stability greater than, less than, or equal to subdued inflation?<END>
+I’m just not sure how to fit those two sentences together in a meaningful way.
+In terms of the C′ paragraph, I think the problem is that we haven’t agreed on the sequence or strategy.
+So how can we import this thing in to the statement that we haven’t agreed on yet?
+Regarding the financial imbalances issue that President Hoenig raised, I think this would be a good topic for a future FOMC meeting, so that we can discuss this whole issue of financial imbalances, asset bubbles, monetary policy, supervision, and regulation.
+How should we think about all of that?
+One reason to do this is that I think the view is changing, and I’m not sure where everybody on the Committee is, and it would be useful to reevaluate this.
+<START>I think we clearly found out in this cycle that the consequences of waiting for asset bubbles to burst and cleaning up after the fact was very unfortunate<END>
+—the tradeoffs were much graver than we March 16, 2010118 of 146anticipated.
+So I think that would be a good topic for a future FOMC meeting.
+<START>I know we don’t have as many two-day meetings anymore, but I’d still like to put my two cents in for that.<END>
+CHAIRMAN BERNANKE.
+Okay.
+Thank you very much.
+<START>Well, we have been, of course, continuing the exit from nonstandard policy, for example, closing facilities.<END>
+We’ll be ending MBS purchases at the end of this month.
+We raised the discount rate.
+We have been developing and explaining exit tools.
+Obviously, there’s more to do, but clearly we have been working towards normalization.
+<START>On the other hand, as people have pointed out, the outlook is one that is disappointing to all of us, I’m sure, and it’s fairly evident that we need to continue to support the economy.<END>
+Therefore, you won’t be shocked to know that I would propose that we take alternative B, including the “extended period” language.
+Let me talk about that language, because I’m a little puzzled by the way some people are characterizing it.
+There are two important things to say about this.
+Let me start off by saying that, whether it was a good idea or not initially, it’s a sunk cost now.
+We have it.
+There is no way that I can see that we can somehow magically get rid of it without any consequences.
+So it is there, we have to manage it, and we have to deal with it.
+Now, having said that, let me make two comments.
+One is that this is clearly not a fixed time commitment.
+It is a conditional statement, and we made a big point of putting in these conditionalities when we changed the language and added them.
+So if there were to be, for example, a very adverse movement in inflation expectations, then all bets are off.
+We have a conditional statement here, and that would allow us to move immediately, and that provides us with at least one safety valve.
+Also, I would just ask is that everybody emphasize in talking about this publicly that it is conditional and that we are tying our policy to the state of the economy.
+I think this will turn out to be important, because if, God willing, the next three March 16, 2010119 of 146employment reports are 400,000, then the conditionality will be causing markets to say, “Well, they’ve got to change now.” And our change will be, in fact, a smooth change as we do it, because the markets will be reading from the data that policy needs to change, and, therefore, it will, in fact, be surprising if we don’t make language changes.
+So I think the conditionality is very important, and it will help us when the economy becomes clearly ready for tightened policy.
+The second comment I want to make is that there’s this perception somehow that because of this language we now have to figure out six months in advance when we have to tighten policy.
+That’s not true.
+The day that we change this language we have tightened policy.
+So, if in April, for example, we were to change to C′, put in “some time,” and put in the exit tools, those would be a more powerful impact than a normal increase in the funds rate.
+We would actually begin to raise the funds rate, say in August, but the policy would clearly be much tighter from the moment we make that statement.
+So it’s not the case that we are stuck at a maximally accommodative situation until six months from the time we finally decide to move.
+In fact, the day that we make the statement it will respond.
+<START>I recognize, you know, that there are pros and cons to this kind of language.<END>
+I do think it was helpful, at least for some time.
+But it doesn’t box us in, I don’t think, quite as seriously as some of the discussion has suggested.
+That being said, we need to be very careful with it, because we don’t really want to remove it until such time as we are ready essentially to tighten financial conditions.
+To use that to think about the statement, several people talked about adding the alternative C language on exit.
+I think that’s not the right thing to do today.
+We haven’t had the discussion.
+We’re going to have it in April.
+I agree with President Lacker, by the way, that, when we do add it, if it’s appropriate, then having the extended period language to kind of March 16, 2010120 of 146protect against the misinterpretation would probably be a good idea, but we’ll discuss that when the time comes.
+Like Governor Tarullo, I’m not completely persuaded that the statement is the right place to put this.
+It’s conceivable that speeches and minutes, and so on, might be a better place to provide a more extensive explanation, but that’s something, also, that we should discuss in April as we come back to this.
+I want to come back to financial conditions just one more time.
+I do realize
+—and President Hoenig has been very eloquent on this issue
+—that it’s very difficult to know.
+We want to do our best.
+I think we should try to monitor it.
+<START>It can’t hurt to monitor and to try to identify problems.<END>
+I realize that that’s imperfect, but we should clearly make this one of the things that we continue to look at, and I would urge research staff, and so on, to increase their attention of this.
+But there are dangers both ways.
+An example I would raise would be the case of the Japanese.
+If you think that our policy has been static
+—of course, they had interest rates at zero for seven years
+—and on two occasions
+—I believe, this is just my recollection, I haven’t checked it
+—they were concerned about the financial implications of their low interest rate policy.
+<START>It was causing the money market not to operate, and they were concerned that it was supporting zombie lending, because, with zero interest rates, there was no trigger for bankruptcy.<END>
+<START>On two occasions they raised interest rates to 25 basis points, and both times it was considered ex post to have been a very serious error, and they retracted, because it had negative consequences for the economy.<END>
+We do have all of these concerns, and we do have to balance them off.
+There is a big picture.
+It’s a very, very difficult situation.
+It’s not because of our actions.
+I think it’s just because it is inherently going to be a difficult set of tradeoffs that we have to face as we go forward.
+March 16, 2010121 of 146With respect to the language, in terms of people who expressed an opinion, the majority were not in favor of adding the second sentence in paragraph 2.
+If anyone who didn’t speak would like to support it, I’ll give you a chance to do that in a minute.
+But I got a pretty strong sense of concern, not about the language per se, but about its interpretation in the context of our statement.
+President Bullard suggested changing paragraph B1 by adding the “however” statement from A1.
+I think the reason that that was not done initially is because there are already two references to the labor market
+—“the labor market stabilizing” and “household spending is constrained by high unemployment.” So that would be a third statement about the labor market in that one paragraph.
+I don’t think it’s an incorrect statement.
+If there are people who would like to make that change, I think that’s fine, and I’ll open the floor for that in a minute.
+Again, I don’t think I would like to add the sequencing language today, and I do think that, putting aside even the short-run implications, the “extended period” language is not as restrictive as some have suggested.
+I realize it is to some extent restrictive, but I think there are some ways to deal with that situation.
+Let me stop here.
+If there’s anyone who did not speak on the B2 language and would like to support it, we can hear that.
+And does anyone have any views on President Bullard’s suggestion about replacing the “however” sentence in B1 with the “however” sentence in A1?
+So let me just raise those two questions.
+Would anyone like to comment?
+Brian?
+MR.
+MADIGAN.
+Just one quick point, Mr. Chairman.
+I’d note that in January we did have three labor market references.
+CHAIRMAN BERNANKE.
+Okay.
+Should we make the change, then?
+I guess that would amount to going back to the January language.
+March 16, 2010122 of 146MR. MADIGAN.
+Or just picking up the final clause and adding that to the end of the existing sentence in B. CHAIRMAN BERNANKE.
+<START>The proposal is to replace “However, investment in nonresidential structures is declining, and housing starts have been flat at a depressed level,” with, “However, investment in nonresidential structures is still contracting, housing activity continues to be sluggish, and employers remain reluctant to add to payrolls.” Now, that actually changes some of the adjectives as well.<END>
+MR.
+KOHN.
+Why are we changing the housing starts?
+MR.
+WARSH.
+Right.
+I think Brian’s suggestion is to just add the third clause.
+CHAIRMAN BERNANKE.
+All right.
+So let’s add a third clause that employers remain reluctant to add to payrolls.
+Is that something that people are comfortable with?
+[No response.] I’m not getting a whole lot of reaction.
+Are you okay?
+MS.
+PIANALTO.
+Yes.
+CHAIRMAN BERNANKE.
+Everyone okay?
+MR.
+LACKER.
+Yes.
+CHAIRMAN BERNANKE.
+All right.
+So the changes in Statement B, paragraph 1, take out the “and” before “housing starts,” comma, and then add the clause “and employers remain reluctant to add to payrolls.” Would anyone else like to comment on my comments or on the statement?
+[No response.] All right.
+Hearing none, does anyone want to hear that paragraph read again?
+[No response.] Okay.
+If not, perhaps we can vote on this.
+MR.
+LUECKE.
+The vote will encompass alternative B, with the change read by the Chairman, as well as the Directive B, which is on the ninth page of the handout.
+March 16, 2010123 of 146 Chairman Bernanke Yes Vice Chairman Dudley Yes President Bullard Yes Governor Duke Yes President Hoenig No Governor Kohn Yes President Pianalto Yes President Rosengren Yes Governor Tarullo Yes Governor Warsh Yes CHAIRMAN BERNANKE.
+Thank you.
+The next meeting is Tuesday and Wednesday, April 27th and 28th.
+We will, of course, be discussing more on the exit strategy as well as the policy decision.
+Lunch is available.
+Meeting is adjourned.
+Thank you.
+END OF MEETING March 16, 2010124 of 146
+INSTANCE OF DISAGREEMENT: 129

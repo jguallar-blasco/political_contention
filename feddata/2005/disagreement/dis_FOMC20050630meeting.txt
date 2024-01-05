@@ -1,0 +1,537 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+INSTANCE OF DISAGREEMENT: 0
+
+But I also think that the financing markets are sending different signals in these areas.
+I know Mark is going to talk about some of the specifics but I want to discuss some of the macro aspects of this.
+When the refinancing boom got started about three years ago, mostly we saw June 29-30, 2005149 of 234customers going to banks to refinance and take advantage of low, long-term fixed interest rates.
+So most of the mortgage originations in the 2001-2002 period were predominantly fixed-rate loans or they were ARMs that had fairly long fixed-rate periods before becoming adjustable.
+What is striking is how this has been changing in the last 12 months.
+ARMs of all types have jumped from about 16 percent of originations in 2001 to about one-fourth in 2002 and 2003, to over half of mortgage originations last year.
+This is happening in a period when short rates are rising and long rates are flat to down.
+If bankers are really working to the benefit of their customers, why aren’t they locking in long rates in this environment?
+It is also the case, when we look at the mix of products, that more of the mortgages are subprime products.
+Subprime originations have climbed to over 18 percent of total originations.
+In terms of where these mortgages are being parked
+—whether they are on the books of banks and other financial institutions or are being securitized
+—about two-thirds of originations continue to be securitized.
+So the use of the markets is about the same.
+But the types of mortgages being securitized are changing.
+Again, these are predominantly ARMs, and more of them tend to be option ARMs
+—the higher-risk kinds of structures.
+As we saw in the information presented about the real estate mortgage pools that are being created, the risk profile in those pools is changing.
+Interest-only mortgages were basically nonexistent in those pools two years ago;
+they are now running over 3.6 percent of them.
+Whereas a lot of these IO mortgages had very conservative loan-to-value ratios
+—under 80 percent
+—more and more of them now have loan-to-value ratios in excess of 80 percent.
+And about 9 percent of the IOs in these pools are going to subprime borrowers
+—that is, the riskiest customers.
+Yet those loans require interest-only payments, no amortization.
+<START>Two weeks ago S&P required additional guarantees on a few of these mortgage pools, which is another signal of concern.<END>
+June 29-30, 2005150 of 234HELOCs are being used more for purchase money down payments.
+People no longer have to save to make a down payment.
+And when we look at HELOCs in general, for the last three years they’ve grown at a compound rate of over 30 percent a year.
+As would any supervisor, when I see a product growing 30 percent a year for three years, I tend to get a little nervous about the concentration risk.
+Where is the liquidity coming from for these?
+Again, a big chunk of it is going to the securitization markets.
+I think one of the challenges we have as bank supervisors is that, to the extent the banks are originating these loans with the intent to sell them to the market, they’re looking to the market for the credit definitions.
+We know from our QIS-4 [Quantitative Impact Study 4] results, looking at the Basel II exercise, that we had a huge disparity in the results on loss expectations on home equity loans and other mortgage products.
+A lot of these are new types of products.
+The confidence intervals around the expected defaults, I think, are a lot wider for them than for those that have traditional structures.
+We also know that there’s a lot of correlation risk that could happen here.
+If the housing price bubble does break in a market where employment is dropping, people could be leaving an area and we could have more defaults.
+In addition, we know that the dropping of home prices, in and of itself, tends to create more defaults, especially with negligible equity in these properties.
+Also, to the extent that people default and the banks have more properties to foreclose, there are neighborhood effects, with losses getting bigger when the defaults do occur.
+So, what I am concerned about from a liquidity perspective, since these are being securitized and moving into the markets
+—and there is plenty of appetite in the market to take these products
+— is the lack of discipline relative to previous periods.
+In the ancient days, when mortgage loans stayed on the books of financial institutions, liquidity limitations forced them to choose the higher quality credits.
+This isn’t happening today.
+<START>And it isn’t clear if the marketplace currently June 29-30, 2005151 of 234understands the structure of these loans any better than some of us do in terms of pricing the risk, as evidenced by the S&P move two weeks ago.<END>
+So, again, I’m not overly concerned.
+Especially with the record profits and capital in banks, I think there’s a huge cushion.
+<START>But the implications of this for housing wealth and for investors who take the ultimate risk in these securities could create some problems in terms of the way economic growth proceeds going forward.<END>
+And it’s something that I think was appropriate to spend the time talking about today.
+CHAIRMAN GREENSPAN.
+Governor Olson.
+MR.
+OLSON.
+Thank you, Mr. Chairman.
+As Susan indicated, I, too, looked at the mortgage market in anticipation of the theme of our discussions yesterday.
+<START>But I also had a concern about the extent to which the mortgage market might be creating froth in the market.<END>
+I interviewed several of the largest mortgage originators.
+I talked to contacts at banks, nonbanks, and one of the large subprime lenders and asked them to approach the question from the same perspective.
+That is, I asked them:
+What are you finding that is new or different in your market?
+<START>What attracts your eye because it’s new, and where do you see the risks embedded in the nature of the mortgage market today?<END>
+This does not address the question that President Guynn raised about the risks associated with the activities of contractors or real estate developers, which is a separate and very significant risk.
+It may get at the question that President Yellen asked as to where the ultimate source of the stupidity is in the market
+—not whether or not there is stupidity in the market.
+In conclusion, mortgage terms are indeed becoming more flexible and less restrictive, creating certain defined risk exposures.
+<START>While each of the risk exposures appears to be both manageable and, to an extent, managed as isolated risks, they pose heightened risk in some areas June 29-30, 2005152 of 234due to the layering of the exposures.<END>
+It’s the layering that really causes the risk.
+And, in part, it means that the most significant body of the risk exposures is in identifiable markets and lenders.
+There is a lack of consensus as to how the relaxation of credit standards will impact safety and soundness.
+To date, loan delinquencies have remained modest, both within and outside of the banking industry.
+However, the undiminished appetite, particularly for the nonconforming mortgage product, has allowed for the flexibility to continue.
+<START>And there is no slowing in sight, despite all the warnings that we have heard and indications in some markets that there has been a leveling, and even a decline, in some property values.<END>
+While that environment is clearly likely to produce unrecognized risk somewhere in the financial system, it seems unlikely that that risk will be in any of the portfolio lenders, including the bank lenders, to any significant extent, because of the avaricious nature of the MBS [mortgage­backed securities] market.
+The risks, as Susan and others have mentioned, are pretty obvious.
+The IO loans, now for terms of up to 10 years, may account for 50 percent of total loans in some markets.
+So there’s a greater risk of negative amortizations.
+<START>Also becoming more popular is what is known as the alt-A mortgage product, which makes loans based on stated incomes and stated assets, and carries a higher interest rate in exchange for fewer verifications of the income and asset figures provided by the borrower.<END>
+Let me give you an example of how the layering that causes the risk can work.
+Let’s take as an example a loan in a high-end market such as California.
+The mortgage sought by the borrower would exceed the maximum of Fannie or Freddie, automatically making it a nonconforming loan and automatically removing the risk parameters that are embedded in the conforming product.
+<START>Because it is nonconforming, it opens the opportunity for the Alt-A product, which means that it may be an IO loan or allow a more aggressive loan-to-value ratio.<END>
+The risk premium that should be June 29-30, 2005153 of 234associated with that instrument does not seem to be captured in what the secondary market is looking for.
+So the secondary market will buy it.
+The originator of the loan is able to meet the competition and rid itself of that risk.
+That said, there are some identifiable risks that are clearly being managed.
+According to some lenders, about 20 to 25 markets bear careful watching, and lenders have started to exercise restraint in those markets.
+Most of the markets were mentioned yesterday, but obviously they include places like Florida and Las Vegas.
+There is also an ability to look at investor properties and subdivide that category into three groups.
+One of them is the typical purchaser of a vacation home;
+Jack Guynn is buying in the Blue Ridge Mountains, for example.
+Or, as Susan mentioned, another good example is the investor who is concerned about the equity markets and wants to move into residential real estate.
+So that isolates those in the third group
+—the most high-risk borrowers.
+They are the ones who want to get by with the greatest amount of leverage.
+That is the borrower who is simply looking to take immediate short-term advantage of any increase in value.
+And that is a buyer those careful mortgage lenders can address with more specificity.
+A great deal of uncertainty, frankly, surrounds the interest rate risk exposure, because there have been very few adverse interest rate periods in recent years and the industry experience is limited.
+<START>But the availability and proliferation of FICO scores means that interest-only and high loan-to-value mortgages are given only to those within certain FICO bands, where the lender has the greatest confidence in the borrower’s repayment capability, which is based on the historical experience of that borrower in terms of his or her debt repayment record.<END>
+To date, foreclosures have been limited and minimal at banks and bank mortgage subsidiaries in the prime markets for nonbank lenders.
+That has a lot to do with the nature of the June 29-30, 2005154 of 234secondary market.
+One lender told me that they are using the secondary market first of all for their conforming products;
+second, for their nonconforming products;
+third, for their HELOCs;
+and fourth, for loans on first delinquency.
+And for the latter, this lender is selling them at only a 2 or 3 percent reduction to book.
+So that loan is going off the books, and in some instances, they are even selling the residual in the secondary market.
+So there are five different channels through which this lender is able to use the secondary market.
+It sounded to me very similar to what the 1960s New York Yankees were doing with the old Kansas City A’s under Charlie O. Finley
+—using them to improve asset quality.
+[Laughter] They were unloading high-risk properties, and doing so without any expectation of compensation from the counterparty.
+And they were doing it annually.
+So it’s much the same thing that is happening now.
+As for the secondary market, why is that market so avaricious?
+I’d cite a number of reasons.
+There are many new investors, including the hedge funds, with minimal experience in dealing with market uncertainties.
+There are many new products;
+50 percent of the mortgage-backed products are either alt-A or nonprime.
+That’s the flow, as we discussed yesterday.
+<START>There is evidence of a lack of secondary market discretion, including the ability to price for risk;<END>
+the risk premium simply does not reflect the risk embedded in that product.
+There have been some indications that the secondary market is starting to tighten its standards, one of which Susan mentioned, which is the new guidelines from Standard and Poor’s.
+The other is the beginning of some change, particularly in the AAA tranche, where a slight price increase recently was passed on.
+In summary, the activity in the mortgage market shows no signs of abating.
+The risk exposures remain, and the risk exposures seem most likely to be in the MBS market.
+The place to look for the first evidence of weakness would be in the first-loss position, wherever that first-loss position happens to be.
+<START>It’s not clear at this point if the MBS market will be an efficient distributor June 29-30, 2005155 of 234and disseminator of risk or if those in that market will be the last to recognize the risk that’s embedded in what they’re doing and know how to price it.<END>
+Mr. Chairman, I did not address the statement today because I see no need to adjust our “measured pace” language or to make any other significant adjustment to our statement at this meeting.
+Thank you.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+MR.
+GRAMLICH.
+Thank you, Mr. Chairman.
+I’ll let Tom respond on behalf of the Kansas City Royals.
+[Laughter] This will be my 62nd and last statement at one of these meetings, and if you’ll bear with me I’d like to give a few parting thoughts before I ride off into the sunset.
+I believe most of us think about monetary policy in terms of what I will call a modified Taylor rule.
+<START>We don’t necessarily follow the explicit Taylor rule outcomes of the Bluebook but we look at inflation and unemployment and try to make them hit our target values, at least over some horizon.<END>
+<START>From time to time, we may shade our judgments based on some other factor that may seem relevant, which is fine.<END>
+But the basic focus remains on inflation and unemployment.
+<START>I strongly agree with this basic focus, and I get very irritated when I see columns suggesting that we are trying to inspire or should be trying to prick a housing bubble, for example.<END>
+There is no way to do that and still maximize the inflation/unemployment outcome.
+Monetary policy is broad and has broad effects.
+When we take rates down in a soft economy, we probably will be creating some bubbles, or at least mini bubbles here and there
+—not because we want to, but because it is inevitable.
+<START>In the late ’90s, holding out against raising rates and hence letting the economy achieve very low unemployment rates probably did add to the Internet bubble.<END>
+In the past few years, keeping rates down for a considerable period probably did June 29-30, 2005156 of 234add to the housing bubble, if, in fact, there is a housing bubble.
+<START>Given our primary focus on inflation and unemployment, I’m not sure there is anything we could have done about either bubble, and I am sure it would not have been wise to go out of our way to try to prick either bubble.<END>
+Today’s policy challenge is to reverse the highly accommodative policy we followed a few years ago in response to what I still think was a real threat of deflation.
+There has been lots of speculation about the so-called neutral level of the federal funds rate, as if once we hit neutrality we can stop raising rates.
+First off, this speculation is naive in the sense that whatever neutrality is, it is more likely a zone than a precise rate.
+<START>Moreover, neutrality would only be desirable if the rest of the economy were in balance, which is probably never strictly true, and certainly isn’t true now.<END>
+For these reasons, I’ve always been disdainful of the search for neutrality.
+Whatever neutrality is, I think in the current circumstance we ought to take rates somewhere north of it.
+The reason is simple:
+lags.
+We have taken the funds rate very low in response to threats of deflation.
+That means that at the magic moment when we hit neutrality there will be still some accommodative policy in the pipeline
+—policy that would have to be offset with at least a slight overshooting on the other side.
+This is a well-known shower problem that has enlivened countless macro classrooms.
+One can also see this overshooting in the optimal policy simulations in the Bluebook.
+One issue that has always been important to me involves national saving.
+I continue to be a national saving freak.
+Our rate is too low;
+no two ways about it.
+<START>Continued low national saving implies either a drop in investment, which is undesirable, or continued international borrowing, which is unreliable.<END>
+<START>Like others, I would greatly prefer to correct the problem through fiscal austerity.<END>
+<START>But despite some welcome bulges in federal revenue, we all know that this is not real fiscal austerity and that we are quite unlikely to get real fiscal austerity any time soon.<END>
+June 29-30, 2005157 of 234Given that fiscal policy is not measuring up, can we do something about national saving with monetary policy?
+Unfortunately, I think the answer is no, at least as long as we are operating under a modified Taylor rule.
+Basically, our approach can determine the level of total output but not its composition between consumption and investment.
+Regarding this composition, there is an interesting new development resulting from the financial innovation we talked about yesterday.
+I admit to having always been skeptical of the empirical importance of interest rates on consumption.
+I would have thought that the form of housing wealth, whether cash or not, should not matter to rational consumers and that these consumers should realize that interest rates have ambiguous effects on their lifetime optimization decision.
+However, if consumption in fact does depend strongly on interest rates, as our econometricians say, at least some of the crowding-out impact of higher interest rates will be felt by consumption.
+So I will swallow my empirical misgivings and at least hope that our present easy fiscal and slightly harder monetary regime will be at least slightly less restrictive on investment and slightly more restrictive on consumption.
+Another issue is, of course, the housing bubble.
+<START>My own view is that there probably is now a slight macro housing bubble, with the problem obviously being worse in selected real estate markets.<END>
+<START>As argued above, it would be a great mistake for the Fed to renounce its primary focus on inflation and unemployment and start fighting bubbles.<END>
+But might it be possible to shape policy in the direction of fighting bubbles?
+The question sounds very reasonable.
+The problem comes when one tries to get specific.
+A few months ago there was a conference at Princeton to address this very question.
+What should monetary policy do about bubbles?
+I was enlisted as a speaker in this session, and I then characterized my views in Gilbert & Sullivan terms as, “Well, never.
+Oh, hardly ever.” [Laughter] June 29-30, 2005158 of 234There are several arguments why we should hardly ever try to prick bubbles.
+Asset bubbles may be too small to matter much in macro terms;
+they may be endogenous
+—the result of expansionary policy we have consciously followed;
+<START>and pricking bubbles may run at cross-purposes with the monetary policy properly based on inflation and unemployment.<END>
+But I think the real problem with pricking bubbles can be seen from yesterday’s discussion.
+How can we make that type of policy stabilizing?
+If one reads the press or listens to Europeans
+—and I did that this weekend at Basel
+<START>—the high level of house prices should lead us to raise interest rates higher than we otherwise would.<END>
+If one reads the Greenbook or the staff documents we talked about yesterday, the high level of house prices relative to rents leads to the expectation that house prices are more likely to decline than to rise, so that stabilizing policy would be to keep interest rates lower than we otherwise would.
+In that sense, the bubble policy conundrum is similar to the bond market conundrum.
+Great analysis, guys, but do we move rates up or down?
+In general, I think we aren’t going to know.
+House prices are high.
+Do we respond to the expectation by lowering rates to fight the anticipated collapse?
+To put it mildly, this policy would be very hard to explain and carries the risk that our more accommodative policy would drive house prices even higher.
+Imagine what Steve Roach and John Makin would say about that!
+If I can coin a term, this would be viewed as a Greenspan “shotput.” [Laughter] On the other hand, do we do what the press would have us do
+—raise rates and likely destabilize?
+This is a tough, perhaps impossible, question.
+And our best approach is most likely to do nothing.
+In that sense, maybe my Princeton answer should have been a straightforward “never.” June 29-30, 2005159 of 234Whatever the case, I’m happy to raise the funds rate another notch today and to continue with the “measured pace” rhetoric.
+For the future, my own five dollars says that you will never figure out what neutrality is, but I am confident that you will be able to tell when to stop raising rates.
+This leads me to my final point, which is to say how much I’ve enjoyed working with all of you.
+These meetings have been interesting, challenging, and productive.
+I can’t say that monetary policy is the hardest thing I’ve ever done in my life, because I did spend three years trying to get diverse people to agree about Social Security, but it was hard.
+And I think we did well.
+The staff has been superb.
+I can’t imagine better preparation for meetings like this than from reading the Greenbook and the Bluebook.
+All of you have been consistently interesting and sensible.
+And the Chairman has run great meetings and has admirably melded our diverse views into a coherent and effective monetary policy.
+I will be eternally grateful for having been a part of it.
+[Applause] Thank you.
+CHAIRMAN GREENSPAN.
+Governor, I don’t recall when anyone got applause.
+[Laughter] I think what they were applauding was not necessarily your speech but your character.
+SEVERAL.
+Hear, hear.
+CHAIRMAN GREENSPAN.
+Vincent, I hate to put you in a position to follow that.
+<START>[Laughter] MR. REINHART.8 I’m fairly confident, Mr. Chairman, that this will not end with applause.<END>
+[Laughter] I will be referring to the materials that were handed out during your break.
+<START>No one would be surprised if you admitted that you agreed with Yogi Berra’s characterization that it “feels like déjà vu all over again.” Once more, the market backdrop for your deliberations is, as shown by the black line in the upper left panel of your first exhibit, one in which expectations seem firmly fixed on a quarter point firming today.<END>
+In addition, it’s hard to find any market participant who believes that there will be any material deviation from the scripts of the past few meetings in the announcement this afternoon.
+8 The materials used by Mr. Reinhart are appended to this transcript (appendix 4).
+June 29-30, 2005160 of 234There have, however, been some changes:
+Market participants, apparently taking comfort in incoming economic data, revised down their expectation of the end point of this firming cycle, shifting from the expectation in early May of around 4 percent (the red dotted line) to the current reading where the black line flattens out at under 3¾ percent.
+With a quarter point hike today seen as a certainty, this implies that market participants also foresee a pause sometime soon.
+The black bars at the upper right show that investors assign about three-fourths probability weight to your being done before November and a ninety-five-out-of-one-hundred chance of your finishing up by the last scheduled meeting of the year.
+The issue before you today would seem to be how to describe the reasons for your action and whether to ratify current market expectations of a pause sometime soon
+— decisions that, in turn, likely depend importantly on the answers to two questions related to the economic outlook and policy strategy.
+For one, what do you make of the further decline in the 10-year yield?
+That yield, plotted with the black line in the middle panel, ended the intermeeting period a touch over 4 percent, further narrowing its spread over short- and intermediate-term rates.
+As can be seen in the lower left panel, the nominal 10-year Treasury yield
+—line 1
+—is now 79 basis points lower than its level just before your meeting one year ago, back when the funds rate was 1 percent.
+As noted in lines 2 and 3, indexed debt quotes indicate that this decline was two-thirds real and one-third inflation compensation.
+With short rates rising and long coupon yields falling, the arithmetic of the term structure requires that far-ahead forward rates fall by more than the note yield.
+Indeed, the 1-year forward rate maturing 10 years hence
+—line 4
+—shed 179 basis points over the past year.
+Also of note, the decline in Treasury yields showed through to private yields, with the AA corporate rate in line 5 of the table dropping a like amount.
+Similarly, the yield conundrum is not a domestic phenomenon alone, as Mike Leahy showed.
+Euro swap yields, for example, have declined by more than dollar ones.
+The bottom right panel makes one last point:
+The decline in yields over the past year has come as a surprise.
+By the expectations approach to the term structure, the upward-sloped yield curve of one year ago
+—the dotted line
+—predicted that its successors would shift up and flatten over time.
+Instead of the long dashed curve that was predicted one year ago to prevail now, we observe the very flat solid line.
+Market participants got about right what would happen at the front end of the term structure
+—probably because your actions were so telegraphed
+—but after that, they went increasingly astray.
+The flattening of the yield curve is put in a longer perspective in the upper panel of exhibit 2.
+The sharp decline in the spread of the 10-year over the 1-year yield may not seem so scary if you ascribe it to shifts in the demand and supply of longer-duration securities, the subject of the two left panels.
+As discussed in the memo I sent to the Committee last week, the allure of longer-duration fixed-income securities June 29-30, 2005161 of 234might have increased of late if investors perceive the macroeconomic environment
+— both nominal and real magnitudes
+—to be more predictable.
+An appreciation of the significant demographic shift in our near future may also have encouraged some shift toward longer-term assets by institutional fund managers.
+At the same time, the U.S.
+Treasury has been making relatively fewer of those obligations
+—with the average duration of Treasury debt outstanding declining by about one-half year since issuance of the 30-year bond was discontinued.
+<START>Lastly, befitting the global dimensions of the decline in long yields, the downward pressure on domestic yields may owe to burgeoning saving relative to shrinking investment internationally, including the efforts of foreign official entities to direct their own surpluses toward dollar assets.<END>
+Changes in demand are difficult to measure.
+And it is incipient demand that needs to be measured, not quantities realized after asset prices adjust.
+One way to quantify the relative shift in demand is to consider the predictions of multifactor models of the term structure.
+Those models try to explain the behavior of yields across maturities as parsimoniously as possible while making sure all assets are priced consistently.
+The models we keep in-house predict, as in the lower left panel, that a substantial portion of the reduction at the long end of the forward rate structure owes to a lessened term premium.
+The current reading of 5/8 percentage point is indeed low in its historical range, but those estimates do tend to be volatile.
+If that represents an exogenous shift in investor preferences, then it also represents increased financial accommodation that warrants a higher policy rate than previously expected.
+But not much is really exogenous when you talk about financial markets.
+If investors are buying more long-dated Treasuries, what are they buying less of?
+That is, the financial impetus associated with a lower term premium might be trimmed by lower stock prices and a higher foreign exchange value of the dollar than would otherwise be the case.
+The flattening of the yield curve would seem more worrisome if you thought investors were predicting that short rates should be lower than previously expected
+<START>— perhaps because, as in the middle right panel, they expect further restraint on spending from high oil prices, some rebound in the domestic saving rate, or continued drag from the external sector.<END>
+Note that the flattening of the yield curve need not be predicting slower growth, only that you will run policy on the easier side than previously expected to deliver good macroeconomic outcomes.
+As shown in the bottom right panel, predictions of GDP growth from a simple regression employing the term spread indeed have come down appreciably.
+But levels matter;
+and a forecast of 3 percent growth over the next year in an environment in which slack has been materially reduced may not seem so unwelcome.
+As estimates of resource slack narrow, Committee members might be particularly intent on ensuring that policy accommodation is correspondingly removed.
+If it is any consolation, the top left panel of exhibit 3 shows that the current setting of the nominal funds rate, the black line, is well within the policy prescription of the standard rules that we follow.
+Moreover, recent increases in the real funds rate, the June 29-30, 2005162 of 234black line in upper right panel, have pushed that indicator closer to the range of estimates of its equilibrium value.
+As Secretary to the Committee, I spend some time worrying about the documentary record of your deliberations.
+Thus, I can recognize a pattern in these meetings.
+You repeatedly predict that your last policy move will be a mistake.
+Stated so bluntly, it is a paradox worthy of Bertrand Russell, but practically it means that, as in the middle left panel, you may be close to the point where you should worry about what can go wrong.
+And that is the second major question pertinent to your policy choice I put before you.
+Logically, there are two possibilities, as in the middle left panel.
+You might be worried that you will stop firming policy too soon or too late.
+<START>If market participants came to believe that you were behind the curve in policy tightening, inflation expectations could become unmoored and a good portion of your subsequent action would probably be directed to reasserting your inflation-fighting credibility.<END>
+That risk is why the Committee highlighted its watchfulness about price developments in the rationale part of the statement and added a sentence to its statement underscoring its vigilance against inflation.
+<START>Such a risk seems well contained, at least as judged by the measures of inflation compensation derived from the Treasury market plotted at the middle right.<END>
+Inflation compensation
+—based on the CPI
+—has moved well south of 2½ percent over the foreseeable future.
+The other mistake you could make would be to stop too late
+—that is, move the funds rate up beyond the level required to work down resource slack and keep inflation controlled.
+This could prove problematic if the Committee subsequently took some time to recognize its mistake or desired particularly compelling evidence to reverse itself.
+However, the Committee has been relatively nimble
+—say, in 1989 and 1995, as seen in the lower left panel
+—in unwinding some of its policy restraint.
+Besides, with corporate risk premiums as low as shown in the bottom right panel, it seems unlikely that market participants view you as about to overshoot in policy firming sometime soon.
+As laid out in the matrix at the top of exhibit 4, in drafting the Bluebook, we tried to capture the implications for policy choice given the potential answers to these two key questions.
+That is, you could take the yield curve as signaling (as along the column headings) economic weakness or a decline in term premiums and you might fear (as along the row headings) stopping either too soon or too late.
+Accordingly, alternative C offered both a firmer stance of policy and words that would lead market participants to project even more firming to come.
+Alternative A was structured to express more concern about the outlook and to signal that the tightening cycle may be drawing to a close.
+The passage of time may make some of the words of these alternatives relevant for future meetings, but they’re probably not today.
+June 29-30, 2005163 of 234You may see little reason to diverge at this point from what seems to have worked fairly well thus far
+—measured policy firming
+—and therefore be attracted to alternative B. Although aggregate spending and output growth evidently slowed in early spring, the economy appears to remain reasonably robust.
+Moreover, the recent evidence may be read as indicating that the pace of expansion is likely to rebound during the second half of the year to a rate somewhat above that of potential output, even with further modest policy tightening.
+And if inflation expectations were seen as well contained in May, they would seem even more so now.
+<START>Not to nag, but the structure of the existing statement will become increasingly strained over time at the four stress points listed in the bottom panel.<END>
+<START>You currently describe policy as accommodative, productivity growth as robust, the risks as balanced, and the pace of tightening as likely to be measured.<END>
+An issue of strategy going forward is whether the statement should be patched up as the situation warrants or left intact until the time comes when you believe additional policy tightening is no longer likely.
+If the latter, you’ll have to come to grips with just how much guidance you want in the statement in the future.
+For completeness, I’ve enclosed the latest version of Table 1, which was distributed this Tuesday and varies only slightly from what was in the Bluebook.
+That completes my prepared remarks.
+CHAIRMAN GREENSPAN.
+Thank you.
+Questions for Vincent?
+If not, let me proceed.
+This is a quite interesting meeting in the sense that we’re obviously approaching the transition.
+We’re not quite there but we’re debating all the various elements of it, and I suspect that’s the right thing to be doing at this stage.
+Indeed, I suspect it’s the only sensible thing we can be doing.
+For the moment, the underlying economy, from my point of view, does seem to be moving forward.
+The industrial production index for June, judging from the weekly data, looks reasonably robust.
+The first figures on initial claims
+—the ones that came out this morning
+—indicate an economy with ongoing strength.
+The weekly industrial production data plus the initial claims may be the most current global data that we have for the U.S.
+economy, and both suggest that no immediate deterioration is occurring.
+We had a long discussion about housing yesterday.
+It’s very evident from the backlogs of the major builders that new home sales will continue apace, as the backlogs presumably at some June 29-30, 2005164 of 234point wind down.
+The buildup has taken a very long time;
+and even though there’s some evidence of topping, there’s really no meaningful evidence in the markets that housing demand is falling.
+Indeed, if anything, it’s still on an upward track, and the feeling is not that it will fall apart but that it will get much stronger and create some really serious problems in the adjustment periods.
+<START>So, all in all, I myself am not uncomfortable with the 3 percent plus rate of growth in GDP going forward.<END>
+<START>But I do worry about the fact that oil and gas costs are beginning to eat into profit margins of non-energy-producing corporations in the United States.<END>
+And even though our overall data indicate that margins continue to move up, when you disaggregate the segments of the corporate sector into energy and non-energy, it’s fairly apparent that the margins for non-energy firms have already peaked out and presumably at this stage may be moving down.
+And remember, this is not only oil, but gas as well.
+<START>A significant amount of the product inflation that we have seen is being partially offset by improved productivity in the use of energy, but not enough to prevent a significant rise in unit costs.<END>
+As a consequence, pressures seem to be mounting in that area.
+I am particularly concerned about it because even though we are publishing fairly large increases in output per hour
+—in fact 3 percent plus in the first quarter
+—when we disaggregate the quarters into monthly data, it’s apparent that the reason the productivity gains in the first quarter are as high as they are is that we moved into the quarter from a very high level.
+December was high and, as best we can judge, there doesn’t appear to have been much in the way of gains in output per hour from December through April.
+These data are subject to significant revision, but it’s fairly apparent that the momentum, at least for a while, has been lost.
+Nevertheless, the Greenbook does not project any particular strength in unit labor costs, largely because it forecasts a 2.3 percent increase in compensation per hour.
+This, as I believe David was mentioning, is a flattening to a trend value.
+That’s more hope, I think, than forecast.
+June 29-30, 2005165 of 234What concerns me is that we are looking here at a potential pickup in the pace of unit labor costs overall and especially for non-energy corporations.
+Moreover, a number of you have cited anecdotal evidence indicating that pricing power, after exhibiting some signs of potency, is beginning to be restricted.
+This, of course, is the usual sign that profit margins are under pressure.
+Indeed, if we start with unit labor costs and the evidence of diminishing pricing power, we’re obviously beginning to look at the process of pressures on prices.
+That has two potential implications.
+One, the history tells us that when margins turn down, the economy invariably runs into some difficulties one or two quarters
+—sometimes a little more
+— later.
+We’re not quite there yet.
+We’re close to the peaks in total, and in this respect I’m not sure one should look strictly at non-energy corporations because energy is an industry in this economy.
+And the domestic earnings of the oil and gas companies are quite substantial
+—much more so than they used to be because a goodly part of domestic oil earnings is now in refining and marketing, areas where for a long period of time the numbers were negligible.
+So, it’s in the system.
+It’s expanding, but we seem to be peaking out here.
+<START>Having said that, it’s not clear to me that we’re seeing any underlying weakness yet, but I think we have to be careful because we’ve had a substantial ongoing expansion and that has occurred in the context of fairly good productivity numbers.<END>
+If it turns out that the recent data on productivity are accurate
+—and as you know, the Greenbook projects a 0.6 percent annual rate increase in productivity for the second quarter and a return to our normal trends in productivity
+—then this weakness will gradually dissolve.
+And the reason it will dissolve is that unit labor costs will start to flatten and margins will open, as they do in the Greenbook.
+<START>The problem with inflation, however, is that if margins start to come down and you are confronted with rising unit labor costs and you don’t have the buffer to absorb the rise, it does begin June 29-30, 2005166 of 234to give you a cost-push type of inflation, the likes of which we have not seen for a very long time.<END>
+The numbers have been cause for a little despair, at least in recent months, and that does suggest that we have to be careful on this.
+Having said that, I think the risks are clearly balanced with respect to the outlook for both output and inflation.
+But I conclude from all of this
+—and a number of you have indicated that you’ve reached the same conclusion
+<START>—that when you’re dealing with a situation like this, policy tends to get created not by your economic outlook, but by your loss function.<END>
+<START>And here I believe it is reasonably clear, at least to me, that if we err in stopping too soon and are proved wrong, the costs are very high.<END>
+If we persist and it turns out that the economy is moderating and the disinflationary pressures, especially the worldwide ones, are as strong as indications suggest they may be, then we can recover relatively quickly.
+And I don’t perceive the cost of making that type of mistake as one we need to be greatly concerned about.
+<START>I conclude, therefore, despite the fact that the risks to the outlook are truly balanced, that our actions should take into account that very clear bias in interpreting the loss function.<END>
+Accordingly, I would propose that we make another 25 basis point move on the funds rate today and change the language as little as possible, recognizing that there is going to come a time
+—it may be at the August meeting or it may be later
+—when the markets and the data will have given us a considerable amount of information as to when we ought to start to flatten out the funds rate path.
+My guess is that at the point we have a meeting and decide that we’re going to change the language and skip an increase, the markets will have been three weeks ahead of us.
+When we do it, I think we’re more likely to do it in the context of very little market reaction because that will be the general consensus of the market as well as our own.
+So, I don’t think we have to fret excessively about how we’re going to get there;
+the markets will help us.
+June 29-30, 2005167 of 234I must say to you that this is not the way the markets were functioning in terms of being informative when I arrived on the scene.
+We now have a federal funds futures market.
+We have every sort of financial indicator.
+Everybody is involved in forecasting what we’re going to do and, indeed, they do it for the reasons that we would.
+So, it’s actually easier to implement monetary policy now than it was when I first arrived here.
+And I guess for my last meeting I will pull a “Gramlich” and go over this in some detail.
+Ned has been here a long time, and he has been a major leveling influence on the rest of us.
+Like Ned, I have been here a long time
+—maybe too long already.
+But it’s fascinating to look at how the system has changed and where the signals are changing.
+In any event, I put the recommendation of 25 basis points on the table and the language that appears in alternative B, which will be distributed by Michelle.
+Vice Chair.
+VICE CHAIRMAN GEITHNER.
+Mr. Chairman, I support your proposal to raise the fed funds rate another 25 basis points, and I support the language in alternative B, which I believe is accurately represented on this piece of paper.
+In my view, this statement is as close to neutral as we could get relative to current expectations, and I think that’s the appropriate signal for us to deliver at this time.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I, too, agree with your recommendation, Mr. Chairman, and with the language of the draft.
+I particularly concur with your assessment of the loss function in terms of how we should think about policy.
+While I’d like to make ongoing changes in this statement, now is not the time to do it.
+So, I’m on board.
+CHAIRMAN GREENSPAN.
+President Fisher.
+June 29-30, 2005168 of 234MR. FISHER.
+I support the 25 basis point increase in the funds rate.
+My only concern about the statement is the word “elevated” in reference to pressures of inflation.
+But, like President Minehan, I don’t think this is the time to argue.
+CHAIRMAN GREENSPAN.
+Governor Kohn.
+MR.
+KOHN.
+Thank you, Mr. Chairman.
+I agree with your recommendation, and I agree with the alternative B statement that you proposed.
+I have two comments:
+One is that you said markets would be three weeks ahead of us.
+But one thing that’s different is that we’re providing them with more guidance now.
+<START>So I think we need to be very careful not to provide them with too much guidance.<END>
+I hope that’s clarified at least in the minutes if not in the statement.
+And my second comment is that the way you described what might be coming, with weaker growth and higher inflation, I think we’ll all be jealous of Ned after a while.
+[Laughter] CHAIRMAN GREENSPAN.
+Governor Gramlich.
+MR.
+GRAMLICH.
+I support everything, Mr. Chairman.
+I would have never guessed that this tautological balance of risk statement would outlast me.
+[Laughter] CHAIRMAN GREENSPAN.
+President Stern.
+MR.
+STERN.
+I, too, support the recommendation and the language, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Hoenig.
+MR.
+HOENIG.
+Yes, I’m fine with your proposal.
+CHAIRMAN GREENSPAN.
+President Yellen.
+MS.
+YELLEN.
+Mr. Chairman, I support your recommendation.
+Like President Fisher, I’m concerned about the language describing inflation.
+<START>I think it will be somewhat of a surprise to the June 29-30, 2005169 of 234market, which is taking some comfort from recent inflation data, and it may well perturb expectations upward.<END>
+But I support the recommendation.
+CHAIRMAN GREENSPAN.
+President Moskow.
+MR.
+MOSKOW.
+Mr. Chairman, I support your recommendation on both the language and the increase in rates.
+I would just add two points.
+One, in the go-round there was a clear concern that core inflation forecasts have gone up, and a number of people said that the forecasts were now in a range that was at the upper end of their comfort zone.
+I’d be delighted if the forecasts come down, but I think that’s a low probability.
+Second, to Ned’s point about the tautology, I can assure him of one thing:
+At some point the balance of risk statement will come out.
+[Laughter] CHAIRMAN GREENSPAN.
+Governor Ferguson.
+MR.
+FERGUSON.
+I support both parts of your recommendation.
+CHAIRMAN GREENSPAN.
+Governor Bies.
+MS.
+BIES.
+Mr. Chairman, I support your recommendation.
+CHAIRMAN GREENSPAN.
+President Santomero.
+MR.
+SANTOMERO.
+Mr. Chairman, I support your recommendation and the wording.
+I also like the way you expressed the loss function;
+it corresponds closely to my own view on the matter.
+CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+I support the recommendation on the policy action and the statement.
+CHAIRMAN GREENSPAN.
+President Lacker.
+MR.
+LACKER.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Pianalto.
+MS.
+PIANALTO.
+I support your recommendation, Mr. Chairman.
+June 29-30, 2005170 of 234CHAIRMAN GREENSPAN.
+Governor Olson.
+MR.
+OLSON.
+I support the recommendation.
+CHAIRMAN GREENSPAN.
+Would you read the appropriate resolution?
+MS.
+DANKER.
+I’ll be reading the directive from page 30 of the Bluebook and the balance of risk assessment from the draft statement:
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with increasing the federal funds rate to an average of around 3¼ percent.” And for the statement:
+“The Committee perceives that, with appropriate monetary policy action, the upside and downside risks to the attainment of both sustainable growth and price stability should be kept roughly equal.
+<START>With underlying inflation expected to be contained, the Committee believes that policy accommodation can be removed at a pace that is likely to be measured.<END>
+Nonetheless, the Committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability.” CHAIRMAN GREENSPAN.
+Call the roll.
+MS.
+DANKER.
+Chairman Greenspan Yes Vice Chairman Geithner Yes Governor Bies Yes Governor Ferguson Yes President Fisher Yes Governor Gramlich Yes Governor Kohn Yes President Moskow Yes Governor Olson Yes President Santomero Yes President Stern Yes June 29-30, 2005171 of 234CHAIRMAN GREENSPAN.
+Let me ask that the Board of Governors repair to my office for the consideration of other subjects.
+[Recess] CHAIRMAN GREENSPAN.
+The Board of Governors has just approved an increase in the discount rate to 4¼ percent, as requested by all 12 of the Reserve Banks.
+Our next FOMC meeting is scheduled for August 9.
+We’ll now go to lunch and honor our departing colleague.
+END OF MEETING
+INSTANCE OF DISAGREEMENT: 44

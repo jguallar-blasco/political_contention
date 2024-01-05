@@ -1,0 +1,560 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+What you see is that, without exception, every time since 1950 that the unemployment rate has risen as much as 0.3 percentage point over a year, it has continued to rise, and we’ve seen a recession.
+That suggests that having unemployment rise just a few tenths and keeping it there is not quite so easy as our linear models might suggest.
+In the bottom panel, you see four-quarter changes in the growth of real GDP.
+<START>The dotted line shows zero, and the solid line arbitrarily shows 2 percent real growth.<END>
+Again, these are four-quarter differences.
+With the minor exception of 1956, again in no case was real GDP growth below 2 percent sustained for four quarters without an NBER recession.
+I think a very interesting case is 1995-96
+—the famous soft landing that was engineered in the mid-1990s.
+You’ll notice the line just touches the 2 percent zone without crossing it.
+[Laughter] 2 The figure to which Chairman Bernanke refers is appended to this transcript (appendix 2).
+September 20, 200690 of 132 So what am I saying here?
+<START>I’m only saying that, if we believe that we need to have output below potential to help arrest inflation pressures, it is a delicate operation, and we may have a very narrow channel to navigate as we go forward.<END>
+<START>We should pay very close attention to how the economy is evolving at this particular moment because I think the uncertainty and the potential nonlinearity at this juncture are greater than what we normally face.<END>
+I’ll stop there, and we can begin our second round.
+Oh, I’m sorry
+—Vincent.
+[Laughter] MR. REINHART.
+I only speak when asked, Mr. Chairman.
+[Laughter] CHAIRMAN BERNANKE.
+That is a good practice.
+[Laughter] MS. MINEHAN.
+Since when?
+[Laughter] MR. REINHART.3 Thank you, Mr. Chairman and some participants.
+[Laughter] Over the intermeeting period, tumbling oil prices, better-behaved inflation, and the minutes of the August meeting, which conveyed a more widespread disinclination to tighten than investors suspected, pulled nominal interest rates lower.
+<START>As can be seen by the solid line in the upper left panel of your first exhibit, the rate on three-month Eurodollar futures expiring this December declined a touch, on net, and is now consistent with the federal funds rate remaining at 5¼ percent for the remainder of the year.<END>
+Investors seem to expect policy easing thereafter, in that the contract expiring one year later has a rate about ½ percentage point lower.
+<START>This can be seen most clearly by the black line in the upper right panel, which shows that the path expected for the federal funds rate over the next two years has a decidedly negative slope.<END>
+As indicated by the shift from the black dotted to the black solid line in the lower left panel, this revision to policy expectations was associated with a roughly parallel step downward in the term structure of nominal Treasury yields over the intermeeting period.
+The yield curve for indexed securities moved up closer to its nominal counterpart
+—the shift from the dotted to the solid red line
+—implying that the difference, inflation compensation, declined.
+These relative movements can be made more precise by putting them in terms of changes in implied forward rates, as at the right.
+Nominal forward rates (the top panel) declined in a relatively uniform fashion, from 8 to 15 basis points.
+The rotation up in the real yield curve, however, was associated with sizable increases in short-term real forward rates and declines at longer horizons.
+The arithmetic difference between the two is plotted in the bottom right panel:
+Inflation compensation fell noticeably at short horizons, but the decline tapered off as the maturity lengthened.
+3 Materials used by Mr. Reinhart are appended to this transcript (appendix 3).
+<START>September 20, 200691 of 132 One way to tie these disparate movements into a neat package is to argue that the substantial decline in oil prices in recent weeks represents a disinflationary impetus that is anticipated to be only partly offset by you.<END>
+<START>That is, nominal rates will move lower but by less than the drop in inflation so as to keep real interest rates higher for a time.<END>
+In this story, the decline in oil prices represents an opportunity to disinflate
+—an opportunity that investors expect you to take by being slow to lower nominal interest rates.
+The same story, however, can take on a darker hue if it is argued that the fall in the prices of oil and other commodities evidenced a slowing in global activity brought on at least in part by your previous 17 policy firmings
+—that is, this opportunity for disinflation could be one of your own making.
+Either explanation
+—one of omission or one of commission
+<START>—produces a moderation in spending and a drift down in inflation that would seem to be consistent with holding the funds rate at 5¼ percent for now, a possibility examined in more detail in exhibit 2.<END>
+<START>At its August meeting, the Committee assessed the risks to be such that it could hold policy unchanged given its expectation that growth would moderate and inflation decline.<END>
+The information received since then would seem to strengthen that determination.
+As shown in the top left panel, inflation compensation measured in the Treasury market is about unchanged at the longer horizon (the red line) and distinctly lower in the near term (the black line).
+<START>How much of this decline represents a drop in inflation expectations as opposed to a decline in inflation risk premiums is hard to say, but the evidence at the right may be suggestive.<END>
+Merrill Lynch conducts a monthly survey of global fund managers about their views of macroeconomic risks and portfolio inclinations.
+More than 200 of them typically reply, and last month an increased share of them were of the view that inflation would be lower, rather than higher, than in recent months.
+This view seems to be underpinned by the expectation that economic growth will moderate so that resource slack will open up, perhaps as in the staff forecast in the middle left panel.
+Indeed, when asked about global economic growth, the fund managers surveyed by Merrill Lynch mostly expected it to slow, as at the middle right, with more of them of that view than earlier in the year.
+As can be seen directly below, the slowing is not anticipated by investors to be so precipitous as to tip the world economy into recession.
+More than 90 percent of the managers view such an outcome as unlikely.
+Thus, they wouldn’t seem to be putting much weight on the flatness of the yield curve, plotted at the bottom left, as a leading indication of recession
+—nor would you if you’re inclined to keep policy on hold.
+In that regard, as the chart makes clear, the yield curve has had some predictive power for recession over the past forty years.
+For instance, the inversion of the term structure in 2000 was sending a signal that, in retrospect, have warranted a response.
+might First, a flattening yield curve has sent false signals as well over the years, including of recessions that didn’t occur in the mid-1990s.
+This indicator may seem less compelling now for two reasons.
+<START>Second, much of the downward tilting of the term structure seems due to a decline in term premiums, which might be a sign of reduced uncertainty rather than a sign of increased economic vulnerabilities.<END>
+September 20, 200692 of 132 Indeed, some Committee members may be far from seeing the economy as vulnerable
+—perhaps to the point of inclining them toward firming policy 25 basis points, as in exhibit 3.
+In particular, financial market participants do not seem to have heard the message of the August statement that the risks were tilted toward higher policy rates.
+Rather, as shown in the top left panel by the spread of the December 2007 Eurodollar futures contract below the December 2006 one, about 50 basis points of easing is expected next year.
+This expectation of ease may be contributing to low credit spreads (the top center panel) and the recent rise in equity prices (the top right panel).
+This financial impetus might be seen as a reason that spending will not moderate sufficiently to make a noticeable dent in inflation.
+Even if those expectations are wrung out of financial market prices over time
+—as in the staff forecast
+—the resulting path of inflation may not be acceptable to the Committee.
+As shown in the middle panel, core PCE inflation is projected by the staff to remain above 2 percent through the end of 2008, which would mark the fifth consecutive year of such an outcome.
+The survey expectations of CPI inflation
+— plotted at the bottom left
+—similarly remain well above 2 percent.
+While survey responses came down over the intermeeting period, you might discern a slight uptrend in the past few years that could be taken as an erosion of the public’s confidence.
+In such a circumstance, members may believe that more-acceptable progress toward price stability will likely involve a firmer stance of policy, a judgment that would be strengthened if you thought the spike in the growth of compensation per hour plotted at the right was not as likely to roll back as the staff projects.
+The Bluebook lived up to its title, “Monetary Policy Alternatives,” by offering the five different options given in exhibit 4
+—three formal ones and two variants (which are shaded) that were discussed in the text.
+<START>If your intent is to solidify current market expectations of easing, switching to balanced risks, as in A, probably has some appeal.<END>
+The words of alternative B were designed to leave market rates about unchanged, whereas B+ emphasizes that tightening is more likely than easing.
+It doesn’t really say anything new, but we thought the force of repetition might get the attention of market participants.
+The alternative labeled C- couples tightening with a removal of the rate bias, signaling that the Committee may be done, whereas C imposes considerable additional restraint by retaining an assessment of upside risks even after firming.
+Your last exhibit repeats table 1 from the Bluebook with a minor change noted in red in the second row.
+CHAIRMAN BERNANKE.
+We are ready for the go-round now.
+Would anyone like to speak?
+President Poole.
+September 20, 200693 of 132 MR. POOLE.
+Am I the only taker to be number one?
+[Laughter] Thank you, Mr. Chairman.
+I want to start with two observations.
+First, the distribution of the market’s outlook for the federal funds rate six months ahead
+—and the briefing paper that appeared in my hotel room last night has that shown on exhibit 1
+—is pretty symmetrical, although it actually has a bit more probability weight on declines in the rate than increases.
+But roughly speaking, it accords with my own view
+—a one-third chance that we will stay where we are, a one-third chance that it will be appropriate to ease, and a one-third chance that we will want to increase the rate.
+I come out with a very symmetrical view myself.
+I think of the views around the table
+—some people are probably there, some people are probably skewed on one side and some on the other side, but I come out very much in the middle.
+My second observation continues a point that Tim Geithner made a few minutes ago.
+<START>I had several conversations at Jackson Hole with Wall Street economists and journalists, and they said, quite frankly, that they really do not believe that our effective inflation target is 1 to 2 percent.<END>
+They believe we have morphed into 1½ to 2½ percent, and no one thought that we were really going to do anything over time to bring it down to 1 to 2.
+I think that is very unfortunate because so many of us have talked about 1 to 2.
+<START>Also, it seems to me that in the future it would be easy for people to say, “Well, it is going to be inconvenient.<END>
+Let’s just sort of settle at 2 to 3.” They have already said that they would be at 1½ to 2½ effectively by the behavior of the Committee.
+Now, if we get data in the coming months that are unfortunate on the inflation side and lead us to increase our inflation forecast in the absence of any further policy action, I would certainly be on the side saying that we ought to act.
+We should firm policy so that we do not allow the forecast inflation to rise from where it is now.
+September 20, 200694 of 132 One reason that I do not want the explicit reference to housing to be in the statement is that I would take that position even if housing were continuing to struggle, because I think it is extremely important that we not allow inflation to ratchet up.
+If housing is a casualty of that policy, we had better accept that situation.
+I would not like to see a mixed market signal because I would not want the market to believe that continuing weakness in housing would deflect us from acting as necessary to keep inflation from rising further.
+I think the explicit reference to housing in the statement conditions the market to think about our policy going forward in the wrong way.
+<START>At the same time, there is a clear possibility that we could see data in coming months that would be weaker than we now anticipate in the Greenbook forecast.<END>
+What I know about forecasting error says that you have to think that coming in weaker on the real economy is a real, live possibility.
+I hope that we do not get unfortunate news on inflation and a downside on the real economy together, but I do not rule out that possibility.
+I think it is unlikely, if we receive substantially weak data on the real economy, that we would be raising rates into a recession.
+But quite frankly, I would like for us to condition the market to accept this symmetrical view of the risks that we face going forward and for us not to have language in our statement that tilts us toward tightening.
+My own sense is that an asymmetric tilt toward tightening would not serve us well should we get downside surprises in the real economy.
+<START>Indeed, we should be quite happy to see longer-term rates weaken in the event of weak data on the real economy.<END>
+To have the market respond that way helps to serve as a built-in stabilizer for economic activity.
+<START>It would tend to support housing and other interest-sensitive sectors, and we should encourage rather than discourage that response in the market.<END>
+Let’s see.
+What else do I want to say here?
+I would observe that the Greenbook forecast of a prolonged period of an inverted yield curve has no historical precedent.
+Usually the yield curve is September 20, 200695 of 132 inverted in the process of going from here to there, and you do not just sort of settle there.
+So I think that this situation is likely to be resolved either in the direction of higher long-term rates, as news on the real economy or inflation comes through in that direction or in the direction of lower short-term rates, for reasons I was just outlining;
+and I don’t know which direction it will be.
+My view of the current stance of policy is that it is moderately restrictive.
+<START>Money growth, whether measured by MZM (Money Zero Maturity) or by M2, has been modest, and in fact, real balances have been flat to declining for a year or more, which would be a rather traditional sign that our policy is restrictive.<END>
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Moskow.
+MR.
+MOSKOW.
+Thank you, Mr. Chairman.
+I appreciate your passing out this sheet and talking about it.
+I think the lesson here is that these things do not always go as gradually as forecast, and once things get going in one direction, there is more momentum than is built into our longer-term forecasts.
+<START>In terms of policy, as you know I would have preferred raising rates at our last meeting, and I think the overall contours of the resource gap and the inflation forecast are pretty much the same as they were last time.<END>
+<START>I still think that policy will need to be tightened further to bring inflation back into my comfort zone within a reasonable period of time.<END>
+But given our decision to pause last month, I do not feel that we should move today.
+We told the public that we paused to assess incoming data, and I think it requires more than one meeting’s worth of data to assess that.
+In fact, if we did move today, it would be a signal that we are just reacting to little snippets of information, and we are trying to dissuade people from thinking that.
+But I am concerned about how markets viewed our last meeting.
+We talked last time about a hawkish pause.
+Generally the markets didn’t interpret it that way.
+They may be more optimistic about inflation, but as we know, the futures September 20, 200696 of 132 market is expecting us to cut rates.
+I share a sense of what President Poole talked about
+—that market analysts and others are saying that we are not really serious about this 1 to 2 percent that many of us have talked about;
+they think our zone is somewhere higher.
+So when you look at these options from A to Z
+—A to C [laughter], there are lots of options
+—that Vince has distributed, I am in the B+ category.
+But I think we should not put that phrase “policy is more likely to firm than ease going forward” in the statement.
+However, I think that it is the sense of this Committee, and I think it should be reflected in the minutes.
+CHAIRMAN BERNANKE.
+Thank you.
+President Stern.
+MR.
+STERN.
+Thank you, Mr. Chairman.
+<START>Well, so far it looks as though our decision to pause at the last meeting was a sound one, and I emphasize “so far” because we obviously have not received a lot of additional information.<END>
+<START>I think the reaction in the financial markets has been encouraging in that, as best as I can judge, the news was received that it is a sensible decision, inflation expectations have remained well anchored, and so forth.<END>
+My take on the incoming data has not changed my view of the decision to pause last time, which I favored, and I think we are well positioned at the moment, especially when we continue to allow for the lags presumably stemming from our previous actions.
+So I favor staying where we are today.
+As far as the language is concerned, I favor the language of alternative B, as written.
+Vince indicated that perhaps financial market participants did not quite receive the message, but I thought the message was fairly clear.
+It talks about “any additional firming,” which is quite explicit and allows, as far as I can see, flexibility if we need it to go in the other direction with the last phrase in the risk assessment in section 4.
+So I am comfortable with the language and think that at this stage we should just stay where we are.
+CHAIRMAN BERNANKE.
+President Fisher.
+September 20, 200697 of 132 MR. FISHER.
+<START>Well, Mr. Chairman, I am somewhere between Mr. Moskow and our distinguished president from Minneapolis, but I am biased toward B+.<END>
+My board, as I indicated earlier, was in favor of ratcheting up the discount rate.
+<START>One of their concerns that I did not voice in our discussion previously was about how permanent or, rather, how temporary this reduction in energy price is likely to be, and as you know, we have a heavy weight of significant oil operators on our board.<END>
+The only statement one can make with assurance
+—and Karen referred to this during the analysis period
+—is that we are likely to have volatility.
+We cannot take or assume great confidence in terms of continued direction.
+<START>In alternative B, section 3, the words that I find most objectionable are “reflecting reduced impetus from energy prices.” It is a little too soon to tell, and the language sends a mixed signal because we spent, under our previous leadership, a tremendous amount of time emphasizing core PCE, which excludes energy.<END>
+<START>I take your point, which is absolutely appropriate in my view, that we need to be aware that the rest of the world looks at the CPI and does not necessarily think about core PCE ex-food and ex-energy because they have to eat and they have to drive.<END>
+I would be in favor of the B+ column, Mr. Chairman.
+I would consider striking the words “policy is more likely to firm than ease going forward,” but Vince makes a good point:
+There is some value to the force of repetition.
+<START>What I worry about most is expectations creep, and I do agree that what I am hearing from outside and what I heard not just at Jackson Hole but elsewhere is that we are too willing to accept an inflation target that ranges up to 3 percent.<END>
+<START>I would be adamantly against accepting that kind of inflation.<END>
+So I think it is important to reiterate our bias and to do it with a deft hand.
+We should not do it in such a way that tilts us into the risk that you pointed out in your charts of triggering recession, but we nonetheless should indicate that we are firm.
+So I am a B+ man, even at this table of A+ students.
+September 20, 200698 of 132 CHAIRMAN BERNANKE.
+Thank you.
+Governor Kohn.
+MR.
+KOHN.
+Thank you, Mr. Chairman.
+I’m in favor of maintaining the current stance of policy.
+<START>I think that is the best chance we have at this juncture for having growth modestly below the growth rate of potential and inflation gradually ebbing.<END>
+I am not as dissatisfied with that path as maybe some others around the table.
+<START>After the inflation surprise of earlier this year partly related to an energy shock, a gradual decline in inflation is about as good as we can expect to do, and I do not think that is going to impair our credibility if people see that happening.<END>
+Now, I admit that that credibility may be built around a slightly higher inflation rate than others want to see.
+In that regard, I think we are in desperate need of the conversation we want to have at the next meeting about what our targets should be;
+how we should enunciate them;
+and once we are away from any target if we do enunciate it, how we should get back.
+But at this point I do not see any risk to our credibility from something that looks like the path that I expect to happen with keeping policy unchanged for now.
+Until housing weakens further and begins to spill over into other sectors, the risk to our dual mandate comes primarily on the inflation side.
+<START>So I am very comfortable with the inflation risk language.<END>
+I do not think our reference to housing in section 2 undercuts our sense that we are worried about inflation and would act against it.
+I think it helps explain section 3, which says why we think inflation would moderate.
+So it does not bother me that much.
+I am somewhat puzzled by the behavior of financial markets with respect to the expected policy.
+I am not puzzled so much by the downward tilt.
+<START>That is roughly consistent with growth below potential and a gradual retreat of inflation and is not all that different from some of the Taylor rule simulations in the Bluebook, including some of those with a 1½ percent inflation target.<END>
+It is also consistent with the Committee’s past actions judging from the forecast-based rule.
+But it does September 20, 200699 of 132 not seem to give much weight to the upside inflation risk that we sense or to the Committee’s priority of seeking assurance that inflation is moderating.
+More perplexing
+—and I think Vice Chairman Geithner brought this up
+—is the apparent certainty with which market participants seem to view this expected path;
+they do not seem to share our uncertainty or at least my uncertainty about the future course of policy.
+At some point, expected volatilities will rise, and some market participants will suffer losses;
+but for now the implied path of rates or the low expected volatility is not really impeding our ability to achieve our goals, and I would not attempt to use the announcement to change expectations in markets.
+I do not think they are so far off that they’re stopping us from getting where we want to go.
+So I would not favor B+.
+I would favor the language of B. Thank you.
+CHAIRMAN BERNANKE.
+President Hoenig.
+MR.
+HOENIG.
+Mr. Chairman, based on my assessment of the economic outlook, I think we should maintain the funds rate at 5¼ percent, which as others have said is modestly restrictive, and I counsel what I would refer to as rational patience here as we work through this.
+I continue to hold the view that the current policy stance, along with the lagged effects of past tightening, will lead to a moderation of inflation going forward
+—and that does not deny that upside risks to inflation do, in fact, remain.
+<START>Just quickly, I would like to say that I think credibility is extremely important for the Federal Reserve and that we risk the issue of credibility much more when we are at 1 percent than when we are at 5¼ percent, which is where we are now, in terms of upside inflationary risk.<END>
+We are moderately restrictive, and we do not want to overreact.
+<START>With that in mind, although there are also downside risks to growth, I want to be very clear to the markets and to the public that any near-term easing in policy is not likely.<END>
+Indeed, I believe, first, that we should maintain our current policy September 20, 2006100 of 132 stance until we see evidence of significant systematic declines in inflation.
+We should make that clear.
+Second, if we get evidence that inflation is not moderating, I would be prepared at that point to support additional tightening;
+but I think we should have that evidence before we reengage in any policy tightening.
+On the press statement, I am in favor of B+.
+We should be very firm about our inflation position and about our commitment to bringing inflation down.
+We should not overreact;
+and with the moderately tight policy that we have now, we can see inflation come down systematically over time.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Guynn.
+MR.
+GUYNN.
+Thank you, Mr. Chairman.
+I don’t know how we would rationalize or explain a departure today from the pause that we decided on at our last meeting.
+Also, I think that what we have learned since our last meeting does not substantially alter our medium-term forecast.
+<START>Therefore, I strongly favor another hold decision today, along with a statement that continues to make it very clear that, if our forecast changes, especially with regard to the expectation of moderating inflation, our policy position would also be reassessed.<END>
+I also want to echo the earlier observation of President Stern on the evidence in the memos that were circulated before the meeting.
+Despite the lack of correlation between resource utilization and inflation and a decline in the influence of energy prices on core inflation, we continue to put considerable weight on these relationships in our statements.
+I think there are issues here that deserve a good discussion at some point.
+<START>Finally, it seems clear that we are really struggling to understand inflation dynamics and see a need for a more empirically robust framework to guide our decisionmaking.<END>
+I assume this area will receive even more research emphasis and will be a fundamental part of the upcoming debate September 20, 2006101 of 132 you will have on how to target, forecast, and talk about inflation and the inflation outlook.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Pianalto.
+MS.
+PIANALTO.
+Thank you, Mr. Chairman.
+I favored a pause at the last meeting, and I haven’t really heard or seen anything since then that would cause me to change that view.
+Consequently, maintaining the pause seems like the right thing to do, and I favor the language in alternative B in communicating that decision.
+<START>I would also like to add that I share the concern that most have expressed today that the trajectory of inflation may not head downward fast enough.<END>
+<START>However, I favor the current policy stance because I believe that the rates we have already implemented will bring the inflation rate down and because, as I said earlier, overtightening when the economy appears to be moderating more than we anticipated even just a couple of months ago is a concern to me.<END>
+Mr. Chairman, the chart that you handed out today reaffirms that concern.
+<START>Even though I am convinced that the inflation rate will fall, I am less convinced about how much and when.<END>
+Right now, I am satisfied with breaking the momentum in the inflation process and will wait to see whether the moderation in the economy does stabilize.
+<START>I can envision, as others have said today, a point in the future when our policy will have to be more ambitious to bring the rate of inflation down over time.<END>
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Plosser.
+MR.
+PLOSSER.
+Thank you, Mr. Chairman.
+At our last meeting, my inclination was to favor an additional 25 basis point increase in the fed funds rate.
+In my view, there has been very little change in the economic case for some additional policy firming.
+The incoming data have not persuaded me to think that growth would be considerably below trend in ’07, although I do think that there will be moderation over the next couple of quarters.
+I do not think that a 25 basis point September 20, 2006102 of 132 change in interest rates one way or the other will have much effect on the housing market at this point, and I do not believe that we should stand in the way of the adjustment to the housing sector to move to a more sustainable level of activity.
+Thus far the Committee has maintained its credibility, and long-run inflation expectations have been stable.
+That is very good.
+<START>My concern, however, is that the longer we tolerate inflation above our comfort zone, the more risk we have that those expectations will become unhinged.<END>
+<START>Their becoming unhinged, as I noted in my earlier comments, lead to some very unpleasant outcomes, and we would find regaining our credibility very difficult.<END>
+<START>could Because of the weakness in residential investment, a rise in the fed funds rate could be viewed as potentially costly;<END>
+<START>but that potential cost increases the value of the actions as a signal of the Fed’s commitment and its effectiveness in keeping inflation expectations firmly in check.<END>
+As the discussions around this table in August and today show, reasonable people doing sound economic analysis can have different views about whether further policy firming will be needed.
+I understand and respect both sides of that argument.
+<START>My goal at this point is to stress, as many people have stressed, that we shouldn’t lose sight of the importance of our credibility and to state that I am unhappy with the level of core inflation and with the pace at which it seems to be declining, at least in the staff’s forecast.<END>
+Credibility is difficult to acquire and easy to lose.
+If we convince ourselves at each juncture of the decisionmaking process that at the margin we can risk sacrificing a little credibility to achieve some other loosely defined and perhaps illusive objective, we may find our capital significantly depleted.
+Once that is obvious in the data, it is too late.
+The decision to pause in August was a close call, but the pause cannot be ignored, I think, in deciding the appropriate action for today.
+<START>While I believe the language we used in our August statement gives us the flexibility to raise rates, I think doing so today would pose a very different September 20, 2006103 of 132 and difficult communication challenge.<END>
+I argued last time that, if the data for August and September continued to evolve as they had in June and July, it would be hard to change our policy stance if we paused in August.
+That seems to be exactly where we are.
+<START>I might argue that another six weeks of inflation above our comfort zone has increased the risk to our credibility, but I think that initiating a rate increase so soon after pausing, given the data we have received, could be misinterpreted and pose its own risk to our credibility for sound monetary policymaking.<END>
+Thus, I come down on the side that it would be better to remain on hold for this meeting but to have strong enough language in today’s statement to enable us to initiate rate increases in the near future unless the incoming data are significantly different from what we’ve expected.
+The language in alternative B+ comes close to doing that.
+It is important that we continue to say, as in section 4, that inflation risks remain.
+I would not like to cite factors restraining aggregate demand in the list of things that would potentially help moderate inflation.
+<START>I do not think we can measure the tradeoffs between growth and inflation precisely enough to depend on a moderate deceleration to bring inflation down over the forecast period.<END>
+Moreover, and even more important to me, such language fosters a belief among the public and others that we have a desire and an ability to engage in fairly precise fine-tuning.
+I am opposed to alternative A language.
+<START>First, I do not think that we can say with any great confidence that inflation risks appear to have diminished.<END>
+<START>Second, I do not think that saying “downside risks to growth have become more significant” is helpful at this point.<END>
+Saying that is likely to lower the expected path of future interest rates, as has been pointed out, and to reinforce the idea that interest rates are likely to come down sooner than is built into our forecast.
+<START>To the extent that the assessment-of-risk language is supposed to help with the public’s understanding of the September 20, 2006104 of 132 monetary policy process over the coming months, I think the language in alternative A would be counterproductive.<END>
+Finally, I would like to reiterate a point that has been made around the table several times.
+When we look at the longer-term survey data and at what the markets are saying, they seem to be reading the fact that we do not actually have a target zone of 1 to 2 percent.
+The target zone is really maybe 1 to 3 percent or 2 to 3 percent.
+If in fact our comfort zone is 2 to 3 percent, then we should communicate that fairly directly rather than speaking one way and acting another way.
+Of course, as Governor Kohn and several others mentioned, that point brings us right back to the communication issue, which I think will be a very important agenda item in the coming meeting.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Lacker.
+MR.
+LACKER.
+After looking closely at the new data since the last meeting, I do not see a compelling reason to materially alter my assessment of policy.
+I still think that the fed funds rate should be 5½ percent to bring core inflation down rapidly enough.
+My preference is based on an assumption that we want to bring core inflation down to 1½.
+That is how I think things through when I come into these meetings
+—I have not been told to do otherwise
+—and, without a firmer policy path, I think that core inflation is likely to decline no more rapidly than the glacial pace of the Greenbook.
+<START>I acknowledge that there are risks to real growth in the outlook and that raising rates may add to those risks.<END>
+<START>But the risks strike me as tolerably small partly because my baseline forecast stays a little further away than the Greenbook from your point-of-no-return thresholds, which I think are legitimate concerns.<END>
+<START>But since you have put that on the table and President Poole has echoed this, let me add to his statement that tolerating a rise in inflation to avoid a point of no return and September 20, 2006105 of 132 recession is, I think, a grave error, and I think that the experience of the ’70s is strong evidence of that.<END>
+Besides that, I think these risks can be significantly lowered to the extent that tighter policy shifts the public’s expectations regarding our future conduct.
+<START>A lot of comments around the table just now have indicated that the public has substantial uncertainty about whether 1½, 2, or 2½ percent is where we are really interested in bringing inflation to.<END>
+I am not as concerned about a rise in inflation right now.
+We have experienced increases in core inflation in response to energy price shocks, and I am concerned about the possible effects on core inflation from the next round of fluctuations in the oil market.
+<START>The process is repeatable, and just like the inflation dynamics that the Greenbook staff analyzed, the response to energy price shocks is a reduced form, and it embodies what people expect about how we are going to react to those shocks.<END>
+<START>I think the major danger is that we allow core inflation to persist above 2¼ percent for a substantial time.<END>
+The longer we allow that, the more likely it is that the public’s expectations will collapse around a high rate of inflation and the harder it will be to bring core inflation down to 1½ percent, if that is what we settle on wanting to do.
+CHAIRMAN BERNANKE.
+Thank you.
+President Minehan.
+MS.
+MINEHAN.
+Thank you, Mr. Chairman.
+As I noted earlier, given the relatively subdued pace of incoming data, given the range of uncertainties that have been talked about, and given that we have already paused, I would continue to pause.
+I thought the exposition you gave about the point of no return was close to my own thinking, without my quantifying it in that effective fashion.
+<START>There are downside risks, and I do take seriously the Greenbook’s forecast of slow growth.<END>
+However, if we do continue our pause, we need to continue being fairly strong in the way we communicate.
+Now, I have gone back and forth about how exactly to do that.
+I am a bit attracted to Michael Moskow’s formulation of being essentially in the area of B+ but having the September 20, 2006106 of 132 statement look like B
+—that’s the way I interpret it
+—but also having the minutes emphasize the concern that I sense around the table about inflation risks going forward.
+I, too, was a bit disappointed in the market reaction partly to our statement but mostly to the minutes of last time.
+Perhaps the market was overly influenced by the incoming data at the time the minutes were released, but it did seem to think that we thought the risks of rising inflation had moderated considerably.
+I don’t think that’s a general view of the Committee.
+I take seriously the concerns that many have raised about our continued seeming complacency about the level of price escalation over a fairly long period
+—four or five years or so
+—unless our preference is for inflation that centers on 2 or 2½ percent rather than on 1½ percent.
+Personally, I don’t see anything wrong with 2 or 2½, and I do not know whether we have any compelling data that suggest that a lower range is obviously preferable.
+I remember the days in which we had inflation at a little above 1 percent, and we were really concerned about deflation.
+So I think a lot of ins and outs and ups and downs here are getting kind of confused.
+In that regard, I never thought I would be looking forward to yet another discussion of inflation targeting.
+<START>[Laughter] I think that the tension between the comments of many people regarding a comfort zone of 1 to 2 percent and the expected slow moderation of inflation that is implicitly embedded in our public comments and in our public forecasts over the next couple of years is becoming more evident to market analysts along the lines of what several people have mentioned.<END>
+There probably is a need for more clarity here, and so I guess I am looking forward to it.
+[Laughter] CHAIRMAN BERNANKE.
+Thank you.
+I assure you that the minutes will reflect the tenor of the meeting.
+President Yellen.
+September 20, 2006107 of 132 MS. YELLEN.
+Thank you, Mr. Chairman.
+It is still too early to know whether our current policy stance will succeed in lowering inflation to an acceptable level over time, but the data since our last meeting reassured me that our decision to step off the escalator was wise, and I think we should remain on the sidelines today.
+Recent inflation readings have contained no adverse surprises.
+Inflation expectations remain contained.
+<START>I think the inflation outlook is slightly improved because of the reduction in energy and commodity prices, and growth during the second half of the year now appears quite likely to fall short of trend.<END>
+<START>I view the risks to the attainment of our objectives as more balanced than they were in August, and I certainly judge the downside risks to growth to have increased.<END>
+Your discussion of nonlinearities, Mr. Chairman, was interesting, and it is important to be sensitive to that possibility.
+<START>That said, I think that the upside risks to inflation still outweigh the downside risks to growth.<END>
+<START>With inflation projected to remain uncomfortably high over a sustained period and with the economy still likely operating beyond potential, I favor alternative B and think it’s important that we do at least hint at an upward bias for fed funds rate changes.<END>
+With respect to the language, I prefer alternative B to alternative B+ because the latter points to a greater possibility of a near-term tightening.
+I am concerned, however, that markets appear to think that the fed funds rate has peaked and that cuts seem very likely by next spring.
+I do not think alternative B would shake that view in the market.
+<START>In contrast, I find myself more in agreement with the Greenbook baseline for the fed funds rate, suggesting that we’re likely to want to hold it near its present level for some time to bring inflation down.<END>
+Now, markets obviously may turn out to be right.
+But if, as the months go by, developments raise our confidence in the Greenbook baseline view, then I think it would be useful for us to think about ways to signal to markets
+— possibly through some forward-looking language
+—an extended policy path in somewhat clearer terms than any of the options in table 1 currently allow.
+September 20, 2006108 of 132 CHAIRMAN BERNANKE.
+Thank you.
+Governor Kroszner.
+MR.
+KROSZNER.
+<START>From a prudent risk-management perspective, I think we made the appropriate decision to pause at the previous meeting, and again from a risk-management perspective, I think we should continue to pause at the moment.<END>
+Certainly there are downside risks to the outlook that we have talked about.
+The lagged effects of the interest rate increases are still not in, and there is a lot of uncertainty with respect to the housing market.
+<START>With respect to the way the markets reacted to our statement from last time, I am somewhere between President Stern and the person formerly known as the Vice Chairman of the FOMC, Governor Kohn.<END>
+[Laughter] I think that the markets reacted broadly reasonably in terms of the level of expectations to what we had said, but I find it a bit hard to understand their apparent thinking that there is little uncertainty about where we are going or where the economy is going.
+So I am somewhere between those two.
+<START>Certainly I have had people say, as many people around the table have heard people say, “Where exactly is your comfort zone on inflation?<END>
+Is it moving up?” But if you look at the surveys, you do not see that;
+and if you look at the TIPS spreads and other places where people are putting their money where their mouth is, you’re not really seeing that.
+So I am not quite sure how to weigh those reactions.
+Obviously I do not want inflation expectations to become unhinged:
+That would be very, very costly, and certainly there is a nonlinearity in trying to put the hinge back when the hinge has come off.
+But the situation we are in is very different from that.
+Even though I think that we need to convey to the markets our concerns about inflation risks, I would not favor alternative B+ because it takes away some of our flexibility going forward and also suggests more certainty about what we will do next.
+There was a lot of uncertainty around the table, and our concern that the markets are thinking that we are too certain might push us in the other direction.
+September 20, 2006109 of 132 However, I would like to put on the table a suggestion for a change.
+In alternative B, section 3, we have added the phrase “on balance” in the first sentence:
+<START>“Readings on core inflation have been elevated on balance.” The innovation of the two words “on balance” is perfectly reasonable because, as the Chairman said, the data on inflation since the last meeting have probably been slightly on the lower side of expectations rather than on the higher side and many of the three-month measures of inflation peaked earlier.<END>
+But I am a bit concerned that, with just the small amount of data that we have seen recently, by saying “on balance” we are making the qualification that it is only on balance and that we are not so concerned about the elevated levels.
+I think this also reflects some of the concerns of the people around the table.
+<START>So I put out for discussion that we consider deleting “on balance” because, from my prudent risk-management perspective, I think we shouldn’t be making a particular commitment about that at the moment.<END>
+I would object to the B+ language;
+I think it takes away some of our flexibility, which is not a prudent thing to do at this time.
+<START>On the point that was raised about the difference between the first sentence and the subsequent sentence in the discussion of energy, I think the energy discussion clearly relates to headline inflation and that there certainly is some effect of energy prices on headline inflation.<END>
+I do not think it is inappropriate to acknowledge that at that place.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Bies.
+MS.
+BIES.
+Thank you, Mr. Chairman.
+First, I support no change today.
+I do not believe there has been enough information to change my mind from the last meeting.
+<START>I support alternative B because I am concerned that B+ is more of a commitment that we are going to do something, and I am not ready to go that far.<END>
+<START>However, I agree with President Minehan’s comments that the long-term inflation level above 2 percent, especially now that we have 2008 in the forecast, is worrisome because of where we are with resource utilization and potential growth and the potential September 20, 2006110 of 132 conflict that I see there.<END>
+I also remember that I was very nervous when inflation was dropping.
+It was below 1 percent.
+Going between the short-run spikes down and short-run spikes up gets one nervous.
+So not only do we need to think about the range, but also we need to think about what we mean by the medium term in which to gauge it.
+I look forward to this discussion because it may help me put those thoughts together at the next meeting.
+But for today’s meeting, I favor alternative B as it is and no change in rates.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Warsh.
+MR.
+WARSH.
+Thank you, Mr. Chairman.
+Given our decision at the last meeting, I favor maintaining the pause today, and I favor alternative B. The judgment to pause, as well as the language around that, does in fact constrain our flexibility, and I think most of us recognized that going into our last meeting.
+<START>In reviewing the language, I think that B+ has some superficial appeal, but the appeal really is in understanding that’s what we meant to say or that’s how we meant the markets to react last time.<END>
+That is, I do not think our statement today should redo, correct, or try to reinterpret the last one.
+We had one shot in August.
+We now have a shot in September.
+Some of the appeal of B+ is trying to drive those market reactions that we expected.
+Given what the market has done, it strikes me that changing the language about what we said last time carries a large burden.
+The language in the statement represents a relatively blunt instrument, and our view that it is somehow nuanced or that we can play nuances through it is hard to prove in the marketplace.
+I read alternative B as somewhat less hawkish than our August statement, and I would strongly support Governor Kroszner’s recommendation to strike “on balance” because, again, I do not want to overly encourage the market behavior that we have seen over the intermeeting period.
+So with that I recommend alternative B with the striking of “on balance.” September 20, 2006111 of 132 CHAIRMAN BERNANKE.
+Governor Mishkin.
+MR.
+MISHKIN.
+<START>Well, in contrast to some people here, actually I’m quite comfortable with the Greenbook forecast as to the most likely path of inflation.<END>
+I am more troubled about what is further out beyond the policy horizon.
+I think that the most likely path of inflation is to hit 2½ percent on the CPI and stay there, which is correspondingly around 2 percent on the PCE deflator.
+So I do have some discomfort there, but I do not think that pursuing something like B+ or raising rates at this time is the right way to deal with this problem.
+How we manage expectations really is an issue, and we can’t do it with the apparatus we have now.
+I am very much looking forward to the discussion of communications at the next meeting [laughter] because I think the issue here is our overall strategy about monetary policy.
+We have to think about how we put it all together in terms of what we do at a particular meeting and in terms of how we manage expectations going forward.
+<START>So at this particular juncture I am very comfortable with B. I think that the right way to express the fact that we are uncomfortable with the current rate of inflation and with what will happen more than two years out is to do it through the minutes.<END>
+I am sure the minutes will show that the sentiment of the Committee is that we’re not comfortable with having a situation in which, if inflation does not moderate along the lines of the Greenbook, we keep rates the same.
+In that context, we would have to raise likely them;
+<START>or if the economy weakens somewhat and inflation does not decline the way we hope it will, we might have to maintain actually rates at the current level longer than the market might otherwise expect.<END>
+So we can do it that way at this stage, and we’ll have to see just where the Committee comes out in thinking about how we manage expectations in the future.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+Vice Chairman Geithner.
+September 20, 2006112 of 132 VICE CHAIRMAN GEITHNER.
+I was fairly comfortable with our decision in August, and I am fairly comfortable with that decision in retrospect.
+Whether we were wise or we have been lucky is something only history will judge.
+<START>I would be more comfortable if there were a slightly positive slope to expectations about the future path of policy and less certainty around that path, but I don’t know how to achieve that responsibly with language today.<END>
+As Governor Kohn said, despite whatever discomfort one may have with that path in markets today, we can’t say that path is fundamentally getting in the way of our confidence or the world’s confidence in our capacity to achieve our objectives.
+<START>So I’m comfortable with not moving today and basically fine with the language in alternative B. I have just two other observations to make.<END>
+<START>It is striking that we have an asymmetry in the growth paragraph and in the inflation paragraph in that we have slipped into giving a forward-looking view about the likely path of inflation in a qualitative sense but have not done so in the growth paragraph for lots of reasons.<END>
+I think that the asymmetry creates a bit of a problem for us today in trying to explain how we view the outlook and the risks to the outlook.
+<START>The absence of any language about the future path of growth makes me more uncomfortable than I felt about the path today, and so I think we should come back and think about whether we want to correct that.<END>
+Correcting that asymmetry might help a bit in explaining to the world any difference between the staff forecast, which will be clearly reflected in the minutes, and the implicit forecast of the Committee.
+My second point is just about the minutes.
+I think that there is an issue regarding the minutes in that the staff forecast gets expressed with a clarity that is not expressed about the Committee forecast.
+The Committee forecast is necessarily described more vaguely:
+It’s harder to find what the center of gravity is, and even the tails don’t necessarily come through.
+We probably September 20, 2006113 of 132 saw the reaction we did to the minutes last time because, even when the Committee’s judgment is much different from the staff’s, that difference is hard to characterize in the minutes.
+That is another topic for future discussion.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you all.
+Our pause at the last meeting was a benefit-cost calculation.
+<START>The benefit of pausing was to give ourselves more time to assess the state of the economy and the effects of our previous interest rate actions.<END>
+<START>The potential cost of pausing was that we would lose some credibility, that inflation might move adversely, and we would get behind the curve in terms of that very important goal.<END>
+<START>The intermeeting developments have shown a somewhat weaker economy in real terms than we had expected and, I think I can safely say, no reduction in uncertainty.<END>
+Although inflation remains above where we would like it to be, I think we can’t say that the inflation situation has deteriorated during the intermeeting period.
+Therefore, it’s reasonable for us to continue to pause to get more information and to evaluate the state of the economy.
+We can, of course, maintain our policy stance at this level for a while if we deem it sufficiently restrictive, or we can move it as new information comes in.
+At this point we will have a very high degree of flexibility in future actions.
+I’d like to make a few other comments about some of the conversation around the table.
+<START>I’m bemused by the de facto inflation targeters that we have become here [laughter] with the 1.5 percent goal.<END>
+Let me just make a couple of comments on that.
+<START>First, flexible inflation targeting does respond to things other than the target itself.<END>
+<START>In particular, we saw a surprising increase in inflation earlier this year, which took us above or further above our implicit target.<END>
+The optimal response to that is to return to target, but only slowly and with the amount of time to take to get back to the target depending positively on the initial deviation.
+Second, the speed at which you return to the target ought to depend on the state of the real economy.
+The extent to which we’re concerned about September 20, 2006114 of 132 potential recessionary effects should make us be a little more cautious and make us move a little more slowly.
+I would add that, although a number of us, including myself, have mentioned this 1 to 2 percent zone, it has also been noted around this table that it may not, in fact, be the right zone.
+If we do determine that we want to announce a target and it is 1.5 percent, we should lay out a plan for getting to that level over a period of time and not immediately.
+But we might choose as an alternative possibility, for example, 1½ to 2 percent, in which case we would be somewhat closer to that target in a shorter time.
+<START>Let me also say a word about credibility, which is a little subtle, and I am probably going to mess it up.<END>
+I think there are two definitions of credibility.
+The first is the one we are all familiar with, which Paul Volcker gave to the Federal Reserve and for which he is one of my personal heroes.
+<START>That is the kind of credibility that involves doing what you have to do to get inflation where it needs to be.<END>
+Let me be completely clear that, if inflation conditions begin to deteriorate and our credibility comes under serious threat, I certainly will support doing whatever it is we have to do to maintain that credibility.
+There is another kind of credibility, however, which I think was brought to the Federal Reserve by Alan Greenspan, which is credibility and confidence in our ability to analyze and forecast the economy sufficiently well that we can achieve our objectives in a way that does not induce undue harm to the economy.
+<START>I think that the Greenbook forecast, if it comes true, would in fact be a quite positive accomplishment for this Committee because it would have us bringing inflation down to a reasonable level in a moderate way and avoiding a recession.<END>
+That outcome would actually be very good.
+In fact, our task is going to be more difficult than that, as I’ve indicated.
+<START>Part of our task going forward is not just to show that we’re committed to fighting inflation, which we are, but also that we are very deftly evaluating the state of the economy and making good judgments about what needs to be done.<END>
+September 20, 2006115 of 132 Let me turn to the statement.
+I would like to discuss certain elements of it.
+I’d like to propose that we use alternative B, and let me note a few points.
+<START>First, I’m sure that everyone noted that in section 2, in the phrase “reflecting a cooling of the housing market,” we are eliminating the word “gradual” and doing so indicates a somewhat stronger degree of cooling.<END>
+Second, in response to President Poole, I think this is not intended to be anything other than a pure description of the economy and our sense of what is happening in the economy.
+It actually does have a bit of a forward-looking aspect as well, Vice Chairman Geithner;
+and it is factual in that, if you look at the forecast, the slowdown in construction accounts for almost all the decline from potential.
+So I don’t think it’s in any way focusing our policy decision on the housing sector.
+In section 3, the addition of “reduced impetus from energy prices” is useful, I think.
+We have been criticized for, among other things, being too sanguine about the disinflation and arguing implicitly that a modest amount of slowing in the economy would be sufficient to achieve disinflation.
+We do not actually believe that, and one of the reasons we forecasted a decline in inflation is that we expected to see a reduced impetus from energy prices going forward.
+We now have actually seen the fall in energy prices, and so we don’t have to appeal even, for example, to the futures market.
+We can simply state that we have seen this decline in energy prices, and I think that makes our story a little more complete and makes it look more understandable to the public about why we think that inflation should decline slowly over time.
+I propose to keep the assessment of risk as it stands.
+<START>It’s very clear that our bias is toward resisting inflation.<END>
+<START>I’m not even sure that B+ would actually be a more hawkish phrase because it admits the possibility of easing, whereas this statement actually suggests that it’s unlikely that our next move will be anything other than upward.<END>
+<START>I am torn about the phrase “on balance.” The intention of the phrase was to note the slightly better readings but to emphasize that the overriding September 20, 2006116 of 132 view is that inflation readings are still elevated.<END>
+However, several people have suggested taking it out, and I am willing to do so.
+Are there others who have a strong view one way or the other?
+MR.
+MOSKOW.
+I would agree with taking it out.
+It’s a good suggestion because, when you change the language from the last time, people focus on that, and putting it in will overemphasize the importance of it.
+CHAIRMAN BERNANKE.
+I get a sense of nodding around the table, so let’s strike the words “on balance” from section 3.
+“In part” was changed back to “partly” just to be the same as last time.
+We consulted with the style editor, and she assured us that there was no substantive difference between those two.
+[Laughter] So my recommendation then is no action today, and alternative B in the statement is amended by eliminating the phrase “on balance.” May I have your reactions?
+All right.
+If there is no further comment, then please call the roll.
+MS.
+DANKER.
+I will be reading the language from page 25 of the Bluebook directive first.
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+<START>To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with maintaining the federal funds rate at an average of around 5¼ percent.” Then the risk assessment:<END>
+“Nonetheless, the Committee judges that some inflation risks remain.
+<START>The extent and timing of any additional firming that may be needed to address these risks will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.” Chairman Bernanke Yes Vice Chairman Geithner Yes Governor Bies Yes President Guynn Yes Governor Kohn Yes Governor Kroszner Yes September 20, 2006117 of 132 President Lacker No Governor Mishkin Yes President Pianalto Yes Governor Warsh Yes President Yellen Yes CHAIRMAN BERNANKE.<END>
+Thank you very much.
+Our next meeting is a two-day meeting, and we will have the long-anticipated discussion of inflation targeting [laughter] on October 24 and 25.
+The meeting is adjourned.
+END OF MEETING September 20, 2006118 of 132
+INSTANCE OF DISAGREEMENT: 96

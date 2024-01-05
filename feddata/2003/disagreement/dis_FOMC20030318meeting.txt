@@ -1,0 +1,675 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+<START>The toll of uncertainty on consumers showed through in drops in confidence and also in a slowing of consumer purchases of big-ticket items.<END>
+Businesses mirrored consumers by slowing their orders of new equipment, cutting production, and delaying hiring.
+Finally, March 18, 200361 of 101financial market participants appear to be highly uncertain about future stock returns and are highly averse to that uncertainty.
+These factors evidenced themselves in a decline in stock prices that drove the equity risk premium to the highest level in more than a decade while, at the same time, purchases of corporate bonds drove yield spreads on those assets down further.
+These financial market developments are most unusual in my eyes in that they reflect a fundamental tension and inconsistency in risk appetites across assets pools that look to the same source of earnings
+—corporate earnings
+—for the underlying cash flow to support asset valuations.
+Now, as we all know, this uncertainty broke a bit last week and a little more with the President’s speech yesterday.
+What we’ve seen then is that stock prices soared, the dollar rallied, government bond prices fell, and oil and gold prices slid.
+As a central bank, presumably we should put a great deal of weight on financial market and commodity market input.
+But in this case one can only hope that the optimism about a benign outcome to both the war and the peace that’s embodied in these changes in asset prices becomes a reality.
+When put in an international context, as Dino pointed out earlier this morning, it is clear that financial market participants still seem to see the U.S.
+economy as
+—if I can say it this way
+—one of the least ugly economies on the horizon.
+Perhaps they’re looking to our longer-term fundamentals, which I would say are basically sound.
+Fiscal policy is already accommodative, monetary policy is by many measures still supportive of growth, the dollar has weakened a bit on net, and productivity continues to increase.
+Because of the uncertainty we have witnessed, it is difficult if not impossible to get a firm view of the forces driving recent economic developments.
+It is true that we were shocked not just by geopolitical concerns, which mounted steadily, but also by severe weather, which played through to higher gasoline and heating oil prices.
+<START>However, some of the weakness may also reflect more fundamental March 18, 200362 of 101difficulties that the economy is having in recovering from the recession.<END>
+The Greenbook reflects the forecaster’s dilemma by presenting what is described as a “mean” forecast, thereby I think putting equal weight on a range of possible outcomes.
+I do not see this as a cop-out at all but rather an honest reflection of the fact that nobody can declare with certainty which forces, either transitory or more fundamental, will shape the intermediate term.
+As others have already indicated, in these circumstances a prudent central bank certainty wants to do no harm.
+That is best accomplished, I believe, by reflecting honestly the imponderables that the immediate future holds and also by waiting for greater clarity to return.
+Thank you.
+CHAIRMAN GREENSPAN.
+Governor Olson.
+MR.
+OLSON.
+In talking with bankers within the last week or so, I think the vantage points of two in particular were of interest.
+One indicated that at his bank, one of the largest consumer lenders in the country, the volume and credit quality they have been experiencing recently is consistent with upward pressures on prices and yet they don’t sense any pricing pressures.
+The fact that they are a major credit card issuer and have a significant range of consumer loan products has historically given them a window through which they have been able to predict retail sales quite well, and that was the vantage point he was talking about.
+In contrast, on the commercial loan side he had two observations.
+One is that there is nothing in the pipeline.
+But two, which is of considerable interest, is that the credit quality of their loan portfolio has improved.
+If you follow the Call Report data, you would know that credit quality even on commercial portfolios had been declining up through the end of last year;
+but in this banker’s judgment, it has leveled out and maybe even improved.
+So we see the contrasting effects of banks having experienced improved credit quality yet no loan demand, which may in fact March 18, 200363 of 101corroborate Governor Bernanke’s thesis that the closer we get to the event, the higher the hurdle rate.
+The second report is from a bank that is a major commercial lender and also a major securities servicer.
+That bank had exactly the same experience with respect to the commercial loan portfolio but also had what it described as paralysis with respect to equity activity
+—no cross-border activity and no IPOs.
+The underwritings tend to be coming primarily from the municipal sector.
+The description we’ve heard this morning is of an atmosphere of uncertainty, some portion of which is geopolitical.
+This banker would characterize it somewhat differently.
+<START>He would describe it as paralysis of which the dominant reason is geopolitical risk, recognizing that there may well be other risks also.<END>
+One other note of caution from my contacts is that banks are now recognizing and starting to feel how expensive liquidity can be.
+As a result, we’re seeing evidence of banks reaching for yield.
+There has been a firming of the secondary market for commercial loans, for example, and new interest in the B tranche of collateralized loan obligations (CLOs).
+We also see banks reaching out on the term of their loans and investments to achieve higher rates of return, something Dino suggested was occurring and that I think President Pianalto hinted at as well.
+All in all, it is certainly a time of great uncertainty and therefore, as President Guynn and others have said, perhaps not a circumstance that can most directly be addressed through monetary policy.
+CHAIRMAN GREENSPAN.
+Governor Bies.
+MS.
+BIES.
+I also wanted to talk a little about the financial sector, including banks, and contrast that with what we see happening in the real sector.
+The Bluebook pointed out that commercial banks in the United States had record earnings in 2002.
+And they had record March 18, 200364 of 101earnings in 2001.
+We had back-to-back years of record earnings in the commercial banking system during a recession period and a relatively slow recovery
+—a period when interest rates have hit forty-year lows and one characterized by unusual liquidity circumstances as funds came back into the banking system.
+<START>I think one of the things we’re finding is that, while it is difficult to operate in an environment of uncertainty, banks really have learned to manage risks well.<END>
+The asset–liability management processes that banks initiated in the 1980s and fine-tuned in the 1990s clearly show that they can go through a major interest rate cycle and as a whole improve their earnings.
+Net interest margins in fact actually widened last year.
+On the credit side, we also saw banks managing credit very well.
+If we look at the 2002 numbers, the loan-loss provision as a percentage of the return on assets was basically flat compared with the previous year.
+<START>So again, banks are doing a much better job at managing credit risks.<END>
+What is also remarkable about these bank earnings is that they were achieved through a record return on assets.
+It wasn’t done through financial leverage.
+Banks in fact deleveraged last year, so it wasn’t a record year for return on equity.
+Banks achieved record earnings through stronger fundamentals as well as better risk management.
+<START>If we look at the broader financial markets, especially since our last meeting, we see that some of the volatility and excessive credit spreads we’ve observed in the last year or so have continued to improve.<END>
+As was mentioned earlier, while debt spreads are wider than historically, the spreads have moved in.
+Much like what we’re hearing from bank credit officers, the credit market folks are also saying that to some extent the uncertainty part of the debt spreads has been removed.
+<START>What upset everybody at the end of 2001 and 2002 was that prime credits were going immediately to bankruptcy and that was happening because of what I love to call “operational risks.” Credit was not the real issue.<END>
+These bankruptcies were due to accounting scandals and March 18, 200365 of 101management fraud.
+<START>Companies that deteriorated over time, like K-Mart, were handled in the traditional way.<END>
+But it was the uncertainty about what was going on with regard to these other factors that contributed to the widening of debt spreads in the investment-grade market.
+That seems to be coming down now, since we haven’t had any material events of that type in the last several months.
+Companies are restructuring.
+We know they’ve lengthened from commercial paper to longer-term debt.
+<START>Their corporate cash flow has also been improving, unfortunately in part because they are not making capital investments.<END>
+Consumers continue to refinance and restructure their debt.
+The staff has shown us that household debt service is actually down from where it was a couple of years ago.
+So household finances are in good shape.
+If the banking sector, corporate balance sheets, household finances, and debt markets are stronger
+—and equity markets we know at least have shifted to neutral
+—what really is happening?
+<START>Again we get a “disconnect” between the improvement of the financial sector and the weakness in the real sector.<END>
+After our FOMC meeting in January I was optimistic, as the news continued to be very, very strong.
+Then as the February data came out, as many of you have remarked already, suddenly we began to question what was happening.
+Was it the snowstorms?
+After all, even an old Southerner like myself actually had to go out and buy a pair of boots!
+I thought that would have helped the retail sales in February, but it didn’t!
+High heating oil and natural gas costs also took a toll on people’s spending.
+But as we’ve talked about, the uncertainty regarding what is going on in Iraq and maybe other countries appears to be preying both on consumers and businesses.
+Because it is very hard to evaluate risks and to make decisions in a period of high uncertainty, the decisionmaking that affects real economic activity and creates jobs and growth March 18, 200366 of 101in our resources has slowed to almost a halt.
+<START>So until we really know more about the situation in Iraq, I’m not sure what we can do to deal with the uncertainty through monetary policy.<END>
+<START>The concerns involve not only the war but also, as many of you have mentioned already, the aftermath of the war.<END>
+Unlike the situation in Kuwait, we are not going to be reinstalling the government;
+we have to help create a successor government.
+Therefore, I think the uncertainty is going to continue for some time.
+Because of the nature of the uncertainty, I’m uncomfortable making any change right now in the direction of policy.
+Thank you.
+CHAIRMAN GREENSPAN.
+Governor Bernanke.
+MR.
+BERNANKE.
+Thank you, Mr. Chairman.
+As many have noted, we’re currently in a period of maximum uncertainty, with the result that the economy is almost in a state of suspended animation.
+Until the world situation clarifies, the hurdle rate for investment or any major commitment will be very high, as some of my colleagues have noted.
+By the same token, any action we would take on rates today would be largely inframarginal.
+I continue to believe that the economy has substantial fundamental and financial strengths.
+There is also a lot of accumulated slack in the economy because we’ve had essentially no employment gains for about two years.
+Therefore, I think there’s a good chance that a reasonably successful resolution of the Iraqi situation will lead to strong growth in the second half of this year and in 2004.
+But in deference to President Minehan, I also agree that some alternative, more negative scenarios are possible.
+Here are two.
+The first is what I call the “fear of fear itself” scenario
+—continuing pessimism.
+<START>There might be a less than satisfactory outcome to the war or continuing fear of terrorism, in which case consumer confidence and self-confirming doubts might lead to slow growth in investment and consumer spending.<END>
+I think that’s a real possibility and one that we need to keep in mind.
+<START>March 18, 200367 of 101A second possibility, which is perhaps complementary to that, be a weak profits scenario.<END>
+would Firms could find that their international markets are very weak, and they could continue to suffer from high energy costs and high costs for insurance and pensions.
+That combined with structural issues in a number of major industries and perhaps a lack of technological opportunities
+<START>—or opportunities that are less good than hoped for<END>
+<START>—might result in profits that are not strong.<END>
+<START>That in turn would lead to weaker stock market valuations and less investment than we’re hoping for.<END>
+So those are two possible scenarios.
+Given the amount of slack in the economy, I think either of those situations, if they were to materialize, be amenable to continued stimulation from both monetary and fiscal policy.
+would Let me say a word about timing.
+Over the intermeeting period there is, of course, the possibility that the current very high level of uncertainty will be resolved one way or the other.
+On the one hand, we could get very good results in Iraq with strong financial market reactions, a boost in consumer confidence, strong anecdotal reports, and so on.
+That would support the case for waiting and watching with the hope that the strong recovery would commence.
+On the other hand, we might get the other tail of the distribution of possible outcomes
+—bad results in Iraq and much concern at home, and negative financial market responses to that.
+But I want to echo what David Stockton and several others have pointed out
+—namely that there is a large middle area of the distribution that we might be facing at the next meeting.
+There may still be considerable uncertainty about the state of the economy going forward and whether or not the scenario in the Greenbook will in fact be realized.
+I would like to caution against the situation where we are continually waiting for uncertainty to be resolved before taking action.
+That situation could go on indefinitely.
+<START>If the economy is still struggling and if there is no significant improvement or March 18, 200368 of 101evidence of increasing strength by our next meeting, I hope we will at least consider the case for easing policy at that time.<END>
+Thank you.
+CHAIRMAN GREENSPAN.
+Thank you very much.
+Mr. Reinhart.
+MR.
+REINHART.2 Mr. Chairman, Carol will be distributing some materials that I’ll be referring to.
+With events moving quickly, I thought it best to start with the snapshot in exhibit 1 of market participants’ current thinking about the decision you will announce this afternoon.
+As shown in the top panel, at ten o’clock this morning the April federal funds rate futures contract traded 9 basis points below the current 1¼ percent intended level, consistent with a one-in-three chance of a quarter-point easing.
+<START>Survey responses collected Friday (the middle left panel) indicate that the majority of investors believe that you will depict the balance of risks as tilted toward economic weakness, a shift in sentiment (the middle right panel) that followed the release of a surprising contraction in payroll employment.<END>
+You might not want to bank too much on these readings, though, in that expectations have been changeable of late and are now quite diffuse, as shown in the bottom panel in the implied probability distribution of where the funds rate will be in six months.
+Note both that the left tail of this probability distribution is bunched at quite low levels of the funds rate and that one-fifth of the mass rests above the current intended rate.
+Among the market participants who are counting on policy easing, recent readings on the labor market
+—both the February employment report and the high level of initial claims
+—seem to weigh importantly in their thinking.
+Moreover, with equity wealth once again lower and consumers appearing less confident, the expansion of aggregate demand seems to be on a slower track than we had anticipated earlier.
+The declines in estimates of the equilibrium real federal funds rate, plotted in your next exhibit, summarize that downward reassessment of spending relative to potential output.
+Indeed, by these measures, maintaining the current stance of policy would imply some tightening of the real funds rate gap relative to what you viewed as appropriate with your easing on November 6.
+Note also that this assessment is not just a characteristic of the staff’s outlook and empirical models (the shaded region), in that the reading of the equilibrium rate derived from the indexed debt market (the thin line) also turned down.
+<START>With inflation also inching lower in the projection, the Committee might view the cost of another 25 or 50 basis point easing as small given the stability of long-run inflation expectations (the bottom panel) relative to the benefits of some stimulus to aggregate demand.<END>
+<START>For all the focus on weakness in hiring and in confidence over the intermeeting period, other data have been mixed and on net have led the staff to increase the level of real GDP in this quarter and the next compared with the baseline presented in January.<END>
+Indeed, as shown in exhibit 3, two- and ten-year Treasury yields 2 The materials used by Mr. Reinhart are appended to this transcript (appendix 2).
+March 18, 200369 of 101actually rose in the half-hour windows surrounding the key data releases represented by bars in the top left panel.
+That is, as the tally at the right indicates, the reaction to macroeconomic news cannot account for the net movement in rates since January 29.
+The sharp and sudden movement in asset prices at times over the past few weeks on rumors of war may reveal the extent to which the current configuration of financial market quotes is only loosely tethered to economic fundamentals.
+It seems that uncertainties about war and the economy are leading spenders and investors to defer commitments, but we have no way of parsing the relative importance of those two sources of doubt.
+<START>Market prices, though, appear consistent with the overall amount of uncertainty abating over time.<END>
+If not, it is hard to understand why, as shown in the two middle panels, risk spreads on corporate bonds narrowed over the intermeeting period
+—as Governor Bies mentioned
+—or why options on swap forward rates and oil prices imply that volatilities are expected to move lower, as shown in the bottom panels.
+Given this prevailing uncertainty and skittishness in the marketplace, the Committee might be especially unsure as to how investors would react to policy ease at this juncture.
+Going back to the transcripts from the onset of the Gulf War in 1991, more than a few members doubted the efficacy of monetary policy action in spurring spending when global events were in the driver’s seat.
+As the discussion about policy gradualism at the last meeting underscored, such uncertainties about the policy multiplier, all else being equal, would probably incline you to attenuate action, perhaps to the point of keeping policy on hold at this meeting.
+With conflict in Iraq seemingly at hand, this is one of the few times it could be said that some aspects of uncertainty will lift with the passage of time
+—although to what degree and how soon are not obvious at this point.
+Deferring action might also be seen as having the advantage of allowing the Committee to calibrate its action more precisely as additional information about geopolitical developments emerges.
+Indeed, the Committee might want to be able to use a significant portion of the current 125 basis points of room above the zero bound in a timely fashion if events turn sufficiently adverse.
+<START>While research generally counsels that the presence of the zero bound makes acting preemptively superior to arguments about “keeping your powder dry,” that body of work measures time in quarters.<END>
+<START>With war seeming about to begin, you may be measuring time in days or weeks, and it is difficult to imagine that a short delay would leave a discernible imprint on economic activity.<END>
+But the Committee might view those darker possibilities as quite remote.
+Rather, the Committee may be reading the substantial rally in financial markets when coalition troops commenced the Gulf War in 1991 as the more likely outcome.
+<START>If it is mainly worries about the world that are making households and businesses hesitant to spend, then the successful prosecution of war against Iraq should resolve some of their doubts and provide important stimulus to spending.<END>
+<START>That said, the current situation may not be nearly as neat as in 1991 in that concerns about geopolitical tensions might not be March 18, 200370 of 101punctured by decisive military victory, given questions about the formation of a new government in Iraq, the prospect for terrorist actions, and adverse developments in other trouble spots.<END>
+If that seems farfetched, I’d remind you that we are once again at code “orange,” indicating heightened risks at home.
+<START>Your last exhibit, besides providing a rationale for keeping policy on hold, addresses the issue of the balance of risks assessment.<END>
+<START>If the Committee believes that the cloud of war worries will soon dissipate to reveal an economy that is fundamentally sound, then it should indicate so by retaining its risk assessment as balanced with respect to both of its goals (the top left panel).<END>
+The Committee might also opt for a balanced risk assessment if it feared that a change would convey more conviction to market participants about the outlook than it actually had.
+If instead, more weight were given to the downbeat economic data of late and the forecast that inflation would move lower still from its already low level, the Committee might favor a risk assessment weighted toward economic weakness (the top right panel).
+According to the survey evidence, this outcome best matches investor expectations, suggesting that it should be preferred if the goal is not to test the market’s resilience to surprise.
+Still, such a shift might be read by the broader public as suggesting that the near-term outlook was weaker than feared, a message that might be problematic in a nation on a war footing.
+In fact, the public’s focus has shifted to a different stage, and in light of the unusual uncertainties, what the Committee does and says today is unlikely to be extrapolated too far into the future.
+The broader problem the Committee faces is whether it can usefully characterize the balance of risks in an environment of such diffuse uncertainty.
+This is territory that Frank Knight trod eighty-seven years ago.
+As he noted then and as is repeated in the middle panel, “we can only appeal to the law of large numbers to distribute the losses and make them calculable . .
+. in so far as they repeat themselves.” Moreover, Knight considered circumstances when prospects were sufficiently diffuse that, as he wrote, “The conception of an objectively measurable probability or chance is simply inapplicable.” It may be that the current situation has transited from a sense of known possibilities with assigned probabilities
+—that is, risk
+—to Knightian uncertainty.
+<START>If so, Knight’s advice to the Committee is that “the fundamental uncertainties of economic life are the errors in predicting the future and in making present adjustments to fit future conditions.” If the possibilities are that uncertain, the Committee could, as outlined in the bottom panel, defer announcing an assessment of the risks under the rationale that it is better to be unspecific than specifically wrong.<END>
+Such a course would probably require a promise of heightened surveillance to the public and a willingness among yourselves to convene a conference call before the next meeting if events clarify the odds.
+Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+Thank you very much.
+Questions?
+If not, let me move forward.
+Today’s discussion around the table pretty much coalesced into significant alternative March 18, 200371 of 101outcomes.
+I believe almost everybody would argue that the economy is weak, and indeed I suspect on the basis of the most recent numbers that economic activity has probably been declining in the last two weeks.
+There was some significant improvement in economic activity from Christmas through the first week in February, but the economy subsequently began to weaken measurably, evidently in conjunction but not necessarily in line with the significant rise in gasoline prices that started in early February.
+Gasoline pricing is like a withholding tax, if I may put it that way, that is set by the service station operator.
+Those who purchase gasoline know exactly what they are paying, and I would submit that many people are far more aware of the reduction in their disposable income coming from rising gasoline prices than they are of their weekly tax withholdings, which they probably don’t look at very closely.
+The rise in gasoline prices has been dramatic.
+Somebody mentioned earlier that this increase might in fact be a factor in the recent weakening of motor vehicle sales.
+The latter clearly has occurred, and that includes sales on an incentive-adjusted basis, if I may put it that way.
+<START>With regard to the advance in gasoline prices, which in a sense is the specific result of the current geopolitical uncertainty, we can point not only to Iraq but, as others have mentioned, to Venezuela, which is experiencing serious economic and political problems.<END>
+Somebody also mentioned Nigeria, which likewise is having severe difficulties.
+That country is a very large supplier of oil, and its output could well go down sharply.
+Bob, I wasn’t aware that in Texas people are talking about the possibility of a near-term shutdown in Venezuelan oil production.
+My impression is that production has risen from a much lower level to about 2 million barrels a day in Venezuela.
+That’s still well short of their 3 million barrels a day capacity.
+<START>One of the problems they reportedly are having, and I’m not March 18, 200372 of 101sure it’s actually true, is that some of the oil industry workers who were fired absconded with the software that runs many of the wells, and the Venezuelans are having trouble bringing output back toward full production.<END>
+MR.
+MCTEER.
+Some of our contacts indicated that their production is closer to 1.3 million than to the stated 2.9 million.
+CHAIRMAN GREENSPAN.
+The stated 2.9 million figure, as everybody knows, is phony.
+MR.
+MCTEER.
+The actual number may be a little less than half that stated level.
+CHAIRMAN GREENSPAN.
+Yes, but a number of the oil analysts who follow Venezuela fairly closely are saying it’s 2 million.
+Now, if you want to go down and look, we’ll both go down and look.
+VICE CHAIRMAN MCDONOUGH.
+If you go down and look, there could be two openings on the Committee.
+[Laughter] CHAIRMAN GREENSPAN.
+You’re still trying to figure out ways to improve this place?
+[Laughter] MS. MINEHAN.
+There’s no uncertainty about the risk of doing that!
+CHAIRMAN GREENSPAN.
+<START>In any event, I think the argument that the geopolitical risks are affecting economic activity has a certain credibility, but there is no way to know how much.<END>
+<START>You can argue that the Iraqi and Venezuelan situations are having a negative effect, but you obviously can’t argue that all of the negative effect bearing on current economic activity is a result of concerns about oil.<END>
+I do think that the fact that the economy slowed so quickly as the price of oil rose suggests that oil is playing a part.
+Moreover, it is significant that the stock market rose sharply and oil prices fell abruptly as the time for a final decision on an Iraqi war March 18, 200373 of 101moved closer.
+<START>Governor Bernanke has noted that the hurdle rate goes up as we get closer to the event, but that presupposes a risk-neutral and not a risk-averse view of the world.<END>
+So, why is it that merely moving up the time when an event will take place creates a significant change in one direction or the other when nothing has occurred to alter the way people view how things will turn out?
+That should not happen unless there are very significant risk-adverse characteristics in the market.
+What we are in fact observing here, a very sharp reaction, is evidence in my view that the Iraqi war issue is a relevant consideration.
+In particular, the role of Iraq strikes me as a crucial factor in light of the recent behavior of the oil, stock, and bond markets.
+<START>As I’ve said previously, we may think that the probability of a very favorable outcome in Iraq is 90 percent, but the 10 percent residual is very scary.<END>
+That 10 percent continues to be very scary because nothing has happened to change the outlook significantly.
+I would also note that the acceleration in economic activity from Christmas to early February seems indicative of the fact that some fairly positive developments must have been going on in the underlying economy, which may or may not have been brought up short by the acceleration in oil prices.
+The point I’m trying to make is that we should be in a far better position to assess the underlying strength of the economy once the major uncertainties about the Iraqi war are resolved, especially if it goes the way people expect.
+<START>We will then be in a situation where we can better focus on the other uncertainties and factors affecting the performance of the economy.<END>
+The erosion that has occurred in this economy in the last five or six weeks has been quite significant, and we don’t know, of course, exactly why that has occurred.
+There are ongoing developments, which have been mentioned today, that may have more serious consequences than we can know at this point.
+March 18, 200374 of 101The natural gas issue is a very big question.
+We are drilling very heavily for natural gas.
+Yet marketed production barely moves.
+That’s largely because improved technology has made it possible to drain probably half the reservoir of a new natural gas field in the first year.
+Since we are putting so much of our infrastructure investment spending for energy production into a whole set of gas turbine based systems, our only new source of gas is liquefied natural gas.
+We cannot increase domestic production, and we cannot increase our pipeline imports of natural gas significantly, of which something on the order of 4 trillion cubic feet per year are coming in from Canada.
+As a consequence of that, natural gas could be a much more serious problem than we realize, and it could have a fairly significant impact on the whole petrochemical industry structure, which is not a small part of this economy.
+That has nothing to do with Iraq, but it’s a really fundamental problem for the United States.
+<START>In general, I think that we have here, as a number of you have mentioned, a true Knightian uncertainty issue.<END>
+In the past when we talked about the balance of risks, we presumed that we were able to judge that balance, which implies some judgment of the probability distribution on both sides of the forecast.
+As many of you have indicated, that does not seem to be the case at this stage.
+Our degree of uncertainty has gone up dramatically, largely because of the apparently very marked impact that the Iraqi oil uncertainty and the other geopolitical risks are having on economic activity.
+Our presumption is that, at some point in the not-too-distant future, we will be able to turn uncertainty into actual probability distributions on which we can make judgments.
+While we can consider as many hypotheses and scenarios as we think may potentially be useful, my suspicion is that we really don’t know.
+It’s very important for us to convey to the public that we don’t know because the truth of the matter is that nobody can know.
+<START>If the Committee were to come out with either a balanced risk assessment or a sense that the March 18, 200375 of 101risks are on the downside, I think such a statement would be conveying more knowledge than we can possibly argue that we have.<END>
+<START>The smartest thing we could have done last year when we set our meeting schedule for this year would have been to recognize that today was the wrong day to hold a meeting.<END>
+<START>[Laughter] I tried to convey to the Administration that we were going to have a meeting today and it wasn’t altogether a good idea to start a war at this particular point.<END>
+But they must have lost my note somewhere!
+In any event, I think the bottom line here is that it is important that we communicate the fact that this is truly a period in which uncertainty as distinct from risk is the dominant element in all of our deliberations.
+Because of that as we move from uncertainty toward risks, the payoff from heightened surveillance should be very large.
+That is, we are going to learn a great deal about the economy over the next several weeks.
+As a consequence I think we will be in a position to address the issue of whether we ought to be moving or not.
+I do acknowledge the probability that our next move is more likely to be a reduction than an increase in rates, but I do not base that on any knowledge that I would feel very comfortable with.
+It’s more an instinctive than an intellectual judgment.
+In the circumstances, I think we probably ought to stay where we are, indicate that we do not have the capability of truly making a judgment about the balance of risks, but nonetheless indicate that we continue to view the underlying structure of the economy as consistent with a favorable outlook.
+Factors supporting this assessment include improving productivity;
+I think the staff forecast for this quarter is a 3 percent rate of increase.
+This suggests that the potential for growth of profitability obviously still has considerable possibilities.
+If the stock market goes up, history tells us that people who are very depressed will rapidly cheer up a good deal.
+In my experience there is nothing more effective for boosting a company’s capital appropriations than having its March 18, 200376 of 101stock price go up.
+That shouldn’t happen, but it does.
+Well, I shouldn’t say it shouldn’t.
+It does say that the market value of existing assets has gone up and therefore the opportunity cost of new assets has basically decreased.
+So it is quite conceivable that, if the stock market rallies significantly, we may find that this economy will begin to look like the Greenbook forecast.
+<START>If it doesn’t, then I think there will be a fairly strong argument that we should start to ease policy.<END>
+My impression is that we will probably know a good deal more before the next meeting.
+<START>If indeed that is the case and action is required, we probably would be well advised to have a telephone conference and decide whether or not there’s any action we wish to take or what we wish to do.<END>
+Vice Chair.
+VICE CHAIRMAN MCDONOUGH.
+Mr. Chairman, I assume that what you are recommending is that we do nothing today, that we have no balance of risk statement, and that we remain very alert to developments.
+Assuming that’s what you are recommending, I’m fully in favor of it.
+CHAIRMAN GREENSPAN.
+Governor Ferguson.
+MR.
+FERGUSON.
+<START>I support the combined recommendation of the Chairman and the Vice Chairman.<END>
+[Laughter] CHAIRMAN GREENSPAN.
+He merely interpreted what I said!
+MR.
+FERGUSON.
+The recommendation and the interpretation.
+[Laughter] CHAIRMAN GREENSPAN.
+That’s better.
+Governor Bies.
+MS.
+BIES.
+I support your recommendation.
+CHAIRMAN GREENSPAN.
+President Hoenig.
+March 18, 200377 of 101MR. HOENIG.
+Well, I support your recommendation, Mr. Chairman.
+But I have a question for you.
+Are you planning to say in the press statement that we stand ready to move, or are you just leaving that open?
+CHAIRMAN GREENSPAN.
+No, I think what we would want to do essentially is to stipulate that because we’re presumably moving from a period of uncertainty to one of risk we are involved in heightened surveillance, which implies that our policy will depend on how the situation unfolds.
+For example, the stock market is up 20 percent in Europe.
+If it stays there, that’s going to change a lot of things, but I don’t know if it’s going to stay there.
+So it’s too soon to move in one way or the other.
+MR.
+HOENIG.
+Yes, I agree.
+It wasn’t clear to me how you were planning to explain our posture to the public.
+That answer was helpful.
+Thank you.
+VICE CHAIRMAN MCDONOUGH.
+The idea is to have the possibility but not the certainty of a move;
+otherwise the market will be waiting every morning for us to have a meeting.
+MR.
+HOENIG.
+Absolutely.
+CHAIRMAN GREENSPAN.
+Governor Kohn.
+MR.
+KOHN.
+I support your recommendations, Mr. Chairman.
+I think, as I noted in my comments, that we really don’t know enough to say anything.
+I would also agree with President Hoenig in that I would try to stay away from building up expectations in the market that we are about to do something.
+Although we may get clarification over the next few weeks, I think the probabilities are very high that we could get to the next meeting before we have an idea
+—and even then it might not be really clear
+—of where things are going.
+CHAIRMAN GREENSPAN.
+President Guynn.
+March 18, 200378 of 101MR. GUYNN.
+Mr. Chairman, I support your recommendation.
+My staff and I struggled mightily with how we would handle the balance of risks statement.
+Hats off to the person who first came up with the idea.
+CHAIRMAN GREENSPAN.
+It was a combination of the great insights of Governor Kohn and Vincent Reinhart.
+MR.
+GUYNN.
+Hats off to Don and Vincent.
+I would also echo Don’s comments about the need to be careful that we don’t go too far in implying that a move is imminent.
+Thank you.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+MR.
+GRAMLICH.
+I support the recommendations.
+I’d like to say three other things.
+First, I actually buy the Knightian uncertainty analogy and using that as a rationale for deferring the announcement of our judgment on the balance of risks.
+<START>Second, as Dave pointed out, there is a strong possibility that in fact we’re not going to know that much very soon for various reasons that have come up around the table, and I think we want to guard against making uncertainty disabling.<END>
+That is, in my view we ought to have a call in a few weeks, and we ought to be thinking about acting even in the presence of continued Knightian uncertainty.
+The situation may not be convertible to nice probability distributions, but we may have to act still.
+I believe that we ought to prepare ourselves for that possibility mentally.
+My third point is that the funds rate is low;
+and if it goes down any more, it will get lower still.
+[Laughter] I’m just trying to lay this out in small steps!
+[Laughter] If it gets down much lower, we’re soon going to have to confront the alternative or untraditional measures that we’ve been telling ourselves we have in our quiver that we can use in such circumstances.
+<START>It’s not too soon to start thinking about what we’re going to do and also what we will look at to know how well we are doing.<END>
+I believe we have to think about both and fairly soon.
+March 18, 200379 of 101CHAIRMAN GREENSPAN.
+May I interject a comment here?
+Ned and I had a discussion about this yesterday.
+We have to be very careful, if we’re looking at new techniques, not to get ourselves involved in any pegging of intermediate- or longer-term rates.
+I say that not because we couldn’t make it happen but because the problem of unwinding that sort of peg will result in utter chaos.
+We have no choice but to fix the overnight rate because we’ve tried everything else and nothing else has worked.
+Pegging the overnight rate is a fallback position and one that I’m sure we would endeavor to work our way out of if we could.
+<START>If we decide that we want to move to the intermediate rates to try to support rates, the last thing we want to do is to mention what our goal is because we will be able to unwind never from that if we get locked in to a specific pattern.<END>
+I agree with Governor Gramlich that it’s certainly not too soon to give some thought to these issues.
+But we have to be careful in determining not only how we phase our way into a particular policy but how we phase our way out.
+In many respects, the latter is far more difficult than the former.
+VICE CHAIRMAN MCDONOUGH.
+Mr. Chairman, the present Manager of the System Open Market Account and I, as a previous Manager, are absolutely in agreement with you.
+We cannot peg an intermediate rate.
+It would be very, very dangerous to try to do that.
+CHAIRMAN GREENSPAN.
+President Pianalto.
+MS.
+PIANALTO.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Santomero.
+MR.
+SANTOMERO.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Parry.
+MR.
+PARRY.
+Mr. Chairman, although I think an economic case can be made for easing policy, I support your recommendation.
+I would also suggest that the idea of having a March 18, 200380 of 101conference call strikes me as very useful.
+It may be that a call wouldn’t necessarily be scheduled only for the purpose of considering a policy change.
+If we’re going to have the events that we’re all anticipating imminently, it seems to me that a call next week or even
+— CHAIRMAN GREENSPAN.
+Next week will be too soon.
+We won’t know enough in a week.
+MR.
+PARRY.
+I’m thinking only in terms of getting updates from the staff about how things are unfolding, not in terms of any consideration of policy action.
+CHAIRMAN GREENSPAN.
+Well, what is the Committee’s general view on this?
+I remember that at the time of the October 1987 stock market crash we had daily conference calls for general updates.
+MR.
+PARRY.
+We did.
+CHAIRMAN GREENSPAN.
+I don’t think a daily call is required, but if you’re talking just about basic updates, is there interest in doing that?
+VICE CHAIRMAN MCDONOUGH.
+I’d suggest weekly.
+CHAIRMAN GREENSPAN.
+Yes, perhaps weekly.
+MR.
+PARRY.
+Fine.
+MS.
+MINEHAN.
+That’s a great idea.
+CHAIRMAN GREENSPAN.
+One of the advantages of doing that, incidentally, is that the interaction among the Committee members will create a higher level of insight as to what is going on.
+Too often that kind of discussion would be a waste of time.
+I don’t think it would be in this case.
+So shall we commit to that?
+SEVERAL.
+Yes.
+CHAIRMAN GREENSPAN.
+Okay, let’s do it.
+President Stern.
+March 18, 200381 of 101MR. STERN.
+I support your recommendation.
+CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+Mr. Chairman, I support your recommendation on the intended federal funds rate, but I have a question about the other two aspects of it.
+I agree completely with your rationale and your discussion about the difficulty of assessing the balance of risks.
+What I’m concerned about is that people in the markets didn’t hear our discussion on that and it may be very difficult to convey our meaning.
+I think we want to be careful that we don’t create any uncertainties that produce more problems than we’re trying to solve.
+That’s one concern I have.
+My second concern relates to the issue of heightened surveillance.
+I think the markets understand that we’re always on the job.
+Therefore, my concern is that people may look at that and think we’re likely to do something in response to an event when in fact the event falls short of a situation in which we would want to act.
+So my concern relates to how we accurately convey our intent.
+CHAIRMAN GREENSPAN.
+<START>Well, I think we can try, but we will never succeed in that respect.<END>
+There’s no way of so manipulating the views and attitudes of the marketplace that we can expect to alter them in a period like this.
+When there is continuity in the marketplace, I think we do convey our intent, and I think we do it rather well.
+But this is a discontinuous event with very significant implications.
+We are not going to avoid the general reactions that may best be characterized as the market trying to figure out what this group is going to do at any particular point in time.
+<START>We have to grin and bear it and do what we think is right, and that problem will gradually disappear.<END>
+It should not be a problem that, at least in my judgment, will create a big market distortion.
+VICE CHAIRMAN MCDONOUGH.
+I agree.
+March 18, 200382 of 101CHAIRMAN GREENSPAN.
+President Broaddus.
+MR.
+BROADDUS.
+Mr. Chairman, I can accept your recommendation.
+I have some of the same kinds of reservations and concerns that Bill Poole just expressed.
+I understand your rationale, and I think it makes sense.
+But this is a change, and I’m nervous because I don’t know how the markets and the public more broadly are going to accept it.
+So when we write our statement, I think the choice of language is going to be very important.
+CHAIRMAN GREENSPAN.
+Well, the draft language does try to deal with that.
+I’ll circulate the draft so you’ll get a sense of what it tries to convey.
+Let me just say this, however.
+There is no way we can get this done without a part of the market distorting what it is we’re trying to do.
+I know of no words that we can use to avoid that.
+MR.
+BROADDUS.
+I agree.
+CHAIRMAN GREENSPAN.
+<START>Basically, the only questions we have to be concerned about are, does it undermine the structure of the market or does it significantly affect the credibility of this institution?<END>
+I think the answer is “no” in both cases.
+But I’m also confronted with Knightian uncertainty in this respect.
+MR.
+BROADDUS.
+If I could, I’d like to follow up briefly on the conversation you were having with Ned a minute ago.
+I would urge the Committee to think a bit more fully about how we would deal with the risk of deflation, and especially public concern about deflation if that hits us, should we get into a situation where we’re closer to the zero bound.
+I personally don’t think deflation is a major current threat.
+I’m probably one of the more sanguine members of the group here in that regard, and maybe it’s odd for me to be the one making this statement.
+<START>Looking ahead, however, I do think that deflation is arguably a more serious potential problem than inflation for the intermediate term, and I don’t think we can assume that the confidence the March 18, 200383 of 101public has in the Fed to contain inflation necessarily carries over to deflation.<END>
+<START>We don’t have a very good track record in dealing with deflation.<END>
+CHAIRMAN GREENSPAN.
+We had only one event.
+MR.
+BROADDUS.
+That’s right.
+CHAIRMAN GREENSPAN.
+We’re 0 for 1.
+MR.
+BROADDUS.
+In any case, while I don’t expect this, it’s not hard for me to imagine events unfolding in such a way in the current period of volatile situations that we could find ourselves approaching the zero bound.
+Actually, I think it’s easy to imagine a situation where the funds rate moves below 1 percent fairly abruptly.
+I’m not anticipating that, but it’s certainly possible to imagine it.
+If the funds rate moves below 1 percent, the public’s concern about exactly how we’re going to deal with a deflationary situation is going to intensify quickly.
+We need to be prepared to answer those kinds of questions and assure the public that what has been happening in Japan is not going to happen here.
+While we at the Federal Reserve have made a couple of public statements regarding deflation, we haven’t said very much.
+I think we’re going to be pressed to say much more if we get in this situation.
+For our own benefit, among other things, I think we need to consider how we would measure the stance of policy and discuss policy operationally in the neighborhood of the zero bound.
+For example, one question is, will we have an operating instrument that will be a substitute for the funds rate if we are at zero or very close to zero?
+If so, we have to have some way of instructing the Desk on how to implement policy.
+I don’t know what that instrument would be, so we need to think about whether we are going to have one and what it would be.
+My own view is that it would be helpful, to me at least, if the staff could give us a “think piece” that might suggest in some detail what a Bluebook at the zero bound might look like.
+March 18, 200384 of 101What kinds of alternatives would be presented there?
+<START>In any event, I think getting out in front of this issue would help us avoid making policy mistakes and also help prevent public confusion and fear that might make the situation worse than it needs to be.<END>
+We may think we have time to do this, but I’m not sure we do.
+We could find ourselves in a situation like this relatively quickly.
+CHAIRMAN GREENSPAN.
+I agree.
+I don’t think we have much time, but I believe we’ve done a lot more thinking about this than is implied by your remarks.
+<START>The real danger here is that this market is running up on the expectation that the real problem is the Iraqi war, that we are going to get the Iraqi war resolved, and that there’s an increasing likelihood that nirvana exists somewhere out there.<END>
+If indeed there are far more deep structural imbalances in the system than we perceive or than the market perceives, then the economy could turn around very quickly.
+<START>In other words, in my view the deflation you’re concerned about cannot exist unless there is an asset price deflation.<END>
+The possibility that there will be a false run-up that fails to take hold is a perfectly credible scenario, and the reactions could be quite significant.
+In that event, I think we would have to move in a very expeditious manner.
+But you’re raising a question of what type of move we would make, and there has been quite a lot of thinking on that question.
+MR.
+REINHART.
+Actually, Mr. Chairman, I have had the staff start a fact book on the zero bound situation, which will list the unusual actions mentioned in the recent speeches by you and Governor Bernanke.
+It will include the authority under which the actions can be taken and any historical precedent.
+<START>The work has been fairly closely held because I had some concerns about what would happen were it to become known that we were actively engaged in contingency plans about the zero bound.<END>
+I’ve also asked the staff to look into some other issues, such as whether difficulties are posed already by the compression of deposit rates and money March 18, 200385 of 101fund rates.
+So, we are looking at that and questioning whether there are any other consequences for the functioning of money markets
+—problems that the Bank of Japan sometimes complains about
+—that would possibly incline you to resort to unusual policy actions before you get the nominal funds rate to zero.
+I know that Dino, working with the Research Department at the New York Fed, has been looking into these issues as well.
+I guess it might be helpful to get a little guidance from the Committee about whether there is a memo in my future.
+[Laughter] CHAIRMAN GREENSPAN.
+<START>Well, you are looking at the question of at what point money market funds run into trouble and at the timing of other structural difficulties in the system that may occur well before we get to the zero bound.<END>
+MR.
+REINHART.
+People are working on a couple of aspects of that.
+We’re looking at it in terms of depositories, the compression of deposit rates and money fund rates, and just generally wondering about market functioning.
+For instance, if the general collateral rate is ½ percent, then the unattractiveness of failing to deliver securities is not particularly high.
+MR.
+FERGUSON.
+I would argue two things, Mr. Chairman.
+One relates to your last point, which is similar to what Al Broaddus had to say.
+It’s not the zero bound that is necessarily driving this.
+Second, obviously on September 11 or shortly thereafter, we saw some of this as we were pumping a lot of liquidity into the markets.
+It will be very interesting to see if anything came out of that because we are talking about exactly that same kind of quantitative activity, though for a different purpose obviously.
+CHAIRMAN GREENSPAN.
+Governor Olson.
+MR.
+OLSON.
+I support both parts of the recommendation.
+CHAIRMAN GREENSPAN.
+President Moskow.
+March 18, 200386 of 101MR. MOSKOW.
+Mr. Chairman, I support the recommendation, too, and I’m delighted to hear that this contingency planning is already under way.
+I certainly hope we never have to use it, but I think it is important that we do the planning now.
+I have just one comment regarding the phrase “heightened surveillance.” I hope we’re going to use that phrase or something like it in the press statement because I know that market analysts have discovered that every time we’ve used the words “monitor carefully” in the past we have had a move between meetings.
+CHAIRMAN GREENSPAN.
+We’ve chosen not to use that wording.
+MR.
+MOSKOW.
+I’m delighted.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I agree that we should not make a policy change at this meeting.
+Now is not the time to move.
+My desire would be to stay as low key as we possibly can and let things play out over the next couple of weeks whatever way they’re going to play out.
+<START>The second part of your recommendation I have a bit more trouble with.<END>
+<START>I do think the risks are on the downside, and I don’t see a big problem with saying that.<END>
+<START>When we characterize the risks, we talk about them for the “foreseeable future.” Certainly the long-term fundamentals continue to be good<END>
+<START>—productivity, inflation credibility<END>
+—but for the foreseeable future, some of the short-term fundamentals are kind of dicey.
+<START>There are concerns about excess capacity in the case of business investment and concerns about employment, income, and the potential for declines in house prices on the consumer side.<END>
+So I do think that the risks are on the downside, recognizing that uncertainty clouds our ability to assess exactly where the risks are.
+I can go along with the recommendation to change the format in our press statement.
+I think the market is going to read that, particularly in the context of your recent testimony or one of your speeches
+—I forget which
+—as basically saying that there is a probability of an uptick March 18, 200387 of 101after uncertainty abates and attributing that uncertainty clearly to the war.
+In my view, the markets are going to read the fact that we don’t make a statement about the risks as effectively a move to the downside, so I guess I don’t have much of a problem with that.
+<START>But frankly, I think saying that the risks are to the downside is better because it keeps us closer to the norm and takes us more out of play.<END>
+To me doing something different puts a little more focus on the central bank than I think is desirable at this point, but on balance I don’t have a big problem with it.
+<START>I’d also like to associate myself with Ned Gramlich’s perspective that uncertainty itself can be paralyzing.<END>
+I remember reading the discussion from the last meeting where we thought we’d have a lot more information by March 18.
+As it turns out, we don’t have a lot more information.
+CHAIRMAN GREENSPAN.
+Well, that was my forecast.
+MS.
+MINEHAN.
+Well, we don’t have a lot more information as of March 18, and I don’t know whether we’re going to have a lot more information by early May.
+CHAIRMAN GREENSPAN.
+Actually we do have more information.
+MS.
+MINEHAN.
+<START>More negative information.<END>
+CHAIRMAN GREENSPAN.
+No, not necessarily.
+MS.
+MINEHAN.
+The war is starting.
+CHAIRMAN GREENSPAN.
+Incidentally, remember that I testified as I did regarding the probabilities of a strengthening economy because that was consistent with the actual forecasts of the members of this Committee.
+MS.
+MINEHAN.
+That’s right.
+CHAIRMAN GREENSPAN.
+I was locked into explaining why everybody had an accelerating growth forecast back in late January.
+March 18, 200388 of 101MS. MINEHAN.
+That’s right.
+I shouldn’t have laid it so much at your doorstep.
+That was what we said in our forecasts as of the January meeting because those forecasts picked up the trend from the end of last year and into the early weeks of this year.
+That’s clear.
+But I think the market is going to read the absence of a statement of risks as effectively a move slightly to the downside.
+I’m okay with that, but I would hope, along the line of Ned’s comments, that uncertainty does not paralyze us CHAIRMAN GREENSPAN.
+It really hasn’t in the past.
+We have moved on innumerable occasions when we didn’t have very much of a clue as to how the markets were evolving.
+Governor Bernanke.
+MR.
+BERNANKE.
+Mr. Chairman, I support both parts of the recommendation.
+CHAIRMAN GREENSPAN.
+President McTeer.
+MR.
+MCTEER.
+So do I. CHAIRMAN GREENSPAN.
+Do we have anybody else?
+VICE CHAIRMAN MCDONOUGH.
+That does it.
+MR.
+GRAMLICH.
+Now for the high moment of the day, what are you going to read?
+MR.
+BERNARD.
+Well, what I will be reading is from page 13 in the Bluebook.
+CHAIRMAN GREENSPAN.
+Yes, what we vote on is the language shown in the Bluebook.
+MR.
+BERNARD.
+The directive wording is the following:
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with maintaining the federal funds rate at an average of around 1¼ percent.” March 18, 200389 of 101CHAIRMAN GREENSPAN.
+Call the roll.
+MR.
+BERNARD.
+Chairman Greenspan Yes Vice Chairman McDonough Yes Governor Bernanke Yes Governor Bies Yes President Broaddus Yes Governor Ferguson Yes Governor Gramlich Yes President Guynn Yes Governor Kohn Yes President Moskow Yes Governor Olson Yes President Parry Yes CHAIRMAN GREENSPAN.
+Would you circulate the draft press statement?
+Is that generally acceptable?
+VICE CHAIRMAN MCDONOUGH.
+Bravo!
+CHAIRMAN GREENSPAN.
+Hearing no objection, the last item on the agenda is the date of our next meeting.
+MR.
+BERNARD.
+May 6.
+CHAIRMAN GREENSPAN.
+Our next official meeting is May 6, but we will be meeting, obviously, via weekly telephone conferences.
+I suspect the first one will be next Tuesday.
+We will do it on Tuesdays.
+We’ll have the staff circulate a questionnaire to try to determine what times would be most convenient for the majority of members to have those telephone conferences in view of the fact that a lot of people have previous commitments.
+We’ll try to work it out in a way that is least disruptive.
+Okay?
+We have no luncheon agenda, so those of you who would like to catch a plane may wish to leave before lunch.
+END OF MEETING March 18, 200390 of 101
+INSTANCE OF DISAGREEMENT: 64

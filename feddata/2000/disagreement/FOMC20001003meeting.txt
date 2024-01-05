@@ -1,0 +1,671 @@
+
+I believe that we really do have to pay attention to the aggregate CPI when the increase has been as long-standing and as persistent as this increase is becoming now.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+MR.
+GRAMLICH.
+Thank you, Mr. Chairman.
+Using what I’ll call a level test, I think that overall monetary policy is roughly in balance.
+With real interest rates in the neighborhood of 4 percent, minimal term premiums, and a core inflation rate of about 2 percent, the equilibrium funds rate should be in the neighborhood of 6 percent.
+<START>Adding in a slight premium to cover the balance of risks leads to the present funds rate of 6-1/2 percent, a rate that seems about right for today’s conditions.<END>
+Perhaps the biggest question is whether we should eliminate our upward bias.
+<START>One could argue for that by noting that the prospective growth of final demand really has slowed quite sharply from earlier in the year.<END>
+At this rate, it may not be too long before I join Tom Hoenig in thinking that the risks have become evenly balanced.
+Yet at this point I think that such a change in our posture is still premature.
+<START>I still believe that the fundamental risks of inflation are on the up side and I would like to retain our present policy stance at least for a while.<END>
+I have reached that conclusion for five reasons.
+Let me try to give them quickly.
+One is prudence.
+In this day when fiscal policymakers seem to be throwing prudence to the wind, somebody has to stress limits and the importance of stable prices.
+That may as well be us.
+The 65second is NAIRU.
+I have often mentioned my suspicion that NAIRU could be as low as the 4 percent featured in the Greenbook simulation.
+I do like the outcome of that simulation and I think it is at least somewhat likely.
+<START>But a suspicion that NAIRU is low is not the same as proof, and the better part of valor says that we should move cautiously before effectively rejecting the standard estimate of NAIRU.<END>
+Third is investment.
+There is still a very strong investment boom in progress.
+<START>Historically when investment has been this strong for this long, inflation has ensued.<END>
+I suspect it may not this time around for reasons we have often discussed, but again suspicion is not the same as proof.
+Fourth is productivity.
+To the extent that wages have lagged the productivity change, there has been downward pressure on unit labor costs, upward pressure on the dollar, and downward pressure on import prices.
+But as wages catch up to the productivity increase--an event that seems likely at some point--many of the inflation-reducing benefits of the productivity shock could erode.
+The last reason is energy.
+We’ve talked about that plenty and I won’t elaborate, but it’s certainly an upside risk.
+In all these ways I think the fundamental risks of inflation are still on the up side.
+<START>In the long run I believe our operational answer to this set of circumstances is forward-looking, flexible, inflation targeting, a type of approach I’ve tried to describe in previous meetings.<END>
+In the shorter run, in terms of what we should do today, I have a shorter answer:
+no change.
+CHAIRMAN GREENSPAN.
+Governor Ferguson.
+MR.
+FERGUSON.
+Thank you, Mr. Chairman.
+Like others, my read of the incoming data is that they do point mainly to a continued moderation in economic growth to a pace that I believe is below the economy’s potential.
+In addition to the economic data that have come in, I think the more forward-looking indicators of real activity also support the notion of some slowing in train.
+The purchasing managers’ report for new orders is the most recent example in that category.
+Also, as I 66believe Peter Fisher was suggesting, the financial markets, though not unambiguously, certainly do seem to be consistent with a slowing.
+They obviously have some concern about its pace, but I think they are suggesting a slowing is in train.
+Now having said that, the Greenbook and the economic data point to a number of risks.
+One we’ve already talked about, which is oil.
+Like Ned Gramlich, I will restrain myself on that subject except to observe that the one thing we haven’t talked about is the great risk of an upside price surprise that comes from either political instability or willful misbehavior on the part of some of the producers of oil.
+I think that is still a possibility.
+Though it doesn’t appear to be the most likely outcome, it’s one we do have to be aware of.
+<START>The second risk that I see in the forecast is that the Greenbook assumes that investment in productivity-enhancing capital goods will continue unabated even as credit conditions tighten and the pace of growth slows.<END>
+Given the role that the supply side of the economy has played for the last several years and the observation that no economy seems to have managed to sustain productivity increases in the high single digits for several years, this is to me a very important assumption.
+It rests on the view that a large chunk of investment spending continues to be done by established firms with relatively strong credit ratings who are likely to emerge from this mild cyclical slowing in very good shape.
+<START>While it is true that most capital spending, at least among the largest companies, is done by investment grade firms, about a quarter of it is done by firms that are not investment grade.<END>
+So I see some potential risks there that we should be mindful of.
+<START>I would also observe that we’ve seen some negative earnings surprises from some of the major participants in the new economy, including Cisco Systems which builds routers that are the backbone for the Internet, Apple Computer, and Intel.<END>
+That goes back to the semiconductor story.
+None of those stories is yet enough to say that this new economy, productivity-enhancing supply shock we’ve had is over.
+<START>But I 67think we do have to be mindful that there is at least a risk that the pace of investment in this expansion may slow, which would lead to unfortunate outcomes with respect to productivity, employment, and also inflation--a combination of developments that would be challenging for us.<END>
+<START>In a more positive sense of risk, I was glad to see that the staff included an alternative simulation with a NAIRU at 4 percent.<END>
+Like Ned Gramlich, I’ve certainly toyed with the possibility of a low NAIRU in that area.
+In the time I’ve been here at the Board we’ve had unemployment running somewhere between 4.3 and 3.9 percent and inflation has been quite quiescent, partially for special factors.
+Nevertheless, it does leave open the possibility that in fact the so-called NAIRU is down at that level.
+I find it instructive that the staff at least seems to think the probability of a NAIRU at that lower level is about 20 percent, more or less.
+Again, I think it’s too early to presume that’s the answer and too early to base policy on it.
+But it’s interesting that we can even have a discussion where the possibility of NAIRU at around 4 to 4-1/4 percent is definitely on the table.
+<START>When I put all of these certainties and uncertainties together, it seems to me as though the best policy stance for now is steady as she goes.<END>
+A slowing does seem to be well under way, not requiring any further action.
+I do think that the balance of risk statement should continue to be focused on inflation.
+We have tight labor markets.
+There is some uncertainty about oil.
+The fiscal policy situation is a little uncertain.
+<START>And if it turns out that the economy can maintain noninflationary growth at an unemployment rate as low as today’s, then a gradual policy will allow us to discover that truth over time as well.<END>
+So, I believe we should stand pat as we are and just continue to monitor incoming data as we have been.
+CHAIRMAN GREENSPAN.
+Governor Meyer.
+MR.
+MEYER.
+Thank you, Mr. Chairman.
+I will focus my remarks this morning on what I view as the three key themes in the Greenbook forecast.
+<START>While David Stockton has already 68emphasized the considerable uncertainty that attaches to each of them, these themes are consistent with the qualitative aspects of my own view of the outlook.<END>
+First, the economy appears to be making a transition from above-trend to below-trend growth.
+Second, the balance of risks is nevertheless toward rising core inflation.
+And this risk not only persists throughout the forecast period;
+it will likely remain for a considerable period of time thereafter.
+Third, if oil prices decline over the next two years, consistent with expectations in futures prices, overall consumer price inflation will likely decline next year and the upward drift in core inflation will be significantly restrained over the forecast period.
+<START>The balance of risks toward higher inflation, even if growth remains modestly below trend, reflects an assessment that the prevailing unemployment rate is below the short-run NAIRU and the prospect that the short-run NAIRU will rise as productivity growth stabilizes, or at least rise at a slower rate than over the last several years.<END>
+The upward pressure on core inflation in the Greenbook comes from the gap between the prevailing unemployment rate and the staff’s 4-3/4 percent estimate of the short-run NAIRU.
+The staff projects no increase in the short-run NAIRU over the forecast period.
+And a subsequent convergence toward the long-run NAIRU would presumably be a source of continuing inflation pressure beyond the forecast period.
+<START>There have been already many well deserved compliments to the authors of the Greenbook, but I can’t resist noting that no member of this Committee has a greater appreciation for their careful analysis of the unemployment rate relative to the short-run NAIRU and the long-run NAIRU than I do.<END>
+Of course, the staff took no chances in this Greenbook.
+With all the alternative simulations, including the one with a 4 percent long-run NAIRU, there was something for everybody.
+And that’s a good thing, I’m sure.
+<START>69The first two themes in the Greenbook story, below-trend growth and rising core inflation, are features of what I have called a “reverse soft landing.” There is a transition to growth at potential from an initial point above potential via a period of below-trend growth.<END>
+During the transition demand pressure results in an upward trend for core inflation unless other supply shocks intervene.
+<START>So while many outside and some inside the FOMC will regret a slowdown to below-trend growth, I continue to believe that such a reverse soft landing is the most benign outcome possible, given my assessment of the relationship between actual and potential output today.<END>
+The earlier period of above-trend growth and declining core inflation and the projection of below-trend growth and rising inflation over the forecast period are, in my view, two sides of the economy's adjustment to the acceleration in productivity growth.
+Initially, an acceleration in productivity yields a powerful disinflationary impetus.
+<START>It may allow a decline in both unemployment and inflation.<END>
+That is the bright side of the adjustment to the acceleration of productivity that we have enjoyed for the last four or five years.
+It has offered policymakers a choice among only favorable outcomes:
+temporarily lower unemployment, lower inflation, or some combination.
+Now the time may have arrived when we have to face the other side of that adjustment.
+<START>When the temporary disinflationary impetus of the productivity gains dissipates, the demand pressure at the prevailing unemployment rate will begin to show through to higher unit labor costs and inflation unless, of course, productivity growth continues to rise aggressively enough to postpone that adjustment.<END>
+<START>On the other side of the adjustment process we face a less favorable set of choices--some combination of below-trend growth and rising core inflation, as in the Greenbook, until output is realigned with potential.<END>
+<START>The closer growth is to potential during this part of the adjustment, the sharper will be the cumulative rebound in inflation.<END>
+The staff forecast does, nevertheless, offer a 70very benign outcome over the next 2-1/2 years.
+<START>The key assumptions that contribute to that benign outcome are that oil prices decline over most of the forecast period and that a tighter monetary policy prevents a premature rebound in growth to or beyond trend as long as there is upward pressure on core inflation.<END>
+<START>The result is steady growth at a rate more than 50 percent higher than the average of the 20 plus years prior to the mid-1990s, with an average unemployment rate still close to the lowest over the last 30 years and still modest rates of overall inflation.<END>
+<START>This is not as good as the experience during the bright side of the adjustment process, but it would still be a pretty impressive next chapter in this expansion.<END>
+<START>While I appreciate the uncertainty about the estimate of both the short-run and the long-run NAIRU, the Greenbook forecast and analysis highlights the risks of higher inflation that may still remain, even if the economy slips into an extended period of below-trend growth.<END>
+CHAIRMAN GREENSPAN.
+Governor Kelley.
+MR.
+KELLEY.
+Thank you, Mr. Chairman.
+Over time it has seemed to me that there is a certain recurring rhythm to the work of this Committee.
+There are times when we are faced with a need to reassess the appropriate fundamental course of policy and other times when we are focused on questions of how much impetus may or may not be needed to move further along an established path.
+And then there are occasions when an intermediate-term objective appears to be being met, which raises a new set of issues and puts us into a period when it is desirable to wait and see what incoming data tell us about evolving conditions.
+We may be in such a wait-and-see period today.
+We now appear to be in an economic slowdown, which most if not all of us have been seeking.
+And new questions present themselves:
+How long-lasting and how deep will this slowdown prove to be?
+How will the course of inflation react?
+Will inflation slow with the economy, continue to creep upward regardless, or perhaps accelerate in response to conditions previously in place?
+Many 71scenarios have a certain plausibility, but I believe the Greenbook baseline is as good a bet as one can make today, and it calls for a wait-and-see approach for now.
+I believe that represents the rhythm of the day and, therefore, that the present policy stance remains appropriate.
+CHAIRMAN GREENSPAN.
+Thank you very much.
+Don Kohn.
+MR.
+KOHN.
+Mr. Chairman, at its last two meetings, the Committee kept the stance of policy unchanged, but expressed concern that the risks going forward were tilted toward higher inflation.
+<START>The information you’ve received since August would seem to support a judgment that those risks remain contained, and that policy can again be left on hold.<END>
+As a number of you remarked, incoming data have tended to confirm that the growth of aggregate demand has slowed to, or even a bit below, the rate of growth of the economy’s potential.
+Moreover, developments in financial markets have been consistent with a projection of relatively moderate growth going forward.
+While long-term rates have declined on net since May, the full effects of the leveling out of equity prices this year have yet to be felt, and the dollar has continued to appreciate.
+<START>Increasing caution by lenders, especially toward marginal credits, should reinforce the restraining effects of the rise in interest rates over the last 18 months.<END>
+And in part because equity investors appear to have become more cautious as well, stock prices have been held down even as long-term interest rates have backed off.
+Growth of M2 has picked up very recently, but that followed two months of very sluggish expansion and on average in the third quarter M2 decelerated noticeably from earlier in the year.
+In credit markets, lower long-term interest rates have encouraged a shift in financing out on the yield curve, but private debt growth appears to have slowed appreciably in the third quarter.
+<START>There has been less news over the intermeeting period about costs and prices than about economic activity, but the information becoming available in this area has not suggested that the prevailing degree of tightness in labor markets is a greater problem than the Committee perceived it to be in August.<END>
+Core PCE inflation has ticked higher over the last year, but some of that small price acceleration likely represents the passthrough effects of higher energy prices.
+And longer-term inflation expectations, whether measured in securities markets or through surveys, have not deteriorated.
+<START>In addition, high and volatile oil prices have added an element of uncertainty to the outlook for aggregate demand, potential supply, and underlying inflation--with possibly conflicting implications for the stance of policy.<END>
+Under the circumstances, there would seem little to be lost and potentially much to be gained by keeping policy unchanged at this meeting and awaiting clearer signals about the evolution of economic activity and prices.
+<START>72Indeed, the Committee might see the developments over the last intermeeting period as suggesting that the chances of inflation moving higher have receded--perhaps by enough to bring the risks to achieving your macroeconomic objectives into balance for the foreseeable future.<END>
+The financial markets adopted a view that the risks were balanced some time ago.
+Indeed, more recently, market participants would appear to be placing greater odds that the Committee will need to lower interest rates to cushion a softening in activity than that it will be required to raise rates to contain emerging inflation pressures.
+<START>An important reason for the Committee’s perception that inflation threatened to intensify has been a concern that the growth of demand might outpace that of potential supply, further tightening already strained labor markets.<END>
+<START>The moderation in growth that already has occurred, however, along with the additional restraint still in the pipeline from previous tightenings, soggy equity markets, and a stronger dollar, might make you now much more confident that aggregate demand will grow no faster than potential output.<END>
+In the staff forecast, at an unchanged federal funds rate over the next year, pressures on resources gradually abate.
+Decreases in long-term interest rates since this spring, along with profits warnings and equity price declines of late, tend to support the judgment expressed in the August Greenbook that to a considerable extent faster productivity growth had already been built into interest rates and expected profits.
+In that case, the economy would not be about to experience another round of the demand-augmenting effects of greater growth in potential supply.
+<START>If the Committee therefore saw unemployment rates at or a little over 4 percent as likely to persist, and you also saw such rates as reasonably likely to be consistent for some time with stable inflation, you might now judge the risks to achieving your objectives as balanced.<END>
+However, even if the Committee were fairly confident that pressures on resources would not intensify, you might still find that the balance of risks remained weighted toward higher inflation.
+<START>Such a view is implied by the staff forecast, in which even with a gradual uptrend in the unemployment rate and further increases in productivity growth, labor markets are tighter than can be sustained without inflation picking up.<END>
+While the Committee might not be prepared to sign on to this assessment of labor market disequilibrium, you could still view the inflation risks around unemployment rates in the low 4s as unbalanced.
+<START>Giving some weight to history might suggest that if NAIRU is not in this neighborhood, it is more likely to be above than below it, especially once increases in productivity growth begin to abate.<END>
+Some measures of core inflation have picked up more than the PCE index as unemployment rates have stayed around 4 percent over the last year, perhaps reinforcing a sense of unbalanced risks around prevailing levels of labor resource utilization.
+<START>And with levels of core inflation now possibly near, or even beyond, the limit that the Committee might find acceptable in the very long run, you might see any 73further acceleration of prices as adverse to economic performance over time, and a situation requiring an especially robust reaction.<END>
+Energy price developments also might contribute to a perception that risks remain skewed toward higher inflation.
+Staff models tend to show that oil price shocks push both inflation and output away from long-run desirable levels.
+<START>Over recent quarters, any tendency for higher oil prices to damp demand has not reduced actual output below potential, however, but rather has helped to bring about better balance between the growth of demand and potential supply.<END>
+<START>In the context of still robust final demand and high resource utilization, any deterioration in inflation expectations as a consequence of persistently higher energy prices would be troublesome.<END>
+<START>And in the event inflation expectations rise, cushioning the effects of higher oil prices on labor and product markets by holding nominal rates unchanged and allowing real rates to fall would risk setting in motion an upward trend to the inflation rate, rather than just an adjustment in the price level.<END>
+<START>The uncomfortable reality is that a rise in oil prices requires a decline in domestic real income to validate the transfer of purchasing power abroad and decrease in economic efficiency.<END>
+Some added slack in labor markets may be necessary to prevent worker attempts to protect the purchasing power of their wages from resulting in an acceleration of costs and prices.
+Keeping policy unchanged, whatever the bias in your announcement, leaves open the question of your strategy going forward.
+<START>The FOMC could find it difficult to tighten in a timely manner in the event that the staff is right that underlying inflation is on a very gradual uptrend with output growth at or below the growth of potential supply.<END>
+<START>Operating for a time with a prediction that inflation at a later date will be above your desired level is not necessarily a problem, provided you act at some point to forestall or reverse that development.<END>
+Uncertainty about key interactions in the economy is a good reason to wait.
+However, with little conviction on NAIRU and its empirical relationship to productivity acceleration over the intermediate and longer runs, it becomes hard, if not impossible, to act preemptively to prevent inflation from rising if indeed labor resources turn out to be stretched too tight.
+<START>At the same time, you need to be careful not to fall into the trap of accepting a gradual updrift in inflation because the few tenths each year could be noise and not unambiguous evidence that the economy is operating at too high a level, and so do not seem to pose a clear danger to satisfactory economic performance.<END>
+Those few tenths will cumulate over time.
+<START>In the past, the Committee has tended to wait for convincing evidence that policy tightening was needed and then to act forcefully, but still well before actual inflation intensified.<END>
+This was the pattern in 1993-1994 and again over the last year and a half.
+This strategy has carried with it a number of potential pitfalls.
+<START>The Committee could wait too long and hence need to do considerably more tightening than otherwise, leading to greater variations in output, 74employment, and inflation than desirable.<END>
+On the other end, aggressive policy actions once you begin to tighten could easily lead to overshooting.
+Despite these pitfalls, the strategy has been successful for a number of reasons.
+Foremost, as in 1994 and again most recently, the Committee has acted at an early stage of the inflation process, in that it leaned against unsustainable growth in demand long before a pickup in inflation got going.
+It has also been helpful that markets have been able to anticipate your actions, so the exact timing of your tightenings was not important.
+Finally, you have been flexible enough to stop tightening and even to roll back some of the actions promptly when overshooting looked likely.
+The current situation, if inflation pressures do intensify gradually, may not be as well suited to the strategy of waiting for great conviction and then moving forcefully.
+The risks you are now looking at are further along the transmission channel to inflation than the demand questions you faced before.
+Given the uncertainties, a number of you have remarked that in the current situation you will need to be more reactive than anticipatory when it comes to judgments about the sustainability of a particular level of unemployment.
+Finally, you may not get the anticipatory behavior from markets you’ve benefited from in the past.
+At this point, markets do not see the risk you see.
+<START>If inflation pressures intensify gradually, markets may take longer than you would be comfortable with to recognize the problem and your need to address it.<END>
+The difficulties of making stabilizing monetary policy in the presence of supply-side uncertainties once growth rate risk abates do not lend themselves to ready solutions.
+<START>Some economic theories indicate you should take your best guess on some of these key values and act on those guesses, but this may not be appealing when the interactions are complex and the best guesses so diffuse.<END>
+You may be able to be still preemptive, albeit to a much lesser degree, for example by paying close attention to business cost structures for hints that price pressures are about to emerge.
+And you may end up having to be more willing to surprise financial markets if you see pressures building and markets fail to heed your warnings.
+Finally, you may need to care about the level of inflation as well as its change.
+The evidence that a few tenths increase in inflation is part of a continuing trend may not need to be quite as convincing when those tenths take core PCE inflation from 2 to 2-1/4 percent as when they raised the same measure from 1-1/2 to 1-3/4 percent.
+CHAIRMAN GREENSPAN.
+Questions for Don?
+If not, considering the late hour I’ll try either to say less or to speak faster or some combination of the two!
+The members’ response to the latest Greenbook suggests to me that everybody likes the alternative simulations presented there by the staff.
+The trouble is that each simulation gives us a 75different forecast!
+The staff has covered the full spectrum of forces shaping the current outlook and indeed has given us, I think, a fairly incisive view of the true ranges of probabilities in a situation where something very unusual is happening.
+I’m not talking about the high-tech developments, which we have been discussing for quite a long period of time.
+We don't know much more than we did earlier about those developments, but at least we think we are beginning to understand them.
+The latest Greenbook has taken the oil/energy problem and has superimposed it on the high-tech uncertainties.
+And, as a number of you have said, what we infer from that is that choosing the appropriate forecast is clearly quite problematic.
+So far as I can judge, there is nothing terribly significant going on in the economy excluding energy.
+<START>The productivity numbers still seem to be accelerating modestly, but the levels of actual output per hour have moved into a range where it's just not credible that they can continue to rise and ultimately reflect still higher structural productivity in the areas where we’re already seeing large increases in current output per hour, even cyclically adjusted.<END>
+<START>So one must be skeptical about those productivity numbers in the sense that it’s startling to see their second derivative remain positive after having been positive for so long.<END>
+Moreover, that second derivative has been a larger number than one would ordinarily expect.
+<START>Part of the problem is the flattening out of the statistical discrepancy, which has taken the official GDP-based productivity data to a new high rate of growth whereas the income-based productivity estimates, specifically for nonfinancial corporations, have not shown the fairly pronounced changes that have occurred in the official data in the last year.<END>
+The long-term forecasts of earnings by security analysts, as I have said before, are not an indication of the true forecast but largely reflect what corporate America thinks about its future.
+<START>There is just no slowing in those forecasts for the longer term both for high-tech and for non high-tech firms, despite the fact that forecasts for the short term have turned quite disappointing and 76indeed have fostered some really bizarre stock price movements among some of the larger and fairly well established high-tech firms.<END>
+The implication is that these companies are still finding projects in which to invest where they anticipate significant rates of return over the longer term.
+One does not see any significant diminution of that earnings outlook phenomenon, despite the fact that productivity increases have risen to fairly elevated levels.
+The one thing I find somewhat of a concern here is that we are not getting in any of these views about the outlook for earnings the type of impact that substantial energy price changes clearly must be having.
+Don Kohn reflected on the increasing costs that clearly are there for business firms despite the fact that the intensity of energy usage is half what it was thirty years ago.
+So we clearly are not looking at the type of environment that we had in the past.
+<START>But remember that a goodly part of that very significant decline in energy inputs relative to real GDP had occurred by 1985 and yet there is no doubt that the Gulf War did have a significant impact on economic activity, basically, as best we can judge, through its effects on consumer confidence.<END>
+<START>The comments around this table indicate that consumer confidence is holding up very well, although the revision of the University of Michigan numbers for September suggests a fairly sharp deterioration in attitudes in the second half of the month.<END>
+<START>I don’t know whether or not this is an aberration, but it's the first sign that any of our measures of consumer confidence have run into trouble.<END>
+If in fact that is what is happening, then the oil price-energy price phenomenon is really beginning to have an impact.
+And indeed we are beginning to see some economic effects.
+If we separate high-tech from low-tech in the orders figures, which is how we tend to look at these numbers, lo and behold low-tech is doing very well.
+But it is doing very well because the surge in electric power capacity problems has led to some very substantial increases in orders for engines and turbines and related backlogs that are having an impact in the economy.
+77In any event, I think the crucial problem here rests fundamentally with oil and our interpretation of its role.
+We have seen over the years that even though we tend to refer to oil as part of the old economy, it really is not.
+If we look at the extraordinary technological advances that have occurred in the industry, they really are quite awesome.
+The capability of using seismic exploration to find oil has led to a major reduction in the cost of finding oil in any given oil extraction environment.
+The ratio of dry holes to exploratory wells has come down dramatically.
+The development of various deep and horizontal drilling technologies has lowered the real cost of extracting oil in a quite significant way.
+If one merely looked at the underlying technologies and asked what was happening to the long-term marginal cost of finding new oil, clearly one would conclude that it has been coming down fairly dramatically as indeed it has outside the OPEC area.
+In fact, the ability of other producers to offset OPEC has been quite impressive until very recently.
+Actually, until fairly recently OPEC production was remarkably flat for many years, obviously reflecting a slowdown in world demand associated with the reduction in the intensity of oil usage but also, surprisingly, a significant increase in the production of non-OPEC oil.
+The difficulty that the non-OPEC oil countries are having is that the environment in which they have to seek and drill for oil is becoming increasingly less hospitable.
+<START>We may be getting lower costs for any given type of oil exploration and drilling environment, but if the environment is worsening one would expect, and indeed one sees, that a significant part of those cost improvements is being countermanded, so to speak.<END>
+Nonetheless, until very recently the evidence that the long-term equilibrium price of oil was declining was really quite impressive.
+We have data on this, which is separate from the anecdotal reports of the oil companies.
+Essentially the data show that the price trend in the futures market for oil, specifically the long-term or 3- to 6-year futures prices of West Texas Intermediate, was edging downward until very recently.
+Two years ago, for example, prices in 78the futures markets would start at $12 a barrel and rise to $17 where they would flatten out for long-term contracts.
+When spot prices rose, futures prices would go quite a bit higher for shorter-term contracts and then come down in “backwardation,” flattening out at $17 or $18 a barrel.
+This behavior suggested that, to the extent that the futures markets reflect the true long-term marginal equilibrium price, the latter was somewhere in the area of $17 or $18 a barrel, West Texas Intermediate equivalent.
+Because the oil industry has another very important characteristic, in part I might add reflecting the advanced technology that it employs, it runs on very low usable inventories.
+Indeed, the latter might be described as close to fumes but not quite.
+Ordinarily over the last decade or so, usable stocks of oil have supplied about 13 days of demand, down from earlier periods.
+And because there is only a 13-day supply in the world market, we have an extraordinarily sensitive oil price structure.
+Indeed, what we have seen historically is that oil prices are extremely volatile and they are volatile in a very interesting way.
+They spike.
+We have had significant spikes all along the way and what this suggests is a very high inelasticity of response to changing demand.
+As a consequence, when OPEC was able in the spring of 1998 to bring its production level down by a fairly pronounced amount--they brought it down about 3 million barrels a day, which is a huge number--that effectively began to open up a significant gap between demand, which was rising gradually, and supply.
+The 15-day supply of usable stock available at that time started to evaporate very rapidly.
+That stock finally got down to a 10-day supply and the spot price of crude, as you know, rose at a very rapid pace.
+<START>The effect was a very dramatic “backwardation” as they say in the markets, namely spot prices rose to $37 per barrel prior to their very recent decline.<END>
+<START>At the same time, the equilibrium price of oil probably did not change very much even though longer-term futures added $2 or $3 per barrel, largely I suspect because of uncertainties about the potential 79degree of excess world capacity over the long term.<END>
+In this situation, it was very difficult to build inventories.
+<START>With the very substantial backwardation that occurred why would a refiner buy crude at $37 a barrel and as it was being refined find out two months later that it was worth $3 or $4 a barrel less?<END>
+So inventories were not being built up anywhere in the system, and indeed they were kept at extremely low levels, thereby exaggerating the price acceleration.
+Finally, OPEC was induced to raise their production quite significantly.
+We did see the pickup in inventories that one would expect.
+<START>When the gap between supply and demand closed, the decline in inventories initially slowed, and stocks then started to turn up.<END>
+There is an interesting oddity in the recent data.
+Domestic demand for oil products is accelerating and production is going up very dramatically.
+This raises the interesting question as to whether or not the domestic shipment numbers reflect what is actually happening to demand.
+Remember, those numbers cover shipments from refineries and the primary inventory complex and do not reflect the buildup in inventories either at retail gasoline service stations or more importantly at homes in the form of heating oil.
+All this is very suggestive of the probability that underlying demand is not accelerating but that inventories, because they cannot be held at the refinery level without potential loss, are beginning to increase at the tertiary level.
+Indeed, if we look at the United States, and this is true elsewhere, the demand for distillate fuel has risen exceptionally rapidly in the last two or three months.
+In fact, in comparison with a year ago, it probably is up the equivalent of perhaps 300,000 or 400,000 barrels above the normal daily average in the United States.
+What this suggests is that there has been a massive run by the American public to buy home heating oil.
+They are not using it yet.
+It is not winter!
+So where is it going?
+Inventories are going up in all the secondary storage areas.
+So, the presumption that there is a home heating oil shortage is something that only people who don't watch the markets believe.
+This has been the most publicized shortage in 80recent memory, which is a guarantee that it is not happening!
+And indeed the presumed shortage raises some very interesting questions about the outlook for oil because, seasonally adjusted, we are seeing a very dramatic increase in aggregate world inventory accumulation currently.
+Without seasonal adjustment, one ordinarily would expect world inventories to contract in the fourth quarter, and the evidence at this point is that they are not.
+<START>OPEC production has gone up over 3 million barrels a day, possibly even more than that, and is now much higher than its level before the OPEC-engineered price acceleration.<END>
+So part of the answer to the question of what is holding oil prices where they are is that capacity is very restrained.
+There is very little in the way of surplus capacity in the system.
+Leaving the inventory issue aside, there is the risk of a spike that is creating major speculative buying in the crude market and in the product markets.
+And, as was mentioned before, there is a very serious concern that Iraq, which is producing 2-1/2 to 3 million barrels a day, may suddenly decide that they are having a production problem.
+<START>If we take a chunk of crude that big out of the world system, that could do wonders to oil prices because outside of Iraq there is just a little more than one million barrels a day left in available world production capacity.<END>
+If there are any breakdowns anywhere they could create some serious problems.
+But what is happening here is that levels of production are high because the demand for inventories has surged, as reflected in both the published primary data and in the unpublished tertiary data.
+The consequence has to be a real inventory bloat.
+<START>It is unclear how all this is going to work out because the inventory problem could disappear if Saddam decides that he has enough cash and doesn't need any more money from oil sales, or we could have a variety of breakdowns.<END>
+In sum, it is very difficult to forecast the price of oil.
+<START>The one thing we are pretty sure of, if history is any guide, is that if we get another spike it will reverse itself provided that we can get 81through this winter, get through the threats coming from Iraq, and hopefully the Middle East does not go berserk.<END>
+<START>There are a lot of uncertainties in the outlook for oil that, depending on their resolution, can fundamentally alter the overall course of the economy.<END>
+Those uncertainties have to be changing the structure of our capital stock, making it somewhat less efficient.
+They must be creating negatives that we really don't recognize and don’t get picked up or have never been picked up by our econometric models.
+Simulate the 1973 experience, the 1979 experience, the Gulf War experience, and I will bet that your results will not produce the recessions that actually occurred.
+What this suggests is an asymmetric impact of the oil and energy price effect.
+Remember, natural gas is a big problem.
+Electric power is a big problem.
+So this is not a situation akin to the old environment where coal was able to keep the cost of electric power down.
+We have a whole series of problems here.
+We may very readily agree that the most likely forecast is the one right in the middle of the Greenbook.
+It tells us that everything will be just fine.
+<START>But these markets are really very tricky and the presumption that everything is going to work out well is still, in my judgment, a hope.<END>
+As a consequence, as far as policy is concerned the general consensus around the table, and in my judgment the right one, is to do nothing today.
+But the risks clearly remain on the up side as far as inflation is concerned largely because of the energy difficulties that we have discussed.
+<START>Even though I recognize all the arguments that were made with regard to productivity, the NAIRU, and the assumption of accelerating unit labor costs, they clearly reflect risks that suggest we have to be fairly vigilant in our assessment of developments bearing on the intermediate economic outlook.<END>
+Vice Chair.
+VICE CHAIRMAN MCDONOUGH.
+<START>I concur with your recommendation, Mr. Chairman, to keep the fed funds at its current level and to retain the statement that the balance of risks is on the inflation side.<END>
+82CHAIRMAN GREENSPAN.
+Tom Hoenig.
+MR.
+HOENIG.
+I can accept your recommendation, Mr. Chairman, although I think we could go to a more balanced stance.
+But we can wait.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+I support your recommendation, Mr. Chairman.
+The argument has been well made.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Broaddus.
+MR.
+BROADDUS.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+Mr. Chairman, I support the recommendation.
+I would like to point out, though, that if we were using the old directive language I think there would be a case for symmetry.
+In my view there is about equal probability that the next move would be up or down.
+<START>But the danger with trying to read that interpretation into the current language is that the market would interpret a balanced risk statement--if we were to go to that--as saying that we believe the inflation picture has become more benign, which I do not think is the case.<END>
+I think it is also worth emphasizing that historically oil shocks have had particular events behind them.
+We had the Suez Canal closure in 1956.
+We had the coalescence of OPEC in 1973.
+The Shah of Iran was deposed in 1979 and there was the Gulf War in 1990-91.
+The current case does not have any incident of that type.
+CHAIRMAN GREENSPAN.
+Yes it does.
+MR.
+POOLE.
+Well, I don't think it is of the same magnitude.
+83CHAIRMAN GREENSPAN.
+It had the same effect of cutting OPEC production by a fairly significant amount.
+MR.
+POOLE.
+Well, let me comment about that.
+<START>I think we have always understood that monopolies make prices high.<END>
+They do not make prices rise.
+And there is no question that in the face of strong demand it is in the interest of a monopoly to exploit a strong demand to raise prices.
+CHAIRMAN GREENSPAN.
+Demand was not strong.
+The data indicating strengthening demand are very recent.
+It was not strong in 1998.
+MR.
+POOLE.
+No, what I’m saying is that oil prices bottomed out in 1998 and there has been a very strong worldwide recovery in the last four to six quarters.
+Worldwide there has been an economic boom.
+CHAIRMAN GREENSPAN.
+Yes, but we don't know to what extent the domestic demand numbers, which have unquestionably taken off, reflect consumption or tertiary inventory accumulation.
+MR.
+POOLE.
+I agree that there is an inventory cycle that is very hard to understand.
+By inventories I mean the inventories that are invisible and that we don't have any direct data on.
+I have no quarrel with that.
+<START>But I am saying that I don't think it’s an accident that we have rising oil prices in the context of a worldwide economic boom.<END>
+That is the only point I wanted to make regarding my view on this matter.
+CHAIRMAN GREENSPAN.
+If Saddam does something, you'll change your mind?
+MR.
+POOLE.
+That will add to our woes, no question about it.
+CHAIRMAN GREENSPAN.
+Indeed!
+President Moskow.
+MR.
+MOSKOW.
+I agree with your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+Governor Kelley.
+84MR. KELLEY.
+I agree with your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+Governor Ferguson.
+MR.
+FERGUSON.
+I support your recommendation, Mr. Chairman.
+<START>I’d also like to make one comment.<END>
+<START>I think Don Kohn did us a great service by getting us focused on this creeping inflation issue.<END>
+I’m not quite sure what the answer is but I think we will come back to it.
+I heard Jerry Jordan also raise some concern about this issue.
+CHAIRMAN GREENSPAN.
+President Jordan.
+MR.
+JORDAN.
+I support the recommendation.
+CHAIRMAN GREENSPAN.
+President Santomero.
+MR.
+SANTOMERO.
+I support the recommendation.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+MR.
+GRAMLICH.
+I support the recommendation.
+CHAIRMAN GREENSPAN.
+Governor Meyer.
+MR.
+MEYER.
+I support the recommendation.
+CHAIRMAN GREENSPAN.
+President McTeer.
+MR.
+MCTEER.
+I agree.
+CHAIRMAN GREENSPAN.
+President Parry.
+MR.
+PARRY.
+I support your recommendation.
+CHAIRMAN GREENSPAN.
+President Stern.
+MR.
+STERN.
+I do, too!
+[Laughter] MR. KOHN.
+It will be hard to write the minutes!
+CHAIRMAN GREENSPAN.
+Will you read the appropriate language?
+85MR. GILLUM.
+Yes, Mr. Chairman.
+I will be reading from page 11 of the Bluebook.
+The directive wording is:
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with maintaining the federal funds rate at an average of around 6-1/2 percent.” Now, the balance-of-risks sentence:
+<START>“Against the background of its long-run goals of price stability and sustainable economic growth and of the information currently available, the Committee believes that the risks are weighted mainly toward conditions that may generate heightened inflation pressures in the foreseeable future.” CHAIRMAN GREENSPAN.<END>
+Call the roll.
+MR.
+GILLUM.
+Chairman Greenspan Yes Vice Chairman McDonough Yes President Broaddus Yes Governor Ferguson Yes Governor Gramlich Yes President Guynn Yes President Jordan Yes Governor Kelley Yes Governor Meyer Yes President Parry Yes CHAIRMAN GREENSPAN.
+As you all know, we have received the initial installment of the SOMA study and Tom Simpson is here to brief us on it.
+MR.
+KOHN.
+Do you want to look at the announcement first?
+CHAIRMAN GREENSPAN.
+I am terribly sorry, yes!
+I took a look at the clock and decided it was running fast!
+Let’s look at the draft announcement.
+[Pause] VICE CHAIRMAN MCDONOUGH.
+Bravo!
+MR.
+KOHN.
+Yes, the second page of the handout shows the changes from last time.
+86VICE CHAIRMAN MCDONOUGH.
+Approved by silence it appears!
+MR.
+PARRY.
+It sounds good!
+CHAIRMAN GREENSPAN.
+I presume that silence indicates acceptance?
+SEVERAL.
+Yes.
+CHAIRMAN GREENSPAN.
+Tom Simpson.
+MR.
+SIMPSON.
+Carol is passing out some materials that I will refer to in my remarks.2 Last week, you were sent two papers representing the first installment in the Committee’s wide-ranging SOMA project.
+The other parts of this broad effort--covering selection criteria for alternative Federal Reserve assets, potential alternative market instruments, and the role for the discount window--will be discussed at the next couple FOMC meetings.
+The first paper sent last week contains forecasts of the federal budget surplus going out a number of years, along with accompanying expectations for the contraction of the stock of Treasury debt and rise in the System’s share of that dwindling stock.
+The second examines the recent performance of the Treasury securities market and prospects for that market, including the System’s ability to conduct operations in Treasury securities going forward.
+I would now like to summarize briefly our findings, using the handout containing exhibits from those papers.
+The upper panel of your first exhibit illustrates forecasts of the cumulative surplus in the federal budget over the coming decade under different scenarios for fiscal policy and assumptions for economic growth.
+The three solid lines illustrate outcomes under three fiscal scenarios and the middle path for real output growth--4-1/2 percent per year, the Board staff’s assessment of structural output growth in the current year.
+Fiscal policy A represents a current services path, and does not allow for any discretionary adjustments of tax or spending policy to rising underlying surpluses.
+<START>Fiscal policy B is based on future Congresses and presidents using the on-budget portion to finance tax cuts and spending initiatives, but not to touch the corresponding off-budget portion--an outcome that seems to have gained fairly widespread support recently.<END>
+The third fiscal policy, policy C, goes beyond B and allows workers to devote two percentage points of their Social Security payroll taxes to private retirement accounts.
+One does not need to buy into the specifics of any of these fiscal alternatives but rather to regard them as proxies for a range of plausible outcomes.
+The paper also considers alternative output paths based on structural 2 A copy of the two staff papers, distributed to the Committee on September 27 and 29, 2000, have been placed in Committee files.
+A copy of the exhibits used by Mr. Simpson during his briefing is appended to this transcript.
+(Appendix 2) 87growth being a percentage point higher and a percentage point lower than the 4-1/2 percent middle case.
+The effects of these alternative output paths are shown in the upper and lower ends of the shaded portions of the chart.
+As you can see from the chart, the cumulative surpluses continue to rise under all of the possibilities contemplated in this study.
+The bottom panel translates these surpluses into paydowns of marketable debt.
+<START>Under fiscal policy B and the middle path for output growth, cumulative surpluses reach about $3 trillion by 2010, and would leave only about $1/2 trillion of outstanding marketable Treasury debt in that year.<END>
+To get a sense of what these projections imply for System operations in the Treasury securities market, we also forecasted the System’s balance sheet under the alternative paths for the economy.
+A number of factors affect the size of the System’s balance sheet at any point in time, such as the behavior of reservable deposits and the Treasury’s cash balance at the Fed.
+But over time the System’s balance sheet has been driven by the demand for currency, and we expect this to continue going forward.
+Using our projections for reserves and currency, the top panel of your second exhibit illustrates the path of System ownership of Treasury debt under the current limit on per-issue holdings, which amounts to approximately a 25 percent share of marketable Treasury debt.
+<START>Under fiscal policy B and the middle output path, the System’s holdings would reach that limit in about three years, and thereafter the System would need to liquidate Treasuries as total outstandings fell--absent, of course, an upward revision to the limit.<END>
+The middle panel illustrates that, under these assumptions, System holdings of other assets begin to build fairly rapidly starting in three years, and by 2010 would account for more than 80 percent of System assets.
+These dates could be brought still closer by additional dollarization abroad and the payment of interest on required reserves, which would boost our liabilities and assets.
+Thus, the time for the System to be ready to adopt alternatives to Treasury securities for supplying a permanent source of reserves to the banking system does not seem very far off.
+Treasury securities have served the System’s needs, and those of a wide variety of other holders, extremely well, given their very high liquidity and unrivaled safety.
+Moreover, the associated well-developed RP market in Treasury securities has been important for temporary System transactions.
+However, the large swing in the federal budget from deficit to surplus has already had a notable effect on the Treasury market, prompting various adjustments by the Desk.
+The third exhibit is intended to broadly represent the performance of the Treasury securities market over recent years.
+It shows bid-ask spreads quoted in the interdealer market in bills, the upper panel, and coupons, the lower panel.
+There has been an upward drift in this measure, which suggests a general erosion of liquidity in virtually all sectors of the Treasury debt market.
+Over this period, some notable disturbances have sent bid-ask spreads soaring, such as the financial market turmoil in the fall of 1998, 88but these have been followed by partial recoveries, in part owing to adaptations by market participants and the Desk.
+<START>Looking ahead, the kind of steady contraction in Treasury securities that we foresee is likely to be accompanied by further erosion in the depth and liquidity of that market and greater volatility and vulnerability to shocks.<END>
+<START>As noted, the Desk, in response to occasional disturbances in the Treasury securities market and the general deterioration of liquidity and depth, has taken various steps to relieve pressures on the Treasury securities and RP markets and to facilitate its daily operations.<END>
+<START>These have included suspending bill purchases in 1998 and 1999, dividing coupon purchases into more tranches and spreading them over weeks or months, broadening the pool of RP collateral, and imposing limits on acquisitions of Treasury securities in auctions and in the secondary market.<END>
+Prospectively, we expect that in the coming years the Desk will be able to continue to conduct a considerable volume of operations in the Treasury securities market.
+<START>Over time, though, these transactions will be done at greater cost and with a greater impact on Treasury securities market, and at some point the System will need to cut back on transactions in this market and begin to rely on alternatives.<END>
+Finally, I have attached a list of System staff members who have participated in this portion of the overall project.
+Thank you.
+CHAIRMAN GREENSPAN.
+Questions for Tom?
+Governor Gramlich.
+MR.
+GRAMLICH.
+Tom, on Exhibit 2--and let me stick to fiscal policy B just for the sake of simplicity--in the top panel you basically worked that off the budget forecast and the 25 percent limit to compute our Treasury holdings?
+MR.
+SIMPSON.
+Right.
+MR.
+GRAMLICH.
+Then in the bottom two panels you put that together with your estimates of currency demand to compute what other assets have to be on the balance sheet to finance the currency demand and make this all work.
+So it is a combination of your fiscal policy assumptions and your currency assumptions, right?
+89MR. SIMPSON.
+Yes.
+Actually, the middle panel is more of a mirror image of the upper panel.
+<START>What we have done in the upper panel is to forecast the stock of Treasury debt and also the growth in our balance sheet, which has been driven almost mainly by currency demand.<END>
+MR.
+GRAMLICH.
+Okay.
+Anyway, these two things are going on:
+<START>We have declining Treasury debt, of which we are taking a share, and we have rising currency demand.<END>
+So then we have these alternative assets that have to get huge in a few years.
+I take it what you're telling us is that we don't yet know what these alternative assets are.
+Is that for other parts of the study?
+That was my question.
+I kept looking for that [laughter] and I assume that's your next installment.
+MR.
+SIMPSON.
+Right.
+This project was broken up into several pieces.
+<START>We thought the first step was to get some idea of what the Treasury market is going to look like and what kinds of constraints we are going to face if we choose to continue to rely on that market in the coming years.<END>
+And the tough stuff is yet to come!
+MR.
+GRAMLICH.
+The fun stuff is still to come!
+MR.
+FISHER.
+This tells you how big the animal behind door No. 2 is.
+It just doesn't tell you what the animal is!
+MR.
+GRAMLICH.
+I know!
+I think we all know it's a big animal.
+I just wondered whether it has stripes or spots.
+MR.
+SIMPSON.
+We're not saying that yet!
+CHAIRMAN GREENSPAN.
+President Parry.
+MR.
+PARRY.
+Mr. Chairman, I think this information is very helpful and certainly provides a good grounding for what is to come.
+And I am sure that is going to be extremely interesting and also challenging.
+First, I was wondering if we know anything about the lead times we would have in terms of being able to look at the material prior to discussing it.
+Secondly, I 90wondered whether time would be set aside so that we can discuss this in an environment that may be slightly more leisurely than, say, after an FOMC meeting and before lunch.
+CHAIRMAN GREENSPAN.
+Well, we can replicate what Bill McDonough was suggesting for the December meeting at some point.
+This is important enough.
+MR.
+PARRY.
+This is one of the more significant issues we will have to deal with.
+CHAIRMAN GREENSPAN.
+Of course the new administration and the Congress may take the issue out of our hands and make it all moot.
+MR.
+PARRY.
+Of course.
+CHAIRMAN GREENSPAN.
+But it strikes me that one question that has to be on the table is:
+Do we maintain the same form of open market operations that we always have?
+If you look at the size of these required alternative assets, you could buy a lot of baseball teams.
+I know one I'd like to sell you!
+[Laughter] SPEAKER(?).
+We’re okay, thanks.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I don't think the people who are working on the alternative assets part of this study have quite taken into account baseball teams!
+CHAIRMAN GREENSPAN.
+We are going to start to run out of alternatives.
+MS.
+MINEHAN.
+Yes, I think that is right.
+That takes me to the real point I wanted to raise, which is that cash is driving this.
+And cash not only has an impact on our balance sheet, it has an impact on our fiscal infrastructure as well.
+CHAIRMAN GREENSPAN.
+You mean currency?
+MS.
+MINEHAN.
+Currency needs, and so forth.
+Are we doing anything--and maybe I should answer that question--to look at whether there are ways in the future to diminish the supply of 91cash that is necessary or reduce the growth rate of currency?
+The balance sheet needs on the liabilities side are driven by the increasing growth in the use of cash in this country.
+MR.
+PARRY.
+Most of the growth is overseas.
+MR.
+SIMPSON.
+That's right.
+MS.
+MINEHAN.
+That’s right.
+I know it's mostly overseas.
+MR.
+KOHN.
+We don't have anything as part of this project to look at ways to diminish the growth of currency.
+And I wonder as a policy issue, do we want to diminish the growth of this noninterest-earning debt out there?
+MS.
+MINEHAN.
+It's at least worth looking at.
+MR.
+JORDAN.
+Why?
+MR.
+KOHN.
+We have always responded passively to demands for currency.
+MR.
+MCTEER.
+The seigniorage is good!
+MR.
+PARRY.
+It beats taxes.
+MS.
+MINEHAN.
+There is an implied tax on it.
+MR.
+KOHN.
+For the holders.
+MS.
+MINEHAN.
+Yes, in terms of all of the vaults that we are building and the infrastructure that we have.
+VICE CHAIRMAN MCDONOUGH.
+It's a very low interest rate.
+MR.
+FERGUSON.
+We spend $2 billion a year more or less and we get back $28 billion a year.
+MS.
+MINEHAN.
+Well, that's right.
+MR.
+FERGUSON.
+I'd rather do profit sharing!
+[Laughter] MS. MINEHAN.
+Okay.
+92CHAIRMAN GREENSPAN.
+I think what this tells us is that this whole issue is much closer up front than I think most of us have intuitively suspected.
+<START>It is very difficult to get around the fact that if the off-budget items stay off budget and this actually acts as a unified budget surplus, the arithmetic is awesome.<END>
+MR.
+PARRY.
+Mr. Chairman, it is, but in a way we do have some time to consider the right decision, particularly if we are willing to change the 25 percent.
+I agree that there is a sense of urgency but what really comes through is the importance of the issue, I think.
+CHAIRMAN GREENSPAN.
+Okay, any further questions?
+Shall we go to lunch?
+The next meeting is Wednesday, November 15th.
+END OF MEETING
+INSTANCE OF DISAGREEMENT: 85

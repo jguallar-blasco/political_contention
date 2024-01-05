@@ -1,0 +1,1371 @@
+
+Those present were the following:
+Mr. Bernanke, Chairman Mr. Geithner, Vice Chairman Mr. Evans Mr. Hoenig Mr. Kohn Mr. Kroszner Mr. Mishkin Mr. Poole Mr. Rosengren Mr. Warsh Ms. Cumming, Mr. Fisher, Ms. Pianalto, and Messrs. Plosser and Stern, Alternate Members of the Federal Open Market Committee Messrs. Lacker and Lockhart, and Ms. Yellen, Presidents of the Federal Reserve Banks of Richmond, Atlanta, and San Francisco, respectively Mr. Madigan, Secretary and Economist Ms. Danker, Deputy Secretary Ms. Smith, Assistant Secretary Mr.
+Skidmore, Assistant Secretary Mr. Alvarez, General Counsel Mr. Baxter, Deputy General Counsel Mr.
+Sheets, Economist Mr. Stockton, Economist Messrs. Clouse, Connors, Fuhrer, Kamin, Rasche, Sellon, Slifman, Sullivan, and Wilcox, Associate Economists Mr. Dudley, Manager, System Open Market Account Mr. Struckmeyer, Deputy Staff Director, Office of Staff Director for Management, Board of Governors Mr.
+English, Senior Associate Director, Division of Monetary Affairs, Board of Governors Ms. Liang and Mr. Wascher, Associate Directors, Division of Research and Statistics, Board of Governors December 11, 20071 of 138Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors Mr. Meyer, Visiting Reserve Bank Officer, Division of Monetary Affairs, Board of Governors Mr.
+Small, Project Manager, Division of Monetary Affairs, Board of Governors Mr. Luecke, Senior Financial Analyst, Division of Monetary Affairs, Board of Governors Ms.
+Low, Open Market Secretariat Specialist, Division of Monetary Affairs, Board of Governors Mr. Barron, First Vice President, Federal Reserve Bank of Atlanta Mr. Rosenblum, Executive Vice President, Federal Reserve Bank of Dallas Mr. Altig, Ms. Perelmuter, Messrs. Rolnick, Weinberg, and Williams, Senior Vice Presidents, Federal Reserve Banks of Atlanta, New York, Minneapolis, Richmond, and San Francisco, respectively Messrs. Bryan and Yi, Vice Presidents, Federal Reserve Banks of Cleveland and Philadelphia, respectively Mr. McCarthy, Research Officer, Federal Reserve Bank of New York December 11, 20072 of 138Transcript of the Federal Open Market Committee Meeting of December 11, 2007 CHAIRMAN BERNANKE.
+Good early morning.
+<START>[Laughter] I would like to start by thanking the Committee for the very useful discussion we had last week, although I must say that videoconference is not the most intimate format.<END>
+People raised a number of important reservations about the TAF, including the fact that capital, perhaps more than liquidity, is the issue now;
+issues about the size of it;
+and concern about stigma.
+<START>I think that those points are well taken and that we need to be modest in our expectations about at least the initial effect of this facility.<END>
+However, as I indicated last week, I think that it will perhaps provide a platform for us to create a more flexible tool that will allow us to use our discount window facilities in a more effective way as we go forward.
+In the near term, it has also provided a good vehicle for us to cooperate with other central banks, and I would like to update you on that now.
+First, the Board did approve the TAF on Friday by notation vote, as we expected.
+Second, we have been in communication with the whole G-10 about these matters and have widespread support from our colleagues for this action.
+In particular, I believe that you have a draft press release that will be very similar to what will be released tomorrow morning.
+What time is it?
+It’s at 8:30 a.m.
+now?
+MR.
+KOHN.
+9:00 a.m.
+CHAIRMAN BERNANKE.
+Tomorrow morning at 9:00.
+It will be a joint release of five central banks.
+The press release will have a common first paragraph, as you see in front of you, and then each central bank will describe its own actions in more detail, followed by web links to the other central banks.
+In particular, the European Central Bank will take the $20 billion in swaps that we approved last week and will do two essentially noncompetitive auctions.
+That is, December 11, 20073 of 138they will allocate $20 billion in two tranches to European banks needing dollars at the price that clears the U.S.
+TAF, so they may have to ration or otherwise allocate.
+That is their problem.
+The Swiss National Bank will also do a $4 billion one-time auction.
+Let’s see, they are going to do an actual auction.
+MR.
+KOHN.
+Are they?
+I think with a reservation price.
+VICE CHAIRMAN GEITHNER.
+With a reservation price is our understanding.
+CHAIRMAN BERNANKE.
+Okay.
+At our stop-out rate?
+MR.
+SHEETS.
+The minimum bid will be one-month OIS.
+CHAIRMAN BERNANKE.
+Okay.
+So they have the same auction plan that we have, essentially.
+In addition, we are being joined by the British, who are doing two auctions of £10 billion each before year-end.
+These are sterling auctions, not dollar auctions, but they are in fact of the same actual size as ours
+—an indication of the appreciation of the pound.
+Finally, the Canadians were already planning to do some auctions before the end of the year, and they will simply join us in announcing those at the same time.
+In addition, the Japanese and the Swedes, although not planning anything in the near term, will issue statements supporting our actions and affirming their willingness to support liquidity as necessary.
+So I am hopeful.
+Again, I think our expectations should be modest.
+This is not a one-shot deal.
+<START>We will continue to try to address these problems, but I am hopeful that the international aspect of this will also be at least somewhat reassuring to markets.<END>
+There will be, I think, a bit of disappointment today that we don’t cut the discount rate spread;
+but by tomorrow morning, I hope that will be resolved one way or another.
+A few people have asked about informing their boards.
+I have no objection to your informing your board if you wish in advance of the announcement
+—so long, of course, as it is December 11, 20074 of 138with the usual confidentiality rules.
+<START>What I might suggest to you to consider is that perhaps a compromise between doing nothing and informing your whole board might be to give a call to your chairman sometime today and just give a heads-up, if you choose.<END>
+I am just indicating that we have no objection, to your doing that.
+There is one piece of business remaining associated with this, which is that we have to approve the $4 billion swap request from the Swiss National Bank.
+What I would propose to do is allow Bill to begin his report on Desk operations.
+Subsequent to that, we can take questions, either on the financial conditions that Bill describes, on any of these aspects, and then I would like, along with the ratification of operations, to ask you at that time also for a vote on the swap.
+So if there is no question or comment at this point, I will turn to Bill.
+MR.
+DUDLEY.1 Thank you, Mr. Chairman.
+I will be referring to the exhibits that you should have in front of you.
+Over the past few months, the outlook for residential housing has continued to darken.
+Rising inventories and tightening credit standards have led to outright declines in home prices in many major housing markets.
+The deterioration in the subprime mortgage space continues.
+As shown in exhibit 1, delinquency and foreclosure rates for subprime mortgages continue to rise very quickly;
+and as before, the degree and the pace of deterioration are much worse for more recent vintages (see exhibit 2).
+But most important, the problems in residential mortgages can no longer be thought of as a subprime or even an alt-A mortgage problem.
+As shown in exhibit 3, delinquency and foreclosure rates on prime mortgages have moved up sharply in recent months.
+The ongoing deterioration in the housing market has had a number of important implications.
+The first important development is that highly rated collateralized debt obligation (CDO) tranches
+—including so-called super-senior AAA-rated tranches
+—are now vulnerable.
+That is because these tranches typically are backstopped, in part, by lower-rated subprime ABS tranches and other mortgage-related securities product.
+<START>For highly rated CDO tranches to be protected against loss, it is important that the average loss rate on the underlying collateral stays relatively low and that the correlation in loss performance among the different assets that underpin the CDO stays low.<END>
+Unfortunately, for many of the CDOs issued in 2006 and 2007, these conditions no longer apply.
+<START>As housing has deteriorated, not only have expected loss rates climbed, but the correlation among the assets within CDOs has also moved sharply higher.<END>
+This has occurred because a growing proportion of BBB-rated and A-rated ABS tranches now appear likely to suffer losses.
+At a 10 percent average 1 Materials used by Mr. Dudley are appended to this transcript (appendix 1).
+December 11, 20075 of 138loss rate on subprime ARMs, many BBB-
+and A-rated tranches are likely to survive.
+There is a dispersion of loss rates
+—say between 5 percent and 15 percent
+—that helps keep correlations low.
+But at a 15 percent loss rate, the same degree of dispersion protects many fewer tranches than before.
+Instead, most of these tranches will become impaired.
+As this occurs, the correlation rate will climb sharply.
+The net result is that CDO tranches that were thought to be safe become highly vulnerable to losses.
+Exhibits 4 and 5 illustrate the sensitivity of CDO performance to the mortgage loan-loss rate.
+These exhibits summarize a study by UBS of a large number of CDOs brought to market in 2006 and 2007.
+<START>Exhibit 4 shows how sensitive the performance of the CDO market is to changes in underlying mortgage loss rates.<END>
+<START>The base case scenario assumes a relatively favorable loss experience.<END>
+For example, in the base case, losses for subprime mortgages are assumed to be about 11 percent for both 2006 and 2007 vintages.
+In this case, total loss estimates for mezzanine CDOs are around 20 percent and less than 5 percent for high-grade CDOs.
+In the base case, the losses for the super-senior tranches are trivial.
+But when loss estimates increase 50 percent above the base case, loss estimates on the CDO tranches climb much more sharply.
+For example, the average losses for the mezzanine CDOs triple, rising six times faster than the rise in underlying loan losses, and expected losses on the super-senior mezzanine CDO tranches soar.
+In this case, they are anticipated to lose about one-half of their value.
+Exhibit 5 focuses on how a relatively modest change in the loss rate on the underlying mortgages leads to a sharp shift in the distribution of losses.
+In the base case, the super-senior tranches of most CDOs are expected to suffer no losses.
+However, at the higher loss rate on the underlying mortgages, about half the super-senior tranches are expected to lose more than half their value.
+The CDO market is now fully implicated in the housing crisis.
+The rating agencies are now downgrading many CDOs, and the magnitude of the downgrades is often quite large.
+As a result, the value of many CDOs has fallen sharply.
+This has led to (1) large write-downs at some major financial institutions and (2) questions about the financial health of the financial guarantors that ensure some of the super-senior CDO tranches and that have other exposure to the residential mortgage market.
+Exhibit 6 illustrates the large movements in two of the major financial guarantors’ share prices and credit default swaps over the last few months.
+Moody’s recently indicated that MBIA
+—generally perceived as one of the stronger players
+—is “somewhat likely” to need to raise more capital to avoid a credit-rating downgrade.
+MBIA announced yesterday that they are raising $1 billion in equity capital from Warburg Pincus.
+The total outstanding volume of asset-backed commercial paper has begun to contract more rapidly again (see exhibit 7).
+This contraction appears relatively broad-based
+—it is not just an SIV story.
+The Master Liquidity Enhancement Conduit (MLEC) continues to move slowly forward, with the syndication process having just started.
+But the MLEC is not likely to be very large.
+SIV assets have already shrunk sharply, and some banks have already taken SIV assets back on their own balance December 11, 20076 of 138sheets.
+The difficulties of the SIVs have affected some money market investment funds
+—with the State of Florida’s Local Government Investment Pool the most notable casualty in this regard.
+Fortunately, most money market funds that have SIV exposure are backed by strong parents that have been willing to lend support, at least up till now.
+The second key development
+—the deterioration in the performance of the broader mortgage market
+—has had its own set of effects on the financial sector.
+First, it has led to significant loan-loss provision charges and mark-to-market losses for the two major housing GSEs
+—Fannie Mae and Freddie Mac.
+The result has been a sharp decline in their share prices and a substantial rise in the cost of credit default swaps for these institutions (see exhibit 8).
+Second, the mortgage insurers have also been implicated, with even more substantial share price declines and increases in the cost of credit default protection (see exhibit 9).
+In addition, the big thrift institutions remain under pressure.
+Yesterday, for example, Washington Mutual announced large loan-loss provisions and other write-downs and slashed its common stock dividend.
+For commercial banks, the consequence of CDO write-downs and of rising mortgage and other loan losses has been even more pressure on capital ratios and on balance sheets.
+Also, corporate debt spreads have increased markedly over the past few months (see exhibit 10).
+The rise in high-yield debt spreads is important for banks that still have significant leveraged-loan exposure that they hope to distribute to the capital markets.
+The widening in spreads suggests a risk of further mark-to-market charges for banks for these exposures.
+So is there any good news in any of this?
+I would emphasize four aspects that might provide some modest reassurance.
+First, market participants know a lot more now than they did before.
+Thus, fear is diminishing, which implies less risk of a crisis developing from this source.
+Second, although there remain considerable uncertainties on many fronts
+—such as the magnitude of mortgage losses, the degree of further tightening of credit availability, and the fate of some thrifts and mortgage and financial guarantors, I believe we may have finally defined the broad dimensions of the crisis.
+Most of those who are likely to be implicated may already have been identified, with the CDO debacle the latest installment that has widened the circle of participants.
+The issue now seems to be shifting toward severity from dimension.
+Third, the market is resolving some aspects of the crisis on its own.
+For example, the level of SIV assets has shrunk sharply since August.
+Fourth, several major financial institutions, in addition to MBIA and Washington Mutual, have raised capital from disparate sources.
+Citigroup and UBS are raising funds from sovereign wealth funds.
+E*Trade raised funds from a major hedge fund.
+Fannie Mae and Freddie Mac have raised capital through preferred stock issues.
+<START>The willingness of opportunistic investors to make such commitments may limit the balance sheet squeeze somewhat and put a floor<END>
+—albeit a low one
+—under asset prices.
+Let me turn next to market expectations about the path of short-term interest rates at this meeting and beyond.
+Exhibit 11 shows expectations for the current meeting, calculated from options prices on federal funds rate futures.
+As can be seen, the December 11, 20077 of 138probability of a 25 basis point cut has climbed to about 70 percent, and the probability of no change in the target federal funds rate has fallen virtually to zero.
+As shown in exhibits 12 and 13, expectations for subsequent rate cuts have increased considerably since the October meeting, whether one looks at the yields implied from federal funds futures contracts or from Eurodollar futures contracts.
+Looking out to the end of 2008, rate expectations have fallen more than 50 basis points since the October FOMC meeting.
+The Eurodollar futures rate for December 2008 implies more than 100 basis points of additional easing.
+Our survey of primary dealers also shows a sharp shift downward in rate expectations since the October FOMC meeting.
+As shown by comparing exhibit 14 with exhibit 15, the average of the dealer modal forecasts for the federal funds rate target in the first quarter
+—the green circles in the exhibits
+—fell about 30 basis points, and the average of the dealer modal forecasts does not differ meaningfully from market expectations at that time period.
+However, longer term, the primary dealers’ forecasts seem to anticipate less easing than market participants.
+But this may reflect more the downward skew to rate expectations that pulls the mean below the mode rather than a more fundamental difference in expectations.
+As has been the case for several months, there is a very wide dispersion of forecasts one year ahead, with the primary dealers’ modal forecasts now ranging from 2.5 percent to 4.75 percent.
+<START>Despite an expectation of more-aggressive easing, inflation expectations appear to be well anchored.<END>
+Exhibit 16 shows two measures that I discussed at the October FOMC meeting
+—the market-based Barclays measure of five-year, five-year forward inflation versus the Board staff measure.
+As can be seen, although the gap between these two measures has remained much wider than earlier in the year
+—presumably reflecting, in part, a climb in the liquidity premium for on-the-run nominal Treasuries
+—both measures have moved down a bit since the October FOMC meeting.
+Finally, a very brief discussion of the Desk’s open market operations is warranted.
+As seen in exhibit 17, which shows the cumulative effective federal funds rate since the last meeting, we have managed to keep the federal funds rate close to the target on average.
+But it hasn’t been easy.
+As you can see, the rate did trade a bit soft to the target early in the intermeeting period.
+Also, we continue to see upward pressure on the federal funds rate early in the day
+—reflecting a strong bid by European banks
+—and much greater intraday and day-to-day volatility than before August.
+There were no foreign operations during this period.
+I request a vote to ratify the operations conducted by the System Open Market Account since the October 30-31 FOMC meeting.
+I also request a vote to ratify the swap agreement with the Swiss National Bank that Chairman Bernanke discussed earlier.
+Of course, I am very happy to take questions.
+CHAIRMAN BERNANKE.
+Thank you.
+Are there questions for Bill on financial conditions or for Bill or me on the TAF proposal?
+President Poole.
+December 11, 20078 of 138MR. POOLE.
+Thank you, Mr. Chairman.
+I have an observation, and that is, Bill, that most of your presentation has to do with spreads rather than with the absolute level of rates.
+Although it is true that spreads remain wide, the absolute level of the high-quality rates in general has come down, I believe.
+Prime mortgage rates are down, and it seems to me that if we look only at spreads then, of course, our actions to reduce the federal funds rate target may not show up for quite some time.
+In fact, I think most people have the sense that spreads had gotten too narrow and they may end up being elevated for a long time even as a “permanent” matter.
+So I think it is very important to look at the level of rates as well as the spreads, and I insert the comment
+—and I notice you’re nodding your head “yes”
+—that the rates on high-quality paper have in general come down.
+The rates on riskier paper are perhaps higher than they were, let’s say, in July.
+MR.
+DUDLEY.
+Yes, I think that is correct.
+If you look at chart 10, which shows corporate credit spreads, you have a widening of about 50 basis points in investment-grade corporate spreads at a time that long-term
+—you know, ten-year
+—Treasury note yields have come down by I think a little larger magnitude.
+<START>In contrast, in the high-yield debt market, you have a widening of spreads of 200 basis points just in the last month and a half or two months, which is much more dramatic than any decline that we have seen in Treasury rates.<END>
+CHAIRMAN BERNANKE.
+Governor Kohn.
+MR.
+KOHN.
+Thank you, Mr. Chairman.
+I asked the staff to put together a table
+—the table III-T-1 that we get in the Greenbook
+—and compare rates with August 6.
+It turns out that all the rates are about the same as they were on August 6 for the bond yields, and equity prices are essentially unchanged, maybe down or up
+—actually up
+—just a tick.
+So I would say that the December 11, 20079 of 13875 basis points of easing we did and the additional 100 that the market has priced in since August 6 have had no effect on the cost of long-term credit to corporations.
+CHAIRMAN BERNANKE.
+I think it is probably worth observing that the spreads probably also are correlated with nonprice terms.
+So it may not be an exactly neutral change.
+President Fisher.
+MR.
+FISHER.
+Bill, we talked a bit about this on the phone yesterday, but on the four relatively optimistic points that you mentioned, the fourth point, which is what I call the substitutability of capital, we are seeing new sources.
+One of them is measurable, which is the GIC in Singapore.
+But do we have any sense of the dimension that is available for substitution, and is there a way to get a better sense of measurement?
+I just want to preface this by saying that we went through the petrodollar issue in 1974.
+Some of us were very involved in that exercise.
+It is a much more sophisticated business right now, and we have much more sophisticated investors.
+What we don’t know
+—or I don’t know and I would be curious whether we know at the New York Desk
+—is how big this money is and how much is available to be tapped.
+MR.
+DUDLEY.
+Well, I guess I would say two things.
+I think you are absolutely right that the sovereign wealth funds are of significant size and are growing rapidly.
+But I think that you really have to distinguish between the equity side and the debt side of things.
+<START>The commitments that you are seeing from the sovereign wealth funds seem to be equity investments, and they are equity investments that have occurred only after share prices fell very sharply.<END>
+If you look at debt spreads in the United States, debt spreads in Europe, and debt spreads throughout the world, they have widened.
+So it doesn’t look as though the sovereign wealth fund money is providing much help for that sector.
+It would be surprising if it were big enough, given the constraints on bank balance sheets globally, that they could come in and fill the gaps.
+So I December 11, 200710 of 138think, on the equity side, the sovereign wealth funds are pretty important.
+<START>They are providing some floor on equity prices, but only after the equity prices of some of these financial firms have gone down very significantly in value.<END>
+MR.
+FISHER.
+Nonetheless, they can restore tier 1 capital, as we saw in the case of UBS.
+I mean, that is how markets work.
+MR.
+DUDLEY.
+Yes.
+It is a good development that we are actually finally seeing banks raise capital.
+I don’t think you were seeing that until last month.
+<START>I would say that there was stigma associated with raising capital, and then things got progressively worse, so banks were just forced to raise capital despite the stigma associated with it.<END>
+MR.
+FISHER.
+<START>Well, I wanted to thank you for at least raising four rays of dim sunlight.<END>
+MR.
+DUDLEY.
+We try for balance.
+CHAIRMAN BERNANKE.
+President Lockhart.
+MR.
+LOCKHART.
+Thank you, Mr. Chairman.
+Bill, the trouble with the mortgage insurers has been a development since our last meeting, and I am curious
+—Do they have the capability for raising capital?
+<START>Will raising capital correct or help them get their ratings back to AAA, or is it more complicated than that?<END>
+I have read some concerns about the effect, for example, on municipal markets if the guarantors cannot in fact maintain their ratings.
+So do you have some insight into their ability to raise capital and correct the potential for a downgrade?
+MR.
+DUDLEY.
+The risk to the municipal market is really through the financial guarantors, not so much the mortgage insurers.
+The fact that MBIA was able to raise $1 billion of equity capital yesterday for, I think, about one-seventh of their book value
+—so it is a fairly large capital commitment relative to the size of the company
+—is an important development.
+You saw that MBIA stock yesterday rose more than 10 percent because it basically was a December 11, 200711 of 138confirmation, at least in the minds of some people in the market, that MBIA was a viable business and that someone was willing to put $1 billion of new capital in.
+I think that was reassuring to the market.
+Generally, the people I have talked with suggest that the barriers to entry into those businesses are pretty high.
+<START>The second thing that is happening is, obviously, as you see this distress, their pricing power on new business is actually improving.<END>
+<START>That would suggest that there is a reasonable chance that these firms will be recapitalized, but it depends on how far down the path they are toward serious problems.<END>
+CHAIRMAN BERNANKE.
+President Plosser.
+MR.
+PLOSSER.
+Just a quick comment.
+I have talked to one of the large mortgage insurance companies in some detail, and their view is that their pricing power actually is improving
+—that their own ability to work their way out of this thing is getting better all the time right now.
+Even though they are taking some very large hits in the near term, their outlook actually has improved in recent months, partly because of this.
+This was just to reinforce that point.
+CHAIRMAN BERNANKE.
+Other questions for Bill?
+If not, we need to vote to ratify domestic operations.
+MR.
+KOHN.
+So move.
+CHAIRMAN BERNANKE.
+Without objection.
+Okay.
+We also need a vote on the Swiss request for a currency swap.
+MR.
+KOHN.
+So move.
+CHAIRMAN BERNANKE.
+Any commentary?
+President Poole?
+MR.
+POOLE.
+<START>I vote against the swap for the same reason that I did before, which I would like to amplify, if I may, just for a moment.<END>
+December 11, 200712 of 138CHAIRMAN BERNANKE.
+Why don’t you make your comment, and then we will take a roll call vote.
+MR.
+POOLE.
+Okay.
+As I said in our conference call, foreign central banks have ample amounts of reserves.
+The swap is, therefore, in my view not necessary.
+I would like to make one other observation.
+In the past, the swaps have been most often used in conjunction with operations to intervene in the foreign exchange markets.
+I worry that we may get a reaction in the market, given the concerns in Europe about the value of the dollar, that would say that this is a precursor to some sort of coordinated intervention in the foreign exchange market.
+I would be very opposed to the intervention, I think it would upset things quite substantially, and I would worry that the market concerns that there might be intervention coming would upset the situation on this announcement.
+So those are my concerns and why I vote against.
+CHAIRMAN BERNANKE.
+Thank you.
+We will, of course, announce a swap in the context of our plan to address money market issues.
+With respect to the issue of their reserves, I think there are two reasons for having the swap.
+One is that for technical reasons it is easier for them to segregate their foreign exchange reserves from the money they would use in this auction.
+They felt it was bureaucratically easier for them to do it this way.
+Second, this obviously gives us
+—which is very important for our monetary control
+—sort of a clear marker in terms of what the size of this operation will be, and so on.
+But your points are well taken.
+Any other comments?
+If not, Debbie, could you please read the resolution?
+MS.
+DANKER.
+“The Federal Open Market Committee directs the Federal Reserve Bank of New York to establish and maintain a reciprocal currency arrangement for the System Open Market Account with the Swiss National Bank in an amount not to exceed $4 billion.
+The Committee authorizes associated draws on the arrangement up to the full amount of $4 billion.
+December 11, 200713 of 138The swap arrangement shall be for a period of up to 180 days, unless extended by the Committee.” Chairman Bernanke Yes Vice Chairman Geithner Yes President Evans Yes President Hoenig Yes Governor Kohn Yes Governor Kroszner Yes Governor Mishkin Yes President Poole No President Rosengren Yes Governor Warsh Yes CHAIRMAN BERNANKE.
+All right.
+Thank you.
+Let us turn now to the economic situation and Dave Stockton.
+MR.
+STOCKTON.
+Thank you, Mr. Chairman.
+We had a great deal to contend with over the intermeeting period, and the forecast has changed in some important ways.
+Nevertheless, the basic story underlying our projection remains largely unchanged.
+<START>The fallout from the slump in the housing sector, the ongoing turbulence in financial markets, and elevated energy prices result in subpar growth over the next several quarters.<END>
+With some further easing of monetary policy, a leveling-off of oil prices, and a gradual improvement of financial conditions, growth picks back up toward potential in 2009.
+The gap in resource utilization that opens up over the next several quarters, in combination with the anticipated flattening-out of energy prices, puts total and core inflation on a mild downtrend over the longer haul.
+Overall, our forecast could admittedly be read as still painting a pretty benign picture:
+<START>Despite all the financial turmoil, the economy avoids recession and, even with steeply higher prices for food and energy and a lower exchange value of the dollar, we achieve some modest edging-off of inflation.<END>
+So I tried not to take it personally when I received a notice the other day that the Board had approved more-frequent drug-testing for certain members of the senior staff, myself included.
+[Laughter] I can assure you, however, that the staff is not going to fall back on the increasingly popular celebrity excuse that we were under the influence of mind-altering chemicals and thus should not be held responsible for this forecast.
+No, we came up with this projection unimpaired and on nothing stronger than many late nights of diet Pepsi and vending-machine Twinkies.
+While our basic story hasn’t changed much, the events of the past six weeks have resulted in a considerable darkening of our outlook for activity over the next year.
+<START>In particular, the incoming data have been weaker than expected, the projected path of household net worth has been revised down owing to lower prices for both equities December 11, 200714 of 138and houses, oil prices average about $7 per barrel higher than in our previous forecast, and the brief improvement in financial conditions that we experienced in September and October has been reversed in recent weeks.<END>
+As a consequence, we now project that real GDP will be about flat in the current quarter after having increased at an annual rate of 5 percent in the third quarter.
+<START>Although the sharp swing in activity from the third to the fourth quarters is exaggerated by some wide fluctuations in inventory investment, we are reading the incoming data as suggesting that there has been a greater downshift in the underlying pace of growth than we had previously anticipated.<END>
+Furthermore, we expect activity to remain sluggish next year, growing 1¼ percent, nearly ½ percentage point less than in our October projection.
+In 2009, real GDP is projected to grow at a 2.1 percent pace, a touch below our previous forecast.
+Most of the disappointing news that we have received over the past six weeks has centered on the household sector, most especially on residential construction.
+<START>Single-family housing starts came in a bit below expectations, and permits plunged, suggesting some further intensification of the decline in construction activity in the months immediately ahead.<END>
+<START>Moreover, substantial downward revisions to estimates of new home sales for earlier months indicate that housing demand has been weaker than we previously thought.<END>
+Meanwhile, conditions in mortgage markets have deteriorated further and appear likely to remain impaired longer than we had projected in October.
+Nonprime markets remain moribund, spreads on jumbo mortgages have widened further, and spreads on conforming mortgages to Treasuries have increased.
+These developments along with the weaker incoming data on sales and starts led us to mark down our housing forecast once again.
+We now expect that sales and starts will post a further drop of nearly 10 percent by early next year.
+Moreover, we have delayed our projected recovery in starts until 2009.
+As a consequence, the contraction in residential investment is now expected to subtract over ½ percentage point from the growth of real GDP next year, about ¼ percentage point more than in our October projection.
+In addition to these softer readings on housing activity, the incoming data on consumer spending also have surprised us to the downside.
+Real outlays are now estimated to have been nearly flat between August and October, rather than increasing modestly as had earlier appeared to be the case.
+<START>That subdued pace seems consistent with the slump in consumer sentiment that has followed in the wake of the increased financial turbulence.<END>
+We now project that real PCE increased at a 1¼ percent pace in the current quarter, 1 percentage point less than in the October Greenbook.
+I don’t want to overstate the strength of our case that a noticeable slowing in consumer spending is under way.
+Light motor vehicle sales ran at a 16.2 million unit pace in November, an observation that creates a bit of tension with the survey reports of bummed-out consumers.
+<START>Moreover, it wouldn’t take much more than a few modest upward revisions to earlier months or a pop in spending in December to undermine this part of our story.<END>
+That said, the picture doesn’t seem likely to us to brighten much soon.
+<START>The recent jump in oil prices, coupled with a restoration of currently narrow gasoline margins, points to steep increases in retail December 11, 200715 of 138energy prices that will take a bite out of the purchasing power of household incomes and further restrain overall consumer spending in coming months.<END>
+Furthermore, with the lower level of the stock market and a downward revision to our house-price forecast, household net worth is expected to exert more of a drag on consumer spending over the next two years than in our previous forecast.
+<START>While we don’t expect a dramatic shift, we are anticipating that households will face tighter standards and more-expensive terms for consumer credit.<END>
+All told, we are projecting real PCE to increase 1½ percent in 2008, about ¼ percentage point less than in our October projection.
+In contrast to the almost uniformly weaker-than-expected data on the household sector, the information that we have received on business spending has been more mixed.
+Investment in high-tech equipment has been well below our expectations, especially for communications equipment.
+That observation squares with some reports we have heard that orders for high-tech gear from financial institutions have fallen off.
+Other equipment spending has come in close to our expectations, with the recent data on orders and shipments consistent with our projection for some modest slowing in capital spending.
+The data also have been mixed for nonresidential structures.
+<START>As I noted at the last meeting, the GDP data for the third quarter pointed to stronger drilling activity than we had earlier anticipated, and we have revised up our projection for this category in response to both the incoming data and the higher projected path for energy prices.<END>
+For nonresidential buildings, the October data for construction put in place were a bit below our expectations, and we have lowered our near-term projection of activity in this sector.
+Beyond the near term, we have reduced our forecast for both equipment spending and nonresidential investment.
+Most of that revision reflects an expected endogenous response of investment to the slower growth of final sales and business output in this projection.
+But we also have made some small allowance for what we expect to be less favorable financing conditions and greater uncertainty over the next year.
+Taken as a whole, the spending data have clearly fallen short of our expectations.
+It might appear that, like the spending data, last week’s labor market report was also a downside surprise for us;
+after all, we noted in the Greenbook that we had penciled in an increase of 100,000 for private payrolls in November.
+However, we did that only grudgingly after seeing the ADP survey last Wednesday morning, and basically we did not allow that change to alter any other important aspect of our forecast.
+In fact, the payroll employment figures are slightly stronger than we expected at the time of the October Greenbook.
+Indeed, I still see the generally firm conditions in labor markets as suggesting some upside risk to our view that the economy is in the process of slowing sharply.
+Let me now turn to the inflation forecast.
+Total PCE prices are projected to increase at an annual rate of 3½ percent in the current quarter, about ¾ percentage point above our previous forecast.
+Most of that revision reflects higher retail energy prices.
+But we have also raised our projection of core PCE prices for the third and fourth quarters by ¼ percentage point.
+That adjustment resulted from the upward December 11, 200716 of 138revisions made by the BEA to nonmarket prices in earlier months.
+<START>As you know, we had been consistently surprised by the mild increases in nonmarket prices that had been reported since the spring.<END>
+As a concession to those persistent errors, a couple of forecast rounds ago, we pushed off the reacceleration of those prices into 2008.
+<START>Well, we should have stuck with our earlier story because the revised data now show that those prices picked back up in late summer and early fall.<END>
+Our slight upward revision to core PCE prices in 2008, from 1.9 to 2.0 percent, reflects the indirect effects of the higher oil prices in this projection.
+We continue to believe that the pass-through of energy prices is small, but not zero.
+The other major influences on our price projection have remained relatively tame.
+Although the exchange value of the dollar has fallen a bit, global prices for non-oil commodities have revised down as well, leaving the forecast for core non-oil import prices roughly unchanged.
+Increases in labor compensation remain subdued.
+And taken as a whole, readings on inflation expectations have not changed much.
+The Michigan survey measures of inflation expectations are up some, the Survey of Professional Forecasters was flat, and inflation compensation as inferred from TIPS has edged down slightly.
+With some slack emerging in labor and product markets in the second half of next year and with energy and import prices projected to decelerate, we are forecasting a slight drop in core price inflation from its projected pace of 2 percent this year and next to 1.9 percent in 2009.
+In contemplating our forecast, you might be concerned that our relatively benign muddle-through scenario is increasingly looking like the average of two considerably less benign outcomes
+<START>—one in which the economy proves considerably more resilient, growth bounces back more quickly, and inflation picks up by more than we are projecting and another in which we drop below stall speed and the economy experiences outright recession.<END>
+<START>While I would readily acknowledge those risks, I still see something like our forecast as the more plausible outcome at this point.<END>
+<START>At the September meeting, I quoted from the Greenbook of March 1999, in which we had raised the white flag of surrender on our story that the financial turbulence of the autumn of 1998 would significantly restrain the growth of the economy.<END>
+We could be making that mistake again, but it seems less likely to me now.
+In particular, one important feature of the episode of the late 1990s was that we were almost immediately fighting the incoming data, much of which came in well above our expectations over the final months of 1998 and early 1999.
+By contrast, as I have noted today, the recent data seem to be lining up comfortably with our projection of slower growth ahead.
+I also noted in September the possibility that we could be facing a situation similar to the fall of 2000, when we were forecasting a period of muddling through but were, in fact, on the brink of a mild recession.
+Again, this possibility certainly can’t be ruled out.
+But here, as well, there are some noteworthy differences from that earlier episode.
+In particular, through the fall of 2000, we were receiving increasingly grim stories, especially from manufacturers, about the dismal state of order books and a sharp shift in business psychology.
+At the time, we didn’t have the conviction to embrace those anecdotes given the strength of the official data.
+I’ll be interested to hear your reports today, but my sense is that the anecdotes from December 11, 200717 of 138businesses, while mixed, are not sharply at variance with the data at present.
+Both seem to be pointing to slower growth but not to a serious retrenchment in activity.
+For these reasons, we are inclined to stick with our muddle-through story for now.
+Nathan will continue our presentation.
+MR.
+SHEETS.
+Our reading of the recent data suggests that economic activity abroad decelerated toward the end of the third quarter and has remained on a decelerating path thereafter.
+In the euro area, the United Kingdom, and Canada, this softening of activity appears to reflect
+—at least in part
+—increasing drag from the ongoing financial turmoil.
+Notably, in the euro area, business and consumer confidence have weakened some in recent months, PMIs for both the services and manufacturing sectors have declined, and recent readings on retail sales and industrial production have softened.
+In the United Kingdom, indicators of sentiment and retail sales also have slipped of late, and a slowdown in the housing sector is now under way
+—with declines in net mortgage lending, mortgage approvals, and major indexes of house prices.
+In response, the Bank of England late last week cut its key policy rate 25 basis points, to 5½ percent.
+The Bank of Canada also lowered its policy rate a notch last week, citing concerns about financial market turmoil.
+In assessing the impact of the financial turbulence, we continue to see little evidence that the emerging-market economies are being significantly affected.
+Over the past month or so, debt spreads for many of these economies have risen, and their equity markets have given back some ground, but these moves are relatively mild when viewed from a longer-term perspective.
+All told, foreign growth is projected to step down from an average rate of nearly 4½ percent during the first three quarters of this year to below 3 percent in the current quarter and early next year.
+<START>In addition to headwinds from the financial turmoil, this slowing reflects policy actions in some countries (particularly China) to rein in above-trend growth, as well as the softer pace of activity in the United States.<END>
+Thereafter, we see foreign growth rising back to a rate of 3¼ percent.
+This outlook is weaker over the next few quarters than in our October projection, in line with the lower U.S.
+forecast.
+In addition, given the renewed market turbulence, we now see the drag from financial developments as likely to be larger and more protracted than we had previously assumed.
+<START>We continue to believe that these effects will be felt mainly in the advanced economies, but an important downside risk to our forecast is the possibility that the emerging-market economies may be more affected than we now expect.<END>
+On Friday, we received revised Japanese GDP data for the third quarter.
+The latest estimate cuts growth in the quarter to 1.5 percent at an annual rate, down 1 percentage point from the initial reading.
+Notably, this growth can be attributed entirely to net exports, as domestic demand contracted for the second consecutive quarter.
+Residential investment plunged in the third quarter, as new building regulations temporarily weighed on spending.
+Our forecast calls for domestic demand to bounce back quickly, but downside risks are increasingly evident;
+for example, the profitability of small and medium-sized companies has recently deteriorated, labor market conditions seem to be softening, and wages continue to contract.
+<START>December 11, 200718 of 138The spot price of West Texas intermediate approached $100 per barrel in late November, but mounting concerns about the near-term outlook for global activity have since pushed the price back below $90 per barrel.<END>
+At that level, spot WTI is down a few dollars per barrel since the last FOMC meeting.
+Continued concerns about the longer-term supply-demand balance, however, have kept the far-futures price at its late-November level, near $87 per barrel
+—up about $7 since the last FOMC meeting.
+Nonfuel commodity prices fell sharply in the third quarter and have continued on a downward trajectory.
+The prices of copper and nickel have plunged, driven by concerns that rising inventories may signal a softening of global demand for these commodities.
+The price of zinc has fallen as well.
+Notably, however, the prices of food commodities, including wheat, corn, and soybeans, have continued to rise.
+This run-up in food prices, coupled with high oil prices, has stoked inflation in a number of countries.
+<START>For example, in the euro area, twelve-month headline inflation has jumped from 1.7 percent in August to 3 percent in November, led by food and energy prices, thus prompting the ECB to leave policy on hold at its meeting last week.<END>
+<START>Going forward, this rise in inflation may continue to limit the ECB’s willingness to ease policy, as fallout from the financial turmoil weighs on activity.<END>
+In the United Kingdom, however, a recent rebound in inflation to slightly above the Bank of England’s 2 percent target
+—driven in part by rising food prices
+—did not deter last week’s policy move.
+Indeed, in cutting rates, the BoE noted that “higher energy and food prices are expected to keep inflation above the target in the short term.” In China, food price inflation is running at more than 15 percent and has pushed overall inflation to 6.9 percent in November.
+The pace of inflation has elicited a range of policy responses from the authorities, including a move over the weekend to further increase reserve requirements.
+Our forecast sees global food and oil prices soon leveling off in line with quotes from futures markets, and this would contribute to a welcome moderation of inflationary pressures in a number of countries.
+Since the last FOMC meeting, the dollar has strengthened on balance, rising 1 percent on average against the major currencies and ½ percent in broad nominal terms.
+Notwithstanding this reprieve from dollar depreciation, we continue to see the current account deficit
+—which still exceeds 5 percent of GDP
+—as a key factor that is likely to weigh on the exchange rate going forward.
+Thus our forecast incorporates some modest further real depreciation of the dollar.
+<START>Notably, this depreciation comes entirely against our emerging-market trading partners, and we have slightly raised our projections for the pace at which the renminbi and several other emerging Asian currencies appreciate against the dollar.<END>
+I conclude with a few words about the U.S.
+external sector.
+We expect that export growth, following its red-hot 19 percent performance in the third quarter, will moderate to a still-strong pace of around 7 percent in the current quarter and through the next two years, as exports are supported by past declines in the dollar and still-solid foreign activity.
+<START>Import growth in the current quarter will be sustained at its December 11, 200719 of 138moderate third-quarter rate by a seasonal rebound in oil imports, but import growth is expected to fall off during the first half of next year, in line with the softer pace of U.S.<END>
+activity.
+Thereafter, imports are projected to gradually accelerate, as growth in the United States firms.
+All told, we see net exports making positive arithmetic contributions to growth of 0.1 percentage point in the fourth quarter of this year, 0.5 percentage point in 2008, and a little over 0.1 percentage point in 2009.
+That concludes our prepared remarks, and we are happy to take questions.
+CHAIRMAN BERNANKE.
+Thank you very much.
+Are there questions?
+President Fisher.
+MR.
+FISHER.
+Actually, Mr. Chairman, I have a statement disguised as a question.
+<START>[Laughter] I am glad on the international side that we raised the issue of food price inflation, not because it is on the cover of The Economist but because we discussed it at our last meeting.<END>
+What is curious to me, David, is that there is only one line on page 13 of the Greenbook.
+<START>It says, “At the same time, agricultural producers are expected to step up output of farm products, and that should help bring consumer food price inflation more in line with core inflation.” My statement is that, given our communication exercise, we are drawing more attention to headline PCE.<END>
+My question is, Do I understand it correctly that the food weight in the PCE is twice that of energy and in the CPI is 1½ times that of energy?
+Therefore, why are we not talking about food price inflation as it affects headline inflation numbers, and why do we spend so much time on energy relative to food?
+That is my question.
+Or are we just not worried about food?
+The second question
+—by the way, on the international side, as well as the domestic side
+<START>—is, What is the basis for our optimism that food prices will come down against the background of the demand that you have described on the international side?<END>
+Thank you.
+MR.
+STOCKTON.
+Food is important.
+In fact, we devote, I would imagine, a surprising amount of resources to it.
+We have an agricultural economist whose job is to follow those developments and report on them.
+It is his view
+—and based on both the futures prices and some December 11, 200720 of 138of the modeling that we have done
+—that we will see a deceleration going forward in retail food prices.
+As you know, futures prices basically are projecting a flattening-out.
+I assume that is part of what is in Nathan’s forecast as well.
+We are not trying to outguess the markets in that regard, and the reports that we have received on agricultural production look relatively favorable for the coming year.
+Now, most of that is a bit of winter wheat at this point and not much more in terms of production, although we have seen some significant rebuilding of both flocks and livestock herds that suggests that we are on the right track in terms of an output response to the higher prices that we have seen in the past year.
+<START>Markets are tight, and I think there probably is some asymmetry in the risk surrounding the food price forecast, in that it is easier to see some possibility of stock-out problems if there is any shortfall in production over the coming year, than that there would be some massive boom in agricultural production that will depress prices sharply.<END>
+But I do think
+—and in the Greenbook Part 2 quite often, especially in the autumn, when we are actually doing a more careful accounting of the harvest
+—we devote a fair amount of attention to resources to it.
+We can certainly do even more going forward.
+MR.
+FISHER.
+Thank you.
+MR.
+SHEETS.
+Just to underscore what Dave has said, our forecast is driven largely from the quotes from futures markets.
+<START>So, really, the question boils down to, Why in the world do the futures markets expect the prices of these foodstuffs to decline?<END>
+I think a key factor is that there are some important temporary developments that have driven up food prices.
+There have been adverse weather conditions in a number of Asian economies.
+For example, in China, they had floods earlier this year that have significantly driven up vegetable prices.
+In addition, there has been a sustained drought in Australia that has driven up wheat prices significantly.
+It has been several years that we have seen these drought conditions in Australia.
+It is an open issue as to December 11, 200721 of 138whether that goes away in 2008 or 2009, but the expectation is that at some point that is going to abate somewhat.
+So we can point to temporary factors.
+There has also been a significant imprint on the food prices of a move to ethanol in the United States, and that has driven up the price of corn.
+At the same time, some acreage that had been in soybeans has shifted to corn, and that has reduced the supply of soybeans and driven up that price as well.
+But it is our view and I think the view of the futures markets that over time you are going to see some of these effects balanced out, and the acreage production will be distributed in a way that will help bring these prices down.
+In addition, you could get more acres brought into production of these foodstuffs.
+The final point that I want to emphasize here is that there are also some important structural factors that are driving up food prices, two that I think are worth mentioning.
+One is that you have a lot of people in these emerging-market economies who are a lot wealthier than they were ten years ago, and they want to eat better, and the world is going to have to find a way to produce more and higher-quality agricultural goods.
+It is imaginable that there will be some upward pressure on price through that transition.
+The second important factor that I think is structural is we have seen a sustained and now an apparently permanent increase in the price of oil.
+<START>It takes a lot of petroleum to produce these goods, so that is a longer-run factor that may contribute to higher agricultural prices.<END>
+MR.
+FISHER.
+Thank you for your thorough answer.
+CHAIRMAN BERNANKE.
+President Evans.
+MR.
+EVANS.
+Thanks.
+Dave, I have two questions, I suppose.
+The first one is that the Greenbook GDP forecast has come down a good bit since October.
+At the same time, the Greenbook-consistent short-run equilibrium real funds rate was revised down ¾ percentage December 11, 200722 of 138point.
+How much independent information is there between these two observations?
+I mean, the equilibrium real funds rate is the rate which, if maintained for some period of time, would get us back up to potential growth.
+So the fact that you have marked that down suggests that you would have a lower real rate.
+The second question is this:
+We were expecting the economy to slow during the current period.
+Expectations of slowing versus slowing that is revealed in the data are very important for how we think about the outlook
+—maybe you said this, but I don’t recall it.
+<START>Could you give me an idea of how in the Greenbook your assumptions have evolved since October with regard to prospective losses due to mortgage foreclosures and the write-downs that the banks are expected to take or have announced on this?<END>
+Do you have some numbers in mind on how things have changed in that regard and how that might be influencing your housing outlook?
+Thank you.
+MR.
+STOCKTON.
+<START>In response to your first question about whether there is independent information in that estimate of the equilibrium funds rate for the Greenbook-consistent measure, the answer is that there is no independent information.<END>
+It’s just a transformation of the revision in the GDP outlook into interest rate space.
+Now, obviously, we provide a few other measures in that table, some based on a large-scale econometric model and some on smaller-scale models.
+Those have come down, too.
+So I don’t think our forecast is doing something different from, well, what those other models suggest.
+In response to your second question, our forecast of housing activity going forward is not driven by the foreclosures.
+The foreclosure forecast that we have is driven importantly by the house-price developments, and there we have marked down our house-price forecast.
+We would expect some increase in foreclosures, and obviously that would have some feedback on overall lending and conditions of bank balance sheets.
+December 11, 200723 of 138In general, since the October forecast, we have built in more broadly about ¼ percentage point to the level of GDP in additional restraint on spending coming from the increased overall financial turmoil
+—not just in the housing markets, but we’ve taken down a little our forecast of consumption and our forecast of business fixed investment too.
+Basically, looking at the past correlation between measures of overall financial stress and the residuals of our spending equations, there’s considerable correlation there.
+That is, our standard models, as I noted in the past, have very rudimentary financial transmission mechanisms in them
+—mostly a few interest rates, a few asset prices, housing, equity, and the exchange rate.
+<START>In the past, periods when we’ve seen significant increase in financial stress have also been associated with significant shortfalls in spending, and we’ve tried as best we can to build that in.<END>
+Most of that effect overall is in housing
+—over half of it
+—but some of it we think will spill over elsewhere.
+Those bank balance sheets are going to be impaired.
+We think there will be some restraint on lending going forward.
+But, boy, it’s a lot of guess work!
+On the housing side, I do think we can go through more-careful calculations of the implications of the shutdown of the nonprime market and the current impairment in the jumbo markets, but beyond that, I’d say we’re very loosely calibrating it.
+MR.
+EVANS.
+Thank you.
+CHAIRMAN BERNANKE.
+President Poole.
+MR.
+POOLE.
+Dave, I want to lump together all the various forms of financial distress here
+—the mortgage market, auto loans, credit card loans, and maybe even business failures.
+<START>If my memory serves correctly (and it may well not), if we look at the history of business cycle fluctuations, all those different forms of financial distress rise after a business cycle peak when we have increases in unemployment and actual declines in GDP.<END>
+Assuming that we are not after a business cycle peak right now, it appears that we have a great deal of financial distress ahead of
+—December 11, 200724 of 138I’m hoping it remains ahead of
+—a business cycle peak.
+So this is a very atypical situation in the context of U.S.
+business cycle history.
+MR.
+STOCKTON.
+I don’t actually know in terms of the lag between financial stress and activity.
+<START>They look very contemporaneous in many cases, and in some cases, obviously, they are past leading indicators of economic activity, such as the Stock-Watson index, which ultimately didn’t work all that great, but for a while it looked as though various quality spreads and term spreads had some leading indicator value.<END>
+So I’m not totally sure about whether or not this looks incredibly unusual in that the stress might have increased.
+MR.
+POOLE.
+<START>I’m talking particularly about the delinquencies, foreclosures, and business failures because I think that they usually occur on the way down during the contraction phase of the business cycle and ordinarily those measures look their best close to a business cycle peak.<END>
+That’s what I remember, but I haven’t gone back and reviewed it, but from just my memory of looking at a lot of business cycle data over the years.
+That would say that, if my observation is correct, this is quite an unusual situation
+—unless of course we are past the peak or right at the peak.
+MR.
+STOCKTON.
+This is obviously a situation in which, in some sense, the financial stress is the shock to the system rather than the endogenous response to some other shock, either an aggressive tightening of policy or some other type of aggregate demand shock.
+So in that sense this particular configuration, I think, sort of fits with the situation we’re currently facing.
+Obviously we’re not forecasting a business cycle peak.
+So in our forecast, we’re not yet saying that we’re on the downside of a business cycle.
+We have a growth recession in this forecast and nothing more than that.
+<START>If we were to get a true cyclical downturn, I think you could obviously expect that to have some very considerable effects on foreclosures, business failures, and so forth;<END>
+that channel or mechanism would amplify the downturn in this particular episode.
+December 11, 200725 of 138CHAIRMAN BERNANKE.
+President Stern.
+MR.
+STERN.
+Dave, I’m having difficulty reconciling the employment and hours data for the current quarter with your forecast of no growth whatsoever.
+It seems to me that, even if domestic final demand doesn’t grow or grows little, we still have inventories and exports that could take up whatever output turns out to be, and we don’t know very much about those two components for the current quarter, if I understand the situation right.
+<START>Alternatively, obviously you can get a very bad productivity number, and that would square the circle.<END>
+But I’m wondering what we know in particular about inventories and exports that would lead us to something as weak as this forecast.
+MR.
+STOCKTON.
+<START>In the forecast, in fact, we do square the labor market with our forecast of weak GDP with basically flat labor productivity.<END>
+Now, that’s coming on the heels of a quarter in which we had a 6 percent increase in nonfarm business labor productivity.
+That’s a huge gap, and I don’t think in some sense that the level of productivity that we’re forecasting here is at all at odds with the basic trend that we’ve been seeing.
+Now, when you ask me what we know about inventories and net exports, I’ll let Nathan speak to the net export side of things.
+On inventories we know virtually nothing at this point, and this forecast is actually predicated on non-motor-vehicle inventory investment stepping up.
+We have some offset in some sense built into this forecast on the non-motor-vehicle side, that there will be some, we think, unintended accumulation of inventories in the fourth quarter.
+<START>Obviously the standard error around our forecast is very large, and it includes much higher numbers on inventories, which if that were to be the case, would obviously not bode well for activity going forward because we certainly don’t see inventories currently as so lean that they need to be rebuilt.<END>
+As I indicated on the final sales side, at this point we do have, I think, enough data in hand to make us pretty comfortable with the notion that there’s going to be a considerable slowing in final demand in the current quarter.
+Nathan, do you want to say anything?
+December 11, 200726 of 138MR. SHEETS.
+Yes, just to echo what Dave said, we have very little hard data so far, essentially no hard data for net exports for Q4.
+We will be receiving the October trade data later this week.
+So at that point we’ll start getting a bit more insight into it.
+<START>That said, we see the contribution from net exports falling off from a substantial 1.4 percentage points in Q3 to just a touch above 0.1 in Q4, and that’s driven by a moderation in export growth and continued 4 percent import growth.<END>
+But obviously there’s a lot of uncertainty around those projections.
+CHAIRMAN BERNANKE.
+President Plosser.
+MR.
+PLOSSER.
+Thank you, Mr. Chairman.
+I have sort of a longer-run question that I’d like to pose.
+I was looking at the alternative scenarios in the Greenbook, and one of the things that I was looking at was the funds rate path that was described as the market-based forecast for the funds rate.
+It drops almost 150 basis points, or 100-plus basis points, between now and the middle or end of next year.
+One consequence of that, though, seems pretty benign
+—that there’s not much change in the inflation forecast at least through 2009;
+it changes only about 0.1 percentage point
+—and there are some positive effects on output, particularly in ’09.
+<START>It appears, at least within this period, that 100 basis point rate cuts seemed to be pretty much free.<END>
+So I guess my question to the staff is, Is there a price to be paid for that, and if I run the forecast out beyond 2009, will any of those prices or those consequences appear in the forecast for inflation?
+If so, how long would I have to look before I saw them in the model?
+MR.
+STOCKTON.
+I don’t think you’d need to look much farther than the horizon that we’re showing here to see that, in the context of the staff’s view about activity, that path for the fed funds rate would probably not be sustainable because in some sense our IS curve is considerably stronger than the market’s currently.
+If it makes you feel a little better, we are planning on incorporating the extended forecast into the Greenbook next time, and we want to take these December 11, 200727 of 138alternative scenarios and push them out because we recognize that one of the weaknesses in the relatively short period that we have here is that much of the interesting action in these often takes place just beyond the time frame that we’re showing.
+So I think that will help.
+MR.
+PLOSSER.
+I appreciate that.
+That would be very helpful to put in some perspective what tradeoff in the costs we might see.
+Thank you.
+MR.
+STOCKTON.
+We should make some progress there.
+CHAIRMAN BERNANKE.
+Vice Chairman Geithner.
+VICE CHAIRMAN GEITHNER.
+Thank you.
+My first question is an extension of President Evans’s question.
+Dave, there are two things to your monetary policy assumption in the Greenbook.
+One is that you lowered the path 50 basis points over the forecast period, but the way you did it was sort of interesting.
+You did 25 now, and you did the rest just at the point where I think in your forecast the economy is coming back up toward trend growth.
+Can you say a little about the shape of that path?
+MR.
+STOCKTON.
+Yes.
+In some sense that reduction in the middle of 2009 goes back to President Plosser’s point.
+<START>We’re trying to get on track so that when we actually show the extended Greenbook, we have been following, roughly speaking, the optimal control simulation on a 1¾ percent inflation target.<END>
+The 25 basis points up front is in some sense dealing with the current weakness in overall activity.
+The 25 basis points in 2009 really reflects the fact that, at that point, inflation is coming down a little and you’ve opened up an output gap.
+<START>You have an unemployment rate at 5 percent, and you can start a process then, according to that optimal control, of lowering the real funds rate to encourage growth to move above potential and eventually reduce the unemployment rate back toward the NAIRU.<END>
+I recognize it’s going to be a cosmetic
+—I mean, not a cosmetic but a small analytical wrinkle
+—that might be more confusing than enlightening.
+But, as December 11, 200728 of 138you know, in the Greenbook extension memo that we circulate, we do see the fed funds rate coming down to 4 percent or below in the extended Greenbook part.
+<START>So it really is more to try to stimulate growth to above potential once you have inflation moving down.<END>
+VICE CHAIRMAN GEITHNER.
+May I ask one follow-up question?
+In the note for the Board that you circulated on Monday, Dave, you said that the magnitude of the credit crunch you’re contemplating is roughly comparable to the unusual weakness of private spending seen during the headwinds episode of the early 1990s.
+So I was curious.
+It is sort of interesting because you think that capital at banks going into this period is much stronger than going into the 1990–91 period.
+<START>Corporate balance sheets, based just on the crude leverage ratios, are much healthier today than they were then.<END>
+On the other hand, banks are a smaller share of the financial system, and you could say that the nonbank part looks kind of weak.
+The FHLB is growing very dramatically, taking up a fair amount of the room left by the shrinking of the nonbank sector.
+I don’t know.
+GSEs have less room to grow.
+It’s sort of mixed.
+It’s complicated.
+I was curious about how you thought about the comparison.
+You didn’t seem to like the comparison.
+MR.
+STOCKTON.
+So the headwinds of the 1990–91 period
+—that was a calibration we used for the “credit crunch” scenario in the Greenbook.
+VICE CHAIRMAN GEITHNER.
+Oh, it’s just the alternative scenario.
+I misunderstood.
+I’m sorry.
+MR.
+STOCKTON.
+In our baseline forecast, we don’t have what I would call a real credit crunch.
+We have some tightening of terms and standards in a period of financial stress that we think will depress spending.
+<START>But if you’re really thinking that we are on the verge of something that looks more like the 1990–91 period, then I think that credit crunch scenario gives you a better sense of the dimensions of the demand shock.<END>
+Now, as we discussed at the Board meeting yesterday, and December 11, 200729 of 138Governor Kroszner suggested, we might want to think about elongating that particular shock.
+<START>We piled a big shock into a relatively short time, and certainly another reasonable alternative<END>
+—if you were in a situation like that
+—would be that you would face a longer period of weak demand but not necessarily that sort of recessionary type of scenario that we showed there.
+CHAIRMAN BERNANKE.
+Other questions?
+President Evans.
+MR.
+EVANS.
+As I was looking at the alternative simulations and the credit crunch scenario and trying to make sense of what financial markets are thinking about in terms of the expected fed funds rate path, it seems as though you need that credit crunch scenario to get to that type of path, and that’s not where you are.
+Then there are also other scenarios that are slightly stronger, which I think are in line with more Blue Chip types of forecasts, too.
+So there really is a disconnect in a lot of this.
+MR.
+STOCKTON.
+Well, I think, as we showed in the alternative scenarios, something like either the credit crunch or the greater housing correction scenarios
+—in the real world obviously wouldn’t necessarily be shocks that would be independent of each other
+—but either one of those two scenarios is constructed to produce something that looks similar to what the markets might be thinking.
+And we don’t think those scenarios are unreasonable.
+CHAIRMAN BERNANKE.
+All right.
+President Hoenig.
+MR.
+HOENIG.
+David, in listening to this, I have a question.
+As you are looking at and projecting forward, we’re talking about a fed funds rate path that comes down, and yet we’ve talked a great deal about inflation rising temporarily in some views.
+The question I have is, Does it give you pause?
+<START>How do you analyze the risk that you are lowering rates in an environment of rising inflation on a global basis?<END>
+Do you have any concerns about the risk?
+<START>Are you reevaluating the risk of how stable inflationary expectations might be in that scenario?<END>
+December 11, 200730 of 138MR. STOCKTON.
+<START>Obviously in our baseline forecast we don’t really have a pickup of inflation, even headline inflation, beyond the very near term.<END>
+So we do think that, in the next quarter or two, we’re going to be looking at some pretty large headline numbers that will be reflecting the jump in energy prices and some lingering increases in food prices.
+MR.
+HOENIG.
+Right, and you’re saying the slowdown in the economy makes that temporary?
+MR.
+STOCKTON.
+<START>The slowdown in the economy helps in the sense that we do think opening up an output gap is going to limit and eventually bring down some of those inflation pressures.<END>
+In terms of the risks surrounding the forecast, I think an important element in the baseline forecast is that taking on futures markets for both energy and food
+—and those markets are expecting almost an immediate flattening-out and even oil prices coming down just a bit
+<START>—is probably more important in some sense over the next year or so in terms of relieving inflation pressures.<END>
+Certainly our experience in the past several years is that we don’t know any better way to do it.
+It’s not as though the futures markets have done a great job for us;
+they’ve always been forecasting that things were going to be flattening out right around the corner.
+So if you were skeptical about whether that was going to occur, you might be concerned about whether or not you could experience some continued upside surprises there.
+Now, we’ve been encouraged in looking at inflation expectations, because we haven’t yet seen any really broad-based deterioration, and we think things have to date been reasonably well contained.
+In our forecast, that continues.
+This forecast does not assume that there will be any deterioration of inflation expectations going forward.
+If we saw that, it would be at odds with what we’re seeing now and would probably lead us to revise up the forecast.
+MR.
+HOENIG.
+Thank you.
+December 11, 200731 of 138CHAIRMAN BERNANKE.
+Okay.
+Let’s begin our go-round.
+President Yellen.
+MS.
+YELLEN.
+Thank you, Mr. Chairman.
+<START>At the time of our last meeting, I held out hope that the financial turmoil would gradually ebb and the economy might escape without serious damage.<END>
+Subsequent developments have severely shaken that belief.
+<START>The bad news since our last meeting has grown steadier and louder, as strains in financial markets have resurfaced and intensified and as the economy has shown clear signs of faltering.<END>
+<START>In addition, the downside threats to growth that then seemed to be tail events now appear to be much closer to the center of the distribution.<END>
+I found little to console me in the Greenbook.
+Like the Board staff, I have significantly marked down my growth forecast.
+<START>The possibilities of a credit crunch developing and of the economy slipping into a recession seem all too real.<END>
+Conditions in financial markets have worsened.
+Rates on a wide array of loans and securities have increased significantly since our last meeting, including those on term commercial paper, term LIBOR, prime jumbo mortgages, and high-yield corporate bonds.
+CDS spreads from major financial institutions with significant mortgage exposure, including Freddie and Fannie, have risen appreciably.
+In addition, broad stock indexes are down nearly 5 percent.
+<START>At the same time, measures of implied volatility in equity, bond, and foreign exchange markets have all moved up, reflecting the greater uncertainty about the economy’s direction.<END>
+The most recent data on spending have been discouraging as well.
+<START>Data on house sales, prices, and construction have been downbeat, and foreclosures on subprime loans have moved even higher.<END>
+<START>Even with efforts such as those facilitated by the Administration to freeze subprime rates, foreclosures look to rise sharply next year, which may dump a large number of houses on a market already swamped with supply.<END>
+This will exacerbate the downward pressure on house prices and new home construction from already elevated home inventories.
+Indeed, the ten-city December 11, 200732 of 138Case-Shiller home-price index has declined more than 5 percent over the past year through September, and futures contracts point to another sizable decline over the next twelve months.
+I am particularly concerned that we may now be seeing the first signs of spillovers from the housing and financial sectors to the broader economy.
+<START>Although the job market has remained reasonably healthy so far, real consumer spending in September and October was dead in the water, and households are growing more pessimistic about future prospects.<END>
+The December reading of consumer sentiment showed another decline, and the cumulative falloff in this measure is becoming alarming.
+Gains in disposable income have been weakened.
+With consumer sentiment in the doldrums, house prices on the skids, and energy prices on the rise, consumer spending looks to be quite subdued for some time.
+This view is echoed by the CEO of a national high-end clothing retailer on our board, who recently emphasized to us that the positive chain store sales data in November were in fact artificially boosted by the Thanksgiving calendar shift and that the underlying trend for his business has worsened notably.
+<START>My modal forecast foresees the economy barely managing to avoid recession, with growth essentially zero this quarter and about 1 percent next quarter.<END>
+<START>I expect growth to remain below potential throughout next year, causing the unemployment rate to rise to about 5 percent, much like in the Greenbook.<END>
+This forecast assumes a 50 basis point decline in the federal funds rate in the near future, placing the real funds rate near the center of the range of estimates of the neutral rate reported in the Bluebook.
+I should emphasize that I do not place a lot of confidence in this forecast, and, in particular, I fear that we are in danger of sliding into a credit crunch.
+Such an outcome is illustrated by the credit crunch alternative simulation in the Greenbook.
+<START>Although I don’t foresee conditions in the banking sector getting as bleak as during the credit crunch of the early 1990s, the parallels to those events are striking.<END>
+<START>Back then, we saw a large December 11, 200733 of 138number of bank failures in the contraction of the savings and loan sector.<END>
+In the current situation, most banks are still in pretty good shape.
+Instead, it is the shadow banking sector
+—that is, the set of markets in which a variety of securitized assets are financed by the issuance of commercial paper
+—that is where the failures have occurred.
+This sector is all but shut for new business.
+But bank capital is also an issue.
+<START>Until the securitization of nonconforming mortgage lending reemerges, financing will depend on the willingness and ability of banks, thrifts, and the GSEs to step in to fill the breach.<END>
+To the extent they do, that will put further pressure on their capital, which is already under some pressure from write-downs on existing loans and holdings of assets.
+Banks are showing increasing concern that their capital ratios will become binding and are tightening credit terms and conditions.
+Several developments suggest to me that this situation could worsen.
+In addition to the problems plaguing the adjustable-rate subprime mortgages, delinquencies have recently started to move up more broadly
+—on credit card and auto loans, adjustable-rate prime mortgages, and fixed-rate subprime mortgages.
+My contacts at large District banks tell me that, because the economy continues to be reasonably healthy and people have jobs, things are still under control.
+<START>But if house prices and the stock market fall further and the economy appears to be weakening, then they will further tighten the lending conditions and terms on consumer loans to avoid problems down the road, and these fears could be self-fulfilling.<END>
+If banks only partially replace the collapsed shadow banks or, worse, if they cut back their lending in anticipation of a worsening economy, then the resulting credit crunch could push us into recession.
+This possibility is presumably increasingly reflected in CDS and low-grade corporate bond spreads.
+Thus, the risk of recession no longer seems remote, especially since the economy may well already have begun contracting in the current quarter.
+December 11, 200734 of 138Indeed, the December Blue Chip consensus puts the odds of a recession at about 40 percent.
+This estimate is within the range of recession probabilities computed by my staff using models based on the yield curve and other variables.
+<START>Turning to inflation, data on the core measure continues to be favorable.<END>
+Wage growth remains moderate, and the recent downward revisions to hourly compensation have relieved some worries there.
+Inflation expectations remain contained.
+<START>As I mentioned, I expect some labor market slack to develop, and this should offset any, in my view, modest inflationary pressures from past increases in energy and import prices and help keep core PCE price inflation below 2 percent.<END>
+Continued increases in energy and import prices pose some upside risk to the inflation outlook, but there are also downside risks to inflation associated with a weakening economy and rising unemployment.
+To sum up, I believe that the most likely outcome is for the economy to slow significantly in the near term, flirting with recession, and I view the risk to that scenario as being weighted significantly to the downside.
+<START>In contrast, I expect inflation to remain well contained, and I view those risks as fairly balanced.<END>
+CHAIRMAN BERNANKE.
+Thank you.
+President Rosengren.
+MR.
+ROSENGREN.
+Thank you, Mr. Chairman.
+I think I took the same pessimism pill as President Yellen this morning.
+<START>The Greenbook makes very somber reading, and I would make several observations about the forecast it provides.<END>
+<START>First, Greenbook forecasts of two successive quarters of growth below 1 percent are quite rare, and often in the past have occurred shortly before or during recessions.<END>
+Second, the 70 percent confidence interval for the Greenbook projection of GDP, using historical forecast errors, has a negative lower bound.
+Third, I would note that when the unemployment rate rises at least ½ percent, it tends to rise December 11, 200735 of 138much further than just ½ percent.
+That is, historically, when we have unemployment rates rise ½ percent, we have subsequently found ourselves in a recession.
+These observations indicate that, while a recession is not forecast in the Greenbook
+—as David has been careful to state
+—the probability of a recession is clearly elevated.
+At our last meeting, the housing market was very soft, but weakness in other components was not yet reflected in the data.
+<START>But now we have some evidence that consumption and investment may also be slowing, and residential investment may be even weaker than we thought.<END>
+<START>While incoming data have generally been weak, some higher-frequency data, like the recent labor report, might be consistent with a stronger outlook than the Greenbook forecast.<END>
+However, I am concerned that housing prices may actually fall more than assumed in the Greenbook, potentially resulting in consequences that are difficult to forecast with models using only postwar data.
+<START>I am also sympathetic to the view that disruptions in financial flows have the potential to result in significantly more weakness than would result from an econometric model that does not capture significant liquidity disruptions, in part because the occurrence of such events is quite rare.<END>
+Added to these concerns is the current state of financial markets both here and abroad.
+The elevated rates for term lending, even over relatively short maturities, indicates significant risk aversion by market participants.
+<START>Financial institutions with very low probabilities of default, as measured by credit default swap rates, are nonetheless having difficulty securing term lending over year-end.<END>
+Bank supervisors of large financial institutions are beginning to report correlations in nonperforming experiences of auto, credit card, and mortgage loans.
+Geographic regions hard hit by mortgage defaults are also experiencing rising default rates in other types of loans.
+Portfolios that are not highly correlated during good times can become highly correlated during December 11, 200736 of 138bad times, and the initial trends being reported in bank supervision are not encouraging.
+I would also highlight this as one of the instances in which bank supervision is providing some very relevant input into thinking about the macroeconomy.
+Finally, I would highlight several institutional concerns that could have broader implications.
+First, financial guarantors, as was highlighted earlier, have credit default swap rates inconsistent with their AAA rating.
+<START>Significant downgrades would further depress CDOs but also disrupt the municipal bond market and force some banks to fulfill agreements to purchase securities that do not maintain at least an AA rating.<END>
+<START>Second, there is the potential for significant further announcements of downgrades of assets related to SIVs and CDOs.<END>
+Money market funds are currently experiencing inflows.
+However, those flows could quickly reverse if investors lose confidence in their ability to redeem money market funds at par.
+<START>Third, I would note that for securities like lower-grade bonds that have not previously shown elevated risk premiums, those premiums are now becoming quite elevated, providing evidence that what was initially a liquidity concern is now becoming a more widespread and generalized concern about the state of the economy.<END>
+<START>With core inflation a little below 2 percent, and future reductions in labor market pressures likely, we have the flexibility to respond aggressively to slowing economic growth and the ongoing financial turmoil.<END>
+This seems to be the appropriate time to take significant further action, knowing that, should the economy perform much better than we currently anticipate, we could be equally nimble in raising rates as appropriate.
+CHAIRMAN BERNANKE.
+Thank you.
+President Poole.
+MR.
+POOLE.
+Thank you, Mr. Chairman.
+Just before the meeting I learned something about how we select the order.
+There are a bunch of us sitting with Debbie, and most people December 11, 200737 of 138seem to want to go toward the end.
+Debbie apparently has been in touch with too many econometricians because she said it is “overdetermined.” [Laughter] Anyway, here I am.
+Let me start with some of the anecdotal reports.
+It is pretty clear that the anecdotal reports that I am getting from large national firms on the goods side of the economy are coming in on the soft side.
+The holiday season, according to UPS, is coming in about 2 percentage points below projection;
+and UPS and FedEx are revising down somewhat their longer-term projections and their capital spending plans.
+My FedEx contact said that the less-than-truckload business is, in his terms, pitiful.
+My contact with a large trucking company, J.B.
+Hunt, said that the company is cutting its capacity.
+Its volume is down 13 percent from a year ago.
+The company has reduced capacity 13 percent over the past twelve months and will cut another 12 percent.
+That is, after all, a full one-quarter cut in capacity of that company.
+Hunt is selling its trucks.
+Many of them are going to Russia, interestingly enough.
+<START>Perhaps the only good news from this company is that drivers are plentifully available, which has not been so true in the past.<END>
+In the quick-serve restaurant business, there is a ray of hope.
+The projection is that food prices will increase much more modestly than they have been doing this year, but they said that most people in the restaurant business are pessimistic.
+On the other hand, a large software company reports that it is optimistic.
+The sales of PCs are good, gaming devices and software are doing well, and cap-ex plans are substantial
+—nothing being cut back there.
+A contact with a large money center bank said that the bank’s analysis of its consumer credit card business indicated that the increase in thirty-day delinquencies is entirely explained by what is going on in Florida, California, and Nevada, and delinquencies in the rest of the country are about unchanged.
+A general comment on the business outlook:
+We have a lot of specific news
+—and certainly Janet talked about some of that
+—that is pretty negative.
+I have an inherent optimism December 11, 200738 of 138about the economy, which is hard to put any real flesh on the bones I guess, but I think that the economy in the longer run is inherently strong and resilient.
+A lot of the adjustments in the credit markets I believe are under way.
+We see it with a lot of the recapitalizations that are taking place and the initial shock back in July and August.
+There are a lot of smart people with sharp pencils who are digging into their situations, deciding what to write off, and then getting on with things;
+and they are past the initial scramble.
+So those things together give me some sense of optimism.
+I would also note that, although many households are certainly stressed, there does seem to be a lot of discretionary spending taking place
+—consumer electronics, for example, are pretty strong.
+There was an article in the newspaper noting that the hot items this Christmas season are GPS navigation devices.
+To add one of these to your car hardly seems to be an essential expenditure.
+Computer games are another example.
+MR.
+MISHKIN.
+Talk for yourself, Bill.
+[Laughter] MR. POOLE.
+I bought my GPS a long time ago, and I don’t play computer games.
+But at any rate, flat panel TVs, a lot of stuff like that, suggest that many households are not on the edge of being highly stressed.
+So I don’t know where to come out on this.
+I guess that my outlook has more variance to it than usual, and it seems to me that, when we get to the policy discussion, what we need to do is to find a way to react promptly to the surprises that I think are inevitably ahead of us.
+Thank you.
+CHAIRMAN BERNANKE.
+Is the sale of a used truck to Russia an export or a capital inflow?
+[Laughter] Think about that one.
+MR.
+POOLE.
+Well, it is not current production, so it is not an export.
+CHAIRMAN BERNANKE.
+No, I understand.
+Let’s see.
+President Lacker.
+December 11, 200739 of 138MR. LACKER.
+Thank you, Mr. Chairman.
+<START>Economic conditions in the Fifth District appear to be generally sound but with some notable areas of weakness.<END>
+<START>Our survey readings on the services firms indicate continued moderate growth in November, and our index of manufacturing activity gained a few points following a sharp decline in October, though it remains in neutral territory.<END>
+A number of our contacts reported that the weaker dollar is providing a boost to manufacturing exports, and I have noticed a definite increase in the number of coal trains rumbling by my office on their way from West Virginia to port.
+On the other hand, our merchant contacts were much less optimistic about their sales prospects going into the holiday season.
+Our retail sales survey indicator slid another 8 points, pulled down by significant declines in big ticket sales and shopper traffic components.
+<START>District housing markets continue to weaken overall, with distinctly more-pessimistic tones in some markets, particularly around the D.C. area, although there are a couple of areas that are still reporting decent activity to the south.<END>
+In commercial real estate, reports from the retail and industrial markets are generally upbeat.
+One former director, whose firm owns a sizable portfolio of retail properties throughout the East Coast, described the sector as in the best shape he has seen in his lifetime, and he is by no means a young man.
+Industrial leasing appears to be in good shape, even tight in some markets.
+In the office market, however, contacts in Maryland and the Carolinas report slower office leasing activity in October and early November.
+The community bankers I have talked with say that portfolios are still quite clean but that they are scrutinizing deals much more carefully in the current environment.
+<START>They also complain that large banks are raising deposit rates and competing more intensely for deposits.<END>
+At large banks, the cost of capital has increased, and they are responding accordingly by reevaluating the December 11, 200740 of 138profitability of various lines of business.
+This does not appear to have resulted in any wholesale cutback in lending but more in a tightening of terms in selected market segments.
+I view the information from our District as fairly consistent with my economic outlook at the national level.
+<START>Housing investment continues to contract, and the overhang of unsold homes and general tightening of credit terms suggest a quite prolonged period of relatively depressed activity.<END>
+Consumer spending clearly has slowed.
+For the months of September and October, real consumption showed almost no growth.
+<START>While early reports on the holiday shopping season are notoriously slippery, it seems clear that shoppers are far from ebullient, perhaps with the exception of these GPS toys.<END>
+<START>This seems consistent with the virtual absence of growth in real disposable income over the past two months and the flattening-out of household net worth in the third quarter.<END>
+Job growth has shifted down to a more modest pace over this year, and revisions to the payroll series, when we finally get them, seem likely to make the slowdown look bigger.
+So it wouldn’t surprise me if consumer spending came in fairly tame next year.
+I am expecting a slowdown in consumer spending growth, however, not a sharp pullback.
+Labor markets are still fairly tight.
+Household net worth is still at fairly elevated levels.
+So while the increase in the saving rate projected by the Greenbook for next year is plausible, I think consumer spending could come out on the high side of that forecast.
+A key factor in the outlook and a key source of uncertainty is the continuing drama in credit markets.
+Large banks are bringing impaired assets onto their balance sheets and are facing a higher cost of capital and increased funding costs.
+It would seem reasonable to expect them to respond by tightening terms of credit for households and business borrowers, implying a further drag on spending.
+The magnitude of this sort of fallout is still quite uncertain.
+Reduced credit flows appear so far to be less a reduction in credit supply than in demand.
+<START>That is, they appear to December 11, 200741 of 138reflect a genuine deterioration in borrower creditworthiness in some segments.<END>
+Residential real estate fits this description as does some, though not all, commercial real estate.
+<START>Beyond these sectors, we have seen some evidence of yield spreads widening, but the cost of credit to investment-grade nonfinancial firms is low and has been falling along with the risk-free rate, at least until very recently.<END>
+The flow of credit to such firms seems to have been holding up well, as has the nonmortgage consumer credit flow.
+So at this point, it does not look as though an indiscriminate, across-the-board credit crunch is taking place, although marginally higher credit costs may exert some additional drag on spending growth.
+<START>Overall, then, I do see a weaker outlook for growth in the near term, and the timing of the return to trend is going to depend somewhat on the bottoming-out of the housing cycle, which unfortunately appears to be getting even more remote each time we meet.<END>
+<START>If we have a more protracted slowdown ahead of us, as seems likely now, we need to be careful not to lose sight of inflation.<END>
+Core PCE inflation has edged up over the past two months, and it now appears likely to move above 2 percent for a time.
+Overall inflation, of course, has been higher on average over the last year, and we have seen a slight upward trend in five-year-forward inflation compensation since earlier in the year.
+<START>In fact, the behavior of energy and food prices over the past several years calls into question the standard presumption we make that overall inflation is going to return to the core inflation trend in a reasonable period of time.<END>
+That points to the possibility that inflation may give us more trouble ahead.
+CHAIRMAN BERNANKE.
+Thank you.
+President Evans.
+MR.
+EVANS.
+Thank you, Mr. Chairman.
+Coming out of our October meeting, I expected a period of subpar growth stretching into the middle of 2008.
+Since I was anticipating some soft data, it was not obvious to me that the outlook had worsened until later in the December 11, 200742 of 138intermeeting period.
+A lot of the data that we have cited are financial items that are difficult to assess and are somewhat unusual for the current period.
+But the incoming information has caused us to mark down our outlook further, although we don’t see growth declining as far below potential as in the Greenbook baseline forecast.
+Although housing continues to weaken, that by itself did not cause a substantial revision to our outlook.
+The bigger factor was a noticeable weakening of consumption.
+PCE was basically flat in September and October
+—I guess dead on arrival.
+<START>The financial headlines are taking their toll on consumer sentiment, and higher energy prices are lowering real incomes.<END>
+It is not clear, however, that we are seeing a major sustained pullback in consumption;
+but, of course, that is arguable.
+The limited information we have about November
+—motor vehicle sales and the chain store data
+—suggest at least modest gains in consumer expenditures.
+I realize that the chain store sales could be a bit artificial.
+<START>I was talking to one of my business contacts who has a significant presence in retail, and I am accustomed to hearing that, “Well, the Christmas season is a bit short this year, so that could be a problem.” But I actually caught him this time saying, “Gee, it’s so long this time that people seem to be losing interest.” [Laughter] On balance, I think the fundamentals for consumption are still reasonably good.<END>
+<START>Importantly, although they may be somewhat lagging, the payroll numbers are still consistent with decent growth in wage income, and the unemployment rate remains low.<END>
+<START>Elsewhere, foreign growth remains good, which along with the lower dollar should support continued growth in exports.<END>
+We have seen some softening in capital spending as well, but the usual indicators still point to moderate gains in investment.
+These developments seem reasonably consistent with what I heard from business contacts.
+Most of them think that growth is slowing, and they are more cautious, but I would summarize their views as guarded and not December 11, 200743 of 138alarmist.
+Furthermore, many say that their improved inventory control methods are preventing an inventory cycle from exacerbating the current situation, and they bring this up without my prompting.
+So to me their comments do not yet suggest a sharp curtailment in real economic activity.
+Of course, the financial markets continue to weigh negatively on the outlook.
+In my view, the biggest concerns are the large markdowns on structured securities and the volume of assets that may be returning to banks’ balance sheets.
+These effects appear to be larger than the banks had planned for as of October and could have a significant impact on lending capacity.
+This is an important downside risk to the real economy, as the Greenbook highlights in many places.
+That said, when I talk with my business contacts, there continues to be a disconnect between the credit conditions they report facing and the turbulence we see in money and credit markets.
+Outside of lending for residential and nonresidential construction, my CEO contacts at nonfinancial firms do not report much change in credit costs or availability.
+We have heard this from a number of sources.
+For example, two of the larger banks in our District said they have not changed terms to borrowers, and they expressed relatively sanguine views of lending conditions overall.
+For the time being, some lenders report offsetting a portion of their higher funding costs by taking a hit on their interest margins.
+Credit conditions for construction-related industries are another matter.
+A major shopping center developer who has been one of the largest issuers of commercial mortgage-backed securities indicated that this market has dried up completely.
+However, the developer has been able to obtain financing from other traditional sources, such as life insurance companies.
+He is paying similar interest rates, he says, but the terms include lower loan-to-value ratios.
+So there is some credit effect, but he still has access for the moment.
+That is a bit like what December 11, 200744 of 138President Lacker was suggesting.
+He said the switch is not a big deal for him currently, but if it continues for too long
+—say, for more than six months or so
+—it would then weigh more heavily on his business activity.
+The evolution of such developments will obviously be an important thing to watch over the next few meetings.
+I would just note that I don’t often look at the Duke University survey of CFOs.
+But as I looked at it
+—and I don’t have a great deal of experience
+—it did seem to indicate that they had higher spending plans on average from their September survey for capital expenditures and technology spending.
+It wasn’t a great bit, but given all the negative headlines associated with the credit conditions
+—which are unweighted, whereas these spending plans are weighted
+—that was a bit of a surprise.
+Putting all of this together, we have marked down our current quarter and 2008 real GDP forecasts 0.4 percentage point, which is pretty significant.
+We now have growth next year of 2¼ percent.
+We expect growth to improve to our assessment of potential thereafter, namely about 2½ percent.
+<START>This forecast assumes two policy easings, similar to but sooner than the Greenbook, and it is shaded toward the “stronger domestic demand” alternative scenario, which has less financial restraint on PCE and business fixed investment than in the Greenbook baseline.<END>
+Turning to inflation, our forecast is for PCE inflation to settle in at 1.8 percent.
+<START>This continued favorable projection for inflation is important for my policy views now.<END>
+We think resource utilization likely will be about neutral for inflation over this forecast period.
+Our GDP projection does not result in appreciable resource slack over the forecast period.
+Even under the weaker Greenbook scenario, the GDP gap remains less than ½ percentage point.
+But there are upside risks.
+The most recent data on core prices have been a bit higher.
+The lower dollar could put pressure on prices, and my business contacts remain concerned about the cost of energy and other commodities.
+Finally, at least by the Board staff calculations, five-year forward TIPS December 11, 200745 of 138inflation compensation has moved up to the range that it was in during the spring of 2006, a period when we were more concerned about the inflation outlook.
+<START>I wouldn’t put too much weight on this particular inflation expectation development at the moment, but it may be looming ahead.<END>
+So I continue to see upside risk to inflation, which if realized would complicate our policy reaction to developments on the growth and employment side of the ledger.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Stern.
+MR.
+STERN.
+Thank you, Mr. Chairman.
+It probably goes without saying that I think the main development since the last FOMC meting has been the renewed deterioration in some of the financial markets.
+In the absence of that
+—that is, had financial market conditions either stabilized or continued to improve as they had from the September to October meetings
+—we would be probably having a somewhat different conversation this morning.
+We would be talking more about parsing the recent incoming macro data and talking about whether the economy was slowing as anticipated or a little more or a little less.
+We should remember, we were expecting a significant slowing in the rate of growth, and that in fact does seem to be occurring.
+But, as I said, I think the financial market developments have been the dominant ones.
+As far as the economic outlook is concerned, my view of the next few quarters is for growth a bit better than that in the Greenbook for a couple of reasons.
+One is that I think the incoming data, as always, are noisy, and I am reluctant to put a lot of weight on them.
+Second, it seems to me that some of the underlying fundamentals, particularly the labor market data, present a more favorable picture of the outlook than the spending numbers at the moment.
+But it seems to me that the risks are clearly on the downside, and they are on the downside because of financial market conditions.
+Perhaps the most interesting anecdote I came across in the December 11, 200746 of 138intermeeting period was that about two weeks ago we had a meeting with about fifteen leaders from firms in the financial services industry in the Twin Cities.
+There was a good deal of concern among, I would say, virtually all the participants in that meeting, and it wasn’t so much about year-end funding and that kind of thing.
+It was really about the economic outlook, and it had to do with the fact that some markets are not working or are barely working at the moment.
+There is no doubt that in their own businesses they are all tightening terms and other conditions.
+They believe that is appropriate, but they wouldn’t argue that it isn’t going to have an effect on spending.
+They also believe that at least some of their customers are acting in anticipation of that.
+That is, they are starting to cancel or at least delay spending plans, believing that they aren’t going to be able to find financing or at least find financing at terms they would like.
+<START>So it seems to me that we are in an environment, as far as financial conditions are concerned, where that poses a very real downside threat to what otherwise might be a pretty acceptable economic outlook.<END>
+Just a word about inflation.
+I haven’t changed my outlook for inflation going forward.
+I don’t have a sense from the incoming information that there is any compelling reason at the moment to do so.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Pianalto.
+MS.
+PIANALTO.
+Thank you, Mr. Chairman.
+The conversations that I have had with my business contacts indicate that business conditions in our region have clearly softened since the last meeting and perhaps even more than what is reflected in the Beige Book report that we prepared just a few weeks ago.
+A sense of pessimism about the economic outlook seems once again to be sweeping over our business community, and it is not just the financial community.
+This is a decided change from what I was hearing in October and is clearly an added threat to our December 11, 200747 of 138already fragile outlook.
+<START>My banking supervision staff reports that the District banks continue to address the risks in their portfolios by shifting focus away from residential and commercial real estate and by requiring more collateral, stronger covenants, and better debt-service coverage in their deals.<END>
+But our examiners are not reporting that capital positions of our financial institutions have been impaired such that they cannot accommodate sound projects.
+A few of the corporate CFOs I talk with say that credit commitments are more difficult to come by.
+The CEOs of the Fourth District financial institutions advise me that what we are facing is a liquidity squeeze and not at present a credit crunch.
+That said, these bank CEOs have expressed concern that their capital positions could become impaired if the current pressure for more liquidity forces them to sell some of their assets at large discounts.
+The incoming data for the economy appear to be unfolding reasonably close to my October projection.
+<START>I was fairly pessimistic about our near-term growth prospects, and that pessimism seems to have been well founded.<END>
+So the economic data by themselves haven’t been enough to push me off the forecast trajectory that I submitted at our last meeting.
+<START>But as I noted earlier, I do observe a sharp drop in business confidence across a broad collection of industries, not just those tied to residential real estate.<END>
+What I am hearing sounds more substantial than the transitory slowing that I was projecting just six weeks ago.
+<START>What I am hearing from my business contacts is probably more aligned with the prolonged slow growth outlook that I now see in the Greenbook baseline, or worse.<END>
+I am somewhat thankful that I didn’t have to submit a projection for this meeting because I am torn between what my mostly data-driven model says and what I am hearing from my business sources.
+<START>About the only thing that I can say with much confidence is that the reemergence of liquidity pressures, combined with the deterioration in business confidence, has increased the downside risk to growth.<END>
+<START>I think it is prudent to address that risk December 11, 200748 of 138with our policy decision today, but I will hold my comments about our policy moves for later in the meeting.<END>
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Lockhart.
+MR.
+LOCKHART.
+Thank you, Mr. Chairman.
+I think President Stern framed it well in bringing focus to the effect on our thinking that the financial markets are having.
+As many have said, the central question is not whether the economy is softening but whether it is softening beyond the range that underpinned the policy decision in October.
+<START>I’d add to that a range of questions related to financial markets, particularly the question of whether the deterioration in the financial markets changes the prospects for achieving financial stability, the potential for spreading to a wider array of financial markets and institutions, the potential for spillover to the general economy, and the compounding of the already heightened degree of uncertainty.<END>
+All of these weigh heavily on my thinking.
+Like the Greenbook projections, Atlanta’s forecast has been revised down as a result of incoming data since the last meeting.
+I just point out, speaking only for ourselves, that these downward revisions of previous forecasts and our general outlook have been a pattern over recent months.
+The current situation is extremely difficult to read
+—which is another way of saying that uncertainty around our forecast has increased yet again.
+<START>Contributing to this uncertainty is the continuing, if not accelerating, gap between the anecdotal information and the views I’ve received from Wall Street versus Main Street.<END>
+The expectations of financial market participants have deteriorated and can be characterized as extremely serious.
+<START>However, the message I get from directors and representatives of nonfinancial businesses outside the housing sector, though relatively pessimistic, has not changed substantially since our October meeting.<END>
+In my conversations with financial market contacts, to varying degrees I heard the persistent and growing apprehension December 11, 200749 of 138concerning the spread of turmoil to an expanding set of affected markets and institutions and a wondering of what will be the next shoe to drop.
+One consistent message is the belief that the recent volatility and increase in term spreads cannot be entirely explained by the year-end problem.
+<START>Most of my contacts agreed that year-end balance sheet concerns are adding to market stress, but no one expressed confidence that getting past year-end will bring much reduction of concerns over counterparty weakness, asset values, and secondary market liquidity.<END>
+Most expect financial market turmoil to be protracted, with increasing risk to the general economy.
+<START>Almost all my contacts noted that deteriorating housing values are a root cause, feeding problems in the markets.<END>
+<START>This view holds that the adjustment in prices and inventory required to stabilize the housing sector will take many months to play out, and until that occurs, the value of structured financial instruments and the solvency and liquidity of structured investment vehicles will be uncertain.<END>
+There remains a great deal of skepticism that arrangements like the super SIV and the Treasury’s rate freeze plan will have much tangible effect.
+<START>The issue of SIV restructuring and support by sponsors is a growing focus of concern because of their linkage to money market funds as well as their contribution to a general contraction of credit availability.<END>
+In sum, my contacts in the financial industry uniformly express the belief that things will not get better any time soon and may well get worse.
+<START>While recognizing that a rate reduction does not directly address the information problems in the markets, there is widespread sentiment that lower costs of funds will help.<END>
+Turning to the anecdotal inputs from contacts in my District, there is some divergence of views between contacts directly affected by the housing sector, including bankers, and others.
+Bank loan activity remains particularly weak in real estate segments.
+Trucking, large retailers, auto dealerships, and businesses supplying building materials and household durables were identified as segments where loan volumes are slipping.
+Industrial warehouse markets have weakened in some December 11, 200750 of 138metro areas as subcontractors have exited.
+Bankers also expect that consumer credit exposures in credit cards, auto loans, prime mortgages, and HELOCs will see a combination of credit deterioration and demand contraction in 2008.
+The anecdotal messages from other contacts are less dire.
+We took great care in our information-gathering this round to probe hiring expectations, investment plans, and credit availability conditions.
+Though credit conditions do seem to have tightened, we still are not hearing that they are preventing planned spending.
+Spending and hiring plans remain on the weak side, but no more so than was the case at our October meeting.
+Consistent with the Greenbook projection for exports, we heard that spending from abroad, including international tourism and condo-purchase activity, continues relatively strong.
+At the branch board meeting in Miami, I heard that Russians are the latest foreign buyers of condos.
+So combine that with President Poole’s comment on trucks, as a child of the Cold War, I think it is very ironic that our bailout is coming from the Russians.
+[Laughter] On the employment front, the demand for workers in sectors such as hospitality and energy remains quite strong, but overall plans appear to be more cautious.
+The trend in regional labor data mirrors the slowing trend in the national statistics.
+Each FOMC round my staff provides a summary sentiment index of expected economic conditions over the next six months based on responses of directors and contacts.
+Relative to the October meeting, that index is little changed, with the majority expecting flat or slower growth.
+<START>When I combine the somewhat, but not dramatically, worse data inputs since the last meeting with the anecdotal and survey information from regional and other markets, I’m left with a view that economic fundamentals, current and prospective, have not yet fallen off a cliff.<END>
+That being said, there’s not much of a case to be made for any risk assessment other than one weighted to the downside.
+<START>In my view, the potential for protracted and growing financial market troubles should December 11, 200751 of 138weigh heavily in the policy decision, and though recent core inflation readings are acceptable, I continue to be concerned about the ongoing divergence between headline and core inflation.<END>
+Until they converge, price pressures cannot be removed from the watch list.
+But overall I see more uncertainty and, therefore, more downside risk in the real economic growth picture.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Plosser.
+MR.
+PLOSSER.
+Thank you, Mr. Chairman.
+There has been little change in the economic conditions in our District since the October meeting.
+Except for housing activity, manufacturing and other businesses are expanding at a modest pace, somewhat below trend.
+Our business contacts are a little less optimistic about growth in the near term than they were earlier in the fall primarily because of uncertainty surrounding the outlook rather than any immediate change in their business activity.
+I’ll begin by reporting on what our contacts say about credit conditions.
+Business contacts as well as our board of directors have told me that credit activity has changed very little.
+Creditworthy borrowers, as far as they were concerned, have had no problem accessing credit.
+Banks have reported some tightening of lending standards, but mostly that has occurred for real estate developers and in residential mortgages.
+Some loan demand has dropped because of businesses’ uncertainty about the future, as I suggested earlier.
+That is, businesses seem to be a bit more cautious.
+But banks do not appear to be conserving capital.
+In fact, they’re actively seeking good credits.
+<START>To quote one of my directors, “The crunch on Wall Street has not hit Main Street.” A couple of bankers I spoke to, one representing a very large regional bank and another a very large community bank, expressed the view that they were actively seeking to regain market share from the larger banks because they did not engage in the same off-balance-sheet financing of riskier debt that the large banks did and so they were not facing either capital or funding constraints.<END>
+<START>Some December 11, 200752 of 138bankers acknowledge that consumer credit quality seems to have deteriorated slightly, but they reminded me that this was from very good levels.<END>
+So the defaults and delinquencies remain well within historical norms.
+Turning to the economy, payroll employment continues to expand at a somewhat slow pace in our three states, yet the unemployment rate is still 0.4 percentage point below that of the nation.
+Retail sales picked up in November.
+Moreover, retailers generally said they met their expectations for the Thanksgiving weekend.
+However, these sales seem to have been boosted by fairly heavy discounting, according to them;
+<START>and despite the reasonable showing to date, retailers are wary and uncertain for the holiday season.<END>
+Housing construction and sales continue to decline, but the pace of that decline is in line with the expectations at the time of our last meeting.
+Nonresidential real estate markets remain firm in our District.
+Office vacancy rates continue to decline, and commercial rents are rising.
+New contracts for commercial real estate have declined, however;
+but with the decline in vacancy rates and with rising rents, the outlook of many developers is not as negative as the current level of spending would suggest.
+According to our Business Outlook Survey, manufacturing activity in the District has been increasing at a modest pace for the past few months.
+The index of general activity moved up slightly, to 8.2 in November from 6.8 in October.
+This is actually about the same average level that the outlook survey has maintained over the past two years.
+Shipments and new orders moved up slightly.
+However, optimism regarding the outlook over the next six months declined.
+It’s a common theme of many of our business contacts that their businesses have not changed much, but they seem to be reacting to the steady stream of negative news, and it is affecting their outlook.
+Indeed, the CEOs of several very large industrial firms in our District report business to be very strong both domestically and overseas, and the CEOs have seen little effect of the turmoil on Wall Street on their ability to obtain credit.
+December 11, 200753 of 138Now, last time I said that there had been little change in the District’s inflation picture.
+However, we have started to see evidence of increased price pressures.
+The Business Outlook Survey’s prices-paid index has risen considerably since the beginning of the year and has doubled since August.
+The index for prices received has also more than doubled since August, rising sharply in both October and November.
+<START>Also retailers have noted spreading price increases for imported goods, and a wide range of industries are reporting increases in energy and transportation costs.<END>
+Firms continue to report higher health care costs, and at the same time, wages continue to be moderate, they say.
+In summary, economic conditions have changed little since our last meeting.
+The business activity in the region is advancing at a moderate pace.
+Credit constraints experienced by the large money center banks have not appreciably affected the banks in our District or their lending practices.
+In general, firms in the District remain cautiously optimistic about their businesses six months from now but not so much as they were last month.
+Price pressures have increased on the input side related to energy and commodity costs;
+more generally, many firms are now prepared to raise their own prices and are looking to do so in the near future, and the financial conditions of our banks remain good.
+Turning to the nation, financial market conditions, especially those associated with the big money center banks, have clearly deteriorated in recent weeks.
+Until the end of October, spreads were gradually declining.
+It seems that the potential for a serious meltdown was monotonically declining.
+However, since early November, as we all pointed to, a number of financial institutions, subprime mortgages, jumbo mortgages, asset-backed commercial paper, below-investment-grade bonds, and LIBOR have experienced increased spreads.
+Volatility has risen as well.
+<START>Clearly, risk premiums have risen for certain classes of assets, and investors have fresh concerns about the way December 11, 200754 of 138credit market conditions are evolving.<END>
+Overall, the recent financial developments suggest that it will take longer before conditions are “back to normal” in all segments of the market.
+As I’ve said before, I continue to believe that price discovery still plagues many of these markets.
+It now looks as though it will take a little longer before these markets can sort things out and return to normal.
+<START>Financial institutions continue to write off some of the investments and take losses.<END>
+I view these write-downs as a necessary and healthy part of the process toward stabilization.
+Infusions of capital in some financial institutions, I think, are encouraging and helpful to the process.
+This does not mean that the ultimate agreed-upon market prices for some of these assets will bear any resemblance to what they did before August.
+Indeed, they probably won’t.
+<START>But that’s not necessarily a bad sign, nor is it a cause for concern.<END>
+In general, it may be a very healthy development.
+The news on economic activity has softened somewhat since our last meeting.
+Among the negatives, of course, the housing market and residential investment continue to decline.
+Foreclosures have continued to grow at unprecedented rates.
+Firms have become a little more cautious in their investment plans.
+Consumer spending has softened slightly, and real disposable personal income declined in October.
+Oil prices have moved higher.
+On the brighter side so far, there is some evidence of spillovers from the financial and housing markets to the broader economy, but I believe it is limited.
+Net exports and business fixed investment have been surprises on the upside.
+Finally, and most important, the labor market still looks pretty solid.
+Foreclosures and consumer weaknesses appear to be heavily concentrated in those states where the housing boom and thus the housing price declines have been most pronounced
+—especially California, Nevada, and Florida
+—and in those states, such as Ohio and Michigan, that are feeling the effects of the decline in automobile manufacturing.
+As President Poole indicated, credit card delinquencies were up but December 11, 200755 of 138highly concentrated in California, Nevada, and Florida.
+<START>Thus, based on such observations and the news that I hear from my District, I sense that the stresses in the economy vary significantly by region, and we must be mindful that the weaknesses on Wall Street are in those states that have exaggerated housing volatility and may not be representative of the rest of the economy.<END>
+To be sure, we must be wary of continued deterioration and spillovers, but at this point my assessment is that they remain concentrated in a few regions and are not as widespread as some of the aggregate data might suggest.
+It’s important to note that, for a good part of the forecast for the fourth-quarter GDP, it’s payback for strong inventories and net export numbers in the third quarter.
+<START>I note that, absent payback and despite the worsening news, economic growth would be on the order of 2 percent higher.<END>
+To put this differently, the news since the last meeting has not altered the overall GDP forecast for the second half of 2007.
+It’s about the same.
+The news has clearly altered the Greenbook’s forecast for 2008, especially for the first half of the year but also extending into the second half of 2008.
+The forecast calls for explicit spillovers from financial markets and the housing sector to the broader economy, to consumption, to fixed investment, and so forth.
+I should note, however, that most private sector forecasters are significantly less pessimistic than the Greenbook.
+The Blue Chip survey, our just-released Livingston Survey, our Survey of Professional Forecasters, and several of the major forecasting firms that have issued forecasts in the last couple of weeks see weakness extending into the first and maybe the second quarter of 2008 but a much more rapid bounceback in the second half of 2008 than is suggested in the Greenbook.
+These private sector forecasts are more in line with my own view.
+<START>While the news on growth is somewhat on the downside, the news on inflation is on the upside.<END>
+<START>Readings on core inflation have been stable over the last few months, but headline inflation December 11, 200756 of 138rates have risen sharply, with increases in energy and commodity prices.<END>
+The broader scope of these commodity price increases and their breadth suggest that perhaps there are more-generalized inflationary pressures out there rather than these isolated relative price shocks.
+I will note that the core PCE inflation rate for March to June was 1½ percent;
+and in every three-month window subsequently, the inflation rate has risen monotonically, now reaching 2.26 percent for the latest three-month period from August to October.
+This comes after fairly steady declines in core rates during the first half of the year.
+In my comments on the Third District, I noted the greater prospects for price increases indicated by our manufacturing firms.
+I also am going to cite another statistic from the same survey that President Evans referred to
+—Duke University’s CFO Magazine survey.
+The survey to which he referred was a survey conducted in late November and early December of more than 600 CFOs.
+In the survey, the average price increase that these CFOs were estimating for their own products in the coming year was 2.8 percent, and that was up from just 2 percent in the previous quarter.
+<START>Thus, it appears that firms are beginning to be more interested in increasing prices and are more able to do so than they were just a few months ago, even though the same CFOs were more pessimistic about the economy than they were in the last quarter.<END>
+Another piece of news on inflation expectations comes from the Livingston Survey, which was just released yesterday.
+There the forecast of the average annual change for the CPI for 2007 to 2008 moved up from 2.3 percent to 3 percent.
+This, of course, partially reflects the behavior of oil prices during the past several months.
+The December-to-December forecast, on the other hand, also rose, but only slightly.
+Thus, overall, the economy is weak but only slightly more so than I anticipated.
+<START>Volatility in the financial markets continues, and the repricing of risk has not progressed as smoothly as I would like to see.<END>
+Nevertheless, the spillovers from the financial turmoil seem geographically December 11, 200757 of 138concentrated, and broader spillovers appear limited to date.
+I view inflation expectations as fragile and see evidence that price pressures are growing and that more and more firms feel that price increases are coming and are supportable.
+I think we will have to be very careful not to presume that just because price expectations and prices have remained contained that they will continue to be so, independent of our actions.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Hoenig.
+MR.
+HOENIG.
+Thank you, Mr. Chairman.
+I’ll start on the local level.
+<START>Overall our District economy continues to perform generally well, with ongoing weakness in the housing sector being offset by strength in agriculture, energy, and manufacturing.<END>
+We have seen some slowing in employment growth over the past few months, but this appears in part to be a supply consideration.
+Our directors and business contacts continue to report that the labor markets are, in fact, tight across much of the District with shortages of both skilled and unskilled labor and rising wage pressures.
+There is some reduction in employment, obviously in the housing sector, but that is being offset by these other considerations.
+I would also note that manufacturing activity remains basically solid, with manufacturers reporting strong export orders.
+The District’s manufacturing index moved upward in November and still points to moderate growth.
+In addition, District manufacturers’ capital spending plans actually rose but remained below most of last year’s readings on balance.
+Turning to spending, general retailers reported a rebound in sales in the latter part of October and early November.
+Automobile dealers, on the other hand, report weaker sales and have also become more pessimistic on future sales.
+did Travel and tourism continues to expand in our region, with District airline traffic figures solid, particularly in the Denver area.
+Likewise, hotel occupancy figures have continued to increase from already strong levels in the region.
+As has been true for some time, housing activity, as I said, remains soft.
+For example, the value of residential December 11, 200758 of 138contracts dropped again in October, and the rate of decline in residential permits steepened again in the past few months in our region.
+<START>Offsetting this weakness in housing, though, is considerable strength in agriculture and energy.<END>
+District energy producers continue to expand their capital investments as they are relatively confident that oil and gas prices will remain firm over the longer term.
+In fact, their capital expenditures have been slowed by a continuing shortage of labor and access to some equipment.
+Our larger regional banks are still reporting fairly good conditions.
+The deal flows seem to be coming through, although they are looking at those carefully, just given the environment that they find themselves in on a national level.
+Finally, price pressures remain mixed.
+Most businesses report rising input costs, both labor and materials, but differ in their ability to pass those costs on at this point.
+In transportation, input costs are passed through one for one through customer surcharges.
+<START>Other businesses continue to find it a little more difficult to pass through the higher costs, but they are beginning to push harder on that as we talk to them.<END>
+Let me turn to the national outlook.
+Weakness in incoming data and continuing stress in financial markets obviously are noteworthy, and others have noted that here today.
+Compared with the Greenbook, however, I see stronger growth in both the short run and the longer run.
+I expect fourth-quarter growth to be closer to 1 percent, not the zero percent in the Greenbook, and the economy to strengthen slowly through a good part of 2008, starting out slowly obviously and then picking up as we go through the year.
+Comparing my views with those in Greenbook, the basic difference appears to be largely in some of the judgmental adjustments in the Greenbook concerning spillovers from the housing and financial stress to consumer spending.
+<START>The current Greenbook forecast, as others have noted, is similar to the Blue Chip Bottom Ten forecast, which suggests to me that it might be better seen as the downside risk outlook not necessarily the most likely outlook at this point.<END>
+The first half of 2008, as I said, is likely to be somewhat slower than I previously December 11, 200759 of 138projected because of the high energy prices and continued drag from housing.
+However, I expect that growth will gradually strengthen as we move toward the end of 2008 and then remain there through the rest of the forecast period.
+Having said this, I realize that the downside risk to economic activity does remain elevated.
+The housing slowdown could be deeper and last longer, and continuing financial turmoil could further affect consumer and business spending.
+<START>However, while financial factors remain a risk to the outlook, in my view the economy, though it will grow below its potential, can weather these forces and is being supported by the policy actions that we have taken in the past two meetings.<END>
+<START>Against this outlook for economic growth, let me turn now to the inflation outlook.<END>
+Year-over-year overall and core inflation rates have risen.
+In addition, Greenbook’s 2008 forecast for overall and core PCE inflation has increased since our last meeting.
+<START>While below-trend growth in the near term may exert some downward pressure on inflation, the combination of higher prices for oil, commodities, and some services and dollar depreciation should place upward pressure on both overall and core inflation going forward.<END>
+Over the past several years, the pass-through of dollar depreciation and higher oil prices to inflation has been limited in part because of longer-term inflation expectations remaining, as we said, anchored.
+My concern is that, if we continue to lower the fed funds rate into a rising inflation environment and the dollar continues to depreciate, these expectations may become unhinged perhaps more quickly than we would like to think.
+In this environment, I think we should not lose sight of not just the downside risk to the real economy but also some very serious upside risk to inflation.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Fisher.
+MR.
+FISHER.
+<START>Well, Mr. Chairman, having listened to various views starting with President Yellen, on the one end, and President Plosser, on the other, and President Hoenig on inflation, I was December 11, 200760 of 138thinking that Edward R. Murrow said that anybody who isn’t confused really doesn’t understand the situation.<END>
+[Laughter] I’m confused, and I don’t understand the situation.
+I would like to report what I see, however.
+First, in terms of my District
+—in sharp contrast to the Twelfth District, because I think they are two extremes, or, say, Florida, in President Lockhart’s District
+—employment growth has slowed.
+I mention this because last time I mentioned a data point, which is that within our District
+—actually in one state
+—year to date we may have created up to one-fifth of the jobs in this country.
+We were growing our employment base at 3.9 percent in the first quarter.
+We expected it to slow to 3.1 in the third quarter and then to slow down to the high 2s as we approached the end of the year.
+Housing prices in our District are appreciating, and we’re benefiting from what we call the California diaspora
+—that is, particularly the techies and others, who are pushing up prices in Dallas and Austin.
+Finally, one point to bear in mind is wage pressure.
+Oil and gas extraction represents only 2 percent of the employment of Texas, despite how everybody stereotypes our state.
+Yet the wage index in that industry and the labor shortage are putting enormous pressure on skilled labor in other areas, and the overall wage index for our District is rising at the highest rate since January.
+Unemployment is down to 4.1 percent for our District.
+So like President Plosser, we are enjoying a relatively strong situation.
+However, my views on policy are not governed by the outlier District that I inhabit, and I’d like just to give some anecdotal evidence, for what it is worth, since most of the information I was going to impart has been given by other thoughtful people at this table.
+First of all, on the growth side, my conversations with the CEO of MasterCard were quite detailed this month because I was following up on what I was hearing from retailers at different price points.
+He said that retail sales through November were up 6 percent year over year;
+taking out gasoline, 4 percent.
+<START>He reported that most banks are expressing some concern about receivables growth in California, Florida, December 11, 200761 of 138Nevada, and Arizona.<END>
+But elsewhere and at the largest issuers, as he put it, he does not see consumers running up their lines.
+I think this is in keeping with chart 4, the middle panel, in the Bluebook, which shows consumer credit fairly steady as you go through time and not significantly increasing.
+Second, the CEO of Wal-Mart USA
+—since you didn’t mention Wal-Mart
+—feels a shift in view in that consumers, as he said with a terrible pun, have driven through $3.00 gas
+—that is, they accept $3.00 gas.
+The CEO of JCPenney, who reported before our last meeting that he felt that “the wheels were coming off the economy,” has sales 10 percent year over year to date through last Monday.
+As to Black Friday, yes, there was discounting on Black Friday.
+For JCPenney, their total volume was up almost 30 percent over their previous record year, and there is a sense in the retail industry that there may be a calming down between the two periods
+—the prolonged shopping period that you mentioned.
+Nonetheless, most of the retailers I speak to at different price points on the gross side are happier than they expected to be.
+Another phenomenon that seems to be occurring is an increase in confidence with regard to inventory management.
+That was best expressed by the CEO of Texas Instruments, who reported that, when we last met and actually during the summer, there was almost a freeze in terms of the willingness to build inventory and that their customers were not willing to think beyond thirty days.
+Now, having looked through the clouds that are presented on the financial front, which I’ll address very briefly in a second, they see more willingness for ninety-day commitments.
+On almost every other front, with the exception of the homebuilders, I haven’t heard from my CEO contacts the negativism that, again, is reflected on the Wall Street side of the equation, with three exceptions.
+In terms of the airline industry, Southwest Airlines’ overall volume is down 3.6 percent in the third quarter.
+It’s pretty uniform across all Districts, including my own.
+We talked about trucks earlier.
+One of my contacts is the largest truck dealer in the country.
+He December 11, 200762 of 138estimates according to what he calls, if you’ll forgive the expression, SWAG
+—which is “sophisticated, wild-assed guess.” I ask for the transcript to put the third letter in the third word as in a snake rather than the posterior
+INSTANCE OF DISAGREEMENT: 157
+
+INSTANCE OF DISAGREEMENT: 157

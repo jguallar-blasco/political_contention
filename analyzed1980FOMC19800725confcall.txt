@@ -1,0 +1,319 @@
+Passage number 1.
+.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The passage may be providing information, describing a situation, or presenting a neutral viewpoint.
+
+
+Passage number 2.
+ I don'tmean a formal vote this afternoon, but when you see the actual--MR. EASTBURN. Paul, this is Dave Eastburn. I think that'sjust fine; I think that's the way we should go.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker expresses agreement with the idea proposed by someone named Paul, indicating that they think it is a suitable course of action.
+
+
+Passage number 3.
+MR. WINN. This is Willis Winn. I agree with you, Paul. Doyou want to put in any remark saying that, of course, in Februarythese circumstances that we've footnoted may cause us to alter these.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker, Mr. Winn, agrees with Paul and asks him if he wants to include a remark acknowledging that circumstances in February might lead to altering the information they have footnoted.
+
+
+Passage number 4.
+CHAIRMAN VOLCKER. It says that at great length.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The statement only mentions that something is discussed in detail but does not indicate any contention or disagreement.
+
+
+Passage number 5.
+ I couldread this to you and--MR. WINN. No, no.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: There is no contention or disagreement in the passage. The speaker simply states that they could read something to MR. WINN, and MR. WINN responds by saying "no, no." This does not indicate any disagreement or contention.
+
+
+Passage number 6.
+CHAIRMAN VOLCKER. The draft as it is now goes on about fivepages.
+Does the passage contain contention or disagreement? Response from the model: No. The statement simply provides information about the length of the current draft without expressing any disagreement or contention.
+
+
+Passage number 7.
+ And the reason it goes on is that it keeps telling them howarbitrary these assumptions are on NOW accounts and--MR. WINN. That's good.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply expressing that the continuous mentioning of the arbitrary nature of the assumptions on NOW accounts is a positive thing.
+
+
+Passage number 8.
+CHAIRMAN VOLCKER. --and how we are going to have to look atit all again in February. It says that in three different ways.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The statement simply emphasizes the need to review or reconsider something in February.
+
+
+Passage number 9.
+MR. ROOS. St. Louis enthusiastically agrees with you.
+Does the passage contain contention or disagreement? Response from the model: No. The statement "St. Louis enthusiastically agrees with you" indicates agreement and support, not contention or disagreement.
+
+
+Passage number 10.
+MR. BLACK. So does Richmond.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not indicate any indication of disagreement or contention. It is a simple statement without conflicting views or arguments.
+
+
+Passage number 11.
+MR. MAYO. And Chicago.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is a brief statement without any context or information to suggest that there is contention or disagreement.
+
+
+Passage number 12.
+MR. FORRESTAL. And Atlanta.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 13.
+MR. GAINOR. And Minneapolis.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no clear indication of contention or disagreement in the given passage as it only presents a statement or a statement starting with "And." Further context would be needed to determine if there is any disagreement or contention surrounding Minneapolis or any other topic.
+
+
+Passage number 14.
+MR. BAUGHMAN. Dallas agrees.
+Does the passage contain contention or disagreement? Response from the model: No. The passage states that Mr. Baughman agrees with Dallas, indicating that there is no contention or disagreement.
+
+
+Passage number 15.
+MR. BALLES. San Francisco also.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in the passage. Mr. Balles is simply mentioning that San Francisco is also a city where housing prices have skyrocketed.
+
+
+Passage number 16.
+MR. CZERWINSKI. Kansas City agrees. Mr. Chairman, we hadone question. You mentioned a reduction in the ranges. Does thatmean on both the top and the bottom.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. It is simply a statement acknowledging agreement and asking for clarification on a particular point.
+
+
+Passage number 17.
+CHAIRMAN VOLCKER. Yes, this talks about on the order of 1/2percent, so that's the presumption. It is not meant to conveyrigidity on those kinds of questions because the tone of the wholeletter is not to convey great rigidity. But it specifically saysnothing about that point. The key sentence is the one that I read.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The passage is discussing the presumption of a certain percentage and clarifying that the letter's overall tone is not rigid. The key sentence is not specified, so it is not possible to determine if it presents any contention or disagreement.
+
+
+Passage number 18.
+MR. CZERWINSKI. One would assume that it would imply boththe top and the bottom.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: There is no contention or disagreement in this passage. It is a statement that suggests a logical assumption about the implication of something.
+
+
+Passage number 19.
+CHAIRMAN VOLCKER. Yes. I think in the absence of sayinganything else that's the clear implication.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 20.
+MR. WALLICH. Is there anything said about the possibility atthis time of widening the ranges now that we have to make a statement.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It is a question about the possibility of widening ranges.
+
+
+Passage number 21.
+7/25/80CHAIRMAN VOLCKER. Well, we have had a little discussion ofthat informally here--not with the Committee but with Mr. Axilrod andothers. We could do that for the M1 ranges very easily in my opinionbecause they are 2-1/2 percentage points [wide] now. To make a rangewider than 3 percentage points for the others I think would look alittle peculiar. I just wonder whether it would undermine theexercise a bit. I have, as you know, traditionally been in favor ofwide ranges. But there's a point at which I begin gagging a bit attheir significance if we make them too wide.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is expressing their opinion and concerns about making the ranges wider than 3 percentage points.
+
+
+Passage number 22.
+MR. WALLICH. The second question that I would like to askis: Do you think we accomplish our objective by a five-page letter.Would it perhaps be better to have a short piece and then somehow addthe rest of the material as an appendix.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not show any contention or disagreement. It is a question posed by Mr. Wallich, possibly seeking input or clarification on a topic.
+
+
+Passage number 23.
+CHAIRMAN VOLCKER. I don't know. I puzzled over that. Myconclusion was--whether it's in an appendix or the letter--give them alot of language to keep reiterating the arbitrariness of theseadjustments. So, I don't think just a sentence saying that is goingto carry the flavor. And I really believe we want to get that messagethrough somehow. What the letter actually says is: Arbitrarilyassume that 2-1/2 percent comes out of M-1A into M-1B and that 2percent, I think, comes out of savings deposits into M-1B. And thisis just the arithmetic: If we lower the range by 1/2 percent and thenmake those two adjustments, we have an M-1B range of 5 to 7-1/2percent. It looks high. And that is my concern. Just looking atthat range for M-1B, the key aggregate number, it is raisedsignificantly from this year. [The reaction could be that] theFederal Reserve is going to hell with an inflationary policy. Now, itbrings the M-1A range down to 0 to 2-1/2 percent.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is expressing their thoughts and concerns about a particular topic, but there is no opposing viewpoint or conflicting argument presented.
+
+
+Passage number 24.
+VICE CHAIRMAN SOLOMON. This is New York. In our judgment[the adjustments] are a little lower than the Board staff's estimates.We have -2 percent for M-1A and plus 1 percent for M-1B.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It presents two different estimates (a lower estimate and a higher estimate) without expressing any disagreement or argument about which estimate is correct.
+
+
+Passage number 25.
+ I think thequestion Henry raised of whether to have a short letter--MR. BAUGHMAN. This is Ernest Baughman.
+Does the passage contain contention or disagreement? Response from the model: No. There is no disagreement in this passage. It is simply stating the question Henry raised about whether to have a short letter, followed by someone introducing themselves as Ernest Baughman.
+
+
+Passage number 26.
+ We--CHAIRMAN VOLCKER. Just hang on, Ernie. I'm listening toTony Solomon on another phone and I'll tell you what he saidafterwards.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is reassuring Ernie that they are listening to someone else on the phone and will share the information afterward.
+
+
+Passage number 27.
+MR. BAUGHMAN. I see. All right.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The response "All right" indicates agreement or understanding.
+
+
+Passage number 28.
+VICE CHAIRMAN SOLOMON. I think the question of whether weshould have a short letter with an attachment as against the five-pageletter should be looked at after you send us the draft. I think it'simportant in the letter not to protest too much about thearbitrariness of the NOW adjustments. We want to do it sufficientlyto make our point, but on the other hand we don't want a lot ofnewspaper stories that say the whole targeting process is becomingmeaningless because of the excessive arbitrariness of all the NOWadjustments.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any disagreement or contention. It is a statement expressing the writer's opinion and suggesting a course of action.
+
+
+Passage number 29.
+CHAIRMAN VOLCKER. Well, it is quite possible we could writea letter--I'm just thinking out loud here--that is instead quitebrief. It would note all this uncertainty that has arisen, theessence of what we are saying, and translate that into the 1/2 percent7/25/80 -5-reduction in the ranges for M-1A and M2 in the abstract. And I couldsay I am attaching an appendix which [discusses] these furtheradjustments. That may be a way to do it. It's the same in substance;it's just lifting out 2 pages of this letter and putting it into anappendix.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage does not contain any contention or disagreement. It is simply exploring the possibility of writing a letter in a different format, discussing the uncertainty and suggesting the inclusion of an appendix.
+
+
+Passage number 30.
+VICE CHAIRMAN SOLOMON. I think there is some advantage tothat.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The phrase "I think there is some advantage to that" suggests a personal opinion or belief but does not indicate any conflicting viewpoints or arguments.
+
+
+Passage number 31.
+CHAIRMAN VOLCKER. There may be. Then the letter itselfwould only speak about the 1/2 percent with qualifications around it,and it would say look to the appendix to see this more or lessarbitrary translation into the other numbers.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It is discussing the possibility of the letter addressing a specific percentage with qualifications, and suggesting that readers can refer to the appendix for further details on the translation of other numbers.
+
+
+Passage number 32.
+MS. TEETERS. Are there any qualifications around the 1/2percent.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no disagreement or contention in this passage. The speaker simply asks a question without expressing any opposing views or contradictory statements.
+
+
+Passage number 33.
+CHAIRMAN VOLCKER. Let me go backwards, here. I take it therest of you didn't hear Tony's comment.SEVERAL. No.
+Does the passage contain contention or disagreement? Response from the model: Explanation: No, there is no contention or disagreement in this passage. The response "No" indicates that there is no contention or disagreement present.
+
+
+Passage number 34.
+CHAIRMAN VOLCKER. He was kind of seconding Henry Wallich'sproposal to put part of this [lengthy letter] into an appendix. Andyou heard what I said, I'm sure. He just thought it might be lessconfusing, from the standpoint of the press, to have the elaboratespecific targets developed in an appendix. We can certainly look atthat, and it may be better.Now, Mrs. Teeters just raised a question on how manyqualifications I had around the 1/2 percent. Well, it talks aboutthat general statement [as] one of the clearest and most usefulindications we can make and [notes that] the numerical ranges mightultimately prove to be a source of confusion rather than clarity. Itspeaks about the institutional change. The key sentence, again, isthe one that I read. It says "on the order of 1/2 percent" and theletter at various points talks about uncertainties, including thepublic's desire over the longer run to hold money balances in relationto income.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply discussing different possible approaches and addressing a question raised by Mrs. Teeters.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 35.
+MR. BAUGHMAN. Mr. Chairman, given the admission that 1/2percent is a pretty small number and the emphasis on imprecision andalso your expressed concern as to whether the Federal Reserve isreally going to maintain an anti-inflationary posture, I'm wonderingwhether it would be advisable--even though we are thinking in terms of1/2 percent--to say on the order of 1/2 to 1 percent. That wouldgive the impression that we are thinking of a minimum on the order of1/2 percent.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. Mr. Baughman suggests revising the proposed percentage range from "1/2 percent" to "1/2 to 1 percent" due to concerns about the Federal Reserve's anti-inflationary posture. This implies a disagreement or differing opinion regarding the appropriate range to convey.
+
+
+Passage number 36.
+MS. TEETERS. Well Ernie, quite frankly, I'm thinking of aminimum of zero. And going to 1/2 to 1 percent doesn't appeal to meat all for next year because we are going to lock ourselves in. Weare not going to be able to change this come February.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 37.
+CHAIRMAN VOLCKER. I do have some language here [about that].What is essential is that our intention to lower monetary growthranges over time toward rates consistent with virtual price stabilityshould remain clear. There is language [regarding our intent to]7/25/80review this. Here's the sentence I'm looking for. This is close tothe end as it's now written: "In accordance with usual procedures,all of the ranges will have to be reassessed in or before nextFebruary. The extent of downward adjustments in the ranges not onlywill be influenced by the technical factors noted above, but also willbe conditioned by the speed with which inflationary bias in labor andproduct markets can be reduced, and by the likelihood, therefore, thatthe economy can make an orderly adaptation to curtailed money growth.The need for public policies other than monetary policy to move in acomplementary way to speed those adjustments was, of course, theessence of my testimony before the Committee." Now, that paragraphobviously could be read either way, as permitting more downwardadjustment or conceivably none. I think it's probably the way I wouldlike it read. I must say that if we make enough progress on pricestability, we'd go faster. But I think it's formally neutral in itswording. We are caught in a box, obviously. Looked at from one pointof view the 1/2 percent doesn't sound like much. If somebody says:Hell, the inflation rate is 10 percent and at best they are going toget down to 0--and the progress will be measured by the decline in themoney supply--they have 20 years to go. On the other hand, if someonesays something like 0 on M1 monetary growth--or to have a range, let'ssay 0 to 3 percent--is ultimately where we would end up, we are notall that far from it. It's just these darn lags that have made itlook so far off.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The speaker acknowledges that the paragraph could be interpreted as permitting more downward adjustment or none at all. They express their personal preference for it to be read in a certain way, but recognize that it is formally neutral in its wording. The speaker also acknowledges that different viewpoints and perspectives exist regarding the progress towards price stability and the timeframe for achieving it. Overall, there is a sense of contention or differing opinions on the matter.
+
+
+Passage number 38.
+VICE CHAIRMAN SOLOMON. Paul.
+Does the passage contain contention or disagreement? Response from the model: Without a passage to analyze, it is not possible to determine whether there is contention or disagreement within it.
+
+
+Passage number 39.
+CHAIRMAN VOLCKER. Yes.
+Does the passage contain contention or disagreement? Response from the model: Explanation: Without the actual passage, it is difficult to determine whether there is contention or disagreement. Please provide the passage so that a proper analysis can be made.
+
+
+Passage number 40.
+VICE CHAIRMAN SOLOMON. What about seeing what theCommittee's feeling is--or what is your own feeling--about making therange as suggested 1/2 to 1 percent.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply suggesting that the Committee should consider the suggested range of 1/2 to 1 percent and is asking for opinions or feelings on the matter.
+
+
+Passage number 41.
+MR. GRAMLEY. I would be reluctant to see that. I think wedo have to make some change, but I am very worried that if we lowerour targets too far, we may have to [let money growth] run above themnext year. Therefore, I'd rather keep the reduction in the range aslow as we can get away with. So I like the [proposed] range as itstands.SPEAKER(.). We were unable to hear the first discussion.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Gramley expresses his concerns and reluctance about lowering the targets too far, but ultimately expresses his agreement with the proposed range. The speaker simply states that they were unable to hear the first discussion, without expressing any disagreement.
+
+
+Passage number 42.
+CHAIRMAN VOLCKER. Did you hear Governor Gramley.SPEAKER(.). No, we did not.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The response simply states that the person did not hear Governor Gramley.
+
+
+Passage number 43.
+CHAIRMAN VOLCKER. Well, the question was simply how muchsentiment is there for 1/2 to 1 percent--the question that ErnieBaughman raised. And Governor Gramley said he prefers the 1/2.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply describes a question raised by Ernie Baughman and Governor Gramley's preference for a specific percentage.
+
+
+Passage number 44.
+MR. EASTBURN. This is Eastburn. I would support just 1/2.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a simple statement.
+
+
+Passage number 45.
+MR. ROOS. This is Roos. I'd prefer the 1/2 to 1.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage. It is a statement made by Mr. Roos expressing his preference for something (1/2 to 1).
+
+
+Passage number 46.
+MR. RICE. I would certainly prefer 1/2 rather than 1.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is expressing a personal preference for a certain option.
+
+
+Passage number 47.
+CHAIRMAN VOLCKER. Any other comment.
+Does the passage contain contention or disagreement? Response from the model: I'm sorry, but without a specific passage provided, I cannot determine if there is contention or disagreement. Please provide the passage for further analysis.
+
+
+Passage number 48.
+7/25/80MS. TEETERS. I have a question.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker simply states that they have a question.
+
+
+Passage number 49.
+ Jerry [Zeisel], theforecast for 1981--MR. BLACK. This is Bob Black. I think 1/2 is about right,Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no clear contention or disagreement present in this passage. It consists of different speakers stating their opinions about a forecast for 1981.
+
+
+Passage number 50.
+MR. BALLES. San Francisco is for 1/2.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage. It simply states that "San Francisco is for 1/2."
+
+
+Passage number 51.
+MR. GUFFEY. As is Kansas City.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is a quote from Mr. Guffey, providing information about Kansas City. There is no indication of contention or disagreement in this statement.
+
+
+Passage number 52.
+MR. WINN. And Cleveland.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It simply mentions the name "Cleveland," without providing any context or indicating any conflict.
+
+
+Passage number 53.
+MR. GAINOR. Minneapolis, too.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement indicated in the passage. It simply mentions that something or someone is in Minneapolis.
+
+
+Passage number 54.
+MR. MAYO. And Chicago.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The passage only mentions Chicago, without any indication of conflicting opinions or opposing arguments.
+
+
+Passage number 55.
+MR. KIMBREL. And Atlanta.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The quote only mentions Mr. Kimbrel and Atlanta without expressing any conflicting ideas or opinions.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 56.
+CHAIRMAN VOLCKER. Did you have a question. Well, it soundsto me as if we are at 1/2. I think there is a real problem here inthat it will seem very small to people who are unaware of some of thetechnicalities. The sentence I read to you may help a bit inexplaining that, but I guess that's where we are stuck.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The phrase "Well, it sounds to me as if we are at 1/2" suggests the speaker's perspective or opinion, which may differ from others. They believe there is a problem, but acknowledge that others who are unaware of the technicalities may not see it as significant. The phrase "I guess that's where we are stuck" also implies a disagreement or impasse in reaching a resolution.
+
+
+Passage number 57.
+MR. EASTBURN. Paul, I assume that in this letter youreiterated "in the long term".
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply states that Mr. Eastburn assumes that Paul reiterated something in a letter, specifically emphasizing a long-term perspective.
+
+
+Passage number 58.
+CHAIRMAN VOLCKER. Yes. I think you'll find this letterreiterates everything. Well, I think we have enough guidance; it'sjust a question of whether we put the specific ranges in an appendixor the letter. I may try it both ways to see which I like better. Wewill get this out to you in a day or so and then I think you canrespond in a formal way, so that when we have numerical [ranges] wecan say there has been an actual vote on this. I don't think we needthat today; you might as well wait until you see the language. And Iwill also call Messrs. Proxmire and Reuss. I presume they will behappy, but if they tell me they really don't want anything more,despite what everybody said, I may drop this whole thing. I think thechances of their saying that are virtually nil.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is primarily a series of statements and thoughts about sending a letter, seeking feedback, and the potential outcome. There is no indication of conflicting opinions or opposing views.
+
+
+Passage number 59.
+MS. TEETERS. Mr. Chairman, could I make a request. The[staff projection in the] FOMC material was run on a 4-1/2 percentrate of money growth for next year. I would like to have sent out tothe Presidents and members of the Board [an analysis of] what wouldhappen to the projections if money growth were lowered 1/2 percent ora full percent.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Ms. Teeters is simply making a request to have an analysis sent out to the Presidents and members of the Board regarding the potential impact of lowering the rate of money growth.
+
+

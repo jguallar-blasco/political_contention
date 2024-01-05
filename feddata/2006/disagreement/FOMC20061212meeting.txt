@@ -1,0 +1,1263 @@
+
+Thank you, Mr. Chairman.
+I thought I’d start today talking a bit about housing markets and the condition of banks right now.
+As many of you have noticed, some of us are optimistic that we may be approaching a bottom in the housing market.
+I think we’ll see that bottom in housing sales long before we see it on the construction side because there’s a large amount of inventory still to work through.
+But as we’ve noted, the applications for purchasing mortgages have been level since midyear.
+The growth in mortgage credit has slowed significantly from where it was in the past two years, dropping to only 10 percent growth this past quarter, a growth rate that is significantly above the growth of personal income and that most of us in the past would have considered to be alarming.
+Part of what’s amazing in all of this is that in 2004 and 2006, particularly toward the end of that period, purchase money seconds, by which people borrowed the downpayments for December 12, 200662 of 134 homes, were a big part of mortgage financing.
+Banks are still getting some of this business and putting it on their balance sheets, and it is part of the growth of what you’re seeing the banks funding.
+But it is at a pace that I think needs to be adjusted.
+I’m saying that, although the number of applications may have bottomed out, the amount of leverage in each housing deal may still need some correction going forward, and so we may see some slowdown in the volume of dollars that are funded through mortgage lending.
+Delinquency rates are really, really low by historical standards.
+The one sector that has had a jump in delinquencies is subprime ARMs, and clearly the jump is related to rates that have already reset.
+We’ve got more to come.
+Even though these have jumped, they’re still not at alarming levels.
+But it’s something that I think the banks are watching very, very carefully.
+One thing I’m hearing more from some folks who have been investing in mortgage-backed securities and maybe in some CDOs (collateralized debt obligations), where they’ve been tranched into riskier positions through economic leverage, is the realization that a lot of the private mortgages that have been securitized during the past few years really do have much more risk than the investors have been focusing on.
+<START>I’m hearing this from folks who understand that the quality of what goes into those pools varies tremendously when you don’t have the Fannie Mae and Freddie Mac framework for the underwriting.<END>
+When a mortgage is originated through a bank, we do a lot through safety and soundness supervision to make sure, if a bank is buying loans from brokers, that the loans are underwritten in a sound manner and are therefore affordable to the borrower when they’re undertaken.
+We’re seeing that some of the private-label mortgage-backed securities are having very high early default rates or delinquencies in the mortgages, which usually means that the originator has to buy them back out of the pools.
+<START>There isn’t a whole lot of transparency in the disclosures around some of these bonds, and some of the December 12, 200663 of 134 brokers are underwriting products that have very high early default rates, which is something that investors are starting to focus on.<END>
+As more products are generated outside the banking sector, they get funneled to pools through broker-dealers as opposed to the banks.
+I think that we’re missing a level of due diligence regarding brokers, who may not be doing a good job.
+As you all know, the fraud rate on mortgages has tripled in the past two years.
+So I think we could see noise in some of the mortgage-backed private deals and some of the riskier CDO economic leverage positions.
+Bank earnings are really, really strong overall, especially by historical standards.
+Banks are making a lot of layoffs connected with the mortgage business.
+They are taking steps to get costs
+—whether related to originations, post-loan closings, or payoff administration
+—under control.
+Net interest margins, however, continue to be under significant pressure.
+I’m hearing more from banks that, since we’ve stopped raising rates, they’ve lost the nice little lag effect
+—the ability to wait for us to move before lagging along.
+<START>In other words, they have lost that lagniappe in their liability cost that has helped them with their margin pressures.<END>
+So those pressures are going to be more of a challenge for them, especially with a flat or inverted yield curve, depending on where they’re funding and lending.
+Loan-loss provision continues to be the best in many, many years.
+No one really expects it to jump, but clearly it can’t get a whole lot better than it is, and so that will also present challenges going forward.
+As for the economy as a whole, I, too, want to compliment President Yellen because I think she did a fantastic job of helping us think about the different signals we’re getting.
+<START>When I looked again at the graph that I love in the Greenbook that shows where our forecast has been, I was struck that we’ve seen the forecast of GDP growth continuing to moderate in the past several months but our expectations of inflation are actually flat to up a bit.<END>
+To me that raises questions December 12, 200664 of 134 about the tradeoff that we really have when we are running below capacity and below potential growth rates.
+The bit of softness that I’m hearing about from some of my contacts in sectors outside housing and mortgages warns me that we need to be a little more vigilant than I had been expecting about growth maybe softening in a broader sense.
+<START>But the fact that inflation continues to be above 2 percent in the forecast period is something that does concern me, and I think part of my concern relates to the tremendous amount of liquidity that sits out there in the banking sector, in the U.S.<END>
+financial markets, and clearly globally.
+The presence of this liquidity is something that we really need to think about.
+It’s not back to where it was in my money supply days, when I started my career at the St. Louis Fed;
+but I do worry that liquidity is, as some of you have said, causing a lot of transactions to occur that economically perhaps wouldn’t otherwise occur.
+That is also something we need to watch very carefully.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Warsh.
+MR.
+WARSH.
+Thank you, Mr. Chairman.
+Let me confine my remarks to a couple of discussions of the economy that bolster the themes that several of you have noted.
+<START>At the outset, I’ll say that I continue to be more concerned with the level of inflation and our progress regarding it than I am with growth.<END>
+The economy appears to be on track, and I think, unlike the Greenbook projections, that there’s a prospect for some upside surprises on growth.
+So let me spend a few moments looking at the labor markets, the corporate profit markets, household balance sheets, and consumer spending before coming back to the capital markets a little more broadly.
+First, on the labor market side, as has been noted previously, we continue to have surprisingly strong job gains, particularly at this point in the cycle.
+The trend on revisions, regardless of the data series, tends to be continuing upward.
+The labor markets continue to December 12, 200665 of 134 accept new workers into the labor force more smoothly, with the participation rate the highest since 2003, which suggests a dynamism in that market.
+Hiring plans of small businesses have moved to their highest level in nearly two years and tend to be a pretty good forward-looking indicator, perhaps a better indicator than large companies.
+In light of all that, I think the Greenbook rightly acknowledges that the household survey may imply even greater strength than the payroll data suggest.
+Second, turning to the profits picture, there continue to be remarkable profits for the S&P, the Dow, and the broader markets, predicated on strong cash flows and record profit margins.
+Broad-based NIPA profits are up 30 percent pre-tax for the third quarter.
+S&P delivered 20 percent profit gains in the third quarter.
+I think the trend there is particularly telling.
+That is, estimates by earnings analysts continue to surprise on the upside.
+As we move through the quarter, those bottom-up estimates continue to track very, very positively.
+<START>I think that’s probably a good indication of why we’ve seen equity prices increase.<END>
+When we look at where estimates are for the fourth quarter, bottom-up estimates for the S&P 500 are at about 9.1 percent.
+For 2007, year-over-year increases of about 9.3 percent are expected.
+These numbers are very strong, but they are significantly down from the high double-digit numbers that we’ve seen over the past couple of quarters.
+My own sense is that continues to suggest good news for the equity markets and good news for corporate profits.
+I expect that equity prices will outperform over the next couple of months if the numbers move up from 9 percent into the double digits.
+If that trend is reversed and we see disappointing corporate earnings, we could see a pretty rapid pullback in the equity markets, with some implications for the broader economy.
+<START>I mention this discussion of profits and recognize that, though there is some correlation between December 12, 200666 of 134 corporate profits and the broader economy, we are continuing to see a disproportionate share of total income coming from this sector.<END>
+So it’s a sector that we need to continue to evaluate.
+Third, turning to household balance sheets, net worth grew $3½ trillion over the past four quarters, as the Fed’s flow of funds data suggest.
+Assets are growing faster than liabilities, whether we include or exclude housing, if we look at just the past four quarters.
+Continuing remarkable levels of household and corporate liquidity continue to suggest very good news.
+<START>Although in these data we do see growth of household debt relative to income, this is a trend over the past twenty-five years, and I don’t really note anything overly disturbing there.<END>
+So when we look at those three measures
+—labor, profits, and balance sheets
+—I come to a pretty encouraging conclusion in terms of an underlying sturdiness to the economy, particularly in regard to individual consumption.
+Let me turn to consumption, with a bit of a short-term focus here on the fourth quarter.
+I think the Greenbook suggested anecdotally that November might turn out to be a little softer than October and a little softer than expectations.
+My own sense is that some real upside surprises are there.
+I had discussions with contacts and reviewed data from two large credit card companies, which in total represent about 35 percent of all of consumer buying over this period.
+This real-time information ends in November and looks across demographics.
+It excludes subprime lenders:
+The only subprime folks in these two portfolios are those who began in the primary market and found their way into the subprime market.
+So I recognize that we are missing an important piece.
+However, when you look at consumer spending for November, you see little to no deterioration in credit quality
+—credit is still incredibly strong across regions and income groups.
+I pushed each of the two companies to find areas of weakness, and they found this exercise to be pretty tough.
+Their own internal credit measures have not shifted.
+They had built December 12, 200667 of 134 in some softening in November and December Christmas spending, which they have not seen.
+They continue to see a huge reservoir of untapped credit, and they do see some de-leveraging by folks in key consumer groups, which they think suggests that consumers are in very good shape.
+The consumer spending trend from these two contacts continues to be very positive.
+They expected to see growth in November on the order of 4 percent;
+they saw growth of 5½ and 6 percent.
+Though it’s too early to call this Christmas season a success, they are much more positive than they were before November began, in terms of both dollar purchases and transaction swipes.
+So my own sense is that the consumer appears to be quite strong.
+Having now listed four areas that I think have rather remarkable strength, I want to spend a moment on another topic that has been discussed around this table, which is manufacturing.
+As we look at the manufacturing base and we try to evaluate how we will know which inflection point the economy turns on, the manufacturing data are likely to be quite telling.
+I’ve been surprised and disappointed by poor manufacturing ISM (Institute for Supply Management) data and other weak data, and I’ve asked myself whether the weakness shows some spreading beyond autos and housing, which we’ve all discussed for some time.
+When I look behind those data, I am comfortable that much of the weakness that we see in manufacturing really is consistent with that theme
+—that is, second-order and third-order suppliers into the auto and housing sectors.
+Other weakness does appear to be related to certain machinery and equipment, but I have seen that weakness more in the data than in the anecdotes.
+As President Minehan suggested, I think that these data end up being somewhat weak, but the weakness is transitory.
+The share prices of most of these large multinational manufacturing companies continue to outperform.
+<START>The tone that these companies have when they’re meeting with their analysts continues to be quite positive, so this signal may well be false, but we have to focus a bit more on it.<END>
+By the time we December 12, 200668 of 134 meet in the first quarter we’ll have a better sense of whether the manufacturing base, in terms of volume and productivity, is giving us any indication of what’s happening in the broader economy.
+Let me turn, finally, to the capital markets.
+Capital markets, as has been mentioned around this table, continue to function well.
+The Board staff has rightly observed that long-term forward corporate credit spreads are widening somewhat, showing that these markets, while awash in liquidity, are responding to price signals and are starting to focus increasingly on credit.
+In a couple of instances, issuers that tried to come to market, both in Europe and in the United States, were beaten back, which was, frankly, good news from the perspective of market discipline.
+The securities that they were trying to issue were PIK notes.
+These are paid-in-kind securities by which the company can pay off the investors either in cash or through additional paper, and the pool of liquidity for such notes is not so deep.
+That kind of discipline in the markets should encourage us.
+<START>Having said that, I consider the debt capital markets to be incredibly robust.<END>
+I talked previously about remarkable pipelines that were at record levels.
+They have all now priced at significantly beneficial terms.
+In November, as I think Dino noted, high-yield corporate issuances were at a record.
+The leveraged-loan market was also at a record, and we found instances in which issuers obtained better terms by issuing in larger volumes.
+That tells us that some people in the investor base really want to get their full allocations.
+If they can get their allocations, they’re willing to pay a premium for doing so.
+The backlogs priced remarkably well, and I think those markets are functioning well.
+Let me enter the discussion about trying to reconcile the bond markets and the equity markets by making four points.
+First, the leveraged buyout data that Dino discussed are one explanation.
+That is, you don’t need to have a leveraged buyout of a vast majority or of even a December 12, 200669 of 134 significant number of companies in the S&P for those values to find their way into the markets.
+My view is that an LBO floor valuation now exists across more sectors than we could have anticipated before
+—into technology, for example
+—and companies that, because of their size, were previously out of reach for the private equity players.
+Part of the growth that we’ve seen in the equity markets has occurred because the LBO prices that could theoretically be paid, with balance sheets that are probably much less conservative, have raised the prices that are paid in the capital markets for these same companies.
+<START>Second, the difference between the equity and the bond markets is about earnings growth and not multiples growth.<END>
+On a price-to-earnings basis, the suggestion is that earnings in 2007 will be up something like 9 percent over this year, and the price-earnings multiples don’t look out of whack.
+You end up with earnings that, if they are delivered for another year or two, don’t make these companies look all that expensive.
+Third, in reconciling these markets, I’d suggest that the difference is really about us.
+The markets think that, if the trajectory for the economy softens significantly, the Fed will be responsive to it, notwithstanding what we’re saying currently
+—that dependence on the data means that we will be agile and we won’t be stuck in our words of yesterday in judging the economy that’s forthcoming.
+So they believe that we will effectively lower rates to achieve a very soft but successful landing.
+Finally, expectations are built into the bond markets that rate cuts are ahead.
+The discount rate in evaluating cash flows for these companies obviously comes down as well, further bolstering their value.
+So I suspect that these markets are perhaps a bit more consistent than some market prognosticators would say.
+But we must continue to evaluate them over the next several weeks and months.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Governor Warsh, I’m going to put you on the spot.
+You and many others have talked about the liquidity in the market, and I want to understand better December 12, 200670 of 134 what that means.
+First, liquidity can refer to the availability of buyers and sellers;
+clearly, that has increased over the past years as we’ve had hedge funds and other actors increasing their activity.
+That simply makes markets more efficient and lowers the costs of trading.
+I don’t think that’s a bad thing, if that’s what we’re talking about.
+The second possibility refers to monetary aggregates, and we know that hasn’t been a serious concern.
+Money growth has generally been pretty slow.
+<START>A third possibility, which is the one that I subscribe to, is that the big demand for assets reflects the global saving glut, which means that there’s an awful lot of money out there looking for returns that is coming from abroad and from high rates of saving relative to investment in other parts of the world.<END>
+<START>But if the saving glut is, in fact, a source of liquidity, then actually, as President Lacker I believe mentioned, the equilibrium rate should be lower, not higher, to be consistent with the real rate that clears the saving and investment market.<END>
+So I was just wondering, what is your view about the meaning of this liquidity issue?
+MR.
+WARSH.
+It’s a tough question, and I’ll try to take it in turn, which is that most of the liquidity phenomenon that I describe here and that we see in the U.S.
+markets, we describe in the FOMC as a U.S.
+phenomenon, but it’s really a global phenomenon.
+So as we think about what this liquidity tells us about interest rates, it’s hard to draw a certain conclusion.
+That is, these markets are increasingly global.
+The U.S.
+multinational financial companies that are successful in having access to capital in worldwide markets can take companies public in worldwide markets.
+<START>So even if you believe that the Fed was too loose or overly accommodative, we’re somewhat limited in what we can do to stem that worldwide liquidity for the reasons that you mentioned.<END>
+<START>When I talk about liquidity, moreover, I’m suggesting partly the first explanation that you gave, which is that there is access to capital, which has been described around this table as free December 12, 200671 of 134 money, by more people in more investments that might not otherwise be satisfying a strict return on investment or return on equity basis.<END>
+So we’re seeing not only smart capital from folks with long track records who have entered this market and can deploy their investment dollars but also folks with less experience who can finance themselves particularly in the debt markets in a way that was unimaginable in previous cycles.
+So I think liquidity really means a couple of the things you’ve noted.
+Obviously, I, like you, think that these monetary aggregates are not providing us with much insight.
+Moreover, regarding your initial point, we would have a hard time drying up this liquidity, if that’s what we attempted to do, given the global nature of the sources and the uses of funds.
+CHAIRMAN BERNANKE.
+Thank you.
+<START>With apologies to Governors Kroszner and Mishkin, I think it’s time to take coffee break.<END>
+[Laughter] Let’s take a fifteen-minute break, and then we’ll come back.
+[Coffee break] CHAIRMAN BERNANKE.
+Let’s reassemble.
+Governor Kroszner, if you’re ready.
+MR.
+KROSZNER.
+Last time several of us noted that there would be an avalanche of data between the last meeting and this one [laughter]
+—two employment reports, two rounds of ISM, GDP, ECI, compensation revisions, all of that.
+But it seems from the discussion here that we’ve actually gotten very little new information, with one exception, and that relates to Dave Stockton.
+We heard that not long ago he was on the psychiatrist’s couch dealing with a schizophrenia issue of whether the economy is going up or going down.
+But now we know that he is on his death bed.
+[Laughter] I hope this does not bode ill for the economy going forward, but I did want to note that one very important change, Mr. Chairman.
+<START>December 12, 200672 of 134 We’ve had the same discussion of a two-tiered economy, with housing and autos being slower and the rest of the economy moving forward, and continuing concerns about the risk of spillovers;<END>
+but the central tendency seems to be that we’ll be moving ahead perhaps a little below potential, with some reasonable chance of getting back to something closer to potential by the end of next year.
+<START>Continuing the discussions of labor market tightness and some concerns about shortages in certain areas, I think that we certainly have seen some softness in construction, but that’s an area for which we’ve probably underestimated employment growth and perhaps employment falloff because, as I think many of us know, many of the subcontractors in residential as well as nonresidential housing have a lot of undocumented workers, and they tend to be undercounted both on the upside and on the downside.<END>
+So there may be a little more softness in the labor market than we’re seeing, at least in the construction sector;
+however, in the higher-skilled sectors, we’re seeing continued tightness.
+Consumer spending continues to be strong.
+There has been just an amazing persistence of consumer spending, no matter what has happened over the past five years.
+<START>Whether the stock market has crashed, whether the housing market has boomed, whether we’ve had September 11, or whether we’ve had concerns about spillover effects, the consumer seems to have been very, very persistent, and it seems as though that’s the case now.<END>
+We’ve talked about challenges in the energy markets, and we did see a little slowing.
+Energy prices were higher, and energy prices are lower, but these aspects of the macroeconomy seem still to have little effect on consumer spending.
+We continue to have concerns about some upside risks to inflation.
+So I’ll just mention quickly a few issues and then talk about some international issues that Dino and Tim touched on earlier.
+Regarding housing, we know we have terrible price data, but it seems as though there’s a December 12, 200673 of 134 little more flexibility and nimbleness in the housing market than there was in the past.
+So the past data on housing may not be too useful.
+<START>Although we know we don’t get good data on effective prices, we do seem to be seeing more evidence that people, rather than just holding things on the market longer, are providing the marble bathroom, the Lexus, the Hyundai, the Kia, the Yugo, or whatever they’re providing.<END>
+In New Jersey, where I grew up, it would be a Yugo.
+[Laughter] So I think there’s more flexibility on that side.
+Also, because of the way the housing market has developed, a lot of residential construction is no longer at just the local level.
+<START>The large national builders are better diversified and, as has been discussed, have options on land, and then, if they see the market turning down, they give up those options.<END>
+So they have a much greater ability to shift both down and up in production much more quickly.
+Prices, too, are a little more flexible, which is one reason that we’ve seen a sharper correction in the housing market.
+But that flexibility, with the recent data indicating that certain things may be flattening out, mean that, though the correction may have been sharper, it won’t necessarily persist
+<START>may—that the correction has occurred in a shorter time, rather than being dragged out longer and having more potential for negative spillover, confidence effects, and so forth.<END>
+Well, what has changed?
+As Governor Kohn mentioned, inventory accumulation is a bit of concern:
+It seems to be ticking up.
+It always seems a bit odd when a positive effect on GDP results from businesses being unable to sell the things that they’ve purchased.
+That doesn’t strike me as necessarily a positive thing for a GDP report.
+<START>We’ve gotten some more, probably confusing, numbers on productivity.<END>
+Is productivity slowing or not?
+We are getting some data that may be suggesting that it is, although I would agree with Dave and the staff that it’s much too early to say.
+I think the evidence both anecdotally, as a number of people have mentioned, and more broadly is that productivity is likely to continue to go forward.
+Another thing that December 12, 200674 of 134 changed, as Dino and others discussed, was the yield curve.
+But this phenomenon is very much an international one.
+Long rates have come down more
+—since the last meeting, they have fallen a fair amount and not just in the United States.
+The three-month versus the ten-year in Europe has fallen about 40 basis points, so the spread is about 7 basis points now.
+On average, since the euro has been around, it has been about 40 to 50 basis points.
+In the United Kingdom, which tends on average to have very flat yield curves, the inversion has steepened about 25 basis points to 65 basis points.
+Japan is little changed, but Japan is sui generis.
+Emerging markets have also seen this.
+In Mexico, for example, the ten-year versus the three-month has dropped about 60 basis points.
+Clearly, this is not just a U.S.
+phenomenon, and I think it’s telling us not just about U.S.
+growth, unless you think that U.S.
+growth is driving world growth and so it’s really all about the United States.
+I think that’s a bit extreme, even though, as was mentioned, some correlations suggest that when the United States goes down, there is a lagged effect and the rest of the world tends to go down.
+But I think it’s suggesting that some other factor is occurring and that we shouldn’t read too much into it.
+Also, interestingly, if you look at the real short and long rates around the world
+—at least for the industrial countries
+—real rates tend to be about 1½ to 2½ percent, which is very much where we are.
+Thus there has been a convergence of real rates around the world.
+<START>So I would be wary of taking too much information from the bond market as referring to something that’s specific to the United States rather than to some factors that are common worldwide.<END>
+Just quickly on inflation
+<START>—we’ve talked about how energy prices have gone up and down but core inflation hasn’t been affected that much.<END>
+Labor market tightness doesn’t seem to have had much of an effect.
+As for output gaps
+—if you like output gaps
+—when you look at the data, it’s hard to find much evidence of an effect of output gaps on core inflation.
+Also, given the December 12, 200675 of 134 discussion that we’ve had, it doesn’t seem that the gap will be too wide or, even if you believe it will be wide, that you’d be getting much effect from it in the near term.
+We talked about some temporary factors like owners’ equivalent rent that may have boosted measured inflation for a while and is now coming down.
+I don’t think there will be much effect on inflation from the dollar.
+The United States still is just not that open an economy.
+Even to the extent that it is open, the pass-through of exchange rate changes to domestic prices is very slow and very partial
+—typically, over a three-year to five-year period, barely 50 percent.
+The evidence suggests that the pass-through is decreasing.
+Even if the dollar went down further, I don’t see much of an effect there.
+That said, it’s hard to see exactly what forces are moving inflation in one way or another right now.
+A reasonable scenario is that it could drift down slowly, but it’s hard to point to clear evidence of where it’s going to go.
+<START>To the extent that there is information in the yield curve, the markets clearly do not expect inflation to take off, and it’s likely that inflation will be moving lower or at least staying contained where it is.<END>
+So we have much data and relatively little information.
+<START>I see risks on both the upside and the downside to growth and have continuing concern about upside risks to inflation precisely because I don’t see an easy path to lower core inflation going forward.<END>
+<START>I think that lower core inflation in the future is reasonable but uncertain, particularly given that it’s hard to see a lot of systematic evidence of factors that are occurring now that would be correlated with that result.<END>
+Thanks.
+CHAIRMAN BERNANKE.
+Governor Mishkin.
+MR.
+MISHKIN.
+Thanks, Mr. Chairman.
+I see the economy evolving very much along the lines of the past couple of Greenbooks, particularly the ones since I’ve been here.
+The staff is to be very highly commended:
+<START>They pointed out that outcomes were going to be weaker than other forecasters thought, and they really did get it right.<END>
+Now, I have promised Dave that I December 12, 200676 of 134 wouldn’t jump on him when they get it wrong, and today I’ll be nice in the other direction.
+I think their forecast has been very useful in terms of the numbers.
+In fact, I think we’re seeing the economy evolve very much along the lines that we discussed at the past couple of meetings.
+There really is not all that much new.
+I think there’s a smidgen more weakness on the real side, but it doesn’t alter my basic view that the economy is evolving along the lines of having slightly below potential GDP growth.
+I don’t see any indications that we will have big spillovers into other sectors from weak housing and motor vehicles.
+<START>In that sense, there’s a slight concern about a little weakness, but the right word is I guess a “smidgen,” not a whole lot.<END>
+I see that inflation pressures are also very similar to what they were at the time of our last meeting.
+Inflation is likely to decelerate to somewhere around 2½ percent in the core CPI and 2 percent in the core PCE.
+Part of the reason I believe those numbers is that the nature of the output paths we’ve talked about is consistent with them, but I also think that we have anchored inflation expectations around those levels.
+I don’t like to use the word “persistence” the way other people do.
+I think of mean reversion to expected inflation
+—and very likely that’s where inflation will be heading, given the paths that we see in terms of the economy and the forecast from the Greenbook.
+<START>I see the risks to forecast inflation as fairly balanced.<END>
+The good news is that compensation is not as scary as it was.
+But the bad news is that the labor markets are very tight, and we’re just not quite sure what the implications of that are going to be.
+<START>So my view is that we have a bit greater uncertainty, not a whole lot, so that we need to be very vigilant on inflation because it is too high, labor markets are tight, and there is still some question about how quick the mean reversion to expected inflation will be.<END>
+We also need to be vigilant about real December 12, 200677 of 134 output.
+<START>There is a bit more certain information coming in, so I think we have to watch both inflation and output.<END>
+The last thing to mention is the yield curve.
+I did some of the research on yield curves in recessions, and I do not think that the yield curve is providing much information at this time, exactly for the reasons that Governor Kroszner and others have discussed.
+I think there are special reasons that the term premium is extremely low.
+There is always that nice little table of the yield curve and recession probabilities, but you notice that I haven’t mentioned it, and I’m not going to mention it in the future.
+[Laughter] Thank you very much.
+CHAIRMAN BERNANKE.
+Thank you.
+Let me just summarize and add a few comments.
+As Governor Kroszner mentioned, we had an avalanche of data, and the snowman is still standing in the same place as before.
+[Laughter] Most people still see a two-track or bimodal economy.
+In the first part of the economy
+—the goods economy, housing and manufacturing
+—there seems to be some softening since the last meeting but not a large change.
+Housing remains the center of the weakness.
+There are some indications that demand for housing may be stabilizing, but a few people noted that there are probably still some downside risks in that sector.
+Manufacturing is also becoming a bit softer, partly but not entirely linked to housing.
+Automobiles, too, have softened, and a few other areas as well, as I’ll discuss later.
+<START>One interesting point was that, where the aggregate data show some decline in growth in commercial real estate and the Greenbook seconds that conclusion, the anecdotes do not seem all that consistent with it.<END>
+The second part of the economy, which is focused primarily on services, remains quite strong, particularly in sustaining a robust labor market with good income growth.
+Together with lower energy prices, those factors are leading to well-sustained consumption, which is continuing to drive the economy forward.
+<START>A few people December 12, 200678 of 134 mentioned balance sheet issues for the consumer, but the references to balance sheets were both negative and positive.<END>
+Looking forward, again to compliment the staff, I think most people around the table accepted the general contour of the Greenbook forecast
+<START>—that is, moderate growth perhaps below potential for the next few quarters but returning to potential growth later next year, with risks to the upside as well as to the downside.<END>
+So far there is little evidence of spillover into consumption in particular, although obviously we have to keep an eye on that.
+There are a number of strong underlying conditions, including supportive financial conditions, strong profits, and a strong international economy, which are providing a cushion to the economy.
+On inflation, I have to say there wasn’t much change in view.
+Most of you still expect a gradual decline in inflation.
+Others are concerned that we might get stuck at current levels.
+Even those who expect a gradual decline remain somewhat concerned about the pace of the decline.
+<START>Some of the factors that may return inflation to lower levels are a slowing economy, well-contained inflation expectations, and the downward revisions to the wage data.<END>
+<START>Those who are more concerned about inflation cited the weakening dollar, accommodative financial conditions, and the expectation that growth will not be below potential for very long.<END>
+So I think that some of these concerns and risk assessments do not seem markedly different from those at our last meeting.
+Let me add just a few comments.
+<START>These are all marginal because I think the broad outlines of the story and the risks are quite reasonable.<END>
+First, I think I took a bit more weakness from the data in the first part of the economy than some people around the table.
+The Greenbook has single-family housing starts leveling out at current levels.
+They did fall 16 percent in October.
+We’re not entirely sure that they will, in fact, stabilize.
+Multifamily construction December 12, 200679 of 134 permits have been dropping:
+They’re off about 30 percent since the first quarter.
+That had been a source of stability so far this year.
+There might be a bit less strength there.
+Then, nonresidential construction is an issue.
+The data, in terms of employment and construction put in place, suggest some slowing, and I do think that some slowing from the very strong pace of earlier this year is pretty much inevitable.
+But the sense of the Committee must be that we will have to wait a bit longer to judge how much that is going to slow.
+In manufacturing, obviously the strongest slowdowns are related to autos and housing.
+But if you look at employment and the ISM data, for example, you also see weakness in areas like machinery and electrical machinery, which suggests some possible weakness in equipment and software spending going forward.
+This remark does not represent a major difference with the Committee;
+I just saw a bit more weakness in the first area than some did.
+At the same time, like many members of the Committee, I see a very strong labor market and a very strong services sector plus a very strong nonmanufacturing ISM, which, though it includes construction, was nevertheless still very strong.
+One begins to wonder a bit about the measurement of the services sector
+—whether or not we are understating growth and productivity in that sector.
+That’s a question we’ll need to continue to consider.
+So like most people around the table, I think that a soft landing with growth a bit below potential in the short run looks like the most likely scenario.
+<START>I expect the unemployment rate to increase gradually but income growth and other factors to be sufficient to keep consumption above 2 percent, which is essentially what we need to keep the economy growing.<END>
+Again, I see the risks going in both directions.
+Let me add a couple of extra comments about risks in the housing market.
+I talked last time about the dynamics of starts.
+Even if final demand stabilizes, starts may take a time to fully December 12, 200680 of 134 work out the inventories.
+A couple of other factors are like that, which I just would like to bring to your attention.
+One has to do with the very strong presumption we seem to have now that demand for housing has stabilized.
+That may be the case, but I would point out that we have seen a very sharp decline in mortgage rates.
+People may have a sort of mean-reverting model of mortgage rates in their minds.
+It could be they are looking at this as an opportunity to jump in and buy while the financial conditions are favorable.
+So even if rates stay low, we face some risk of a decline in demand.
+The counter argument to that, which I should bring up, is that if people thought that prices were going to fall much more, then they would be very reluctant to buy.
+That’s evidence for stabilization of demand.
+Another point to make about housing is that, even when starts stabilize, there are going to be ongoing effects on GDP and employment.
+On the GDP side, it takes about six months on average to complete residential structures.
+<START>Therefore, even when starts stabilize, we’re going to continue to see declines in the contribution of residential construction to GDP.<END>
+On the employment side, I asked Bruce Fallick of the staff to run a regression of residential construction employment on residential single-family starts and to project forward what the employment results are going to be.
+<START>According to this regression, if starts stabilize at the October level, as projected by the Greenbook, the job losses in that sector will actually continue to rise for the next two or three months and return to the November level of about 15,000 per month only by the middle of next year.<END>
+There will be lagged employment effects from the housing sector and presumably from the associated manufacturing sectors, like appliances and furniture, which also tend to lag.
+So there will be some employment drag coming forward, and I think it’s reasonable to think that unemployment rates will start to rise.
+But, again, this is about 15 percent of the economy as compared with 85 percent of the economy.
+December 12, 200681 of 134 On inflation, I agree that the latest core PCE number was disappointing.
+I think perhaps it overstates the trend a bit, just as the core CPI number understates the trend a bit.
+<START>I think there are still indications of a mild deceleration in prices, and most of the factors supporting that are coming into place, including the slowing of rents, the improved energy situation, some increase in slack, and expectations, which include a five-by-five-year expectation which has come down about 20 basis points since we stopped raising rates in August.<END>
+So I think there are some bases to expect a gradual decline in inflation.
+I would note also that outside forecasters are a bit more optimistic about this than the Greenbook is.
+For example, the Blue Chip median forecast of core PCE inflation for next year is 0.2 percentage point lower than the Greenbook on a comparable basis.
+I’ve talked before about owners’ equivalent rent, which is a somewhat special category, and I’ve indicated that I think its slowing will contribute to slower inflation.
+In the interest of being even-handed, let me talk about a category that might go in the other direction, which is medical costs.
+Medical costs in the short run depend a great deal on government policy, Medicare reimbursement decisions, and the like.
+Therefore, only in the medium term will they respond to monetary policy.
+I think that’s a source of risk.
+The twelve-month change in medical costs has been declining:
+It was 4.3 percent in 2003, 3.5 percent in 2004, 3.3 percent in 2005, and 2.9 percent so far this year.
+So that gradual decline in medical costs has been a positive in terms of inflation.
+But in the latest month, the number was 0.6 percent on a one-month basis, or more than 7 percent on an annualized basis.
+To the extent that we see some bounceback of medical costs, that’s going to be another factor of concern in terms of inflation going forward.
+Again, however, I think that we have some reason to think that inflation will slow, but I don’t December 12, 200682 of 134 disagree with the very wide sentiment I hear around the table that the slowing is far from certain and that the risks are still to the upside on inflation.
+Are there any comments on or questions about my summary?
+If not, let’s go to Brian, who will introduce the policy discussion.
+MR.
+MADIGAN.2 Thanks, Mr. Chairman.
+I will be referring to the material that was distributed labeled “Material for FOMC Briefing on Monetary Policy Alternatives.” Financial market conditions eased noticeably on balance over the intermeeting period.
+<START>As shown in the top panels of exhibit 1, ten-year nominal Treasury yields dropped 30 basis points, the dollar declined nearly 2 percent, and equity prices rose more than 3 percent.<END>
+<START>As portrayed in the middle left-hand panel, the decline in Treasury yields seems to have been prompted in part by incoming spending and production data that were generally weaker than investors anticipated and inflation figures that were viewed as relatively benign.<END>
+The labor market reports for October and November, however, came in at or above market expectations, interrupting the general downward trend in rates.
+As shown in the middle right-hand panel, inflation compensation was little changed for the next five years, after adjustment for carry effects, and was only a little lower for the subsequent five years.
+Thus, almost all the decline in nominal yields represented a drop in real rates.
+The bottom left-hand panel indicates that one-year nominal forward rates at the two-year and three-year horizons dropped the most, but the decline in yields was spread across the forward rate curve.
+<START>The fact that relatively near-term forward rates declined steeply seems consistent with an interpretation that investors marked down their views of the cyclical strength of the economy, but the considerable drop in far forward rates seems to suggest that investors believe that more-persistent factors are also at work.<END>
+<START>As shown to the right, however, primary dealers and Blue Chip forecasters revised down their forecasts for GDP growth over the five quarters ending late next year by only about ¼ percentage point, and private forecasts of long-run or potential GDP were essentially unchanged, leaving unanswered questions about the source of the drop in rates.<END>
+As can be seen in the top left-hand panel of exhibit 2, our three-factor term-structure model attributes the decline in the ten-year Treasury yield over the intermeeting period primarily to lower term premiums, the green portion of the bars.
+Ten-year term premiums are estimated to have declined from 31 to 12 basis points, leaving them almost invisibly thin and around their record lows.
+Expected future rates over the next ten years, the blue portion of the bars, are estimated to have accounted for only 9 basis points of the decline.
+<START>However, we have some doubts about this estimated decomposition, in part because a sizable drop in the term premium, which at least conceptually represents compensation for interest-rate risk, seems hard to square with measures of interest-rate uncertainty.<END>
+As shown to the 2 Material used by Mr. Madigan is appended to this transcript (appendix 2).
+December 12, 200683 of 134 right, implied volatilities on Treasury yields, the black line, have edged up in recent weeks, and uncertainty about the Eurodollar rate six months ahead, the red line, has risen quite noticeably.
+Also, as shown by the blue bars in the middle left-hand panel, the average individual uncertainty that primary dealers expressed about the stance of policy three meetings ahead has crept up since the summer.
+In any case, both market participants and market economists on average anticipate that policy easing is not far off.
+As indicated in the middle right-hand panel, primary dealer economists expect that the federal funds rate will average 5.16 percent in the first quarter and 4.82 percent in the fourth quarter of 2007.
+Quotes on fed funds futures, the right-hand column, suggest that investors see an even steeper easing of policy, with the funds rate expected to drop about ¾ percentage point over the next year.
+As shown by the red bars in the bottom left-hand panel, the downward shift of rate expectations over the intermeeting period has been accompanied by a greater leftward skew of the distribution.
+As noted in the bottom right-hand panel, dealers uniformly expect you to keep the federal funds rate unchanged today, and most anticipate little change to the wording of the statement apart from updating the characterization of the economic situation.
+A week ago, a minority expected a more significant softening of the statement, perhaps by referencing downside risks to growth or possibly even by describing the risks to growth and inflation as balanced;
+but informal reports suggest that some have backed off such expectations in view of Friday’s employment report.
+If Committee members see significant odds that the market expectation of a near-term easing of policy could prove warranted, they might wish to start adjusting the policy statement in that direction, as in the Bluebook’s alternative A, discussed in the top left-hand panel of exhibit 3.
+<START>While Committee members might remain concerned about the upside risks to inflation with an unchanged federal funds rate, they might also believe that the substantial slowing in the housing sector, relatively high inventories in some sectors, and the sluggishness of manufacturing mean that the downside risks to economic activity have increased and now roughly balance the upside risks to inflation.<END>
+Such an increase in downside risks could be a result of the gradual weakening of the near-term outlook, particularly if members place some weight on the possibility of nonlinear effects as economic growth slows.
+Moreover, while we do not fully understand what investors are reacting to, policymakers may be concerned that the decline in market rates could be signaling a degree of economic weakness that we do not yet appreciate.
+Also, our estimated policy rule indicates that maintaining rates at their current level would be consistent with the Committee’s past behavior.
+On the other hand, the Committee might see the recent easing of financial conditions as one of several considerations tilting it toward alternative C. As noted in the top right-hand panel, financial markets evidently are imparting increased stimulus to aggregate demand even as labor market conditions have tightened further.
+Members may view that stimulus as unwarranted and undesirable if their view of economic fundamentals hasn’t changed much and may believe that at least some of it December 12, 200684 of 134 should be offset by a firmer stance of monetary policy.
+Moreover, while core inflation has edged lower by some measures, it may not be seen as convincingly on a downward trend.
+<START>And even if the Committee does believe that inflation is gradually ebbing, it may be dissatisfied with the anticipated pace of that decline.<END>
+These considerations may motivate the Committee to consider firming policy today.
+However, the Committee might once again conclude that holding policy steady at this meeting is likely to be consistent with achieving its goals over time while perceiving that, if anything, modest additional firming may be required, as in alterative B. Although the Greenbook forecast for near-term activity has been marked down slightly, the medium-term outlook is essentially unchanged, and as illustrated in the middle left-hand panel, the real federal funds rate remains at the upper end of the range of model-based estimates of its short-run equilibrium and slightly above the Greenbook-consistent measure.
+<START>In the Greenbook, maintaining the current stance of policy over the next two years produces economic growth a bit below that of potential in 2007 and core PCE inflation that edges down slowly to about 2 percent by 2008.<END>
+While you would likely prefer stronger output growth and lower inflation, you might find the outcome projected in the Greenbook to represent both a plausible outcome and a reasonable balancing
+—given your dual objectives
+—of what is actually achievable in the circumstances.
+As noted previously, maintaining your stance for the near term would also be consistent with the Committee’s past behavior, as captured in our estimated outcome-based policy rule.
+<START>Similarly, as shown in the panel to the right, optimal control simulations based on the extended Greenbook projection and an inflation objective of 2 percent would call for holding the federal funds rate at its current level over the next several quarters before easing slightly.<END>
+While maintaining the current stance of policy, the Committee might believe that the risks remain tilted to the upside, as noted at the bottom of the exhibit.
+The unemployment rate is below most estimates of the NAIRU, suggesting that labor market strains could be putting upward pressure on prices, and the Committee may consequently be concerned that inflation may not decline as in the staff’s outlook.
+<START>Moreover, with core inflation recently running around 2¼ to 2½ percent, somewhat above the preferred ranges cited by some of you, the Committee may continue to feel that risk-management considerations argue for an assessment that the risks remain tilted toward higher inflation, as in alternative B. Table 1 as it appeared in the Bluebook is included as exhibit 4 for your reference.<END>
+<START>Under the formulation of alternative B shown in this table, the Committee would refer to the “substantial” cooling of the housing market, indicate that “the recent pace of growth appears to have been somewhat more subdued than anticipated,” but still conclude that “the economy seems likely to expand at a moderate pace on balance over coming quarters.” This alternative would retain paragraphs 3 and 4 as they appeared in the October statement.<END>
+If you found that version of section 2 too broad, you might prefer the version of alternative B presented in exhibit 5, shown in seasonally appropriate colors.
+[Laughter] Under this formulation, in section 2 the December 12, 200685 of 134 first sentence and the second clause of the second sentence would be identical to that presented in the Bluebook.
+<START>However, the first clause of the second sentence would indicate that “some recent indicators of production and spending have been slightly weaker than anticipated.” This formulation may be seen as superior in that, first, it characterizes recent indicators without making a pronouncement about overall growth for the fourth quarter and, second, it suggests that not all economic indicators have been weak.<END>
+Both the exhibit 4 and the exhibit 5 versions of alternative B seem broadly in line with market expectations.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Are there questions for Brian?
+President Lacker.
+MR.
+LACKER.
+<START>Brian, you reported the decline in measured term premiums, and yet in the panel next to that you noted that measures of volatility don’t seem to have fallen.<END>
+The term premium is, of course, a combination of volatility in the securities return and covariance with
+— let’s call it “marginal utility” just for the sake of argument.
+Do your estimates give you information on whether that correlation with the expected variance of real outcomes has changed?
+MR.
+MADIGAN.
+No, they really don’t.
+The three-factor term structure model doesn’t provide a breakdown;
+it doesn’t allow us to distinguish between changes in risk perceptions and risk appetite.
+So there’s no evidence from that score.
+You may be seeing some reflection of what’s shown in the bottom left-hand panel with that pronounced downward skew to interest rates.
+<START>If investors believe that bonds could prove to be a particularly good investment, given the possibility of economic weakness, they may actually demand a lower term premium because of the covariances that you referenced.<END>
+But I think we need to do more work on that before we push hard on that analysis.
+MR.
+LACKER.
+My second question is about the statement.
+Many market participants, as you noted, expect very little change in the tenor of the statement’s characterization of the real economy.
+<START>Do you believe that the markets would view the way alternative B was originally December 12, 200686 of 134 crafted as expressing more concern than the median analyst about real weakness, and do you view exhibit 5 as expressing less concern<END>
+—as a more moderated signal?
+MR.
+MADIGAN.
+In that respect I actually don’t see much distinction between 4 and 5.
+On the whole, my guess would be that it is not far from what the median market participant expects.
+Dino may have a comment on this.
+MR.
+KOS.
+I think that’s right.
+I think the median view would be that they’re looking for some acknowledgement of the soft data that were mentioned earlier.
+CHAIRMAN BERNANKE.
+Vice Chairman Geithner.
+VICE CHAIRMAN GEITHNER.
+I have two questions about the prisms you gave us for looking at the current stance of policy and the likely path of policy.
+Brian, in your comments on exhibit 3 you said that alternative A, as your last bullet says, “is consistent with estimated policy rules.” Can you just elaborate on that?
+My quick reading of it suggests that, as long as our inflation objective is 2 percent, the range of policy rules that we look at basically will show the funds rate at or under the market path.
+<START>If you have a different inflation objective, then we’re at the middle of the distribution or maybe slightly under the plausible distribution.<END>
+Am I reading that right?
+MR.
+MADIGAN.
+Yes.
+In that comment I was referring specifically to our estimated policy rules, which are empirical renditions of the Committee’s past behavior.
+If you have the Bluebook handy, in chart 7, right at the bottom under “Memo,” two policy rules are referenced
+—the estimated outcome-based rule and the estimated forecast-based rule.
+Both of them show the federal funds rate in the vicinity of 5¼ percent.
+If you look at the top part of that panel, being careful to look at the corrected version that we sent around late last week, a number of those rules suggest somewhat higher federal funds rate paths.
+Of course, it depends on the inflation December 12, 200687 of 134 objective.
+An important distinction between the upper and lower parts of that panel is that the lower part doesn’t have any direct evidence on what the Committee’s inflation objective is.
+So your question partly gets to what people would be expecting if they had a specific inflation objective in mind that is different from what is incorporated in the upper part of the panel.
+VICE CHAIRMAN GEITHNER.
+My second question is about the Bluebook chart 5, which shows a range of alternative estimates of the equilibrium real federal funds rate over time.
+I want to come back to the Chairman’s discussion about the saving glut and what it might mean for the way we think about monetary policy today.
+The bottom panel of that chart shows a substantial upward revision in most estimates of equilibrium over the period from ’02 to ’04 and shows us coming back to something close to our long-term averages.
+Is there an intuitive explanation for how you reconcile that chart with the preponderance of evidence out there, which the Chairman drew to the world’s attention, that suggests you have a big increase in ex ante saving relative to perceived investment opportunities?
+Wouldn’t that have produced, in at least some mix of these estimates, a sustained and substantial secular decline in estimates of current prevailing equilibrium?
+MR.
+MADIGAN.
+I think the basic answer to that is “yes,” but there are perhaps things going on here at a cyclical level and at a more structural level.
+Chairman Bernanke’s hypothesis was more of a structural or a secular explanation of interest rates.
+What we’re seeing in the upper panel of chart 5 obviously has important cyclical characteristics with, among other things, investment spending being depressed for quite a while in the aftermath of the bubble that apparently prevailed earlier.
+December 12, 200688 of 134 VICE CHAIRMAN GEITHNER.
+Wouldn’t you have expected to have come back to a point that was below past estimates of equilibrium over time?
+I know I’m confused about this.
+[Laughter] MR. KOHN.
+I think there’s another offsetting thing that you can see in this chart, and that is trend productivity growth.
+If you look at the red band, you can see that it rose quite a bit in the late 1990s, when trend productivity growth rose.
+Now we’re below the late ’90s with approximately the same trend productivity growth but apparently much less investment demand relative to saving.
+I think the Chairman’s point offsets the productivity.
+VICE CHAIRMAN GEITHNER.
+One way to look at this, I guess, is to say that we just don’t know much about what equilibrium is.
+[Laughter] It tends to move around a lot, and the bands are kind of fat.
+MR.
+STOCKTON.
+They’re inferred from a very simple model
+—very limited three-equation, five-equation type estimates.
+We have one that we derived from something as complicated as FRB/US, but the rest are just our looking at real interest rates and output gaps and trying to line them up.
+Thus many of the more structural explanations are only very loosely captured by these estimates.
+MR.
+MADIGAN.
+One point to make in that regard is that, to the extent you take a very highly articulated model like FRB/US as a reasonable representation of the way the world works, it tells you that equilibrium real interest rates are determined by a broad range of factors.
+There is no real presumption that there is constant level to which it returns over time without considerations of those exogenous variables.
+VICE CHAIRMAN GEITHNER.
+I have one final question in another direction.
+Would you expect to see significant changes in measured term premiums over short periods?
+You gave December 12, 200689 of 134 us a bunch of reasons that you don’t have much confidence in the model estimates, but would you ever want to attribute much to what looked like significant moves in short periods?
+MR.
+MADIGAN.
+<START>Unless you have some reason for thinking that market participants’ uncertainty about future inflation pressures, spending, profits, and so forth or risk aversion tends to change rapidly, I would say “no.” CHAIRMAN BERNANKE.<END>
+President Lacker has a question.
+MR.
+LACKER.
+My recollection of the time series plots of these term-premium estimates from the original research is that they were fairly choppy on a short-term basis.
+So this doesn’t seem wild and crazy.
+CHAIRMAN BERNANKE.
+President Minehan.
+MS.
+MINEHAN.
+May I ask a question about language that applies to two alternatives, or do you want to wait on that?
+CHAIRMAN BERNANKE.
+Go ahead.
+MS.
+MINEHAN.
+Both alternative A and alternative B talk in section 2 about something happening that’s greater than anticipated.
+I really have some trouble with the words “than anticipated”
+—anticipated by whom and about what?
+I recognize that the distinction between A and B and C is that C doesn’t emphasize as much a diminution in the recent pace of growth.
+So that’s fine.
+But if you take the words “more” and “than anticipated” out of both sentences, you could make the same point for each one.
+I’m not looking at the appropriate Christmas-colored adaptation of this.
+[Laughter] CHAIRMAN BERNANKE.
+You’re correct.
+Let me just put that on the table for people to comment on.
+December 12, 200690 of 134 MS. MINEHAN.
+You could take out “than anticipated,” and if you’re looking at A, you could take out “more” because I think it says exactly what you want to do.
+<START>It puts a little more emphasis on growth and on problems affecting growth, but it doesn’t raise issues about who anticipated what and when.<END>
+CHAIRMAN BERNANKE.
+That’s a perfectly fine point.
+I also just note that in exhibit 4, alternative B, the word “pace” appears in both phrases.
+If we decide on that particular language, I have a suggested rework that gets rid of “pace” and has the same meaning.
+But your substantive point about whether or not to include “than anticipated” should be on the floor for people to consider.
+MS.
+MINEHAN.
+Great.
+That’s where I wanted to put it.
+Thank you.
+CHAIRMAN BERNANKE.
+Are there other questions?
+President Pianalto.
+MS.
+PIANALTO.
+Brian, in your comments you say obviously that dealers expect no change in the stance of policy today.
+Most expect little change to the wording.
+Yet their path for the fed funds rate is below what we see in the Greenbook.
+What information in your view would markets need to move their path closer to the Greenbook’s?
+What are they looking for?
+MR.
+MADIGAN.
+Well, I assume just generally stronger real-side data
+—as the Committee has been discussing today, some firmer indication perhaps that the downturn in housing is leveling out and that overall the economy is growing at a solid pace.
+MS.
+PIANALTO.
+As you point out, their economic forecasts are already much higher than ours.
+The Greenbook is one of the lowest in terms of economic outlook, even those among the Blue Chip forecasters.
+CHAIRMAN BERNANKE.
+Some disconnect between the private forecasters, the economists, and the bond markets is evident.
+Even in their assumptions it’s quite explicit.
+So I December 12, 200691 of 134 don’t think those two things are necessarily inconsistent.
+Are we ready to begin our policy round?
+President Hoenig.
+MR.
+HOENIG.
+My preference is, as we look at the outlook, to maintain the federal funds rate at 5¼ percent.
+In my judgment, Mr. Chairman, our current policy stance is slightly or moderately restrictive and will lead to moderation in inflation going forward, though slowly I admit.
+<START>But I will also say, as indicated in my earlier statement, that I believe there are some upside risks to such moderating inflation.<END>
+Therefore, I believe that we should maintain a slightly restrictive policy stance until we see core CPI inflation at 2 percent or lower.
+I would also say that my view of policy going forward is more asymmetric.
+<START>If we get evidence that inflation is not moderating, I would be prepared to support additional tightening.<END>
+On the other hand, it would take a prolonged period of below-trend growth with little sign of a return to trend or a much larger slowdown in growth to convince me that we should ease policy.
+On the press statement, I’m inclined toward saying less than we’re saying now.
+I still think we ought to leave more to the minutes and say less in the statement.
+But having said that before and not getting very far, I would go with alternative B, more in line with some of the language that you and Cathy may work out here.
+Thanks.
+CHAIRMAN BERNANKE.
+President Hoenig, do you prefer exhibit 4 or exhibit 5?
+MR.
+HOENIG.
+You know, it’s a tough call, but I think I’d go with exhibit 5 language.
+CHAIRMAN BERNANKE.
+Thank you.
+President Fisher.
+MR.
+FISHER.
+Mr. Chairman, I spoke of my concern about the fattening of the tail in economic weakness and my continuing concern about the already fat tail of inflationary pressure.
+However, if I come around to the view of the staff and the view that seems to be expressed by many at this table
+<START>—that growth is likely to return to its long-term potential in the forecast period, December 12, 200692 of 134 inflation risks remain either at elevated levels or at less-elevated levels, and liquidity is somewhere in the range between healthy and ubiquitous [laughter]<END>
+—then the first thing I do is decide that I wouldn’t want to increase rates but I also wouldn’t want to decrease them.
+The question is how we express ourselves.
+Like President Hoenig
+—I don’t want to take words out of his mouth
+—I’d be happy if we just included the opening policy decision and then the assessment-of-risk statement and took out much of the verbiage we have as a sort of Christmas surprise to the market, since they don’t expect a whole lot.
+But I know that’s not a serious proposal.
+Therefore, I come down on the side of alternative B, as amended by the Christmas colors.
+I’d take out the words “than anticipated”
+—I think President Minehan has a very good point
+—and the duplication of the word “pace” that you pointed out.
+I worry, because I cannot make an argument for decreasing the rate, about being careful that we don’t signal to the market that we might be tending in that direction.
+Although I think alternative A not inaccurately expresses what’s been said at this table, I worry that it may be sending the wrong signal.
+<START>Therefore, I come down on the side, as President Hoenig does, of alternative B as amended by Cathy and the suggestion in the Christmas colors, even though I think the verbiage is excessive.<END>
+I know that sounds odd coming from a Texan.
+CHAIRMAN BERNANKE.
+President Minehan.
+MS.
+MINEHAN.
+Thank you very much.
+My assessment of what’s going on vis-à-vis our policy stance is that we’re facing, as I think most people have acknowledged around the table, pretty much the same ideas that we were facing at the last meeting about the best baseline forecast going forward;
+but the risks on both sides have gotten a little deeper.
+<START>On the growth side, the issues have to do with the depth of the housing market contraction, the spillover to motor vehicles, and the possible expansion of weakness to other sectors, particularly on the December 12, 200693 of 134 goods manufacturing side.<END>
+However, I would mention, though nobody else has around this table, that some of the slowness in high-tech spending seems to be related to people’s waiting to buy new computers when the new software from Microsoft comes out.
+I think that perhaps a little window of optimism exists there;
+certainly, it seemed that way to our director who is in the semiconductor industry.
+You have some greater risks on the minus side, and you have all the risks that Brian talked about on the plus side
+—more-accommodative financial markets, a dollar that’s declining, strength in labor markets, and an ebbing of core inflation that’s still more of a possibility than a reality.
+But I see the risks on both these sides as not affecting where policy should be.
+I don’t think the risks are unbalanced right now.
+They may have gotten a little deeper on both sides, but I don’t see them as unbalanced.
+This policy stance is right, for now.
+I think it’s at the high end of neutral and focused on where it’s more expensive to be wrong and that is on the inflation side.
+If inflation fails to decelerate, if the promise is not realized, then obviously policy won’t be slightly restrictive as it is now, and we’ll have to tighten.
+If we see some of the bad signs on the growth side confirmed, then we’ll need to stay either the course for a while, as President Hoenig has suggested, or possibly reduce rates along the lines of the market.
+<START>But for right now, we’re right where we need to be.<END>
+I’d go with alternative B. But I’d either go with the Christmas colors with “than anticipated” taken out, or as I am attracted to President Hoenig’s idea, I’d go with fewer rather than more words.
+My preference is to take section 2 from C and marry it to the rest of alternative B
+—it has fewer words, and it doesn’t point specifically to weaknesses.
+<START>President Fisher is right that A and B may be better descriptions of some of our worries around the table, but they could feed in a not necessarily good way into the markets right now.<END>
+Section 2 in alternative C would be a crisper, shorter way of not confirming the federal funds rate trajectory December 12, 200694 of 134 that markets see as they look forward.
+I’d rather not confirm that trajectory.
+So if I had my druthers, I’d go with alternative B with section 2 from alternative C. Otherwise, I’d take “than anticipated” out and go with Christmas colors on alternative B. CHAIRMAN BERNANKE.
+Thank you.
+President Poole.
+MR.
+POOLE.
+Thank you, Mr. Chairman.
+I support an unchanged fed funds rate target.
+However, I strongly favor a symmetrical balance-of-risk statement because I believe that we will then be well served by market responses should incoming data differ from our current expectation.
+That was certainly the case when long-term interest rates fell after their June peak as the economy weakened.
+The Committee has chosen not to act more forcefully against the current rate of inflation
+—which most, if not all, FOMC participants believe is too high
+—because of the expectation that inflation will decline over time.
+I agree with that expectation and support that policy.
+The market believes that it is unlikely that we will be raising the fed funds rate target in the first half of next year.
+Perhaps the market’s expectation is based solely on the view that we will not get bad inflation news.
+However, judging from the lack of market response to the PCE price index report on November 30, which was higher than the market expected, the market believes that we will not act to raise the fed funds rate target during the first half of next year even if we have more bad news on inflation.
+The reason is that the bad inflation data will eliminate the market’s current expectation of easing next year.
+Under these conditions, the ten-year Treasury rate might rise over a period of eight to twelve weeks, say, by a total of 75 to 100 basis points, and the stock market might fall 10 or 15 percent.
+I’m guessing the market believes that, if that happened, we would be unlikely to raise the fed funds rate target.
+That is certainly my view.
+<START>Suppose, on the other hand, that we see a combination of benign news on December 12, 200695 of 134 inflation and weak news on the real economy.<END>
+In such a situation, we should be delighted if the market bids down the ten-year bond rate.
+<START>We should encourage that response, and that is why I favor a symmetrical risk assessment.<END>
+Doing so does not imply that we are soft on inflation.
+The policy stance depends on more than just the policy objective function.
+Policy stance depends equally on the structure of the economy and the important objective of pursuing a policy that is as predictable as possible.
+<START>If the Committee adopts the risk statement in alternative B, I ask that the minutes explain that at least one member strongly favored a balanced risk assessment.<END>
+<START>I believe that the staff forecast makes good sense and that the risks are symmetrical on both sides of that forecast, for both output and inflation.<END>
+My position would be captured by a section 4 something like this:
+<START>“Future policy adjustments will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.<END>
+The Committee judges that risks to the inflation outlook remain the predominant concern.” This language expresses our concern about inflation but does not say that we are contemplating a policy firming at our next meeting or the meeting after that.
+Incidentally, the market inevitably reads any hint about the fed funds rate target as applying primarily to the next meeting.
+Anything after that will be superseded by the decision at the next meeting.
+I take the position I do not only for its advantages should data on the real economy come in weaker than expected.
+Suppose we experienced an inflation scare, including significant depreciation of the dollar on the foreign exchanges.
+With the dollar and the stock market falling and with bond rates rising, would we want the market to conclude that our language suggesting policy firming in the future, language repeated at every meeting since the pause in rate increases in August, should now be taken seriously?
+I believe that we would not December 12, 200696 of 134 want the market to reach that conclusion on the basis of language crafted for a different purpose.
+We might want to send that message, but we might not.
+In the middle of an inflation scare, taking out that language might be difficult.
+Doing so would imply that we are not considering a policy firming.
+Yet we might be uncomfortable leaving it in because we might not believe a policy firming would be a good idea in the midst of market volatility.
+Why not avoid that potential problem now?
+I also take the position I do because I believe that our reference to policy firming is simply not credible.
+Events might transpire that would make policy firming a live issue.
+But given the information currently in hand, I believe that it is improbable that the Committee would vote to raise the fed funds rate target in January or March.
+Is it good policy to advertise a policy that we do not expect to pursue?
+To put it another way, what conditions would lead us to raise rates in January or March?
+Are those conditions remote, or do they carry a nontrivial probability?
+In sum, I am not arguing for a relaxed view on inflation.
+Inflation risks are, and should remain, our predominant concern.
+However, I believe that a balanced risk statement, with an expression of concern about inflation but without a hint of future policy firming, will best serve us in the period between this meeting and our January meeting and perhaps beyond.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Kohn.
+MR.
+KOHN.
+Thank you, Mr. Chairman.
+I agree that we should keep the federal funds rate where it is.
+I think that’s our best chance of achieving various goals that we’ve all set here, relative to changing it in either direction.
+I do think the risks remain unbalanced.
+I’m in favor of keeping the current section 4.
+I agree, Bill, that the Greenbook has a gradual reduction in inflation.
+It includes an implied assumption of a flat federal funds rate and a rise in long-term rates, not of 75 basis points but, December 12, 200697 of 134 rather, of about 50 basis points, I believe.
+That trend in inflation is still very gradual relative even to the rise in long-term rates embedded in the Greenbook.
+Moreover, the risks around that trend, so long as the labor markets remain as tight as they are, remain skewed a little to the upside, and the costs of missing are larger if we miss to the upside rather than if we miss to the downside.
+<START>So I’m very comfortable with continuing to suggest not only that we are focused on inflation but also that interest rates are more likely to rise than to fall, given our focus on inflation.<END>
+The market doesn’t believe it, but I think that’s where we are.
+Maybe not in January and I’m not sure about March, but I couldn’t rule an increase out under a plausible set of information.
+So I’m still very comfortable with section 4, and I think we ought to keep it until some other time.
+As the statement evolves, we may get away from forecasting our own actions.
+We’ve been evolving in that direction.
+But we are where we are, and I think it would be not representative of where the Committee is if we changed it at this point.
+I like the Christmas version of alternative B. We do need to indicate to the markets and to the public that we are aware that some data have been just a touch
+—or, as Governor Mishkin said, a smidgen
+—weaker than we anticipated.
+I like the new version because it does home in on production and spending.
+<START>By implication, the labor markets haven’t been weaker than we anticipated, so I think it’s a more accurate representation.<END>
+We really haven’t
+—at least the staff hasn’t
+<START>—revised down GDP growth very much once you take account of the auto distortion.<END>
+So I think this is more accurate.
+I like the fact that it says “slightly weaker” rather than the “somewhat” in the other alternative B. I think that’s more representative.
+I could live without “than anticipated.” I was asking myself about “and spending had been slightly weaker”
+<START>—that raises the question “than what?” In truth, it is slightly weaker than anticipated, but the Committee doesn’t have a record showing exactly what we’re anticipating.<END>
+It is slightly weaker, December 12, 200698 of 134 if you think about the industrial production data, than it was a few months ago.
+So I think it can stand without “than anticipated.” Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Pianalto.
+MS.
+PIANALTO.
+Thank you, Mr. Chairman.
+<START>I support maintaining the current federal funds rate target today, and I can support the language in alternative B. I’m trying to decide between the holiday language and the original, and I’m struggling with the “weaker than anticipated.” So I agree that, if we remove it, I would be comfortable with that assessment.<END>
+But I am also concerned that our current risk-assessment language is becoming stale.
+Back in August, when we first chose to pause, we were nervous that our next move was going to be up and that inflationary pressures could intensify.
+<START>We thought it was critical to tell the public that we would be ready to resume raising the fed funds rate if our outlook required us to do so.<END>
+I myself was more than half expecting that such would be the case.
+But the incoming data since August have not altered the Greenbook baseline projection for the next year, and so I’m less worried today than I was in August that we will have to do more on the upside on the fed funds rate.
+Today is not the day to remove that language or change that language.
+But if we believe that the path of the fed funds rate in the Greenbook is the one that is likely to evolve, we should start to prepare markets for our maintaining the current federal funds rate longer than they currently expect
+—because they expect us to move down.
+So I would rather start to craft some language that would signal to markets that we’re likely to stay at our current fed funds rate longer and, depending on how the economy unfolds, that we may eventually be more restrictive than we appear to be today.
+I agree that today is not the time to change our language significantly, so I support alternative B. CHAIRMAN BERNANKE.
+Thank you.
+First Vice President Barron.
+December 12, 200699 of 134 MR. BARRON.
+Thank you, Mr. Chairman.
+<START>I feel that current policy is about right, given the risk to the economy and the potential that inflation will not turn down in the near term.<END>
+Thus I would favor no change at this time.
+We’ll get further readings on employment before our next meeting, and we’ll also know about the level of spending that is likely to occur over the holidays.
+<START>Although it’s doubtful that we’ll have a clear reading in January on the future direction of housing, the additional data will perhaps provide us with some clue as to how long and how deep the downturn will be for this sector.<END>
+The longer the downturn in the housing sector continues, the greater the potential for spillover into other sectors, creating the potential for some easing in the relatively tight labor markets that we’ve all talked about today.
+That said, my own take is that, without some significant spillover, we should be on track for a soft landing.
+As far as the wording is concerned, I’m not sure how many options we’ve got on the table, but I would prefer alternative B, dropping the “more than anticipated.” I’d be a little cautious about introducing a new phrase, whether it’s production or spending, because we might have to specify what spending.
+I think we’re talking implicitly about business spending, but we have to remember that the consumer sector has held up quite nicely for us.
+So let me just stop.
+<START>I prefer alternative B in exhibit 4, and I would drop “more than anticipated.” VICE CHAIRMAN GEITHNER.<END>
+Mr. Chairman?
+CHAIRMAN BERNANKE.
+Yes.
+VICE CHAIRMAN GEITHNER.
+I have a clarifying question raised by Pat’s question.
+Please remind us, Dave
+—has real consumer spending slowed more than anticipated?
+MR.
+STOCKTON.
+No. Real household consumption has been exactly as expected and has not shown any signs yet of slowing.
+Business spending, on the other hand, has been slowing in equipment and somewhat in construction.
+December 12, 2006100 of 134 MR. WILCOX.
+The spending side of the national income and product accounts is really the unspoken implication.
+VICE CHAIRMAN GEITHNER.
+The other difference between exhibits 4 and 5 is “weaker” versus “subdued.” Does “subdued” sound weaker than “weak”?
+[Laughter] Or is “weak” weaker than “subdued”?
+CHAIRMAN BERNANKE.
+Maybe Michelle can tell us the answer to that.
+[Laughter] MS. MINEHAN.
+I still vote for section 2 of alternative C. CHAIRMAN BERNANKE.
+President Minehan has a clean solution.
+President Yellen.
+MS.
+YELLEN.
+Thank you, Mr. Chairman.
+I think the pause initiated back in August is paying dividends.
+<START>We’ve been able to gather valuable economic intelligence at no discernible cost to FOMC credibility.<END>
+Given the recent signs of weakness in economic activity, I do think the downside risk to the outlook has intensified.
+A further rate increase at this time would unnecessarily increase the odds of a much sharper and more-damaging economic slowdown.
+<START>Even though inflation has shown some signs of moderating, the risks to a gradual decline in inflation remain clearly biased to the upside.<END>
+<START>Weighing these two risks, I still see inflation as the predominant risk, and therefore, like Governor Kohn, I am comfortable with the risk assessment in section 4 as it stands.<END>
+I think we’re entering a critical phase for policy.
+<START>Inflation may not come down as desired, and a further rate increase may be needed or, hard as it is to imagine, market participants may end up being right that the economy will slow much faster than we anticipate and call for rate cuts.<END>
+We need to be in a position to react quickly and flexibly to change, whatever the circumstances may be, and I think alternative B accomplishes that because it accurately reaffirms our concern regarding inflation while it leaves our options open.
+December 12, 2006101 of 134 With respect to language, my first choice, like President Minehan’s, would be to use the language for section 2 in alternative C. It omits any reference to recent data or to what we anticipated and simply adds the word “substantial,” which I regard as a nod to recent data that suggest a greater slowing in housing.
+My second choice for section 2 would be to use the substitute language in the Christmas-colored exhibit 5.
+I also support President Minehan’s suggestion to omit any reference to what was anticipated because I agree with her and with the point that President Poole made before our meeting
+—that referring to differences from what was anticipated simply raises the questions of who forms the anticipation, what the anticipation was, and when it was formed.
+In addition, I think it’s a bit misleading because, although some recent data on the spending side have been weaker than we may have anticipated, we’ve also had data from the labor markets that have been stronger than we anticipated.
+<START>So I fear that alternative B, section 2, leaves the false impression that we have significantly revised downward both our view of the outlook for growth and, accordingly, our estimate of inflation risks.<END>
+CHAIRMAN BERNANKE.
+Thank you.
+President Moskow.
+MR.
+MOSKOW.
+Thank you, Mr. Chairman.
+First, I want to thank the staff for including chart 6 in the Bluebook.
+As several of us suggested last time, it’s a good addition to have for every meeting.
+<START>Since August, policy has been on hold for us to assess the inflation situation and the growth outlook, and at this point I think we would continue the period of assessment until the situation is clarified further or something changes.<END>
+<START>Today I would go with alternative B. Listening to the discussion, I still come down for the wording in alternative B. I would go with exhibit 5, which is the Christmas-colored version, and I would delete “than anticipated.” I think it does read better that way.<END>
+Don, in answer to your question, I think the markets would read this as being slightly weaker December 12, 2006102 of 134 than history.
+So I think that’s appropriate.
+I can see the argument for alternative C:
+It is much cleaner, and it relates directly to what we said last time, with a slight modification.
+However, there has been a slight weakness in the data, and I think it’s reality, and we should recognize it.
+In terms of whether “weaker” is weaker than “subdued”
+<START>—actually the words are “somewhat more subdued” and “slightly weaker.” [Laughter] On that basis, I’m comfortable with “slightly weaker.” However, stepping back during this period, I think it is useful to consider the kind of information that would lead us to change the policy rate, as several people have talked about here.<END>
+<START>When we assess the inflation situation, although members of this Committee may have different views of price stability, I think there’s a clear consensus that core inflation has been too high.<END>
+In our decision to pause, too, there’s a consensus that we can be patient, at least for now, about the time frame for core inflation to fall.
+<START>The question is, “How patient?” We expect that inflation will gradually come down, but the corollary to this is that core inflation should not noticeably deteriorate over the near term.<END>
+In the medium term, we should be more clearly on a path to lower inflation.
+Of course, steady progress would be best, but what we all want is at least to be on the path.
+<START>The implication is that we must be willing to firm policy if core inflation increases in the near term or the medium term or if it fails to be on a clear trend toward price stability over the longer term.<END>
+<START>When we look at the growth side for the longer term, I think the consensus view is that we want to carefully monitor growth and resource slack, being mindful of the downside economic risk that we talked about and the Chairman summarized.<END>
+We talked about the bimodal economy, but we also must remember that sustainable growth rates are likely lower.
+<START>The Greenbook talks about 2½ percent, a lower number than what we’ve been accustomed to in recent years, and the implication is that we could be facing increasing resource pressure at GDP growth rates that were previously viewed as below potential.<END>
+December 12, 2006103 of 134 So the bottom line is no change in policy today.
+Inflation risk still predominates.
+<START>I’m nervous about the expected slow improvement in inflation, but I admit that the jury is still out on whether it’s a problem.<END>
+<START>The economic fundamentals still suggest a return to potential growth rates by the end of ’07, but we have to be mindful of the adverse changes in the growth outlook as well.<END>
+CHAIRMAN BERNANKE.
+Thank you.
+President Stern.
+MR.
+STERN.
+Thank you, Mr. Chairman.
+<START>I take my cue from the earlier observation that we have received a lot of additional data but not much additional information, and I agree with it.<END>
+So, first of all, I favor no change in the federal funds rate.
+I think that has been appropriate for a while, and I think it continues to be appropriate.
+As far as language under alternative B is concerned, I must admit that some of the discussion is perhaps overly nuanced for me.
+But coming down to a choice, I would prefer some version of section 2 from exhibit 4, taking out the phrase “more than anticipated.” I don’t want to get into a debate about exactly what spending encompasses or doesn’t encompass from the version in exhibit 5.
+I agree with those who have already commented that the data have turned out to be a bit softer than we expected and, I think, than was generally expected.
+We should acknowledge that;
+I mean, let’s not pretend that it hasn’t occurred.
+So with that, I’ll end my remarks.
+CHAIRMAN BERNANKE.
+<START>President Stern, are you advocating exhibit 4 about growth as opposed to exhibit 5 with the indicators?<END>
+MR.
+STERN.
+Yes.
+CHAIRMAN BERNANKE.
+Thank you.
+President Lacker.
+MR.
+LACKER.
+In past meetings I have expressed my misgivings about whether our strategy is going to bring inflation down fast enough.
+So I won’t belabor those again today.
+As I said earlier today, the inflation picture has, if anything, eroded a bit.
+So my misgivings remain.
+The December 12, 2006104 of 134 outlook for real growth could conceivably weaken enough to alter my perspective on the fed funds rate, but that hasn’t happened yet.
+The data on manufacturing and nonresidential construction were marginally worse than expected, but they haven’t fundamentally altered my assessment nor, I take it, the assessment of many others that the current weakness is transitory rather than highly persistent.
+I still think the economy could theoretically handle a marginally higher fed funds rate.
+I’m also mindful of the apparently wide gap between the assessment of the market and what I believe to be the consensus around the table.
+<START>In that context, I’m unwilling to signal that my concern about the trajectory of core inflation has diminished or to alter the general cast of the announcement regarding inflation.<END>
+Thus, I favor alternative C. However, on the off chance that the Committee prefers alternative B, [laughter] I’d suggest that exhibit 5 is better than exhibit 4 on alternative B, section 2.
+I’d also associate myself with the views of Presidents Yellen and Minehan that alternative C, section 2, be preferable to either.
+would But I don’t even know if I have a say on that kind of thing.
+[Laughter] CHAIRMAN BERNANKE.
+President Plosser.
+MR.
+PLOSSER.
+Thank you, Mr. Chairman.
+I, too, favor maintaining the federal funds rate at its current level at this point.
+As many people have said, the incoming data have been voluminous but not very informative.
+<START>However, inflation continues to be higher than I’d like to see it and is forecast to remain so for longer than I’d like to see, thus putting our credibility at risk.<END>
+I am more optimistic than the Greenbook about the possibility for a quicker rebound to potential.
+But even if you take the staff’s Greenbook forecast, with growth expected to be below trend for at least several more quarters before returning to trend, I’m comfortable with maintaining the current federal funds rate and the implicit firming that doing so would imply as the economy slows down.
+<START>December 12, 2006105 of 134 Although I don’t think we should raise the fed funds rate today, I do want to put on the table and reemphasize, as several people have, that we need to acknowledge that if real growth rebounds quicker toward trend than is currently forecast, whether in the fourth quarter of this year or the first quarter of next year, then we must be in a position to raise the fed funds rate at that time.<END>
+I happen to put more probability on that being the case than perhaps some do.
+<START>A failure to do that or to signal that we will do that would put considerable upward pressure on the inflation outlook and on the public’s perception of our commitment to price stability.<END>
+Of course, if we begin to see much larger spillovers from housing corrections or from other sectors, which I don’t think we will, we may want to allow the nominal funds rate to decline as the equilibrium market rates decline
+—again, not to exploit a Phillips curve type of tradeoff but to drive the real rate down at the appropriate time.
+But that would also be signaling that we are content with the current level of inflation, and I don’t think we are at this point.
+So I don’t think that’s really in the cards.
+Given the outlook, I see not much to be gained and much to be lost from lowering the fed funds rate, as many people have indicated.
+In regard to the language, I lean toward alternative B, but I must confess I’m still a novice at the nuance of some of this language stuff, and I go back and forth.
+I am sympathetic to the view expressed by President Minehan and to Bill Poole’s comments about the words “than anticipated,” but I am concerned about section 2, and I have some mixed emotions about it.
+It seems to me that the way section 2 is currently being construed is a bit asymmetric.
+President Yellen was making this point.
+<START>We talk about the weakness that we’ve seen, and then we make a comment that says, “But we expect growth to be moderate.” That seems to me to be an asymmetric treatment of what we’ve really been talking about.<END>
+<START>If we’re going to be explicit about where we’ve seen weakness, then we also ought to be explicit about why we still see growth as being moderate because otherwise you see only one side of the coin.<END>
+Whether we talk about strength in the labor markets or December 12, 2006106 of 134 strength in consumer spending, it seems to me that we need to balance the statement;
+otherwise the section doesn’t make a lot of sense to me.
+Now, as I think through that, I become more and more attracted to President Hoenig’s view that maybe the less we say the better because saying more requires more explanation.
+In general, I have somewhat mixed feelings about the language issue.
+<START>I tend to think that we ought to change the language of the statement more often rather than less often because putting in a new word is always excruciatingly painful and understanding the nuances of what we’re trying to convey to the market is very difficult.<END>
+One alternative is to be much more eclectic about what we say and either use the minutes to explain it further or not.
+I don’t know that I would necessarily advocate doing that, but I think that we need to think about using the language in the statement in ways that perhaps don’t lock us into things in the way the language currently does.
+That’s my observation.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+President Plosser, the communications subcommittee will help us solve that problem.
+[Laughter] Governor Bies.
+MS.
+BIES.
+Thank you, Mr. Chairman.
+<START>I support leaving the rate unchanged today because I still believe that the risks are to the upside on inflation and so we need to persevere at this level for a while.<END>
+In terms of the wording, I want to offer another alternative.
+<START>[Laughter] I’m concerned that in exhibit 5, alternative B, we’ve added “substantial” to housing and have noted weaker indicators.<END>
+Yet the view around the table
+—and clearly my own view
+—is that the indicators have been mixed.
+A lot of strength is still showing.
+Consumer spending looks good.
+Employment looks good.
+If we want to talk about indicators, I would prefer some words that deal with President Plosser’s comments and say that “although recent economic indicators have been mixed, the economy seems likely to expand at a moderate pace on balance over the coming quarters” because that’s what we’re December 12, 2006107 of 134 really saying.
+<START>There’s some good news and there’s some bad news.<END>
+By focusing just on the negative, I think we are signaling that we’re more concerned about a slowdown.
+I at least think that is inconsistent with a tilt of risk toward inflation.
+So I would do something along that line or go back to exhibit 4, which basically just recognizes that in the aggregate the economy has slowed a bit;
+but I’m uncomfortable with addressing only the weakness and not the strength.
+CHAIRMAN BERNANKE.
+President Minehan.
+MS.
+MINEHAN.
+Let me put in another plug for section 2 of alternative C:
+“Economic growth has slowed over the course of the year, partly reflecting a substantial cooling of the housing market.” Why do you want to go on and on about it?
+MR.
+KOHN.
+That’s what we’re paid to do.
+[Laughter] CHAIRMAN BERNANKE.
+Let me just say what the logic is behind it.
+The logic is that we’d like the markets to know that we are awake, [laughter] we are watching the data, we have seen things coming across the transom, but nevertheless, we have the following views.
+Perhaps the logic is not good, but that’s the reason.
+MS.
+MINEHAN.
+I can understand the logic, but I wonder whether “substantial” does that enough for us.
+That’s the only question I would pose.
+CHAIRMAN BERNANKE.
+Okay.
+Thank you.
+Governor Warsh.
+MR.
+WARSH.
+Thank you, Mr. Chairman.
+I, too, favor no change in the federal funds rate today and agree on the risk assessment in section 4.
+Let me make three points.
+First, I think that there is a rebuttable presumption
+—particularly in December, given what’s going on in the markets
+—of somewhat less liquidity and somewhat less interest in surprises now than at other points that favors fewer changes rather than more.
+<START>Second, I think your remarks, Mr. Chairman, the Vice Chairman’s remarks, and several people’s remarks over the intermeeting period have focused December 12, 2006108 of 134 on uncertainty and have tried to challenge the markets about their degree of certitude regarding what’s likely to happen.<END>
+When I review the language, I try to keep that in mind and reinforce the view that they need to be doing their own homework and to be thinking about what the tail risks are.
+Third, it’s not our job to force our forward curve of interest rates to match the markets, but I’d rather not reinforce their views either.
+So when I turn to the language, my preference is to agree with President Minehan’s alternative C. But we’ve been whispering about Governor Bies’s compromise over here, and just to make the words even briefer, a suggestion for the wording is, “Although recent indicators are mixed, the economy seems likely to expand at a moderate pace on balance over coming quarters.” This wording acknowledges what’s going on in the markets, Mr. Chairman, and so it captures what you rightly said about our continuing to pay attention rather than having a knee-jerk reaction.
+At the same time, it doesn’t put more of an emphasis on data on either side of the line.
+That strikes me as a reasonable compromise, given all that I’ve heard today.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Kroszner.
+MR.
+KROSZNER.
+Given that the avalanche hasn’t really moved our assessment very much, I certainly don’t see any reason to move interest rates now.
+I think it is important to acknowledge in section 2 some of the slowing that we’ve seen.
+As we have discussed, there are two ways to do that.
+One is to include the substantial cooling of housing.
+I think there’s consensus for that
+—I haven’t heard anything said to the contrary
+—and I think it’s important that we do have that.
+Then the question is whether we want to go further and whether we can do that clearly, rather than cause confusion.
+Obviously, the simple option is just to cut it all out
+—take the Minehan approach and say “substantial” is sufficient.
+As Governor Warsh mentioned, we’ve been thinking about a simplified version of alternative B that mentions just some “recent indicators.” Then we can get out December 12, 2006109 of 134 of the discussion of production, spending, and the specifics.
+But I do think that’s better than saying “growth.” It’s also better to talk about some of the indicators rather than just the overall growth number, which was in exhibit 4.
+So I think exhibit 5 is better that way.
+Then it’s a nuance whether we want to include “somewhat subdued,” “slightly weaker,” or “mixed,” and whether we use “were,” “have been,” or “are.” I’m not quite sure exactly where I stand on all of those, but I do think that simplifying the language to some degree and just saying something about indicators would be the way to go.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Mishkin.
+MR.
+MISHKIN.
+Given the discussion today, there really is no reason to change our stance in policy or change my views on policy.
+There is a bit more uncertainty, so I think the word “vigilance” is important.
+Then we need to be able to move quickly, and it’s not clear to me that we are necessarily talking about quickly in terms of lowering interest rates;
+we might have to raise interest rates.
+So I think we just have to be aware of that.
+<START>I am comfortable with the current assessment of risk.<END>
+<START>I think it would be a mistake to move it now, which I don’t think anybody is suggesting, and it’s not clear to me that it wouldn’t be a bad idea going forward.<END>
+Even if we have inflation declining, we’re in a situation in which we actually want to allow real rates to go up.
+In that sense, the assessment of risk as it is currently stated says exactly that.
+If we change the assessment of risk to be more balanced, the market may react and think we’re getting softer on inflation.
+So I am comfortable keeping it this way.
+Even though it’s not on the table today, it would take a lot more for me to want to change it.
+On the issue of language, I guess I want to use the smidgen principle.
+My view is that things have not really changed very much.
+There’s a smidgen of weakness.
+Again, the nuances of this stuff are not my thing
+—I’m like President Plosser in that we’re sort of newbies.
+But the basic December 12, 2006110 of 134 principle here is the less we change, the better it is.
+There’s the issue about whether alternative C would work by saying just “substantial.” That actually does indicate that we’re aware that things have gotten a little softer, so I would be comfortable with President Minehan’s suggestion.
+But I’m also not uncomfortable with just shortening exhibit 5, which says also that some recent indicators have been mixed, period.
+I’m not sure which one of those is better, but I think the key idea here is that we don’t want to change these a whole lot.
+We just want to acknowledge that, in fact, things have been slightly softer but the change is not a big deal.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+Vice Chairman Geithner.
+VICE CHAIRMAN GEITHNER.
+May I begin with a question?
+When was the last time we used the phrase “indicators have been mixed”?
+Is there precedent for that?
+MR.
+MISHKIN.
+I thought you were going to ask about “smidgen.” [Laughter] CHAIRMAN BERNANKE.
+In the past the Committee has often referred to “intermeeting data,” for example.
+VICE CHAIRMAN GEITHNER.
+As being mixed?
+It’s probably true that at any time the indicators are mixed, but does this phrase have substantial connotations based on precedent?
+MR.
+KOHN.
+I don’t think so.
+VICE CHAIRMAN GEITHNER.
+All right.
+My basic view, Mr. Chairman, is that we should keep the fed funds rate unchanged.
+Circumstances justify a very modest softening of the signal in the statement.
+I don’t think we should do that by changing the balance-of-risk assessment.
+I think we should do it by acknowledging very subtly that things have turned out slightly softer than perhaps we expected and that we might have a little more uncertainty going forward.
+<START>The virtue of Governor Bies’s suggestion is that it acknowledges uncertainty, and the combination of the acknowledgment that the downturn in housing has been substantial and the phrase indicating some December 12, 2006111 of 134 uncertainty about the future is pretty good.<END>
+So I’d be comfortable with that.
+<START>President Poole made a very good case for the importance of reminding ourselves that we need to make sure we have some flexibility going forward to react to a material change in the outlook.<END>
+But I don’t think we’ve had enough changes to our outlook to justify a substantial change in the signal at this point.
+<START>To go to a balanced risk assessment or to go substantially further toward one would likely induce some larger change in market expectations and some greater easing of financial conditions than we have already seen.<END>
+That is not something we need to induce at this time, principally because of our uncertainty about whether we’re going to get enough moderation in inflation.
+<START>So I would be comfortable with “recent indicators have been mixed.” I think I’d slightly prefer that to going to alternative C, section 2, and I would prefer both of those to alternative B in either exhibit.<END>
+CHAIRMAN BERNANKE.
+Thank you.
+MR.
+HOENIG.
+Mr. Chairman, I think we have just been to North Dakota.
+[Laughter] CHAIRMAN BERNANKE.
+I would say we crossed the border.
+[Laughter] Well, let me try to summarize.
+[Laughter] First of all, the economy is still on the course that we have been projecting for some time.
+A soft landing scenario with some slow but, I hope, decided reduction in inflation seems to be a reasonable expectation.
+However, there still are significant uncertainties in the forecast, and we’re quite aware of that.
+I note parenthetically that it’s a good thing that the bond markets aren’t simply parroting our statements.
+They’re providing their own take, and we should use that information and not necessarily consider it a failure if their views are distinct from ours.
+So since the situation seems to be on trajectory, I would advocate today not changing the federal funds rate.
+With respect to the statement, we did try in the first iteration to make some changes to the assessment of risk.
+<START>I have some sympathy with President Poole’s view in that, read literally, our December 12, 2006112 of 134 assessment of risk admits no possibility that our next move will be down, which I don’t think could be true under any circumstances.<END>
+However, we have been using this language for a while.
+We have been clear in our minutes that we do see some downside risk to output.
+<START>The market, I think, has understood whose statement we are trying to emphasize, our particular concern about inflation, and our willingness to raise rates if inflation doesn’t moderate significantly.<END>
+<START>Again, although I’m sympathetic to President Poole and I’m trying to think about how we are going to move away from this language into other forms of language, I think, along with Vice Chairman Geithner, that our changing the risk assessment today would send a very strong signal that our discussion has not suggested.<END>
+That’s why I propose to leave the risk assessment unchanged for today but to take on board the concerns that President Poole has raised about getting it to a perhaps more accurate description of our risk assessments and expectations.
+<START>On section 2, the two suggestions that I think have commanded some significant support are, first, President Minehan’s suggestion of using the second section under alternative C and, second, the alternative in the Christmas-tree colors using “although recent indicators have been mixed” in the present perfect tense<END>
+—“although recent indicators have been mixed, the economy seems likely to expand at a moderate pace on balance over coming quarters.” I think those are the two that people have preferred.
+I don’t think it makes a great deal of difference, frankly, but I lean personally a bit toward including the reference to indicators only on the grounds of trying to signal to the market again that we are watching the data, that we are aware of developments in the economy, and that we’re not just taking the statement out and putting a new date on it.
+So that would be my recommendation
+—that we use the phrase “although recent indicators have been mixed, the economy seems likely to expand,” and so on.
+I’d be happy to take comments.
+MS.
+MINEHAN.
+That’s fine.
+December 12, 2006113 of 134 CHAIRMAN BERNANKE.
+Is there a comment?
+MS.
+DANKER.
+I’ll be reading the directive and risk assessment from page 23 of the Bluebook.
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with maintaining the federal funds rate at an average of around 5¼ percent.” Then:
+“Nonetheless, the Committee judges that some inflation risks remain.
+<START>The extent and timing of any additional firming that may be needed to address these risks will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.” Chairman Bernanke Yes Vice Chairman Geithner Yes Governor Bies Yes Governor Kohn Yes Governor Kroszner Yes President Lacker No Governor Mishkin Yes President Pianalto Yes President Poole Yes Governor Warsh Yes President Yellen Yes CHAIRMAN BERNANKE.<END>
+Thank you very much.
+We have one more item
+—on communications.
+I’m going to turn over the floor to Governor Kohn.
+MR.
+KOHN.
+As we get ever deeper into North Dakota here, [laughter] I don’t know what President Stern thinks about this.
+December 12, 2006114 of 134 MR. STERN.
+I was going to say that I’m the only one here, on the Committee anyway, who gets there with any frequency, and people have suggested that I should defend North Dakota.
+But I must say that I felt the joke was apt.
+[Laughter] MR. KOHN.
+Getting back to other communication issues, I have, first, a bit on the January meeting.
+Our January meeting will be another two-day meeting, and part of it will be on communication issues.
+This one will be on forecasts.
+What can we do to improve the way we communicate our outlook about the economy
+—really the medium-term outlook
+—and how it fits into our explanations of monetary policy actions.
+The focus is not so much on how we would use this to signal our price stability objective, which we will come back to in March.
+Obviously, the two considerations are closely related, but the focus will really be on the forecasting process and how we can do it better and communicate about it better.
+Three sets of background materials are in preparation:
+(1) a memorandum from International Finance on foreign experience with forecasts;
+(2) a memo from Research and Statistics on some of the choices available to us
+—the variables, conditioning assumptions, periodicity, and things like that;
+and (3) a memo from Monetary Affairs on the interaction of these various choices with the governance of the Committee
+—that is, who owns the forecast and the explanation.
+Moving on to the memo that you received from the subcommittee on communications
+—as you know from that memo, several Committee members thought it would be useful at this meeting to have at least a brief discussion about how we as individuals talk in public about the subjects of ongoing deliberations on communication issues.
+I include myself in that list of people who thought that this discussion would be useful, without necessarily implicating the other members of the subcommittee.
+We are concerned that our individual public statements could impede our ability to reach internal consensus and to control how whatever that consensus turns out to be is December 12, 2006115 of 134 communicated to the public.
+I think that finding consensus on some of these issues is going to take considerable flexibility and give and take among Committee members.
+One concern is that the more individuals sort of pre-announce their positions, particularly in public, the harder it’s going to be to find that consensus around the table.
+We are in this process.
+There’s no need to push the Committee toward doing something.
+The Committee is doing something, and I think we need to keep all our individual options open as we go forward.
+Another problem is communication with the public.
+One of my concerns is that statements by individuals about their particular positions risk confusing the public about where we might come out, setting up inaccurate expectations of where we’re coming out, and provoking reactions in the public about something that the Committee might not be doing.
+Whatever we come up with, the Committee and the Chairman are going to have to keep close control on how we roll it out to the public and how we tell people what we’re doing and why.
+No one should be or can be expected to repudiate his or her past positions
+—say, on comfort zones
+—but we can think about not elevating the topic, not bringing it up so much ourselves, not pushing it further in public while the Committee is deliberating.
+We sent this memo really to get Committee reactions.
+To be effective, we need a consensus on this issue among the Committee members
+—and I would include the staff sitting around the edge of the room
+—to control our public statements on this issue.
+If some of us do it and others don’t, it isn’t going to work.
+So I would be interested in your reactions.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+President Hoenig.
+MR.
+HOENIG.
+I agree.
+I can’t imagine putting a position out in public.
+I’m concerned that I do get questions:
+“This has been in the minutes.
+<START>What do you think?” I feel a little uncomfortable just saying, “I’m not going to talk to you about that.” I feel more comfortable saying, “That’s a tough issue.<END>
+We’ve gone back and forth.
+We need to think it through.
+There are strong views.” I December 12, 2006116 of 134 mean to talk about it a bit without putting a big position out there.
+I just don’t want to say to them, “I’m not talking about this.” It sounds incomplete or half-baked.
+VICE CHAIRMAN GEITHNER.
+I would not interpret Tom’s “no comment on the issue” to be inconsistent with what you were proposing, Don.
+MR.
+KOHN.
+Right.
+I think we can talk about it without giving a position.
+I mean, when people have asked me, I’ve said, “There are a number of things under consideration.
+There are a lot of issues here that we need to work through.” MR. HOENIG.
+I feel very comfortable without giving out, “This is what we ought to do,” and that sort of thing.
+That’s helpful.
+MR.
+MISHKIN.
+I think there’s a fine line here.
+It’s extremely important for us not to be taking positions, exactly along the lines that have been suggested.
+But there is a question about educating the public about the issues, not about the specifics.
+Because of the fine line, I’m not sure how we should think about this question:
+Whatever we decide, at some point we don’t want to just spring it on the public, for obvious reasons.
+There is a role for communication in terms of educating the public about the issues, many of which we have been discussing
+<START>—for example, in speeches about the importance of anchoring inflation expectations.<END>
+Now, how we communicate that is actually one of the issues that we have to discuss.
+Having the public understand what monetary policy is about is very important in terms of the education process, and yet we also need to make sure that we are not getting into any details.
+So there’s a fine line here.
+<START>It might be interesting to hear from other participants about how we can achieve getting the public to understand what monetary policy is really about, which a lot of the public doesn’t, and yet not actually create expectations that we’re going to go one way or another in terms of communication.<END>
+We certainly don’t want to cut off this discussion, which has been ongoing between the Federal Reserve and the December 12, 2006117 of 134 public
+—actually quite successfully.
+It’s amazing when you look where the public was ten years ago versus where they are now, and it’s because of the speeches, articles, and other written communication that the System has been doing quite successfully.
+CHAIRMAN BERNANKE.
+President Poole.
+MR.
+POOLE.
+<START>I’d just like to point out that we can respond to questions by pointing to the brief mention in the minutes that the Committee has been talking about communication issues.<END>
+We can also remind people that the details of the proceedings are confidential until they are released in the minutes, the statements, testimony, and eventually the transcript.
+“Not at liberty” is a standard response having to do with all the deliberations around this table.
+The only other thing I would add is that some of us have been on record for a long time.
+So when I get questions about inflation targets, I say that the first speech I made outside St. Louis, when I came to the St. Louis Fed, included some discussion of that issue, and I repeat what I said eight years ago and leave it at that.
+CHAIRMAN BERNANKE.
+President Plosser.
+MR.
+PLOSSER.
+<START>I’d just like to echo both of those points, which makes this issue in some ways much more subtle and difficult to pull off.<END>
+I agree with Rick 100 percent.
+Part of our job here is education.
+We have to walk the line between talking about the subtleties of monetary policy and issues that confront us and educating the public, because the last thing we want to do is to clam up about monetary policy to such an extent that the public doesn’t get educated and doesn’t understand what we’re doing and why.
+So it is important that we bring them along with us to some degree as we talk about it.
+The other point that I would reinforce is what Bill said:
+Many of us are on record as having points of view on some of these issues, and we can’t just deny that those exist.
+CHAIRMAN BERNANKE.
+Let me say just a few things.
+First of all, the freedom of individual members to speak is a very important value.
+We are not trying in any way to suppress December 12, 2006118 of 134 that.
+Second, I agree with Governor Mishkin that the education process is very important.
+Third, I would say that past positions are past positions, and no one is asking anyone to repudiate anything.
+I think the response of President Hoenig is perfectly appropriate
+—to acknowledge the issue, to acknowledge the arguments on both sides, and to acknowledge even your own past positions.
+The only point is to avoid actively taking strong, specific positions on particular issues that are really up for debate in the Committee.
+<START>I think that we as a Committee would agree, for example, that good communication is very important and that there are arguments on both sides of inflation targeting.<END>
+But, as Governor Kohn said, we do want to make sure that the atmosphere within the Committee is conducive to getting agreement.
+Then I and others will have to explain this to the Congress and others, and we want to make sure that they haven’t heard different positions that, in fact, do not reflect what we come out with.
+So please don’t overstate what we’re discussing here.
+I mean, we’re not asking for anything like “mum’s the word,” but simply requesting that you have some perspective on the vigor with which you advocate specific positions over the next few months.
+President Minehan.
+MS.
+MINEHAN.
+Actually, I think Vice Chair Geithner was slightly ahead of me.
+VICE CHAIRMAN GEITHNER.
+No, go ahead.
+MS.
+MINEHAN.
+Thank you.
+I think Don’s and your points, Mr. Chairman, are very well made.
+Coming at this maybe from a little different perspective than a lot of people do, I think there’s a lot we can say about what the Committee has already done in the realm of communications.
+The big watershed was in 1994
+—in actually telling people what we were doing.
+You can say a lot that is positive
+—for example, the timeliness with which we bring the minutes out.
+Also, I can’t see that people have difficulty understanding that we have issues left to resolve.
+If people ask a question about communications, we can say that we’ve taken really major steps and December 12, 2006119 of 134 that we’re contemplating what more we should do to meet the objectives of monetary policy better.
+So my own view is that, no matter where you stand on this subject, you have a solid track record of Committee action to talk about without even getting into inflation targeting.
+CHAIRMAN BERNANKE.
+Vice Chairman Geithner.
+VICE CHAIRMAN GEITHNER.
+Let me just say a couple of things.
+I think Rick’s point about education is right.
+<START>You can make a statement educating people about the virtues of price stability and anchoring long-term inflation expectations and the reason that’s important, without taking on the challenge of educating people today about alternative ways of achieving that objective.<END>
+Our debate about inflation targeting and communications is really about means not ends;
+and my view about education on the latter issue about means is to avoid taking on the challenge of educating the public until we know where we want to go.
+Once we know where we want to go, we can figure out how best to create the broader public foundation to make that possible.
+I’m sure that we’ll have different views on that.
+My second point is about past positions.
+This is easy for me because I don’t have past positions about these issues to echo or to repudiate in public.
+I would make a slightly different suggestion for the way to respond to those questions from, I think, Bill.
+You can refer people to your past positions without repeating them in substance and nuance.
+<START>I don’t know what the Chairman and the Vice Chairman of the Board plan to do, but I expect that you won’t feel the need in public going forward to repeat your past positions on these issues.<END>
+I suspect that you will refer people to your past positions without reminding them about what those were.
+That distinction is important, I think, because I don’t know how you get into repeating or summarizing your past position without inevitably getting into the broader set of choices that we’re going to be debating in the Committee.
+December 12, 2006120 of 134 One final point, and I think Don said this more eloquently than I can say it, which is that we all have an interest in having this discussion take place below the radar screen of public debate until, again, we have a better sense of where consensus is going to lie.
+The more we move it into the public debate, the more risk we face of all the concerns that Governor Kohn referred to.
+CHAIRMAN BERNANKE.
+President Fisher.
+MR.
+FISHER.
+<START>Just very quickly, I think what’s clear from this discussion is that, in dealing with the issue of inflation targeting, there’s no need to be on the offensive.<END>
+The issue is how we handle the defensive
+—and I think Vice Chairman Geithner’s point is correct
+—if we talk about the ends and desires of monetary policy rather than getting into the means.
+As you know, Mr. Chairman, after the last discussion I was very worried about what was sent around in the first draft of the minutes
+—I think President Minehan was as well
+—even about what we ended up saying in the minutes.
+So, again, my view is that the less said, the better.
+<START>If we are on the defensive, I would urge everybody just to stress the fact that the topic is under discussion and no decision has been made and try to make it as simple and as quick as possible.<END>
+CHAIRMAN BERNANKE.
+Thank you.
+Let’s bring this discussion to an end.
+Everyone has to use his or her own judgment, but we just wanted to bring to your attention some of these considerations as you think about your public appearances.
+The date of the next meeting is January 30 and 31.
+The meeting is now adjourned.
+END OF MEETING December 12, 2006121 of 134
+INSTANCE OF DISAGREEMENT: 132

@@ -1,0 +1,539 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+So, I think the domestic demand situation externally is not particularly attractive.
+We’ve already talked about, in Karen’s response to Governor Gramlich, issues relating to the high-tech sector, where I at least see some questions, as Larry alluded to in his remarks.
+<START>So, I sense that the position with respect to the drag from exports is likely to be with us for a long time, is unlikely to change very quickly, and will probably require much more dollar depreciation than is built into the staff forecast, even in the alternative simulation.<END>
+Therefore, I think that’s an issue that is going to be perilous for the country and perhaps for us.
+<START>February 1-2, 2005117 of 177The other risk that I think one should be focused on is an upside risk having to do with the pace of growth in unit labor costs.<END>
+That has quickened recently, rising at a progressively faster rate over the four quarters of last year and leading to a slowing in the growth of unit profits.
+<START>Should businesses try to reassert the more rapid growth in unit profits that we saw earlier, they will need to attempt to raise prices.<END>
+The “flat markup and higher compensation inflation” scenario has, to my mind, a small but nonzero probability of happening.
+The ratio of nonfinancial corporate profits to GDP has risen about 5 percentage points and now stands at about 11 percent.
+<START>The staff forecasts that the profit share will fall off a bit, and, I must say, history does support that forecast.<END>
+In five of the previous seven cycles since 1960, the profit share also rose above 5 percentage points
+—as it has now
+—and then did come off, as the staff has forecasted for the current cycle.
+However, there is a little worry in all this, because in the last cycle the profit share reached about 13 percent of GDP before falling.
+If businesses now condition their expectations on that most recent experience, then the scattered stories of the exercise of pricing power that we’ve heard around the table could potentially become more widespread.
+Whether or not that actually will occur depends on a number of factors that have been discussed already, having to do with competitive forces both in labor markets and in output markets.
+Issues having to do with slack and with import prices clearly come into play here.
+At this stage, I’d say that all of this is clearly worth watching.
+These are the worries of central bankers, if not politicians.
+Whether any of these risks or some other ones not named will come to pass obviously will be the subject of this year’s meetings.
+Until that time, I think we should continue to execute our planned strategy of a gradual removal of policy accommodation, but review it really quite seriously at each meeting.
+Thank you very much, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+Governor Bies.
+MS.
+BIES.
+Thank you, Mr. Chairman.
+To me, the forecasts presented in the Greenbook and the consensus forecast of those from the private sector paint a sound economic picture for 2005
+<START>— one of solid economic growth and an unemployment rate continuing its slow downward trend.<END>
+And February 1-2, 2005118 of 177I’m comfortable that the removal of policy accommodation at a measured pace that we’ve announced and have been implementing is supportive of this growth going forward.
+As some of you have mentioned, given such a good forecast, the question that arises is:
+What should we be worrying about in this picture?
+I’d like to mention two concerns that I’ve been focusing on lately.
+The first is the risk around inflation.
+<START>This is not a huge risk, but when I look at the Greenbook projection compared to various private-sector forecasts, the Greenbook’s inflation forecast is at the lower end of the range of the Blue Chip forecasts.<END>
+<START>Hopefully, the Greenbook will be the right forecast on this, but the inflation numbers have shown a lot of volatility in the last two years.<END>
+<START>So in light of the recent volatility, even in the core measures of inflation, I think it’s important that we look carefully at incoming data every month and keep on top of what is happening to try to get a better understanding.<END>
+The second concern has also been mentioned by a couple of you around the table, and that is the mystery of why long-term interest rates aren’t any higher than they are.
+My personal forecast a year ago would never have had long-term interest rates at the levels at which they’ve been sitting.
+If I look at various aspects of this, in trying to understand it, I can explain some things.
+For example, we know that corporations have been seeing record profit margins and, as a result, have been generating tremendous cash flow.
+That means that corporations have been able to fund a large part of their investment in inventory buildup through internal funds, as opposed to going to banks or to the markets.
+We also have seen fewer accounting scandals, which generated a lot of the uncertainty that widened credit spreads in 2002.
+<START>Those spreads have really come back down again as we’ve had relatively fewer shocks to market confidence.<END>
+<START>We’ve also seen rating agencies worldwide reduce the number of downgrades relative to upgrades;<END>
+so that has turned around, which is another good sign.
+And as Governor Olson mentioned, the bankers are very positive about current credit quality.
+But I would say again that we should recognize that we are probably at the sweet spot in that credit cycle.
+February 1-2, 2005119 of 177On the other hand, consumers have been borrowing like crazy, and they’ve been borrowing at the long end of the curve.
+In large part, this is a reflection of the fact that interest rates are historically low, and people are being very rational by locking in at long-term rates and borrowing all that they can.
+On net, though, we’ve seen that there’s been plenty of liquidity in the long market.
+So what could happen here if long rates do move up as we go forward?
+I guess I worry primarily about what that could do in terms of business investment.
+We know that there may be a narrowing in profit margins.
+And cash flow has changed to some degree, in that companies are beginning to look more to the outside for credit, especially as merger activity picks up, and that could affect the relative demand for credit from corporations.
+On the household side, we’re seeing that consumers have used these low rates to support consumption.
+They’ve done it through equity extractions as they refinance.
+They’ve also had the benefit of tremendously innovative mortgage products being offered by bankers and other lenders.
+<START>For tax reasons, people want to borrow as much of their debt against their houses as they can, and lenders have accommodated them by innovations in ARMs [adjustable-rate mortgages] where borrowers can lock in a low rate for a period on the short end of the curve.<END>
+<START>But lenders have also offered interest-only loans and mortgages with very high loan-to-value ratios to provide more credit that is eligible for tax deductions.<END>
+If interest rates rise, will consumers begin to slow their use of credit and, if so, what does that mean for consumption in the forecast?
+This is the issue I really want to focus on because, to me, consumers have been the mainstay of this whole economic cycle.
+To the extent that there is a wealth effect of housing, this could be a concern if people begin to purchase houses at a slower pace or even if housing construction stays at a high level but doesn’t grow.
+We’ve seen several private-sector forecasts of flat house prices next year.
+If suddenly the equity buildup and the net worth of households were to slow, that could have an impact for consumers.
+When we look at why the saving rate is so low today, we also have to look at the fact that the ratio of net worth to income is at record levels.
+Consumers have not had to save out of current income in order to attain the net worth goals they have set, so they’ve been applying their current February 1-2, 2005120 of 177income almost entirely to current consumption.
+<START>But if net worth begins to stabilize and consumers are not able to increase cash flow through refinancings or home equity lines, that could slow the pace of consumer spending and result in less GDP growth than in the Greenbook forecast.<END>
+Thank you.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+MR.
+GRAMLICH.
+Thank you, Mr. Chairman.
+This has been a quiet month in Lake Wobegon.
+The growth of aggregate demand has been good and the growth of output reasonably good, though we would all feel better with more growth in exports and in import-competing sectors.
+Core inflation keeps bouncing along well within at least my target range.
+<START>And I am, in general, in sympathy with those who have been arguing for NAIRU on the lower side.<END>
+<START>Our measured pace of changing policy has worked well in getting rates off the floor without seeming to hurt the expansion, and there is no apparent reason to change that policy at this meeting.<END>
+To me, the real problem is the one that I spoke about last time, and the one that many other Committee members have mentioned today in different ways
+—low national saving.
+The U.S.
+<START>national saving rate is now at a post-World War II low, the combination of steadily falling personal saving rates and the recent budget deficits.<END>
+<START>The staff thinks, and I believe President Santomero does, too, that personal saving rates will rise, and the Chairman thinks that budget deficits will fall.<END>
+I’m a bit skeptical about both claims, but we will see.
+<START>This week, the CBO added some new and sobering information on the budget deficit forecast.<END>
+Assuming that there is added spending for Iraq, that the tax cuts are extended, and that the AMT [alternative minimum tax] is indexed implies the continuation of large-scale deficits through 2015, with the debt/GDP ratio climbing back to about 45 percent by that time
+—close to as high as it was at its local peak in the early 1990s, though not at the all-time peak that was achieved back in World War II.
+We’re not careening out of control in these forecasts, but we could certainly do better in this window before the baby-boom generation starts retiring in force.
+February 1-2, 2005121 of 177Low national saving means either that investment will fall or that international borrowing must continue.
+<START>Problems with falling investment are well known, and we have discussed them often.<END>
+Problems with the continued borrowing are much less well understood.
+The staff recently wrote us a memo about adjustments to prolonged international borrowing in other countries.
+The data underlying the report indicate no instances of more than four or five years of continued borrowing on the trade account;
+the trade account is the deficit that should, and in their data almost always does, determine the ratio of international liabilities to U.S.
+GDP.
+Our trade account borrowing has already gone on three times as long as any other borrowing episode for high-income countries and, in Karen’s forecast, keeps rolling right along.
+<START>There can be both a bad and a good explanation for the phenomenon.<END>
+The bad one is the well-known codependency thesis:
+We are over-consuming and other countries are inappropriately supporting their export industry by intervening to strengthen the dollar.
+The good explanation is that other countries have populations aging even more rapidly than ours and need a good place to invest their savings
+—given our strong productivity advance, we’re the place.
+This benign explanation may well be correct, but it does have limited duration.
+When the older workers in these countries actually retire, they will start to run down their saving and pull their funds back.
+At that point, our investment rates would seem to have to fall.
+How long this international borrowing can go on is a deep dark mystery, but one thing is clear:
+As a nation, we would be better off if we could manage to save more and finance our own capital investment.
+We could do that by gradually tightening our budget while other countries expanded their economies.
+Back to monetary policy, we usually analyze it in a Taylor rule type of framework, comparing inflation and unemployment.
+We could also go back to an earlier IS/LM framework, which is appropriate when prices are stable, as I think they are at least roughly.
+<START>When and if we get my desired fiscal tightening, I’d be glad either to slide down or shift down the LM curve and move to lower funds rates as may be appropriate and necessary to keep the U.S.<END>
+economy near full employment.
+But another aspect of the quiet month in Lake Wobegon is that I see no more prospect February 1-2, 2005122 of 177of any real fiscal austerity on the horizon than I did at the last meeting.
+Hence, for one more month, I’m on the “measured pace” bandwagon.
+CHAIRMAN GREENSPAN.
+Thank you.
+Vincent.
+MR.
+REINHART.5 Thank you, Mr. Chairman.
+At least from the perspective of most investors, your policy decision today seems foreordained.
+The universal belief in the market holds that the Committee will raise its target for the federal funds rate ¼ point, to 2½ percent and issue virtually the same announcement as was released after its December 14 meeting.
+Presumably, this settled opinion results from market participants’ reading of your recent statements
+—including the minutes from the December meeting, which I can assure you did not escape the world’s attention
+<START>—as well as incoming economic data that seemed to present no obstacles to deflect the Committee from its path of continuing to remove policy accommodation.<END>
+In other words, the case for a ¼ point tightening at this meeting, which is laid out in your first exhibit, is expected by people outside this room to be compelling to you.
+In particular, the Committee may be inclined toward such action
+—what we dubbed alternative B in the Bluebook
+—if it believes that market participants have pegged the desired pace of tightening just about right.
+As can be seen in the upper left panel, the path of money market futures rates can be read as indicating the expectation of a succession of ¼ point moves until the summer, followed by a slower pace of firming that puts the funds rate at around 3¾ percent by the end of 2006, a little above the staff assumption in the Greenbook.
+<START>The staff views such a trajectory for policy as likely to be consistent with working down resource slack, which is shown in terms of the unemployment rate at the upper right, and with about steady inflation, as measured by the core PCE inflation rate shown just below.<END>
+You might find some appeal in those outcomes and seek a decision that preserves the path of expectations thought consistent with them.
+In that case, you should probably direct Michelle Smith to take the statement from your last meeting and substitute February 2 for December 14, ½ for ¼, and be done for the day.
+<START>You might, however, harbor some concerns that those favorable macro- economic outcomes are predicated upon liquidity conditions, including low long-term interest rates, that could be encouraging excessive risk-taking in a wide range of asset markets.<END>
+<START>Indicia of a relaxed attitude toward and lessened perception of risk on the part of investors may include the narrow spreads in the markets for corporate and sovereign debt (as shown in the middle left panel), as well as low levels of implied volatilities of financial prices, and high and rising home values (not shown).<END>
+But perceived excesses in financial markets have not triggered action by this Committee in the past.
+In that regard, policymakers have tended to follow the logic outlined in the middle right panel.
+To be sure, some asset prices importantly influence economic behavior.
+However, because the determinants of asset prices are difficult to know 5 The materials used by Mr. Reinhart are appended to this transcript (appendix 5).
+February 1-2, 2005123 of 177with precision, it is neither obvious that asset price bubbles can be identified in real time nor clear what policymakers should do if they were confident that some prices were misaligned.
+Moreover, there may be other instruments of policy better suited to dealing with such problems, including supervisory restraint.
+As a result, you might conclude that asset prices should influence monetary policy decisions only to the extent that they have a material effect on the outlook for the things you care about
+— output and inflation.
+Any sentiment to shade toward a firmer policy than in alternative B because of concerns about potential asset market imbalances might well be tempered by the range of policy prescriptions based solely on these macroeconomic objectives shown in the bottom panel.
+You already have moved the policy rate toward the high end of the range of standard recommendations
+—the green shaded area
+—and are anticipated in futures markets to move even higher relative to that range in the quarters to come.
+I earlier described prevailing market expectations as consistent with a string of ¼ point moves followed by a more gradual pace of tightening.
+With the aid of exhibit 2, I’d like you to consider an alternative characterization that also fits the data and that may be more appropriate if market participants have taken the word “measured” to mean regular and methodical, like a metronome.
+The key identifying assumption is listed in the upper left panel.
+In particular, suppose market participants expect you to firm ¼ point at every meeting until you stop this tightening cycle for good.
+The unknown in markets, then, is when you will end the current firming cycle.
+We can use futures quotes
+—which represent the market’s average of the possibilities of continuing to tighten and of stopping
+—to back out the probabilities attached to action at each upcoming meeting being your last.
+This interpretation of the path for the expected federal funds rate is given at the right.
+Current futures rates are consistent with a median probability that you will have halted policy firming by the September meeting.
+Such an eventuality would deliver the path for the nominal funds rate given at the middle left:
+Along that path, five more hikes (including one at this meeting) will cumulate to put the federal funds rate at 3½ percent by August.
+Assuming that inflation holds around its recent pace and that short-run measures of the equilibrium real rate don’t move, that nominal rate would accord with a real federal funds rate that is about one-half of the way up the red river of estimates of its equilibrium in the familiar Bluebook chart plotted in the bottom panel.
+Those ranges in the bottom panel also map into the seemingly eccentric shading scheme of the stopping-time distribution in the upper right.
+If you wanted the real rate to remain in the blue region
+—below the range of model-based estimates of its equilibrium
+—you should be prepared to stop tightening at this or one of the next three meetings.
+If you’re shooting for the red region of model-based estimates, then you should expect to stop this firming phase anywhere from August to December.
+But if you anticipate wanting a cushion above those model estimates
+— February 1-2, 2005124 of 177say, in the higher blue region
+—you might not stop firming until the winter or spring of 2006.
+According to the frequency distribution, it seems that investors put the probability at about two-in-three that you would be done before that.
+There are three reasons why I have walked you through this alternative explanation of futures rates.
+First, it underscores that our understanding of financial prices is sufficiently imprecise that there can be several plausible interpretations that are observationally equivalent.
+Second, if you would prefer that market participants not anticipate an unbroken string of policy moves, you could reiterate that “measured” means tightening that is carefully calibrated, not actions that are routinized and mechanical, and is consistent with a pause if that proves necessary.
+Mention of that sentiment in the minutes of this meeting may prove helpful in aligning market expectations with your own
+—as it seemed to be the case when similar notions were published previously.
+<START>Third, the current structure of futures rates is consistent with a noticeable probability mass placed on the bet that this firming cycle will soon come to a close, with the median guess being that you will be done after the August meeting.<END>
+<START>If that market expectation does not seem unreasonable, then you are going to have to come to grips relatively soon with various aspects of your statement, including the characterization of the degree of policy accommodation and the risk assessment<END>
+—the communication challenges diplomatically referred to by President Moskow.
+The next exhibit focuses on the risk assessment, with the top panel repeating the last paragraph of the statement released after your December meeting.
+Historically, this paragraph and its predecessors have been designed to provide some guidance about the future direction of interest rates.
+The statement has evolved to a point such that either of two parts of this paragraph could convey such a message.
+It can be done obliquely by describing the risks to your macroeconomic objectives (as in the sentence typed in green that is the successor to the balance-of-risks language) or it can be done more directly by stating the direction of rates and the pace with which you anticipate acting (the sentences in blue type that are the successors to the “considerable period” language of 2003).
+In both places, there is the opportunity to convey that these judgments are conditional in nature.
+Not every branch of an evolutionary tree ends in success, which is witnessed by the fact that each of you started life with an appendix.
+The equivalent to the vestigial appendix in the current statement is the first part of the paragraph.
+Its hints about the direction of rates through its characterization of the risks to your objectives have been trumped by the more explicit nature of the final two sentences.
+And the fact that the Committee has tightened five times while depicting the risks as balanced must have been read in markets as implicitly revealing that the assessment was based on a policy path you viewed as appropriate, not the assumption of an unchanged policy that was employed when the balance-of-risks formulation was introduced in 2000.
+<START>If the risk assessment, indeed, is conditioned on your expecting to do the right thing, you would presumably always choose a balanced assessment unless you February 1-2, 2005125 of 177thought you were behind the curve and expected to stay that way or thought that the possible outcomes had a decided skew.<END>
+Thus, this formulation will generally not be informative about the direction of rates.
+<START>As the time approaches when you are no longer confident there is any more policy accommodation left to remove, you will face the three choices listed in the bottom panel.<END>
+First, the Committee could get out of the business of hinting
+—either obliquely or directly
+—about its future actions.
+<START>While this has been advocated previously by some on the Committee, you would be giving up an opportunity to help to keep market interest rate expectations aligned with your own<END>
+—opportunities you took over the past 1½ years and which apparently paid off.
+<START>Even if you are not sure where rates are headed, there may be some merit in revealing your tentative assessment so as to make it less likely that investors come to a different and inappropriate conclusion.<END>
+Second, the Committee could try to revive the risk assessment.
+One way, as I suggested back in August, would be to base it on the explicit assumption of an unchanged stance of policy for the next few quarters and couch it in terms of probabilities rather than risks.
+You might find it appealing to introduce such language when potential outcomes really seem even-sided at the prevailing federal funds rate
+—a possibility not necessarily that distant in time.
+<START>Such language need not be formulaic, as history suggests that agreeing on a formula is neither a happy experience nor one that results in a durable solution.<END>
+Third, you could feel that the balance-of-risks assessment in the first part of the paragraph is no longer necessary and instead rely on the gradual evolution of the latter part to convey your sense of the future path of interest rates.
+As a governance issue, though, it will be harder to be inclusive in drafting when there is less of a structural foundation agreed upon in advance.
+These may be worries for the future which you do not feel as palpably as does your Secretary, but time is passing by.
+Your final exhibit repeats Table 1 from the Bluebook without change.
+I draw your attention to alternative B, which basically repeats the statement that you issued in December.
+CHAIRMAN GREENSPAN.
+Questions for Vincent?
+V ICE CHAIRMAN GEITHNER.
+Vincent, in exhibit 2, this is a measure of the point on the calendar where the market expects us to stop?
+MR.
+REINHART.
+To stop tightening, yes.
+February 1-2, 2005126 of 177MR. LACKER.
+Meaning it’s the point where the future path of the fed funds rate from that point on is perfectly flat.
+So it’s not the probability of when we will first pause.
+MR.
+REINHART.
+Right.
+This is an alternative explanation that says you will not pause but will stop.
+This views the expected federal funds futures curve as a weighted average of a succession of moves followed by a flat funds rate.
+MR.
+LACKER.
+I interpreted you as saying that an identifying assumption more or less built in is that we move, move, move, move, move and then stop
+—that we don’t pause and then continue moving again.
+MR.
+REINHART.
+Right.
+But I would point out that our understanding of expectations formation is such that you could also direct it to mean that you’ll do a ¼ point move every other meeting and fit the probability of those events.
+It’s just what identifying assumption you use.
+MR.
+LACKER.
+Does this use options at all?
+MR.
+REINHART.
+No, this just uses the futures rate.
+But, actually, that has been an extension we’re looking at to see what this model does imply about the distribution, the pdf [probability density function] from options prices.
+MR.
+LACKER.
+Well, with enough pdf you wouldn’t need the identifying assumption.
+MR.
+REINHART.
+Right.
+VICE CHAIRMAN GEITHNER.
+Again, I’m sorry to ask this;
+I should know the answer.
+But are you projecting forward the range of estimated equilibrium real rates?
+MR.
+REINHART.
+I’m assuming that those “rivers” just move sideways.
+VICE CHAIRMAN GEITHNER.
+That they move sideways?
+Does that make sense?
+MR.
+REINHART.
+Probably not.
+<START>A number of you have articulated over the course of this meeting reasons why they’d probably drift up over time, one of which is that as the output gap closes, you have less room to go and you presumably would have a higher real rate.<END>
+VICE CHAIRMAN GEITHNER.
+Wouldn’t that significantly alter the path in the upper panels if that were true?
+February 1-2, 2005127 of 177MR. REINHART.
+If you follow the staff forecast, the answer is “not really.” It could shift these colors over a bar or two but it would not materially influence the story.
+CHAIRMAN GREENSPAN.
+Further questions?
+MR.
+MOSKOW.
+Vincent, have you drafted a sentence to see what alternative 2 would look like on exhibit 3 using probability?
+MR.
+REINHART.
+Yes, I circulated that to the Committee back in August, I think.
+Essentially it says that the Committee judges that if the current level of the federal funds rate were to be maintained, the probability of output growth being above its sustainable pace about equals the probability that it would be below.
+<START>Also, the probability that inflation would be above that consistent with price stability is about equal to that of it being below.<END>
+That is, you essentially call out a point on the fan chart and characterize where you think the outcomes are relative to that.
+And that sentence would characterize it in terms of the next few quarters.
+It said “If the current amount of policy accommodation were maintained over the next few quarters, then the Committee assesses that….” It was stated in those terms.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+Thank you.
+I have a question, Vincent.
+My memory may not serve me well, but I recall our going through the communications process step-by-step.
+One of the reasons
+— though maybe not the only reason
+—we got into the discussion of risks for the future had to do with the fact that we had previously used a bias formulation, in part, to get consensus around the table.
+And that was thought to be information that ought to be communicated to the markets and, in fact, it was communicated, as I recall, inadvertently or advertently.
+Anyway, we ended up moving into the more formulaic approach to talking about the balance of risks.
+What is your impression about whether we really have the option to do alternative 1?
+Has this long period we’ve had of speculating on probabilities gotten us into a bind?
+Communication is a very tricky thing.
+Is this one of those cases where after we’ve done it, we can’t take it back without looking as if we’re returning to the Dark Ages of nontransparency?
+Do we really have the February 1-2, 2005128 of 177option of saying only what we did and why we it, even recognizing that the explanation of why we it would always have some forward-looking aspect to it because, of course, monetary policy works with a lag, and so forth.
+<START>did did That is, if all you did was cut out the last paragraph, it would be seen and interpreted by markets as cutting back on the degree of transparency in a retrograde step.<END>
+Is alternative 1 really something we can do?
+MR.
+REINHART.
+I would say that there are tradeoffs possible.
+But if you wanted to, you could expand your characterization of the outlook in the previous paragraph, implicitly providing some sort of forecast and, therefore, hinting at the future direction of rates.
+You could be more numeric in your characterization of the outlook, say, by releasing your central tendency surveys more frequently.
+So, there are some possibilities.
+But I think that just dropping it outright would probably not be well received.
+MS.
+MINEHAN.
+I’ve sensed from time to time that a couple of people around the table have agreed with the general premise that trying to tell the markets where policy is going
+—except when we really needed to do it, which is how I would characterize the situation in 2003 and 2004
+— isn’t something they’re necessarily comfortable with.
+I know I’m not comfortable with it.
+MR.
+REINHART.
+<START>But telling people you’re not sure of the future direction of rates is giving them information, and it may be superior to being silent about that and leaving them to form potentially inappropriate expectations.<END>
+MS.
+MINEHAN.
+Yes.
+VICE CHAIRMAN GEITHNER.
+Should we infer from your presentation that you would not change the structure of this paragraph until we reach the point where the probability of a move up equals the probability of a move down?
+Would you say that the point at which the desirable path of the fed funds rate is flat is the optimal time for evolution or would it be ahead of that point?
+MR.
+REINHART.
+I think there are going to be a couple of speed bumps in the process along the way.
+The first is earlier in the rationale portion of the paragraph in your characterization of the degree of policy accommodation.
+One could imagine a succession of steps, as you continue to move the funds rate up, that will get you to a point where you can no longer confidently assert that February 1-2, 2005129 of 177policy is accommodative.
+You’d have to make therefore that a qualified statement rather than an explicit statement.
+VICE CHAIRMAN GEITHNER.
+You’d say that would be an obvious intermediate change.
+MR.
+REINHART.
+That’s the first speed bump that you think about if you try to walk through the changes that might need to be made in the statement going forward given, say, the Greenbook outlook.
+If you wanted to introduce new language, an opportunity to do so would come when you’re just not quite sure of the direction of rates
+—when the funds rate is in a zone where the Committee can no longer be confident that it can remove policy accommodation at a measured pace.
+When you reach the point where that is no longer true, you’re going to have to drop that sentence.
+You’re going to have to ask the question:
+Should we try to change the risk assessment or try to write another sentence that characterizes the Committee’s view that it is not sure of the future direction of rates?
+VICE CHAIRMAN GEITHNER.
+I have one more question.
+Should one also infer from your presentation that you think the optimal path of monetary policy in the period ahead is to get behind us all the moves necessary to get the funds rate closer to the midpoint of the range of its equilibrium?
+Are you saying that we should steadily get those moves done, so we get more quickly to the point where one could expect a flatter path going forward, or are you not suggesting that?
+MR.
+REINHART.
+I don’t think there was advocacy in the two different interpretations of the federal funds curve, only a suggestion that if you are not of the view that the path will involve a ¼ point move at every meeting, it would be helpful to define “measured” once again.
+I say that because there is a real risk that market participants, having extrapolated from six policy firmings by the end of today, are going to say that you are on a path to do so.
+Indeed, it may have come to the point where they wouldn’t expect a pause unless you signaled a pause
+—that is, that you wouldn’t feel that you could keep policy unchanged with the existing statement.
+VICE CHAIRMAN GEITHNER.
+And yet if you repeat that language in the minutes again, as you suggested, reasonable people might interpret that as a conscious decision to try to signal in February 1-2, 2005130 of 177some sense that a pause is approaching.
+That’s a little awkward to justify, given that we’re in a period of time where I think the probability the market is attributing to the next three moves is higher than it has been over the last six to nine months.
+MR.
+REINHART.
+But you could make it a symmetric statement.
+You could say that the measured pace language is not inconsistent with a pause in the policy of 25 basis point moves at each meeting nor with a larger move.
+There was at least one member who indicated a sentiment for a firmer policy.
+CHAIRMAN GREENSPAN.
+We originally raised the issue of accommodation when we hit 1.75 on the funds rate on the way down.
+At what point do we begin to get responses?
+I haven’t heard anybody raise the question as to a seeming asymmetry in our judgment of where accommodation is, unless it’s perceived as a significantly moving target.
+<START>One could argue that up to now there is no necessary inconsistency;<END>
+one answer is that we forgot to mention that our policy was accommodative earlier on the way down.
+But we have to have some way of approaching this question because it’s going to come up with the first speed bump that you were referring to.
+I think we have to address it, and hopefully we’ll do so somewhat in advance.
+Further questions for Vincent?
+If not, let me get started.
+I’ll be very short because I don’t have very much more to say that I haven’t said previously.
+There is one issue, however, that I think does require continuous awareness.
+And that is that, as many of you have mentioned, the chance of our getting through to the end of 2006 with the economic outcome having the benign aspects of the forecast that we see has to have a very low probability.
+There’s something built in to both our econometric structures and, indeed, in the way markets function, that is giving us this continuous, smooth path coming off of Governor Ferguson’s sweet spot.
+The reason we get that is, in part, because as an economy continues to grow in a seemingly balanced way, the rational projection includes an increased probability that growth will continue that way in the subsequent six months.
+That is, if you’re in the early stages of an economic recovery, you’re never quite sure that in fact you’re in a recovery.
+So your estimate of the chance February 1-2, 2005131 of 177that the next six months will continue to be favorable is lower than it is when you’re much further into the cycle.
+The latter point is when you begin to have a projection that the recovery will continue.
+You think of it in terms of:
+Well, economic activity has been going up for the last two years, or three or four years, and what is the probability that it will continue to do so?
+And that gets built in to the decisionmaking process.
+You begin to see a quickening of capital investment.
+You see orders that begin to be a little forward-looking.
+<START>The degree of confidence continues to be buoyed, stock markets rise, and yield spreads fall to exceptionally low levels.<END>
+The problem with that scenario is twofold:
+One, history suggests that it will come to an end;
+and, two, arithmetic in a way produces an end, largely because, when you get risk premiums down at very low levels, they can only go in one direction.
+It is the inverse of where you can go when you’re at the top of the mountain.
+So this will break down at some point.
+Something is going to happen because it always has.
+And human nature never seems to have veered very far from this type of model.
+Since the early 1980s, we seem to have been able to take these adjustments very smoothly.
+The imbalances occur, but there’s sufficient flexibility in the system that the corrections seem to occur in a manner which essentially, at least in the past 20 years, has given us a business cycle of extraordinarily shallow dimension.
+There’s no question that it’s not only the experience of this most recent period that is driving risk premiums down but also the fact that nothing material has happened in the past 20 years.
+<START>In other words, yes, stock prices have fallen, and yes, interest rates have gone up, but they’ve always reversed.<END>
+And over the longer run, the rates of return in the past 20 years have been perceived as quite beneficent.
+So, what concerns me about the outlook is that while I can’t give you a better alternative than the Greenbook forecast
+—because that is, indeed, the presumed most likely outcome
+—it has built in to it the seeds of its own imbalances, and we don’t know where they are.
+I’m not even talking about exogenous shocks.
+<START>I’m talking about an endogenous system that creates a problem because human nature is such that people rationally tend to become increasingly confident that February 1-2, 2005132 of 177stability will continue the longer stability is what they have perceived.<END>
+We can’t get that into our econometric models because there isn’t an endogenous or even exogenous variable that would essentially be “human nature,” and yet we know it’s going to happen.
+So, we have to be careful because something is going to go wrong here, and I think the most probable thing is that we’re underestimating the potential inflation pickup.
+I’m not saying that the probability is for an inflation pickup;
+I’m just saying that our forecast of the probability of a pickup is too low.
+And that will change the dynamics of this whole situation.
+The sweet spot will turn sour.
+And until then, I suggest that we just sit around and enjoy what we have.
+[Laughter] It’s not going to get any better and it’s not going to continue indefinitely.
+So, my bottom line conclusion is what everyone around this table, I presume, prefer
+would— namely, another 25 basis points on the funds rate and the same statement except for one word.
+I think when we look back, we will find that what we have been able to do
+—and are still able to do
+— really has been quite successful.
+But that will stop.
+And when it stops, we’re going to have a lot of the problems we’ve just been discussing with regard to how the statement should be modified.
+I suggest to you that when it stops, our ability to forecast what’s going to happen next will fall very dramatically, because we’re not going to anticipate the stop.
+<START>I was looking at the weak figures in January, and they were sort of building up.<END>
+So I was saying to myself over the last couple of weeks that there’s something a little disturbing about the numbers that are coming in.
+Now that has stopped.
+We are beginning to get countervailing positive forces again.
+<START>Presumably, we will look back at January as something of a pause, with retail sales not doing all that well, motor vehicle sales falling, and the purchasing managers’ data in New York, Philadelphia, and for the country as a whole generally starting to look a bit less formidable.<END>
+In other words, there’s been the feel of an unreal significant slowdown and change.
+But that has been the way this whole cycle has evolved.
+It has had a pattern of pause/un-pause, pause/un-pause;
+it doesn’t go flat.
+And this is the process by which the recovery has been moving forward.
+At some point, there’s going to be a pause/un-pause, pause, pause, pause, pause, and then we’ll know we’re in the February 1-2, 2005133 of 177soup.
+Something will happen.
+So, I merely put forward that very tightly analytical
+—[laughter]
+— empirical model of the outlook and make the recommendation I’ve been making for quite a while, namely, an increase in the funds rate of 25 basis points.
+And, in this case, the statement I’m proposing is literally almost wholly unchanged from the previous statement.
+Comments?
+President Guynn.
+MR.
+GUYNN.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+Governor Kohn.
+MR.
+KOHN.
+I support the recommendation.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I support the recommendation also.
+CHAIRMAN GREENSPAN.
+President Lacker.
+MR.
+LACKER.
+I do, as well.
+MS.
+PIANALTO.
+I support the recommendation.
+MR.
+SANTOMERO.
+I support the recommendation.
+MR.
+HOENIG.
+I support it.
+MS.
+YELLEN.
+I support your recommendation.
+MR.
+MOSKOW.
+I support your recommendation, but I do want to make a couple of brief comments.
+While we’re sitting around enjoying this, as you put it, I think it would be helpful to flesh out these three alternatives
+—probably within the Bluebook.
+I think that would be the appropriate way to start looking at this.
+CHAIRMAN GREENSPAN.
+I’ve been impressed with what Vincent has been doing here;
+I think this has been very helpful.
+<START>And I think it’s a useful way of coming at the problem<END>
+— anticipating inevitable changes and being sufficiently ahead of the curve so that we can all come to an agreement as to what we will do, when we have to do it, because we may not have all that much lead time.
+February 1-2, 2005134 of 177MR. MOSKOW.
+So, fleshing them out in the Bluebook would be my suggestion.
+Also, with regard to the Microsoft dividend, I do want to assure Governor Ferguson that we’re hoping to move it to Michigan.
+[Laughter] MR. STERN.
+I support the recommendation.
+MR.
+POOLE.
+I support the recommendation and the reasoning.
+[Laughter] MS. HOLCOMB.
+I support the recommendation.
+MR.
+BERNANKE.
+I support the recommendation, and I promise to try to be happy.
+[Laughter] MR. OLSON.
+I support the recommendation and I am happy.
+[Laughter] MS. BIES.
+I support your recommendation.
+MR.
+FERGUSON.
+I support your recommendation, but I must say you leave us all feeling like a frog in water
+—[laughter]
+—with the temperature of the water gradually rising.
+The water gets hotter but it’s not so hot that it’s boiling.
+You have to let us know when it really starts to get too hot.
+CHAIRMAN GREENSPAN.
+I would say that that econometric model rivals the one that the staff has built up over the years!
+MR.
+GRAMLICH.
+I support your recommendation.
+VICE CHAIRMAN GEITHNER.
+I support your recommendation.
+MS.
+DANKER.
+I’ll read the directive and the risk assessment language from page 29 of the Bluebook.
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+<START>To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with increasing the federal funds rate to an average of around 2½ percent.” “The Committee perceives the upside and downside risks to the attainment of both sustainable growth and price stability for the next few quarters to be roughly equal.<END>
+<START>With underlying inflation expected to be relatively low, the Committee believes that policy accommodation can be removed at a pace that is likely to be February 1-2, 2005135 of 177measured.<END>
+Nonetheless, the Committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability.” CHAIRMAN GREENSPAN.
+Call the roll, please.
+MS.
+DANKER.
+Chairman Greenspan Yes Vice Chairman Geithner Yes Governor Bernanke Yes Governor Bies Yes Governor Ferguson Yes Governor Gramlich Yes President Guynn Yes Governor Kohn Yes President Moskow Yes Governor Olson Yes President Santomero Yes President Stern Yes CHAIRMAN GREENSPAN.
+<START>Before we close, Vincent has a few remarks he’d like to make.<END>
+MR.
+REINHART.
+Over the intermeeting period, I surveyed you about whether the summary of your economic projections should be expedited
+—that is, released next week rather than three weeks later when the Chairman delivers the Monetary Policy Report in testimony to the Congress.
+My experience in surveying you has been that if I ask the 19 of you “What is the color of an orange?” I couldn’t be sure of getting a majority on a single answer.
+[Laughter] This most recent survey was no exception.
+Almost as many of you strongly endorsed an expedited release of your projections as strongly opposed it.
+An equal number of you endorsed it as opposed it, and there were two lonely people who were indifferent.
+[Laughter] Thus, since expediting the release of the forecast is a decision that cannot be reversed, it doesn’t seem appropriate to move forward with a discussion of it today.
+<START>But let me add that one argument in favor of expediting the release of the forecast seems particularly pertinent at this time:<END>
+<START>There’s a risk that if those forecasts are particularly stale when the time comes for the release of the Monetary Policy Report, it will be harder to convey February 1-2, 2005136 of 177a consistent message to the public.<END>
+This is pertinent now because the employment report will be released this Friday, raising the possibility that material changes in your economic projections will be necessary.
+It seems appropriate, then, to give you a little more time than usual to revise your projections.
+So I would ask that you get your final forecast to Dave Stockton by the close of business next Monday.
+MS.
+MINEHAN.
+We get an extra day.
+MR.
+REINHART.
+You get the weekend.
+Feel free to use it all!
+CHAIRMAN GREENSPAN.
+The next meeting of this Committee is March 22.
+<START>Before we close this meeting, let’s take a brief recess while the Federal Reserve Board deliberates on the requests we have for discount rate changes.<END>
+We shall return.
+[Recess] CHAIRMAN GREENSPAN.
+I wish to announce that in record time the Federal Reserve Board acted expeditiously to change the discount rate, and you all know the direction and the amount.
+As a consequence, I now adjourn this meeting and suggest that we go to lunch.
+END OF MEETING
+INSTANCE OF DISAGREEMENT: 49

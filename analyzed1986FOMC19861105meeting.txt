@@ -1,0 +1,1376 @@
+Passage number 1.
+Meeting of the Federal Open Market CommitteeNovember 5, 1986A meeting of the Federal Open Market Committee was held inthe offices of the Board of Governors of the Federal Reserve System inWashington, D. C., on Wednesday, November 5, 1986, at 9:00 a.m.PRESENT: Mr. Volcker, ChairmanMr. Corrigan, Vice Chairman 1/Mr. AngellMr. GuffeyMr. HellerMrs. HornMr. JohnsonMr. MelzerMr. MorrisMr. RiceMs. SegerMessrs. Boehne, Boykin, Keehn, and Stern, AlternateMembers of the Federal Open Market CommitteeMessrs. Black, Forrestal, and Parry, Presidents of the FederalReserve Banks of Richmond, Atlanta, and San Francisco,respectivelyMr. Bernard, Assistant SecretaryMr. Bradfield, General CounselMr. Truman, Economist (International)Messrs. Balbach, J. Davis, R. Davis, T. Davis,Kohn, Ms. Munnell, Messrs. Prell and Siegman,Associate EconomistsMr. Sternlight, Manager for Domestic Operations, SystemOpen Market AccountMr. Cross, Manager for Foreign Operations, SystemOpen Market Account1/ Entered the meeting after action to approve minutes for meetingof September 23, 1986.11/5/86Mr. Coyne, Assistant to the Board, Board of GovernorsMr. Roberts, Assistant to the Chairman, Board of GovernorsMr. Gemmill, Staff Adviser, Division of InternationalFinance, Board of GovernorsMrs. Loney, Economist, Office of the Staff Director forMonetary and Financial Policy, Board of GovernorsMessrs. Simpson and Slifman, Deputy Associate Directors,Division of Research and Statistics, Board of GovernorsMrs. Low, Open Market Secretariat Assistant,Board of GovernorsMessrs. Broaddus, Rolnick, Rosenblum, and Ms. Tschinkel,Senior Vice Presidents, Federal Reserve Banks ofRichmond, Minneapolis, Dallas, and Atlanta,respectivelyMr. Beebe and Ms. Clarkin, Vice Presidents, Federal ReserveBanks of San Francisco and New York, respectivelyMs. Gonczy, Assistant Vice President, Federal Reserve Bankof ChicagoMr.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. It is simply a list of attendees at a meeting.
+
+
+Passage number 2.
+ Meyer, Research Officer, Federal Reserve Bank ofPhiladelphiaTranscript of Federal Open Market Committee Meeting ofNovember 5, 1986MR. CROSS. [Statement--see Appendix.] And I might say thatthis morning, following the elections, it had been expected that aDemocratic victory would lead to some weakness in the dollar. Therewas a very temporary decline in the Far East with the dollar movingdown from 2.06 to 2.04 [against the mark] and comparably against theyen. But that lasted only a few hours and in the evening before Tokyowas closing the dollar was beginning to move back up. Subsequently,in European markets, it has moved back to about 2.06-3/4. So it isnow at a higher level than it was yesterday.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is simply stating the movements of the dollar following the elections.
+
+
+Passage number 3.
+CHAIRMAN VOLCKER. Are there any questions or comments on theswap extensions.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is simply asking if there are any questions or comments on the swap extensions. There is no contention or disagreement evident in this statement.
+
+
+Passage number 4.
+MR. BOEHNE. Is there any more to say about the so-calledagreement between the Americans and the Japanese--particularly what itmight portend for the future.
+Does the passage contain contention or disagreement? Response from the model: No. This passage is a straightforward question and does not express any contention or disagreement.
+
+
+Passage number 5.
+CHAIRMAN VOLCKER. Well, what it may portend for the futureis anybody's guess. I don't know anything more about it. Mr. Bakerhas been looking for some reason to say something nice. And he had itwith the discount rate reduction and this report that the Japanesemight reduce taxes sometime in the future. But they said it hasn'tgot any operational significance in terms of intervention in anydirect sense. I think it is quite consistent with intervening ifthings perhaps became extreme in either direction, but it is nocommitment to undertake anything.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply providing their opinion and analysis of the situation described.
+
+
+Passage number 6.
+MR. BOEHNE.
+Does the passage contain contention or disagreement? Response from the model: It is impossible to determine whether there is contention or disagreement in the passage without further context.
+
+
+Passage number 7.
+ The view on Germany is essentially as it hasbeen and--CHAIRMAN VOLCKER. Germany. I think the situation is quitedifferent in Germany in the very short run. They have been growingpretty fast. I saw Mr. Poehl earlier this week and he's still armedwith all these numbers, which I--. You can argue that 3 percent istoo modest an objective for Germany. But they can make pretty goodprogress if they are growing at 3 percent--which in their view is goodenough--with 5 to 6 percent domestic demand and a minus on theexternal side, which of course is what people want. And right nowthey can show it at least for two quarters. Their monetary growth isstill exceeding their targets by a significant amount, which doesn'tmake them very happy. They are sitting there worried about how theyare going to explain this. They have to announce new targets inDecember and they say: Do we rebase or do we [unintelligible]. It'sthe same type of problem that we have.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is simply providing information and observations about the situation in Germany.
+
+
+Passage number 8.
+VICE CHAIRMAN CORRIGAN. You're in a position to give a lotof advice on that subject.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is stating that the person being addressed is knowledgeable and capable of offering advice on a particular subject.
+
+
+Passage number 9.
+CHAIRMAN VOLCKER. I did. His charts for the first time--heshowed me charts [unintelligible] just like the ones that we have, butfor two years [changing] the base. One chart has a very expandedscale on the vertical axis, just the way some of ours do. The chartlooks at the last two years and it has these little wedges on it andit shows the actual movement in the monetary base. And the actualmovement for two years in a row now is way above the wedges. While11/5/86they've been closer than we have, their scale was so expanded that itlooked pretty bad.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is describing charts shown to them and their observations about the scale and movement of the monetary base.
+
+
+Passage number 10.
+ It was just like the kind of thing that you--MR. MORRIS.
+Does the passage contain contention or disagreement? Response from the model: There is not enough information to determine if there is contention or disagreement in the passage. The provided sentence does not contain enough context to suggest any form of disagreement or contention.
+
+
+Passage number 11.
+ Well, they have real wages growing at about 5percent in Germany--CHAIRMAN VOLCKER. They did this year.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The statement simply presents a fact about the growth of real wages in Germany.
+
+
+Passage number 12.
+MR. MORRIS. --at a time when the unemployment rate is almost9 percent. I would think that if we had that situation we might be alittle nervous about expanding too much as well.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Morris simply expresses a thought based on a specific situation (high unemployment rate) and suggests that it might make people hesitant to expand too much.
+
+
+Passage number 13.
+MR. TRUMAN. But the wages were really set, basically, beforethe prices went down. And so real wages on this [unintelligible]economy. That's one of the questions: whether or how long thisrecovery is going to be sustained. The basic wage bargains were setbefore they had experienced the effects of lower oil prices and[unintelligible] and the exchange rate change and prices came down.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply stating a fact about the timing of wage negotiations and how they were set before experiencing the effects of lower oil prices and exchange rate changes. There is no argument or disagreement present.
+
+
+Passage number 14.
+MR. MORRIS. That's true. But they still settled for the 5percent wage increase at a time when the unemployment rate was veryhigh.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply states a fact about the settlement for a 5% wage increase during a high unemployment rate.
+
+
+Passage number 15.
+ I should think that--MR. TRUMAN. Some of that was deliberate, too.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is expressing their own opinion or belief without conflicting statements or arguments from others.
+
+
+Passage number 16.
+ Last fall, infact, the government was talking of wages as a way to--CHAIRMAN VOLCKER. Their GNP deflator--that's domesticprices--is running at about a 3 percent annual rate of increase. It'slike ours running higher than the CPI; there is an even sharperdiscrepancy than in this country. There is concern over what mighthappen as they get into next year. I guess their Economic Institute'sprojection has raised some question about it. A 3 percent growth nextyear--which is what they're projecting--depending upon what happenedlast quarter and what happens this quarter does not imply a 3 percentrate of growth from fourth quarter to fourth quarter next year butsignificantly less than that.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 17.
+MR. HELLER. But the labor markets in Germany are very tightright now in skilled workers. They just can't hire anybody.
+Does the passage contain contention or disagreement? Response from the model: No. The passage states a fact, that labor markets in Germany are currently experiencing a shortage of skilled workers and are unable to hire anyone. There is no indication of contention or disagreement in the statement.
+
+
+Passage number 18.
+ Openingsare--CHAIRMAN VOLCKER. But their unemployment is in the north.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. It simply states two separate pieces of information - the existence of job openings and the high unemployment rate in the north.
+
+
+Passage number 19.
+That's what they keep saying, it's a regional--MR. HELLER. Also a sectoral unemployment.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is simply acknowledging a statement or argument made by someone else, without expressing any opposing views or disagreement.
+
+
+Passage number 20.
+MR. MORRIS. So they're like the British in that sense.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 21.
+MR. HELLER. And because they have the enormous terms oftrade gains in the external sector they [can] pay the high wage thisyear without hurting themselves domestically in making it show on theinflation front. But I think the difficult situation will be nextyear when the terms of trade don't improve any more and people havebecome accustomed to big wage increases.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The passage does not contain any disagreement or contention. It is a statement made by Mr. Heller expressing a concern about a future situation. There are no contrasting opinions or arguments presented.
+
+
+Passage number 22.
+MR. MORRIS. Exactly.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Morris simply agrees with something or confirms something, without any contradictory or opposing statements.
+
+
+Passage number 23.
+11/5/86MR. HELLER. But if the weakness should show through, I thinkthey're fully prepared to move forward to 1987 the tax cuts that theyare now scheduling for 1988--although those deadlines are passing veryrapidly right now.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is simply stating that if a weakness should be apparent, they are prepared to move forward with the tax cuts scheduled for 1988.
+
+
+Passage number 24.
+CHAIRMAN VOLCKER.
+Does the passage contain contention or disagreement? Response from the model: No. The statement "CHAIRMAN VOLCKER" does not suggest any contention or disagreement. It simply identifies a person without any additional context provided.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 25.
+ Well, they won't do anything before theelection and part of the--MR. HELLER.
+Does the passage contain contention or disagreement? Response from the model: Yes. The passage suggests that there will not be any action taken before the election, indicating a disagreement or contention regarding the timing of certain actions.
+
+
+Passage number 26.
+ Not before the election, but--CHAIRMAN VOLCKER. Part of the problem is that the oppositionparty adopts an American view to economic policy, or vice-versa, whichis very embarrassing to the government. So if they did anything theywould appear to be adopting the opposition's economic view; and forunderstandable reasons they don't want to do that. Actually, theBundesbank wants to take some technical actions that appear astightening and wouldn't really be--I don't understand it all. Theywant to get rid of rediscount quotas, which they think are getting outof line, and substitute some other way of putting the money in themarket. But I'm afraid if they do that it will be interpreted as atightening.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is simply explaining the situation and expressing their own lack of understanding.
+
+
+Passage number 27.
+MS. SEGER. Is it true that they were willing to cut theirdiscount rate in August but the word got out so they were upset.There was a little article in today's paper to that effect.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain contention or disagreement. It only states a piece of information without conflicting views or opposing opinions.
+
+
+Passage number 28.
+MR. JOHNSON. Well, the words I've heard are literally thatthere was more pressure at one point to raise the discount ratebecause of the growth of the aggregates.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It is a statement made by Mr. Johnson about certain words or information he has heard.
+
+
+Passage number 29.
+CHAIRMAN VOLCKER. I think that was probably a little later.My impression is that earlier [Mr. Poehl] maneuvered so as to bepotentially in a position to reduce the discount rate in earlySeptember, say, which is what he was talking about. But then theaggregates got high and there was all the public discussion and soforth, and the GNP numbers came in as strong as they expected. Allthose things together made a discount rate cut less likely rather thanmore likely as September actually arrived.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The author is simply stating their impression and explaining the factors that made a discount rate cut less likely.
+
+
+Passage number 30.
+MR. FORRESTAL. Can you give us any more information aboutthe Mexican situation.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply asking for more information about the Mexican situation.
+
+
+Passage number 31.
+ Specifically, is it in difficulty or--CHAIRMAN VOLCKER. Well, that's hard to tell. It's a bigsubject. Why don't we have a discussion about Mexico after themeeting. Are there any other questions about the market. We do havethis question of routinely extending the swap lines.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. It is simply suggesting having a discussion about Mexico after the meeting and addressing any other questions about the market, as well as mentioning the question of routinely extending the swap lines.
+
+
+Passage number 32.
+VICE CHAIRMAN CORRIGAN. I would move it.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not provide enough information to determine whether there is contention or disagreement.
+
+
+Passage number 33.
+MS. SEGER. I second.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The phrase "I second" indicates agreement or support.
+
+
+Passage number 34.
+CHAIRMAN VOLCKER. Any discussion of that. If not, you areauthorized to routinely roll over swap lines, Mr. Cross.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not show contention or disagreement. It is a statement giving authorization for routine action.
+
+
+Passage number 35.
+CHAIRMAN VOLCKER. Mr. Sternlight.
+Does the passage contain contention or disagreement? Response from the model: The given passage does not provide enough context to determine whether there is contention or disagreement.
+
+
+Passage number 36.
+MR. STERNLIGHT. [Statement--see Appendix.
+Does the passage contain contention or disagreement? Response from the model: No. The passage mentions a statement made by Mr. Sternlight but does not indicate any contention or disagreement.
+
+
+Passage number 37.
+]11/5/86CHAIRMAN VOLCKER. Questions or comments.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. It is simply stating that questions or comments are welcome.
+
+
+Passage number 38.
+MR. MELZER. Peter, do you have any thoughts on the declinein the demand for excess reserves.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It is simply asking for Peter's thoughts on the decline in the demand for excess reserves.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 39.
+MR. STERNLIGHT. We were steadily moving up our allowance forexcess reserves. We had moved the standard allowance up to $900million in the first few months of this year. Since about March orApril we have tended to fall a trifle shy of that $900 million level.And now we think that maybe the demand was augmented somewhat in theearly months of this year by some seasonal factors. So, I'm notconvinced of any basic decline in the demand for excess reserves. Ithink it has probably leveled off and what we are seeing now is just alittle resistance for seasonal reasons. We will have to be watchingcarefully as we get toward the winter months again to see whether weneed to review that and go back to something like the $900 millionlevel.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. Mr. Sternlight believes that the demand for excess reserves has not declined, but rather leveled off and there is just temporary resistance due to seasonal factors. However, someone else might believe that there is a decline in the demand for excess reserves.
+
+
+Passage number 40.
+CHAIRMAN VOLCKER. If there are no other observations, wehave to ratify the transactions.
+Does the passage contain contention or disagreement? Response from the model: No. The statement does not present any disagreement or contention. It simply states that if there are no other observations, the transactions need to be ratified.
+
+
+Passage number 41.
+MR. MORRIS. So moved.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The phrase "So moved" indicates agreement and support for a motion, rather than contention or disagreement.
+
+
+Passage number 42.
+MR. JOHNSON. I second.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage only gives a statement of agreement, as Mr. Johnson is seconding something.
+
+
+Passage number 43.
+CHAIRMAN VOLCKER. Any objections. Mr. Prell will clarifythe economic outlook.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The statement is a simple request for objections, followed by an invitation for Mr. Prell to provide clarification on the economic outlook.
+
+
+Passage number 44.
+MR. PRELL. He will attempt to. Thank you, Mr. Chairman.[Statement--see Appendix.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage.
+
+
+Passage number 45.
+]MR. BOEHNE. I wonder if you could elaborate further on yourdiscussion concerning the recent increase in import prices--but interms of how you see that improving our trade balance and how you seeit impacting the domestic price level.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 46.
+MS. HORN. I would like to piggy-back on that and ask: How dothey come through in the CPI. Do you have an estimate or rule ofthumb that you use about what proportion of the CPI is import pricesand so on.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It is a request for information and clarification.
+
+
+Passage number 47.
+MR. PRELL. Well, let me just say a couple of words, and Iknow Ted Truman will want to address the broader issue. The moreinteresting recent data on import prices were the BLS figures thatwere released just last week. They showed a substantial increase inthe prices of a number of commodity groups--something on the order ofa 12 or 13 percent annual rate of increase. On the consumer priceside, it's very hard to trace these changes in import prices throughto what is happening at the retail level. It's apparent that some ofthose groups that would seem to have relatively large importcomponents, say, apparel and automobiles, are showing relativestrength in terms of consumer price movements. But it's very hard topin this down. Let me let Ted say something about the broaderanalytical issue on the pass-through of that sort.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply providing information and observations about recent data on import prices and consumer prices.
+
+
+Passage number 48.
+MR. TRUMAN. On the consumer price level there are threechannels: the direct impact from higher prices, the indirect effectsof competing goods, and then some allowance for aggregate demand11/5/86effects. We used to say that the rule of thumb was that somethinglike a 10 percent decline in the dollar on the G-10 index would giveyou, after three years, something like a 1-1/2 percent increase in thelevel of the CPI. But the work that we have looked at recentlysuggests that it may be a little less than that--perhaps something inthe 1 to 1-1/2 percent range. One of the reasons it is less relatesto the same phenomenon that we have debates about--what is the rightindex. The prices of some imports--especially to the extent that theyare imports from countries against which the dollar is not falling--will not be rising as rapidly as the others. It is through thatdifferential effect, however, that you are essentially going to changethe distribution of trade. As far as the general question about[prices] feeding through, ultimately you have to get some prices up inorder to get some consumers or importers to change the way they aredoing business. And in that sense there is both good news and badnews in the price increases that now seem to be coming along. Thegood news is certainly that the process that should lead the decision-makers to look elsewhere--maybe at home--to satisfy their needs isstarting. So far there is certainly some evidence of slowing in therate of growth in the volume of imports. I might also add one smallfootnote on the BIS figures that came out on Friday that Mike referredto: the revisions show a higher increase in import prices than thenumbers that were incorporated in the GNP figures that were releasedearlier in the month. That would suggest that for a given value ofimports you would get less quantity, ceteris paribus.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It primarily contains a discussion of various factors related to consumer price levels and their impact on the economy.
+
+
+Passage number 49.
+MR. HELLER. In the Greenbook data in that first table, I-7,you have some amazingly good news that you didn't even refer to in theoral presentation or the written material, and that is a 0.4 increasein the GNP deflator for the fourth quarter of 1986--unless it's atypo. Would you tell me about this.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 50.
+MR. PRELL. It's 0.7. This is one of those quarters in whichthe movements in imports and import prices do something very exotic toGNP prices and, particularly, the deflator. As you can see, the thirdquarter was 3.6 percent. It was above the recent trend and [thefourth-quarter number] is essentially offsetting that, given thegyrations of imports and the effects of changes in the relativeimportance of oil prices.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 51.
+MR. HELLER.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage as it consists only of the name "MR. HELLER" with no surrounding context or statements to analyze.
+
+
+Passage number 52.
+ But you just said you expect import prices to goup and--MR. PRELL. All things equal, rising import prices drive downGNP price measures in the short run because imports are subtracted.That is one of the recurring novelties. I think if you look at thefixed weight measures we are getting some of this showing through.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not present any contention or disagreement. It is providing an explanation of how rising import prices can affect GNP price measures in the short run.
+
+
+Passage number 53.
+MR. HELLER.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage does not provide any indication of contention or disagreement. It simply mentions the name "Mr. Heller," which does not suggest any conflicting ideas or opinions.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 54.
+ Too--MR. PRELL. But it's smaller in effect there.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. The statement from Mr. Prell suggests disagreement or contradiction to a previous statement.
+
+
+Passage number 55.
+MR. PARRY. There are two effects. It's the change inweights and then the change in prices.SPEAKER(.). One question about the near term: I noticed thatyou have a fair runoff in farm inventories and also an increase ingovernment. Is that an offset. Is there a CCC thing going on there.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any clear contention or disagreement. It consists of two individuals discussing the effects of changes in weights and prices, and one person asking a question about farm inventories and government increase without expressing disagreement.
+
+
+Passage number 56.
+11/5/86MR. PRELL. Let me check. Yes. We have a $4-1/2 billionincrease in CCC inventories. That's roughly the range we have beenseeing the last couple of quarters, so there is no gyration in that.Basically, it's something that goes through from our overall outputestimates.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker simply states a fact about the increase in CCC inventories and mentions that it is consistent with previous quarters. There is no indication of any disagreement or contention.
+
+
+Passage number 57.
+MR. PARRY. Well, that should show up in government spendingat the same time. It didn't last quarter, I don't think. Governmentspending last quarter actually declined very substantially. The rateof growth in the fourth quarter was up, so maybe it just got swamped.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Parry is simply stating a fact about government spending.
+
+
+Passage number 58.
+MR. PRELL. Defense spending in the third quarter was flatand we have a noticeable uptick based on what we would perceive to bethe deliveries. Obviously, there is some very erratic timing; someprocurement items show up or don't show up in any given time period.
+Does the passage contain contention or disagreement? Response from the model: No. The passage states a fact about defense spending in the third quarter and acknowledges the erratic timing of procurement items. There is no contention or disagreement expressed.
+
+
+Passage number 59.
+MR. PARRY. Are there any indicators that support the slowingin state and local spending to that extent.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+The passage does not provide any indicators or evidence that support the claim about the slowing in state and local spending. It simply states the question asked by Mr. Parry without providing any conflicting or opposing viewpoints.
+
+
+Passage number 60.
+MR. PRELL. We don't really have much to go on there. Thereis some elusiveness in tracing the data that we do see to the BEA'stranslation. We can track what is published for construction put-in-place in the state and local sector, but BEA does considerablemassaging of those data in estimating the structures component ofstate and local expenditures. Basically, in terms of the overallbudgetary situation, we just don't see the likelihood that that kindof growth can be sustained. In fact, we have been averaging somethinglike a 45 percent annual rate of growth in state and localconstruction over the past two quarters; it has really jumped up veryrapidly. So, we are looking for that to level off quite a bit.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply describing the challenges and limitations in tracking and estimating data for state and local construction expenditures. They also mention the rapid increase in growth and their expectation for it to level off. There is no conflicting opinion or disagreement.
+
+
+Passage number 61.
+MS. SEGER. Would you answer a couple of questions about thedistribution of activity in 1987. Specifically, for producers durableequipment you have a rather significant pickup between the increase infirst quarter of next year and the remaining portion of the year.From your general comments I am trying to figure out why you wouldhave it picking up that much.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply asking for clarification and trying to understand the reason behind a significant increase in activity.
+
+
+Passage number 62.
+MR. PRELL. Well, we have [unintelligible] this tax effectbuilt in. It's rather small but when you annualize these things theybegin to look bigger. In effect, we have a small payback on theequipment side in the first quarter of next year because we areassuming that they will succeed in accelerating some of theirpurchases into this quarter and thus capture the more liberaldepreciation allowances.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Prell is explaining a small payback on the equipment side in the first quarter of next year based on assumptions about accelerated purchases and depreciation allowances.
+
+
+Passage number 63.
+MS. SEGER. So you don't see a negative tax reform impact,then, beyond the first quarter.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It is a question asking for clarification or confirmation of a statement made.
+
+
+Passage number 64.
+MR. PRELL. We perceive that there is some increase in thecost of capital. The tax law changes, if nothing else were changingthe outlook, would be tending to depress capital spending. But all theother considerations--including the fact that, as we perceive it, realinterest rates have declined considerably over the past year or so andthere is a long lag in the effects of that on spending--are tending tooffset that change. Furthermore, we think that as output[unintelligible] demand, firms--particularly in the manufacturingsector--will be more inclined to move ahead toward modernization,11/5/86replacing their older equipment, and continuing their efforts toreduce costs and increase productivity. It's not really a very rapidgrowth of investment spending, but we think there is a reasonablefoundation.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is discussing various factors that may affect capital spending, noting that while tax law changes may depress capital spending, other factors such as declining real interest rates and the need for modernization and cost reduction in the manufacturing sector may offset this. The speaker concludes that there is a reasonable foundation for investment spending, but acknowledges that it may not be rapid. The passage is discussing different factors and their potential impact, without any disagreement or conflicting viewpoints.
+
+
+Passage number 65.
+MS. SEGER.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 66.
+ I guess I am just more nervous about it, but Ican't quantify my--MR. PRELL. We are still in a situation where it's hard toassess the effects that have already occurred because of anticipationsor uncertainties relating to tax reform--whether some of the hitalready has been taken or whether people now will move ahead knowingwhat the laws will be. It is very hard to read the current situation.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention or disagreement in the passage. The speaker expresses uncertainty and states that it is difficult to assess the effects of tax reform due to anticipations or uncertainties. This suggests that there may be differing opinions or conflicting views on the impact of tax reform.
+
+
+Passage number 67.
+MS. SEGER. Also, on residential structures, you have quite anice turnaround between the second and third quarters of next year andthen additional strength in the fourth quarter, if I am reading thiscorrectly.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage is simply stating the analyst's interpretation of the data without any indication of disagreement or contention.
+
+
+Passage number 68.
+MR. PRELL. These annualized growth rates for residentialinvestment tend to exaggerate, I think, the movements in housingstarts that are in the projection. But we have the single-familysector improving a little as 1987 progresses.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It simply presents an observation made by Mr. Prell related to annualized growth rates in residential investment and the improvement of the single-family sector.
+
+
+Passage number 69.
+MS. SEGER. Is this an interest rate play or what.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 70.
+MR. PRELL. Well, part of is, I think. But it's not really asignificant interest rate effect. It's more a come-back in terms ofthe underlying demographic factors. And, as construction in themultifamily area winds down and rents begin to show the effects inthat area, it's just going to tip the balance a bit further in favorof single-family home ownership, which we think the demographicfactors already are going to be favoring. But we don't have atremendous change in the overall affordability of single-family homes.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is providing their own analysis and perspective on the factors affecting the housing market without any conflicting viewpoints being presented.
+
+
+Passage number 71.
+MS. SEGER. Yes, I notice your housing starts are prettylevel.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not show any contention or disagreement. It is a statement by Ms. Seger acknowledging that the housing starts are at a consistent level.
+
+
+Passage number 72.
+MR. PRELL. On the single-family side, we move from around1.15 in the third quarter up to just over 1.20 in the second half ofnext year, so it's not really a dramatic change. The multifamily sideis continuing to trend downward through most of next year.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+This passage provides information about projections regarding single-family and multifamily housing. It does not present any conflicting viewpoints or arguments.
+
+
+Passage number 73.
+MS. SEGER. A final question on the domestic auto sales:Apparently you assume that the so-called "give-back" will all beaccomplished in the fourth quarter of this year and then sales will besort of flat and unexciting quarter by quarter in 1987.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 74.
+MR. PRELL. I'm sure it won't turn out that way. Short offorecasting every twist and turn in marketing strategies, we havesales coming back toward what we think will be a reasonable overallpace for the year. But yes, [unintelligible] and is consistent withthe payback largely being through by the end of this month and thingsbeginning to turn up a bit--perhaps with some renewed incentives, ifnecessary. But we don't at this point anticipate that there will begigantic incentive programs put in place in the near term.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is simply discussing a forecast and the anticipation of potential incentives.
+
+
+Passage number 75.
+11/5/86MS. SEGER. So, you are not assuming that GM has really beengambling on this approach and that without these incentive programsthey will dramatically [cut back] their production schedules.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply presents a statement about not assuming that GM has been gambling on a certain approach and that without incentive programs, their production schedules will be drastically reduced.
+
+
+Passage number 76.
+MR. PRELL. We see them trying to keep things on a stablelevel, [given] the actions they took in October to cut back theirproduction schedules. The [unintelligible] of what we pick upsuggests that maybe they are going to move toward a somewhat morerealistic approach to their production, so we might see something thatis a little smoother, in fact, next year without them pushing so hardto maintain what seems to be an unrealistic market share expectation.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage does not show any disagreement or contention. It simply presents an observation about a company's actions and suggests a possibility for the future.
+
+
+Passage number 77.
+MS. SEGER. Thank you.
+Does the passage contain contention or disagreement? Response from the model: No. Explanation: The passage does not contain any statements or indications of contention or disagreement. It appears to be a simple expression of gratitude.
+
+
+Passage number 78.
+MR. MELZER. Mike, the trend in personal consumptionexpenditures has been upward since the fourth quarter of last year.You are really showing a dramatic shift in the fourth quarter, which Iguess is primarily autos.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply discussing a trend in personal consumption expenditures and speculating that the dramatic shift in the fourth quarter may be primarily due to autos.
+
+
+Passage number 79.
+MR. PRELL(.). Yes.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 80.
+MR. MELZER. Do you try to factor into that the effects ofthe tax legislation and accelerated big ticket purchases to the extentthat you can.
+Does the passage contain contention or disagreement? Response from the model: No. 
+There is no contention or disagreement in this passage. It is a simple question asking whether the effects of tax legislation and accelerated big ticket purchases are taken into account.
+
+
+Passage number 81.
+MR. PRELL. Well, we have certainly attempted to do so. Ourassessment is that there may be a very small effect. A number offactors lead us to think that it will be small. One is that manypeople may already have made the big move to buy an automobile beforeyear-end--in September when they could also get the big price cuts andthe rebates and the other financing arrangements. A second factor isthat, in most states, that sales tax deduction does not bulk verylarge as a percentage of the price, even for automobiles. And whatone can bargain with a dealer for may be more important than that.Many people [don't] itemize their deductions; furthermore, for goodsother than automobiles, people generally are going to be using taxtables and this specific purchase doesn't become an important matterin further deductions. So, putting all of these things together,we're looking for just a very small effect in the consumer sector.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not show any contention or disagreement. It is simply presenting the speaker's assessment and analysis.
+
+
+Passage number 82.
+MR. MELZER. A related question: What happened to realdisposable income in the third quarter.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not provide any information or statements that indicate contention or disagreement. It simply poses a question about what happened to real disposable income in the third quarter.
+
+
+Passage number 83.
+MR. PRELL. It moved down.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The statement "It moved down" does not express any opposing views or conflicting opinions.
+
+
+Passage number 84.
+MR. MELZER. I know.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not contain any statement or discussion that indicates disagreement or contention between individuals or parties.
+
+
+Passage number 85.
+MR. PRELL. Three things seem to be the major factors there.One is that farm subsidy payments were much smaller than they were inthe second quarter. Those have been a considerable short-run swingfactor this year. The second factor is that consumer prices were upin the third quarter because oil prices [were no longer] going down orflat as in the first half of the year. The third factor, which isalso very important in these numbers but is rather obscure, is asubstantial increase in personal tax payments that wedges betweenincome and disposable income. We have tried hard to track this downwith parties elsewhere in the government, but it remains a somewhatobscure area. It is something that has been a factor in bouncing the11/5/86disposable income numbers around over the course of the year.Basically though, we think that underneath all of this is adeceleration in disposable income growth in large measure related tothe end of that oil price effect.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 86.
+CHAIRMAN VOLCKER. Would people like to comment on their ownviews of the outlook. Bob Parry.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is a simple question asking for people's opinions on their own views. There is no contention or disagreement present.
+
+
+Passage number 87.
+MR. PARRY. I think there have been more signs of possiblestrength in the economy since the last FOMC meeting than there have ofweakness. The signals that we see coming from the Twelfth District,on balance, are really rather positive. Total employment andunemployment figures showed continued improvement in September andthey paint a better picture than that for the nation as a whole. Asan example, the District's unemployment rate fell in September, incontrast to the nation's, to 6.8 percent; and we've seen employmentgrowth over the past year averaging just under 5 percent compared to2.2 percent nationally. We also received data on trade from thePacific area customs districts for August and September and nongrainagricultural exports, particularly cotton and also rice, seem to bebenefiting from the lower dollar and also from the effects of the 1985farm bill. The lower dollar and Canadian strikes are also helping theforest products industry. Aero-space and related electronics are asource of considerable strength in many areas of the District and theservice industries are performing well.At the national level, it would appear to me that the signsare relatively strong--clearly not as strong as the western region,but favorable. Recent monthly statistics that have been mentioned fororders, for new home sales, and for leading indicators in merchandisetrade do indicate some strength. And I do believe, similar to theGreenbook [forecast], that the third-quarter runoff of inventoriesshould lead to greater production in the current quarter. And itwould seem to me that based upon, admittedly, a very preliminaryreading of the third-quarter trade numbers that there is a chance of aturnaround in net exports in the fourth quarter. The monthly tradenumbers for August and September looked as though they had improvedsomewhat and, at least in some of the deflators I've looked at, theprices of durable imported goods are rising rapidly. So it appears asthough the prices of U.S. exports are becoming more competitive. Insummary, our forecast for growth in '87 is very close to that of theGreenbook. We expect a pickup in inflation next year of relativelymodest proportions. The changes in our forecast since the last FOMCmeeting produced a little lower rate of inflation next year, so ourforecast suggests a better trade-off between growth and inflation thanwe had before.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker, Mr. Parry, is discussing positive signs in the economy and expressing agreement with the Greenbook forecast.
+
+
+Passage number 88.
+CHAIRMAN VOLCKER. Mr. Keehn.
+Does the passage contain contention or disagreement? Response from the model: There is not enough information provided to determine if there is contention or disagreement in the passage.
+
+
+Passage number 89.
+MR. KEEHN. In our District the fundamental conditions arevery consistent with the pattern that we've had, really, all yearlong. The unevenness that I've commented on before certainlycontinues. Those who are doing okay are really doing quite well, andthe weak parts of our District show no particular signs ofimprovement. I hate to bring the agricultural subject back up, butthere has been a renewed outbreak of gloom in that area for two verydifferent and diametrically opposed reasons. First, the flood damagein September was localized, particularly in the central Michigan area,11/5/86but in the areas that were hardest hit the crops were virtually wipedout. That, of course, is an adverse condition that's completelyunrelated to the basic adjustments going on in agriculture. Theopposite problem exists in the other parts of the District. Theharvest is now largely completed and I am told that the production hasjust been huge, phenomenal. While the acreage for total productionwill be down, on a per acre basis the yields have been very, veryhigh. That means, I think, that the carryover stocks are going to beheavy. The pressure on commodity prices will continue. In the thirdquarter we do a survey of land values and, again, we saw somewhat of adecline in land values. Whereas we thought we were somewhat in thezone of stability with regard to land values I am beginning to hearthat we're going to see another slide off--nothing too sharp--butnonetheless that we have a way to go before we get down to the bottomlevel. And that suggests some more pressure on the agriculturalbanks, so we've got more to do there. On the manufacturing side theadjustment process goes on. I might note just a couple of latedevelopments, which I'm sure you've read about. GM has this overhangin the market. They're probably going to close as many as 12 plantsand that, of course, will have a significant impact on the District interms of employment.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a description of various conditions in the District without any conflicting viewpoints.
+
+
+Passage number 90.
+CHAIRMAN VOLCKER. How many plants do they have.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The sentence simply poses a question about the number of plants someone has without expressing any conflicting ideas or opinions.
+
+
+Passage number 91.
+MR. KEEHN. Gee, I can't tell you that. But I think 12 wouldbe a fairly big percentage.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. This is evident from the straightforward statement made by Mr. Keehn without any opposing viewpoints or conflicting opinions presented.
+
+
+Passage number 92.
+MR. BLACK. Almost by definition.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage does not contain any statements that indicate contention or disagreement. It is a statement made by Mr. Black, and it does not present any conflicting viewpoints or arguments.
+
+
+Passage number 93.
+MR. KEEHN. Of that number probably 7 are going to be in ourDistrict. We think the employment [effect] could be as high as say,23,000, which would be a very, very significant number. Anotherstructural adjustment in the manufacturing sector comes[unintelligible] engine. I think I commented the last time that theywere thinking about downsizing their domestic production. They havenow announced that and will be outsourcing to a heavier degree thanthey have done in the past. On the inflation side, I think the trendis continuing to be favorable; what I hear anecdotally is very muchconsistent with what Mike has suggested. On the price side, as I hearit, the conditions are very, very competitive and it's very tough toget price increases to stick. And on the wage side, people arecontinuing to get three-year contracts and very good work rulechanges; average costs are favorable so that the productivity aspects,I think, have been pretty good.As for the outlook, certainly, our forecast is consistentwith the staff's forecast. We have every expectation that theexpansion will continue at, say, 2-1/2 to 3 percent. And importantly,we see no current signs that we can fall back into a recession; but onthe other side, we don't think that there's a significant risk that wewould break out on the up side either. So, we're broadly consistentwith the staff forecast.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker expresses agreement with the staff's forecast and shares their own expectations for the future.
+
+
+Passage number 94.
+CHAIRMAN VOLCKER. I keep hearing about all these great workrule changes and enormous hope for productivity increases and I lookat these figures and I see no productivity increases. Would Mr. Prellplease explain to me the discrepancy between what I hear and what Iread.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is expressing confusion or a lack of understanding about the discrepancy between what they hear about workrule changes and productivity increases, and what they see in the figures.
+
+
+Passage number 95.
+-1011/5/86MR. PRELL. It seems like whenever I'm up here giving abriefing the same question arises about the productivity figures. Ithink many of these collective bargaining agreements involve themanufacturing sector where the data would indicate that we have beengetting fairly substantial increases in productivity--maybe not asmuch as the anecdotal evidence for individual companies would suggestbut, on the whole, quite good gains. For this cycle the gains aremuch more favorable in comparison to past cyclical experience than forthe rest of the economy.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no explicit contention or disagreement in this passage. The speaker is simply stating their observation and analysis of productivity figures without any opposing opinions or conflicting views being presented.
+
+
+Passage number 96.
+CHAIRMAN VOLCKER. More favorable than past cyclicalexperience.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+The passage does not contain any specific statements or ideas that could potentially cause contention or disagreement. It simply states that the experience is more favorable compared to previous cyclic experiences. This is a subjective statement and does not invite debate or disagreement.
+
+
+Passage number 97.
+MR. PRELL.
+Does the passage contain contention or disagreement? Response from the model: In the given passage, there is not enough information provided to determine if there is contention or disagreement. More context is needed.
+
+
+Passage number 98.
+ Well, I guess at least as favorable as--MR. ANGELL. Yes.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not show any contention or disagreement. The response, "Yes," simply confirms the previous statement.
+
+
+Passage number 99.
+MR. PRELL. --previous cycles in contrast to the overallpicture. But, as you know, the total for the nonfarm business sectorhas been less favorable and the data, such as they are, show that in anumber of the more service-oriented sectors we just aren't seeingproductivity improvement.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage states that productivity improvement is not being seen in certain service-oriented sectors. There is no indication of contention or disagreement.
+
+
+Passage number 100.
+MR. ANGELL. Of course, what this means--and I've had severalconversations with our staff over this--is that, with productivity inmanufacturing doing what it is and the way we go about measuring it,we have to have negative productivity in the service sector. And thatraises the question as to how we measure productivity in the servicesector; the fact of the matter is that we really don't. So there issome kind of strange averaging process going on there. I thinkthere's really grave doubt as to what our productivity in the servicesector is. But if productivity in the service sector is stronger thanwe're measuring then that means, of course, that our economy is doinga little better than we are measuring. So there are those two aspectsthat are very interesting.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is discussing the issue of measuring productivity in the service sector and highlights some uncertainties and concerns about the current methods. However, there is no direct disagreement or conflicting viewpoints presented.
+
+
+Passage number 101.
+MR. BOEHNE.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage.
+
+
+Passage number 102.
+ There's another aspect to take--CHAIRMAN VOLCKER. You don't think more computers mean lessproductivity.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not present a clear contention or disagreement. It discusses another aspect to consider but does not argue for or against computers possibly leading to less productivity.
+
+
+Passage number 103.
+MR. ANGELL. No.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not indicate any form of contention or disagreement.
+
+
+Passage number 104.
+CHAIRMAN VOLCKER.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 105.
+ That depends on how one--MR. BOEHNE. On this issue of work rules, we have an autoplant in our District run by one of the big three auto makers. Theythink that their biggest problem in the American [work]place is not somuch price or productivity as it is quality--actual quality and theperception of quality. This is such an interesting story that I'mgoing to visit the plant. I talked to the manager there the other dayand he says that they are putting their emphasis not so much on howmany cars they can get out in a day but on how many cars they can getout that don't have defects. And they think that is where the payoffis in terms of the market. Now, I don't think our productivityfigures capture that sort of thing, but it certainly is an improvementin the output if you can do it right the first time.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker shares their perspective on the issue of work rules and emphasizes the importance of quality in the workplace. They reference a conversation with the manager of an autoplant who shares a similar viewpoint. The speaker acknowledges that productivity figures may not fully capture the importance of producing defect-free cars, but they agree that it is an improvement in overall output.
+
+
+Passage number 106.
+11/5/86MS. SEGER. Yes, but you had to get some work rule changes toimprove the quality.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 107.
+MR. BOEHNE. That's exactly what my point is: that the workrule changes are going into the quality aspects rather than improvingthe measurable productivity.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not contain any clear signs of contention or disagreement. It seems to be a statement made by Mr. Boehne, expressing his point of view without any opposing viewpoint presented.
+
+
+Passage number 108.
+CHAIRMAN VOLCKER. It decreases the GNP; we don't have allthose repairs that go in there.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not mention any form of contention or disagreement. It simply states a fact about the decrease in GNP and lack of repairs.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 109.
+MR. PRELL. A different aspect of quality in a more secularrather than cyclical area is the question of quality of the laborforce. Some researchers have suggested that [taking account of] thequality adjustment in the labor force--[based on] indexes like SATscores or mix of workers or whatever--you find that our laborproductivity growth trends have not been as bad in historical contextas they look. It's a very controversial area.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention or disagreement in the passage. The statement "It's a very controversial area" indicates that there is disagreement among researchers regarding the quality of the labor force and its impact on labor productivity growth trends.
+
+
+Passage number 110.
+MR. BLACK. If we have a flu epidemic [unintelligible], Mr.Chairman, that would decrease GNP too.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage. It is a statement made by Mr. Black about the potential impact of a flu epidemic on the GNP.
+
+
+Passage number 111.
+VICE CHAIRMAN CORRIGAN. [The way] the SAT scores work,[there are] negatives and positives.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is providing information about the way SAT scores work, mentioning both negatives and positives without expressing any conflicting viewpoints.
+
+
+Passage number 112.
+CHAIRMAN VOLCKER. [Unintelligible] but that's what he says.Productivity in the educational system is going down.
+Does the passage contain contention or disagreement? Response from the model: No. There is no explicit contention or disagreement in the passage. The speaker is stating that the productivity in the educational system is decreasing, without mentioning any opposing view or conflicting opinion.
+
+
+Passage number 113.
+MR. PRELL.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not provide any information or statements about Mr. Prell that would suggest contention or disagreement.
+
+
+Passage number 114.
+ Well, if you wanted to use SAT scores and--CHAIRMAN VOLCKER. Mr. Morris.
+Does the passage contain contention or disagreement? Response from the model: No 
+
+Explanation: The passage is only providing information, there is no contention or disagreement being expressed.
+
+
+Passage number 115.
+MR. MORRIS. I agree with Bob Parry. I think the evidencewe're looking at today suggests that the economy is strengthening. Wehave the new orders in durable goods and capital goods; we havestrengthening in basic materials prices. We've been looking for adecline in the trade deficit to really carry the economy next year andwe're getting very strong anecdotal evidence that this is takingplace. When we had the Beigebook survey I found that every companythat was interviewed that does a significant export business reportedan increase in export orders--aircraft engines by GE, computers,medical instruments, and so on. Right across the board, there werevery widespread increases in orders for exports. We always get veryimpatient waiting for this two-year lag to take place, but the turnseems to be coming on schedule.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is expressing their agreement with Bob Parry's view that the evidence suggests the economy is strengthening. They provide supporting evidence for this claim, including new orders in durable goods and capital goods, strengthening basic materials prices, and anecdotal evidence of a decline in the trade deficit. There is no mention of opposing viewpoints or conflicting opinions.
+
+
+Passage number 116.
+CHAIRMAN VOLCKER. It sure is in our projection. I hope it'sthere.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is expressing their hope that something will happen but also acknowledging that it is based on their own projection or prediction.
+
+
+Passage number 117.
+MR. TRUMAN. Mr. Chairman, our sense is that the Septembertrade numbers that were released, the so-called statistical month-[end] numbers, were probably better than the underlying trend. Sothat means that for the sum of these months--October, November, andDecember--we're going to get some very much worse numbers. If youlook at the raw data--not the nice leading indicators President Morrishas cited--they are a little peculiar because the export numbers arenot particularly good. In fact, most of the improvement in the Augustand September numbers is in the import side where, although we'reexpecting a slowdown, we're not expecting a drop off.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply stating their sense and analysis of the trade numbers and their expectations for future numbers.
+
+
+Passage number 118.
+11/5/86MR. MORRIS. [Unintelligible] phenomenon for the last coupleof months. And so we shouldn't expect to see them recorded in theactual shipments for another 6 months or so.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 119.
+MR. PARRY. I'm not quite sure I understand what you'resaying, Ted. You have a $19.3 billion improvement in the real netexport position.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement.
+
+
+Passage number 120.
+ That's got to show up--MR. TRUMAN. Half of that is oil. Half of what's going on inthis fourth quarter is oil.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage.
+
+
+Passage number 121.
+MR. PARRY. Yes, but I think it's going to show up in themonthly numbers; if the monthly numbers get much worse than they werein September you're not going to get a $19.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It simply states Mr. Parry's opinion about the monthly numbers.
+
+
+Passage number 122.
+3--MR. TRUMAN. Yes, but if we had to redo the forecast with thenumbers that now exist the third quarter would look better. Thefourth quarter might not be changed much.
+Does the passage contain contention or disagreement? Response from the model: No. In this passage, there is no clear contention or disagreement. Mr. Truman simply states that if they were to redo the forecast with the current numbers, the third quarter would look better, indicating potential improvement. However, he mentions that the fourth quarter might not be changed much, suggesting no strong disagreement or contradiction.
+
+
+Passage number 123.
+MR. PARRY. I see.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply states the speaker's observation without presenting any conflicting opinions or disagreement.
+
+
+Passage number 124.
+MR. TRUMAN. And that's based just on the fact that it lookslike we've got some lower imports--that we're probably going to getnegative numbers, or not so big numbers, on the import side in thefourth quarter. Exports are beginning to come in a lot more, as Mikementioned.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. Mr. Truman is providing information about imports and exports without any contradictory statements or conflicting opinions.
+
+
+Passage number 125.
+ On the current import side our sense is that the monthlynumber ends up getting built into the quarterly GNP numbers and thenyou're stuck with them for--MR. PARRY. So you're comfortable with the second-halfimprovement.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It is simply stating a perception or opinion.
+
+
+Passage number 126.
+MR. TRUMAN. Yes.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage does not mention any conflicting viewpoints or arguments among individuals.
+
+
+Passage number 127.
+CHAIRMAN VOLCKER. You're finished.
+Does the passage contain contention or disagreement? Response from the model: No. The statement "You're finished" does not indicate any contention or disagreement. It is a straightforward statement indicating that someone has completed or accomplished something.
+
+
+Passage number 128.
+MR. PARRY. Yes.
+Does the passage contain contention or disagreement? Response from the model: Explanation: The word "Yes" implies that there is contention or disagreement in the passage. However, without any context or further information about the passage itself, it is difficult to determine the exact nature of the disagreement or the parties involved.
+
+
+Passage number 129.
+CHAIRMAN VOLCKER. Mr. Melzer.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+The passage does not provide enough information to determine if there is contention or disagreement.
+
+
+Passage number 130.
+MR. MELZER. Our numbers for the District continue to lookpretty good. We continue to have better growth in non-ag employmentthan we've experienced nationally. Retail sales in the most recentthree-month period have gone up more rapidly. And we've had aturnaround on the construction side where we have been lagging a bit;both residential and nonresidential construction in the third quarterwere quite strong. Anecdotally, on the retail side, a nationalretailer in the District mentioned that for three months now they'veexperienced stronger numbers; he wouldn't describe it as a boomsituation by any means, but it's the first time for a long period oftime that he has seen three months--August, September and October--with continued improvement in terms of their own sales. On the priceside, we had a group of small business owners in for lunch not toolong ago and I asked them whether any of the developments in terms ofmarkets and expectations of higher prices were affecting theirbehavior at all. And there was certainly no evidence among that smallgroup that they felt any better able to put through price increases or-13-11/5/86were seeing any major increases in their costs. So, at that level,there is no real change in the price picture.I would say on the overall forecast that the one differencewe might cite is that we would tend to be a little more [positive] onthe personal consumption side just because of the rate of increase inincome growth over the course of this year versus last year. As Mikepointed out, the fourth-quarter GNP number is more than accounted forby net exports and the inventory numbers; and if personal consumptionwere to be stronger we could be looking, in the short run, atconsiderably stronger GNP numbers.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply discussing positive trends and observations in the District's economy.
+
+
+Passage number 131.
+CHAIRMAN VOLCKER. Mr. Boehne.
+Does the passage contain contention or disagreement? Response from the model: No 
+
+Explanation: The passage does not provide any information or indication of contention or disagreement.
+
+
+Passage number 132.
+MR. BOEHNE. At the District level, I think our numberscontinue to look rather good, although quite varied. Pennsylvania isa state that has characteristics both of East Coast prosperity andsome of the problems of the industrial Midwest. But on the whole, thenumbers have continued to make us look better than the nation as awhole. At the anecdotal level I have noted a less pessimistic viewamong manufacturers about the trade business. Two or three months agothey were very skeptical that the drop in the value of the dollar wasgoing to have much of an impact. What I notice now is that theirorders have begun to pick up and inquiries to their firms are pickingup. They now are feeling a little better--feeling that they may begetting back into this ball game. I think that is a subtle butimportant harbinger of what might lie ahead.At the national level, we tend to go up and down in thisCommittee. I think back over the last year and it seems we get onemonth of figures that look better and we feel better; and then we comeback the next month and the figures are a little less; we sort of goup and down. If we seasonally adjusted it all my guess is that wewould conclude that things are probably unchanged. There is a touchbetter evidence, I think, from the trade side as well as in some ofthe forward looking indicators. I think we need a little moreinformation to conclude that there has been a significant improvement.But having said that, I think that the latest statistics tend to makeone feel a little better about a broadly unchanged outlook.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 133.
+CHAIRMAN VOLCKER. Mr. Forrestal.
+Does the passage contain contention or disagreement? Response from the model: There is not enough information provided to determine if there is contention or disagreement in the passage.
+
+
+Passage number 134.
+MR. FORRESTAL. Well, Mr. Chairman, in the Sixth District thesituation has not changed very much over the past six weeks, which isto say that conditions are pretty mixed in the area. Picking up onsomething that Mike Prell mentioned, there seems to be growing concernthat the tighter restrictions on municipal finance and the smallergrants in aid as a result of the tax bill are going to slow the area'sefforts to improve the public infrastructure and provide needed socialservices. The weak areas in the District--that is energy andagricultural--continue to be weak. We got a little benefit from thereduction in the drought situation, but the rains came a bit too lateto help most of the crops. Confirming what the staff said about therig count, we find that in Louisiana the rig count actually has risenslightly in the last couple of months, although I hasten to add thatconditions in Louisiana and in that general energy patch are stillvery, very depressed. Another area that continues to concern a numberof people is the office overbuilding situation. In the Atlanta-14-11/5/86downtown area it doesn't look too bad; the vacancy rate is about 15percent. But as you move to the outskirts, particularly with newerdevelopment, vacancy rates are as high as 40 percent. That average isnot as high as in other cities but office overbuilding clearly is avery serious problem and is continuing to be so. The same is true formultifamily rental units, which are experiencing record high vacancyrates. In spite of all those negatives, as I talk to people I thinkthere is a fair degree of optimism about what's happening not only inthe District but in the country. There is a feeling that the fasterpace of activity in the third quarter is going to be sustained andthere is growing confidence, supported by some of the recent numbers,that the trade sector is going to do better. In fact, we have seen inour District orders from textiles pick up significantly over the pastmonth or two. There are early indications--perhaps more anecdotalthan anything else--or some suggestion of a pickup in agriculturalexports as well.Looking at the national picture, our outlook is very much thesame as the Greenbook's. We think that for the next several quarterswe are going to have a growth rate for real GNP that's close to the 3percent mentioned in the Greenbook. But that kind of growth ishinging on consumer spending and on an improvement in the tradedeficit. We're putting most of our money in those areas, as it were.And I have some concern that perhaps we won't get the kinds ofimprovements that we're looking for there. So I would think that ifthere's risk in the economy the risk is on the down side. I say thatabout consumer spending partly because the discretionary income thatpeople have as a result of the drop in oil prices is beginning totrail off, as are some of the effects of the greater wealthexperienced in the form of a run-up in the stock and bond markets.Another uncertainty in the whole picture is the extent to whichadjustments to the new tax law have already occurred versus how muchmore there is to see. We did a little survey, a very informal one,but it suggested that about 50 percent of the businesses that wetalked to had built the adverse treatment of capital into their plansbefore the tax law was enacted. Altogether, I think the picture isencouraging; certainly, the District on average is doing better thanthe nation as a whole and we think that the expansion is going tocontinue. But again, I would stress that in my view the risk is onthe down side.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker is providing an overview of the economic conditions in the Sixth District and expressing some concerns and uncertainties, but there is no conflicting viewpoint presented.
+
+
+Passage number 135.
+CHAIRMAN VOLCKER. Mrs. Horn.
+Does the passage contain contention or disagreement? Response from the model: There is no passage provided to analyze. Could you please provide the passage so that I can determine if there's any contention or disagreement in it?
+
+
+Passage number 136.
+MS. HORN. In the Fourth District we don't really seeevidence of a resurgence in the economy nor do we see anything thatwould indicate that we're going into a recession. As I look aroundthe District I have the opinion that Ed Boehne expressed: that it'ssort of more of the same. I think my directors in general and thebusinessmen I talk to have that opinion. I think we're more concernedin our area about the restructuring that's going on in some specificindustries--steel and autos come particularly to mind, although Isuppose machine tools could be put on that list as well. But thisidea of an unchanged outlook, I think, is embodied in most forecastsand I would have no quarrel with it.On the District level, one of the interesting stories we'relooking at is the steel story. My view is that there is more and morerecognition by the management in those companies, and maybe by labor11/5/86as well, that the problem is not imports and it's not exchange ratesbut that the problem is more basic than that--whether you call itovercapacity or whether you call it inadequate demand to supportcapacity. They are beginning to look at that and simultaneously, Ithink, are trying to deal with it constructively. Now, whether it canbe dealt with or not is another issue, because as they close plantsthey have pension costs and the fringe benefit liabilities, and Icertainly don't see how they're going to deal with that. But at leastI see a recognition of what the problem is and an attempt to deal withit. Of course, the USX strike has bought the industry time; it hasclosed down something like the proportion of capacity the industrywould like to see closed down. So a little time has been bought bythat. We don't see in our District what Frank Morris sees on theexports side. What we see in the foreign sector is that people arebeginning to feel better about import prices and that they are poisedand ready to take advantage of that by moving their own prices up assoon as they see the window to do it. I see a shift of attitude inthe foreign sector, but that's the one that I see.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is presenting their own observations and opinions, without directly addressing opposing viewpoints or engaging in debate.
+
+
+Passage number 137.
+CHAIRMAN VOLCKER. Mr. Stern.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not provide any information about Mr. Stern or any topic that may lead to contention or disagreement.
+
+
+Passage number 138.
+MR. STERN. Let me just comment on a couple of the changes inour District because I think the fundamental two-tier nature of theeconomy is well recognized, and that hasn't changed much in recentmonths. Perhaps what shows most clearly the distinction between whatis happening in the rural areas as opposed to what's happening in themetropolitan areas is that the unemployment rate in the Twin Cities isnow down to 3.7 percent. That is really a rather remarkably low ratefor our economy. But that kind of prosperity is not translated ingeneral once you move out into the rural areas although, of course,the cattle and hog producers are doing considerably better. Some ofthe producers in Montana, where they had a drought until this year,and some of the wheat producers and others are feeling better, but Iwouldn't want to make too much of that. Certainly, the agriculturalproblems persist in general. I think anecdotally though, some of whathas already surfaced at the table certainly is occurring in ourDistrict. There's just an awful lot of talk of potential improvementin exports. That kind of talk seems to be occurring in someconsiderable magnitude and it's clear that people who are interestedin foreign business are starting to feel considerably better. As alsohas been mentioned, at least as far as we are concerned, pricingremains very, very competitive. One of the striking features that hascome up in conversations that I have had with business people recentlyis that the pricing environment is still very competitive and they arestill very, very concerned about their costs and so forth. Ingeneral, that would be a healthy aspect, in my mind.As far as the overall economic outlook is concerned, I haveno particular quarrel with the Greenbook forecast. I think that's arespectable outlook and certainly, in the context of the fifth year ofan economic expansion, something that I can live with. My intuitiontells me we may do a touch better than that, but it is not the kind ofthing that I think is going to make a material difference in terms ofhow the economy performs or in terms of what happens to rates ofinflation and so forth, at least over the horizon of the next four orfive quarters.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker is simply providing commentary on the state of the economy in their District.
+
+
+Passage number 139.
+CHAIRMAN VOLCKER. Mr. Corrigan.
+Does the passage contain contention or disagreement? Response from the model: It is not possible to determine whether there is contention or disagreement in the provided passage without any accompanying text or context.
+
+
+Passage number 140.
+-16-11/5/86VICE CHAIRMAN CORRIGAN. As far as the general economicoutlook is concerned I would associate myself with the broad profileof the staff forecast. I think the risks are pretty well balanced. Iwould add that I would consider an outcome over the next five quarterslike the staff forecast quite acceptable, considering where we are inthe business cycle and considering the range of structural problemsthat are out there that really don't have a heck of a lot to do withmonetary policy in the short run. One thing that bothers me is that Ican't for the life of me figure out what to make of this tax bill.It's so complex. I think we're just going to have to wait and see howthat shakes out. But it is a major uncertainty as far as I'mconcerned. On the trade side, we too encounter many, many anecdotalcomments along the lines that Frank Morris and Gary Stern havementioned. And at this point I think they're more broadly based byindustry groupings. A few months ago we heard some of that inchemicals and paper and that was about it. But now there is some inother industry groups as well. An interesting little side light tothat on the other side of the equation--the import side--came up in adiscussion Sam Cross and I had with some Swiss people yesterday. Now,Switzerland is not a great exporter to the United States; butnevertheless they indicated to us that just in the past several weeksthere had been a very sharp decline in orders at Swiss companies forexports to the United States, presumably concentrated in so-calledhigh-tech and electronic types of products. Again, not thatSwitzerland is a big exporter to the United States, but it was rathera dramatic report just because it seemed to be so sharp and so suddenin terms of their experience. I have a couple of other anecdotalitems. I had a conversation with a fellow from one of the largestmail order houses in the United States at a business leaders meetingwe had on the 22nd of October. He told me that in the first threeweeks of October--which is kind of the beginning of the Christmasbuying season for a mail order firm--they had set records across theboard in terms of their mail order business. The other development,which is regional in character or is maybe just in the New Yorkmetropolitan area, is that the housing market and the labor market inthe New York metropolitan area continue to really be booming. Pricesof houses are just out of sight. On the labor market side I'llprovide a great vignette: I noticed Saturday when I was out doing acouple of errands that the help wanted signs for part-time workers inservice-type establishments seemed to abound. That, of course, is avery local phenomenon, but nevertheless--. Overall, as I said, Ithink the staff forecast is a reasonable one and an outcome that Iwould find quite acceptable.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker agrees with the staff forecast and finds the outcome acceptable. They express some uncertainty about the tax bill and mention anecdotal evidence related to trade and the labor market, but there is no argument or disagreement presented.
+
+
+Passage number 141.
+CHAIRMAN VOLCKER. Mr. Black.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 142.
+MR. BLACK. As I see it, I don't think there has been a lotof change in the business outlook since our last meeting. I thinkthose, led off by Bob Parry, who had the perception that people in themarket and other observers think the statistics look a little betterare correct. But if you look at them on a moving average basisthey're not quite as much better as you might think on the surface.The anecdotal information we pick up from around our District, whichhad been pretty good, I would say was a tad worse than it was maybe amonth ago. When I try to figure that out, I think one of the factorsis probably the paucity of any information that suggests that we'regetting any acceleration of the upturn. The other thing that seems tome to be more important now is the doubt that business people seem to-17-11/5/86have about the effects of the tax law on businesses. For example, oneof our directors said at our last meeting that he estimated the taxchanges would cost his business $3 million more in 1986 and $5 millionmore in 1987. And I think most of them are viewing it that way. ButI think the financial underpinnings are certainly there to accommodateany kind of reasonable upturn that we might have in the economy.I believe the staff is right in what it has done in theGreenbook projection. As several people alluded to, if you break thatprojection down between gross domestic purchases and net exports ofgoods and services, you see that the projection shows gross domesticpurchases for next year running well below what they're doing thisyear. By dividing it that way it focuses pretty crucially on theimportance of the net exports side. So, if we are to get an increasein GNP that means that the net exports side of it has to come through.I think that's a reasonable thing to expect; as several people havenoted, we are seeing a lot of anecdotal information that this kind ofthing is happening. There are all sorts of measures of how much thedollar has depreciated, but when you get through all of those I thinkyou have to conclude that in real terms there has been a prettysignificant depreciation in the dollar. So I think it would be rathersurprising if we didn't get some kind of a turnaround in our realbalance of payments with this kind of improvement in the terms oftrade. We think we'll see that more, of course, in the real figuresin the GNP than in these monthly census figures on merchandise trade.They may not show up. But after the deflation, I think it's going toshow up in net exports of goods and services. I don't know whetherit's of any value or not, but one of our economists ran a VAR modeland he usually gets results almost diametrically opposed to what theBoard staff has; but that [model] suggested about the same kind ofimprovement that the Board staff has projected. It might concern youmore that two models suggest the same thing than if neither did.
+Does the passage contain contention or disagreement? Response from the model: No. The passage mainly consists of the speaker expressing their personal opinions and providing anecdotal information, rather than stating or arguing against any specific claims made by others.
+
+
+Passage number 143.
+CHAIRMAN VOLCKER. What's a VAR.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply poses a question and does not indicate any contention or disagreement.
+
+
+Passage number 144.
+MR. BLACK. Vector autoregression is what it stands for.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply states what "VAR" stands for. There is no contention or disagreement present.
+
+
+Passage number 145.
+MR. JOHNSON. I think it's a modern times series model.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. Mr. Johnson is expressing his opinion about a product without any opposing viewpoints or conflicting statements.
+
+
+Passage number 146.
+MR. BLACK. It came along after we finished our graduatework, Mr. Chairman, so we weren't really exposed to it in those days.So, we would buy the staff's forecast and we would say the chances oferror are about equal on each side of it.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. The speaker simply states that they were not exposed to something during their graduate work and then explains their method of buying the staff's forecast without any indication of disagreement.
+
+
+Passage number 147.
+CHAIRMAN VOLCKER. Mr. Boykin.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement mentioned in the text about Mr. Boykin.
+
+
+Passage number 148.
+MR. BOYKIN. Mr. Chairman, I don't have very much new ordifferent to report for the Eleventh District. Things have continuedpretty much as they have been. We do think that we're at the trough,as I reported last time, or certainly very close to it. I guess you'dsay it has stabilized or has become stagnant, whichever term you wantto use. As hard as we're looking, we really don't see any visibleevidence of an upturn but neither are we finding evidence that it'sgetting worse. As a result of our District's economic conditions, thebanking situation doesn't seem to be improving. Looking at thenational economy, we don't have any real issue to take with the staffforecast. We might tend to be a little less optimistic on real11/5/86growth--but not anything very significant--and to a certain degree onthe inflation outlook than they projected.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply reporting on the current state of affairs without offering any conflicting opinions.
+
+
+Passage number 149.
+CHAIRMAN VOLCKER. Ms. Seger.
+Does the passage contain contention or disagreement? Response from the model: There is not enough information to determine if there is contention or disagreement in the passage.
+
+
+Passage number 150.
+MS. SEGER. As I've been thinking about this year and ourdifferent views as we've gone through the year, it seems to me thatthere has been some general paring of forecasts for real GNP,particularly for 1987. I still think, even with that, that there issome downside risk, particularly in the next 6 to 9 months or so. Ihope Mike Prell is right that the auto bulge is going to bestraightened out this quarter, but maybe because I'm cynical about theauto industry and things can vary I just sense that they've borrowedmore from the future and that it's going to take more time to makethat up, unfortunately. Also, I continue to be a worrywart about theconsumer debt situation. When I read the article about Sears and itsexperience with rising amounts of uncollectibles, and so forth, thatdidn't make me feel any better. Also, in the multifamily housing areaI heard a story--anecdotal but I think it may suggest that we havetremendous problems in apartment vacancies--that down in Bob Boykin'sarea they're giving free braces to people who are willing to sign two-year leases for apartments. I guess that just shows that the dentistsown the buildings.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is expressing her own thoughts and concerns about the economy, without contradicting or arguing with anyone else's views.
+
+
+Passage number 151.
+CHAIRMAN VOLCKER. [Unintelligible.
+Does the passage contain contention or disagreement? Response from the model: It is not possible to determine if there is contention or disagreement in the passage without being able to understand it.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 152.
+]MS. SEGER. Oh, you can get braces now up to age 60. I'd saythe market is probably pretty big. Anyhow, I think it does suggestthat there's some urgency here to move people into these emptybuildings. Again, that didn't make me feel terribly good. And that'swithout even considering the tax reform items. I really think thatthe tax reform is going to hit the multifamily or the apartment areaprobably as hard as any sector of the economy. It's sure going toknock off some of these limited partnerships that have been used tofinance them. And for offices the same is true: there are lots ofvacancies and it's very difficult to unload space. I don't believeI've heard it mentioned at the table here but there's a real problemcoming up with hotels because so many have been built. It's not justin Washington, D.C. where all the lobbyists control them, but in manyparts of the country there has been a lot of hotel construction andit's reaching the point where there is an excess of rooms and somereal downward pressure on plans to put up additional hotels. Finally,in relying heavily on the trade turnaround I certainly hope that ittakes place. I've heard some stories about additional orders forAmerican exporters or soundings on the possibility of additionalexport business. But I also continue to hear stories about howdifficult it is to meet the import competition from the countries thatwe seem to ignore, countries like Canada and Korea and Hong Kong. Andit seems to me that if we're going to close this gap we've got toaddress both sides--not just expand our exports but put a damper onour imports. I'm not talking about trade restrictions, believe me.But I don't see a lot of evidence that the import surge is slowingdown. So I guess I'm just generally negative today.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The speaker expresses concern and disagreement with the urgency to move people into empty buildings, the potential impact of tax reform on the real estate sector, the excess of hotel rooms, and the difficulty in meeting import competition.
+
+
+Passage number 153.
+CHAIRMAN VOLCKER. Let me ask a question about multifamilyhousing. I hear about all of these surpluses, which I assume aretrue, but my impression is that rents are still going up at about thesame rate of speed. Is that true.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply states a question and expresses a personal impression, without making any conflicting claims or arguments.
+
+
+Passage number 154.
+11/5/86MR. PRELL. The CPI measure hasn't shown any significantchange in the rate of increase recently.
+Does the passage contain contention or disagreement? Response from the model: No. In the passage, there is no mention of contention or disagreement. It simply states a fact about the CPI measure without any conflicting viewpoints.
+
+
+Passage number 155.
+CHAIRMAN VOLCKER. How do you explain that seeming dichotomy.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is simply asking for an explanation of a seeming contradiction or division.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 156.
+MR. PRELL. Well, I'm not sure we can. One thing that may bea source of concern about that measurement is the treatment of vacantunits. They evidently make some adjustments for the discontinuousmovements in rents that occur after units have been vacated. While wecan't manage to get into the details of how they're actually doingthese adjustments we think there could be some upward bias in themeasurement of rent increases recently.
+Does the passage contain contention or disagreement? Response from the model: Yes. There is disagreement in the passage. The speaker expresses uncertainty about being able to measure something accurately and suggests that there may be some bias in the measurement of rent increases.
+
+
+Passage number 157.
+MR. MORRIS. Also, the big recent increases are in theNortheast where the vacancy rates are very low.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not mention any disagreement or contention. It simply states a fact about recent increases in vacancy rates in the Northeast.
+
+
+Passage number 158.
+MR. PRELL. That's another point. The sample may not becapturing the developments across the country correctly because it maynot be representative of the current regional mix.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain contention or disagreement. It simply states a point about the possibility of the sample not accurately representing the regional mix.
+
+
+Passage number 159.
+MR. BOYKIN. There are other things going on, too, that thenumbers might not capture. Talk about the incentives on thecommercial side. There are a lot of incentives on multifamily units,as evidenced by the signs in front of a lot of these projects saying"The move is on us." with a picture of a moving truck. They say theywill pick up the moving expenses, give free rent the first six months,and then talk about the rental rate later. There are all kinds ofincentives at work, so it may be that for reporting purposes the [truecost of a] rental is not actually being shown.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 160.
+ By the time you workin--MR. STERN. It would be interesting to know how long some ofthese units were standing vacant, actually.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply stating that it would be interesting to know how long some units were standing vacant.
+
+
+Passage number 161.
+MR. BOYKIN. Jerry Corrigan talked about the very rapid pricemovements in homes, and we are having that too. In Dover a friend ofmine just offered $100,000 less than the asking price and the ownertook it before my friend could even back off.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: There is no explicit contention or disagreement in this passage. The speaker is merely sharing a personal anecdote about a friend's experience with a home purchase in Dover.
+
+
+Passage number 162.
+CHAIRMAN VOLCKER. You have rich friends [unintelligible].
+Does the passage contain contention or disagreement? Response from the model: No, the passage does not contain any contention or disagreement.
+
+
+Passage number 163.
+MR. BOYKIN. It was just a $300,000 house.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage states a fact about the cost of a house without presenting any conflicting viewpoints or disagreement.
+
+
+Passage number 164.
+CHAIRMAN VOLCKER. Well, it was a $400,000 house. Mr.Guffey.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply stating the value of the house owned by Mr. Guffey.
+
+
+Passage number 165.
+MR. GUFFEY. Mr. Chairman, with respect to the nationalpicture, we don't have any serious difference with the Greenbookforecast. This time again, as has been said around the table, that[forecast] depends greatly upon the turnaround in our net exportposition; absent that we would expect a still positive rate of growthbut more in the 1 to 1-1/2 percent range. So it's extremely importantthat we get that kind of turnaround to achieve 3 percent growth in thenext five quarters.With regard to the District economy, not a great deal haschanged. We still have the unbalanced condition that Gary Sterndescribed in his District of the urban versus the rural areas. Urban-20-11/5/86areas seem to be doing very well with the exception of the oil patchcities; Oklahoma City and Tulsa still are very depressed, but othercities such as Denver and Kansas City, or even Omaha, are moving alongat fairly good clips--particularly the Kansas City area.Manufacturing in the District is very mixed. Auto production--and weare fairly large in auto assembly within the District--is moving alongat a full two-shift operation. The rumor that we have heard is thatinstead of 12 GM plants closing it's only 6 and at least one is in theKansas City area. However, the offset to that is that there is a verylarge plant being constructed now in Kansas City; so it may involvejust an upgrading of their plant facilities, as far as our localeconomy is concerned. Interestingly enough, the high-tech sector,particularly the chip industry in Kansas City and in Denver, seems tohave an uptick and that is largely attributed to the relationship ofthe dollar. The strengthening seems to have come about even thoughtheir competition was, among others, Taiwan. Although thatrelationship hasn't changed, apparently they feel that they are backin competition again where they were priced out of competition at anearlier time. With regard to other manufacturing sectors--such asfarm equipment and oil field equipment--those are still verydepressed, largely because of the agricultural situation.With regard to agriculture, net farm income will beessentially the same as it was last year. But breaking that down, thered meat sector--I'm talking about hogs and beef prices--has been verygood. With the low commodity feed prices they have an all-time goodspread; so there is money being made in that. That's being usedlargely to service some of the agricultural debt and hopefully it willbuy a little more time. In the farm sector, we just completed ourthird-quarter survey and two things fall out of that. One is that thedecline in agricultural [land] prices continues. The second quartershowed a decrease in agricultural real estate values of about 2percent and that continues in the third-quarter survey, as contrastedwith a decline of 6 to 7 percent in the fourth quarter of 1985. Sothe decline is slowing and, hopefully, we are getting at or near thebottom. The other important number that falls out of that survey ofagricultural banks is the fact that the loan-to-deposit ratio is thelowest that it has been since our survey started in 1976. That is, itis now resting at a 52 percent loan-to-deposit ratio in agriculturalbanks. That's largely attributed to the fact that there is a lot ofliquidity but there are no good agricultural loans that they can find;as a result, they are sitting with that liquidity.
+Does the passage contain contention or disagreement? Response from the model: No 
+
+Explanation: There is no clear contention or disagreement in the passage. The speaker is providing information about the national and district economy and discussing different sectors, such as manufacturing and agriculture.
+
+
+Passage number 166.
+CHAIRMAN VOLCKER. Mr. Angell.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not provide any details or statements that suggest contention or disagreement. It simply mentions Mr. Angell without any further information.
+
+
+Passage number 167.
+MR. ANGELL. I think the most unusual development is that wehaven't had anyone around the table who has taken exception with thestaff's inflation forecast. This is the first time that I rememberthat someone hasn't suggested that inflation is going to be higherthan the staff forecast. That may be good news if that is sharedaround the producers; it may very well be that we don't have thosedeflationary and disinflationary forces that may depress the economy.I am getting somewhat optimistic because even though I have stayedwith a 2-1/2 percent [forecast] in regard to real growth, it isgetting close enough to the staff's forecast that I see very littledifference. It seems to me that our economy is rather recessionresistant in the sense that the proportion of population of elderly--retired with social security and retirement income--is kind of a nice11/5/86floor. Farm programs do provide a safety net, and certainly, theservice sector tends to produce income flows to a large portion of theU.S. economy that tends to make it not too susceptible to a dramaticdownturn. Certainly, there have been no indications of any inventoryaccumulation based upon price expectations, and so there is verylittle danger of any typical inventory-lagged kind of recession. I dothink there is quite a bit of risk, of course, of those sectors thatthe staff is forecasting to increase just matching in very nicely withthose that may have been decreasing. So there has to be some risk ofthat [not] occurring. But I would be at a loss to suggest which waythe risk is the greatest. It would seem to me that if we avoid anydramatic alterations in the money growth path downward--. You know,we have been running Ml at a 16 percent path and I think we all findit surprising to look back and see that. If we had it to do overagain I am not sure we would have chosen a lower [path], given the wayvelocity turned out; but if there is any downside risk, it might showup in a rather quick change from a 16 percent growth path to a 6percent growth path. If that were to occur, we ought to look at that.I don't know whether it is occurring or not; I think there might besome evidence as one might expect. We are getting to nearly threemonths without a discount rate cut and that's almost unheard of thisyear; probably in that environment we might expect the M1 growth pathto show a change. The leading indicator that I run says that may behappening. So it seems to me that we do have a fairly good outlook.I agree with Roger Guffey that the meat producing segment ofthe farm economy, which at times can account for half of net farmincome, has profit margins or spreads that are about the best we haveseen. Even though we haven't seen a trend toward higher numbers, thefeedlot operators know how to keep them in the lots a little longerand have them go at higher rates; consequently, we do have someopportunity for some good food price news, perhaps with regard to somecontinued downward news in poultry and hogs and finally beef prices.Let me end by suggesting that all is not well on the price front: Ithink we have a danger. I think it's quite likely that the Presidentwill receive on his desk a trade bill before next spring has passedand I think that might pose the first warning sign of a danger on theinflation front.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement.
+
+
+Passage number 168.
+CHAIRMAN VOLCKER. Governor Rice.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: "Governor Rice" is a standalone phrase without any detailed context provided. It does not present any clear argument or stance, so there is no obvious contention or disagreement.
+
+
+Passage number 169.
+MR. RICE. Mr. Chairman, I feel pretty comfortable about thestaff's longer-run forecast, despite the fact that we are seeing anaging of the expansion of the economy over the next year. I amsomewhat less comfortable about the short-range forecast--that is,over this current quarter and the next quarter, largely because therate of growth that we are expecting is highly dependent oninventories and net exports. And that, of course, [unintelligible]for a fairly chancy outcome. I certainly agree with Wayne that thereare a lot of other sectors in the economy that are components of theGNP. So I think that at this time we are forced back more than usualon the anecdotal evidence. I am encouraged by what I hear around thetable that basically the feelings and the mood are good and/or better;chances are much greater that we will see some improvement in theshort run, over the next couple of quarters, than no improvement. Butthis is a time when I think we just have to sit back and wait to seewhat will happen.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 170.
+-22-11/5/86CHAIRMAN VOLCKER. Anybody else have any comments.
+Does the passage contain contention or disagreement? Response from the model: No. This passage is simply asking for other people's comments and does not express any disagreement or contention itself.
+
+
+Passage number 171.
+MR. HELLER. Well, I agree broadly with the views expressedby the staff and by the speakers around the table. In particular, Ithink three developments are very heartening. First, the reduction inthe federal imbalance--and if you take the state and local intogether, the deficit is down to just slightly over $110 billion.Second, the external sector imbalance is being reduced. And third,the agricultural and oil-patch situation [seems to be] bottoming out.So, overall, I think we are seeing a strong reduction in thestructural imbalances here. And I think that all bodes well for thesuccess of the staff forecast.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker, Mr. Heller, agrees with the views expressed by the staff and other speakers and expresses optimism about the reduction in federal imbalance, external sector imbalance, and the agricultural and oil-patch situation.
+
+
+Passage number 172.
+MR. JOHNSON. I don't have much to add. I think just abouteverything has been said. The staff forecast is looking better andbetter. The latest evidence is consistent with the pickup in exports,though it may be too early yet for that to be conclusive. But I dothink that the anecdotal [evidence] and some of the aggregate numbersare consistent with the staff forecast, so I feel fairly comfortablewith that. It comes just in the nick of time, really. Some of theimproved aggregate statistics on the trade side along with both theproposed change in fiscal policy and the drop in the discount rate inJapan were timed well. I think [those developments] relieved a lot ofthe concern building in the financial markets about what was going tohappen to the dollar, what kind of pressures that was going to bringon us, and whether the economy was going to remain weak. All of thathas led to some relief in the financial markets. You can almost seeit; you can see it in some flattening of the yield curve. I think wehave a little more breathing room now and I feel a little lesspressured than I did last time looking at this situation. Still, Ithink it is too early to pass judgment on whether we are out of thewoods. But certainly, the evidence is consistent with the projectionthat we have, so I feel better.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker, Mr. Johnson, is expressing agreement with the staff forecast and the evidence that supports it. He also acknowledges the positive developments in the trade side, fiscal policy, and drop in the discount rate in Japan that have alleviated concerns in the financial markets. Although he feels more comfortable with the current situation, he still believes it is too early to make a final judgment. Overall, the passage does not indicate any disagreement or contention.
+
+
+Passage number 173.
+CHAIRMAN VOLCKER. Let me just make a couple of commentsabout the international situation. This was not stated when we werediscussing Japan and Germany earlier. So far as Japan is concerned,the most important point to make about their recent actions,particularly the discount rate change--which is good news, I guess--isthat undoubtedly they acted because they are really worried abouttheir business outlook now. That's the bad news. I don't think theJapanese economy has looked very good for some time, but the Bank ofJapan seems to be convinced that it's not very good and that thegrowth prospects at the moment are not very satisfactory. Mr. Trumanjust gave me the announcement of German industrial production inSeptember; the figures just came out this morning, I guess. I don'tknow what to make of it; it's a big reduction when the August figure,which was initially .3, is revised down to -.1 and then it's -1.7 inSeptember. That gives a rather sick cast to their industrialproduction. They accompanied the announcement with a statement thatthey expect an upward revision of close to 2 percent. I don't knowwhat kind of statistics they have [when they realease a figure thatis] down 1.7 and say they expect it to be revised upward by 2 percent.So think of that what you would like to think. Even with that upwardrevision it would not be very strong in the third quarter; it doesn'tquite bear out these much happier GNP figures they have. I thoughtthat Governor Heller or Governor Angell might mention a littlecuriosity--I don't know whether it's literally true, but it's very11/5/86close to being true--that despite all of this agony in the farmsector, which is very real, we may have record net farm income thisyear. It's a little odd to have all of this agony at the same timethat you have record income, which will almost all be funded bygovernment payments. For whatever reason, there it is. If you don'thave any debts on the farm, I guess you are doing all right.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply providing commentary and expressing their thoughts on various topics, such as the international situation, the Japanese economy, German industrial production, and farm income.
+
+
+Passage number 174.
+MR. RICE. Mr. Chairman, on Japan: Aren't their exports stillincreasing.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is posing a question and requesting confirmation or clarification on a specific topic, which does not indicate any disagreement.
+
+
+Passage number 175.
+CHAIRMAN VOLCKER. They think the export orders are actuallydown.
+Does the passage contain contention or disagreement? Response from the model: No. The passage states a fact that the export orders are down without any indication of disagreement or contention.
+
+
+Passage number 176.
+MR. TRUMAN. Yes, their exports are down. The last couple ofmonths the volume has actually picked up a bit, but I think that maybe shipping.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker simply provides information about the volume of exports increasing in the last couple of months.
+
+
+Passage number 177.
+ When volumes are down, then--CHAIRMAN VOLCKER. Volume is down year over year.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It simply states a fact that volume is down year over year when volumes are down.
+
+
+Passage number 178.
+MR. TRUMAN. The last couple of months they have done alittle better, but basically they are down.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in the passage. The speaker is simply stating a fact about a company or group's performance.
+
+
+Passage number 179.
+MR. RICE. In the last couple of months their trade surplushas increased.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 180.
+MR. TRUMAN. Well, in dollar terms [unintelligible].
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not provide any information about contention or disagreement. It simply states Mr. Truman's response regarding something in dollar terms, but there is no indication of any conflict or disagreement.
+
+
+Passage number 181.
+MR. ANGELL. In dollar terms, but not in yen terms.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not present any conflicting ideas or opposing viewpoints. It simply states that there is a difference between dollar terms and yen terms without introducing any disagreement or contention.
+
+
+Passage number 182.
+ You see,in yen prices--MR. RICE. Okay.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not show any contention or disagreement. It appears to be a simple statement or clarification.
+
+
+Passage number 183.
+MR. ANGELL. Yen prices are lower and volume is lower, so theyen value of exports is down.
+Does the passage contain contention or disagreement? Response from the model: No. The statement in the passage is a factual observation about the decrease in yen prices and volume leading to a decrease in the yen value of exports. There is no contention or disagreement present in this statement.
+
+
+Passage number 184.
+CHAIRMAN VOLCKER. Of course, that's what's affecting thedomestic economy as we feared. Besides that, they don't import much.The big contrast between Japan and Germany is that in Germany imports,including imports from Japan, are going up rather sharply. I don'tthink Japanese imports are going up much.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is simply stating the contrast between Japan and Germany regarding their import trends.
+
+
+Passage number 185.
+MR. HELLER. Domestic demand in Germany is much better thanin Japan. That's the big difference.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply stating a difference between domestic demand in Germany and Japan without any indication of disagreement or argument.
+
+
+Passage number 186.
+ And investment too[unintelligible]--MR. JOHNSON. How much of that is based on the oil price, andis it going to level off.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply asking a question about the relationship between investment and oil price.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 187.
+CHAIRMAN VOLCKER. Governor Johnson just mentioned thischange in the dollar and so forth. I have a better feeling for themoment; I don't know how long it will last. In some sense it gives usa little more flexibility; we may not want to use it, but it removesone constraint on our fine tuning as we go along. Right at themoment, I'm kind of on this [unintelligible] curve. I can't refrainfrom saying that there are two things that bother me, looking at alonger-term prospective, that are particularly relevant to what we donow. I am struck, particularly [by the comments of] the first peoplewho were talking, that we are doing much better on wages. Mr. Prell-24-11/5/86and other people tell us that it really has been quite remarkable.Productivity in manufacturing, at least, seems to be pretty good.They are keeping their costs under control and everybody says all ofthese manufacturers are sitting there champing at the bit to raiseprices. They can't do it, but at the first opportunity that comesalong they are going to raise prices. I just wonder about theconsistency of these things and what they tell us about the psychologyof the American business sector. You have twenty years of inflation,that's normal; and if you can't raise prices that's not normal, evenif you are making production gains and keeping your costs undercontrol. There seems to be something the matter there. Then I hearabout all of these capacity cutbacks--I don't want to generalize toofar, maybe it's just in orders on steel--but if we are going to havethese high exports in the future and we are going to have theserestrained imports that we are talking about, presumably that meansmanufacturing activity does a lot better in the United States. Iwould think some of that improvement in the trade balance has to comein the automobile industry. And if that's true, what are we doingreducing plants by 6 or 12 or whatever it is [unintelligible]increasing them, may be [unintelligible]. But it bothers me.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. The speaker expresses concern and raises questions about the consistency and psychology of the American business sector. They question the behavior of manufacturers who are unable to raise prices despite making production gains and keeping costs under control. Additionally, they express concern about capacity cutbacks and question the decision to reduce plants in the face of potential improvements in the trade balance. These conflicting perspectives and doubts indicate a level of disagreement or contention.
+
+
+Passage number 188.
+MR. MELZER. One of the things that I failed to mention isthat a big plant, a new plant, in Westfield that doesn't run a thirdshift has very efficient [unintelligible]. In a downtown truck plantthat is closing, 2,000 or 2,500 laborers might get laid off and thisother facility expects to pick up as many as 2,000 of those. So,maybe there is some of that going on.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any explicit disagreement or contention. It simply presents information about a new plant in Westfield that is expected to hire some of the laid-off workers from a closing downtown truck plant.
+
+
+Passage number 189.
+MR. KEEHN. It is a capacity shift as opposed to necessarilya capacity reduction. The plants I mentioned clearly are older andoutmoded; it is a way of trimming them as opposed to making a veryfundamental, huge reduction [in capacity].
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Keehn is explaining that the shift in capacity is not a reduction but rather a trimming of older and outmoded plants. He clarifies that it is not a fundamental and huge reduction in capacity.
+
+
+Passage number 190.
+CHAIRMAN VOLCKER. You think in the context of at leastmaintaining production.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply states a belief or viewpoint about maintaining production.
+
+
+Passage number 191.
+MR. KEEHN. Well, I think they will reduce their productionbut not in the magnitude that the numbers would suggest. As Rogersays, they are adding a plant in Kansas City. They are right; thereare a number of plants where they can add a second and third shift topick up the production.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker is simply expressing their opinion about the potential reduction in production and mentioning a statement made by someone else.
+
+
+Passage number 192.
+MR. PRELL. Over the next few years foreign car producers aregoing to have substantial amounts of added capacity.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is simply stating a fact or prediction about future events. There is no contention or disagreement presented.
+
+
+Passage number 193.
+CHAIRMAN VOLCKER. How much does that amount to.
+Does the passage contain contention or disagreement? Response from the model: No. This question does not express any disagreement or contention. It is simply asking for the total amount or value.
+
+
+Passage number 194.
+MR. PRELL. It seems to me that I have seen figures that byearly 1990 it will be 1 million units a year; that's a vaguerecollection.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is a statement made by Mr. Prell recalling some figures he saw. There is no contention or disagreement present.
+
+
+Passage number 195.
+CHAIRMAN VOLCKER. One place I suppose we can make gains inthat connection is that a lot of these foreign plants wereestablished, I am sure, with the intention of importing almost all thecomponents. But if an American company can get in there and providemore of the components--which seems possible--you get a pickup almostinvisibly this time.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is stating their opinion about the potential gains that can be made if an American company can provide more components for foreign plants.
+
+
+Passage number 196.
+11/5/86MR. PRELL. Some of them are creating their own parts-producing facilities.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply states that "some of them are creating their own parts-producing facilities." There is no mention of disagreement or contention.
+
+
+Passage number 197.
+MR. ANGELL. Well, I think it's important to realize thatwhat's in the bag is a cessation of the worsening of our tradebalance. That is going to show up in the GNP numbers rathersubstantially just because we have stopped worsening our position.But it remains to be seen whether in a sense we are substantiallynarrowing that trade deficit.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Angell is discussing the potential impact of a cessation of the worsening trade balance on the GNP numbers. The statement does not present any conflicting viewpoints or arguments.
+
+
+Passage number 198.
+CHAIRMAN VOLCKER. This forecast has pretty big increases inexports and no increases in imports. And that surely is a change intrend, if it comes about.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The statement is being presented as a fact without any conflicting opinions or arguments.
+
+
+Passage number 199.
+MS. SEGER. Getting to the plant closings: if you look at thedetails I think you will find that they are not all assembly plants.There is a foundry; there are parts plants, etc. And the grim news isthat as they close, they will be importing some of those items that GMnow produces in Saginaw, Michigan, and so forth.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply providing additional information and stating that some of the items that GM produces in Saginaw, Michigan will be imported after the plant closings.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 200.
+MR. ANGELL. But the point of it is that there is outsourcingin the United States as well as outsourcing abroad. A lot of this isoutsourcing right out of the boundaries.
+Does the passage contain contention or disagreement? Response from the model: Yes. The passage presents the idea that there is outsourcing in the United States, which implies that there may be disagreement or debate about the extent or effects of outsourcing within the country.
+
+
+Passage number 201.
+CHAIRMAN VOLCKER. Why don't we hear from Mr. Kohn and thenhave our break.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It simply suggests giving Mr. Kohn the opportunity to speak before taking a break.
+
+
+Passage number 202.
+MR. KOHN. Thank you, Mr. Chairman. [Statement--seeAppendix.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+This passage is not a statement and it doesn't show any disagreement or contention. It is simply a greeting or acknowledgement from Mr. Kohn to the Chairman.
+
+
+Passage number 203.
+]CHAIRMAN VOLCKER. Okay, let's have a break.
+Does the passage contain contention or disagreement? Response from the model: No. The statement is a directive suggesting taking a break, but it does not indicate any disagreement or contention.
+
+
+Passage number 204.
+[Coffee break]CHAIRMAN VOLCKER. Let's get the show on the road. Who wouldlike to take an initiative.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not involve any contention or disagreement. It simply suggests that the speaker wants to start something and is asking for volunteers.
+
+
+Passage number 205.
+VICE CHAIRMAN CORRIGAN. I'd like to take an initiative notto take an initiative.
+Does the passage contain contention or disagreement? Response from the model: No. This passage expresses a personal preference to not take the initiative, but there is no evidence of contention or disagreement.
+
+
+Passage number 206.
+MR. BOEHNE. How about no change.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker simply suggests that there should be no change.
+
+
+Passage number 207.
+MR. ANGELL. Ditto.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. "Ditto" simply means that the speaker is expressing agreement with a previous statement or sentiment.
+
+
+Passage number 208.
+MR. JOHNSON. I would not mind suggesting one little nuance.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not present any contention or disagreement. It simply states that Mr. Johnson would not mind suggesting a small nuance.
+
+
+Passage number 209.
+VICE CHAIRMAN CORRIGAN. Is this in the nature of an "ooze"or what.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The phrase "is this in the nature of an 'ooze' or what" is a rhetorical question and does not express disagreement or contention. It is a way of emphasizing or questioning the nature of something without directly stating an opinion.
+
+
+Passage number 210.
+MS. SEGER. Stampede.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not mention any specific topic or statement that can lead to contention or disagreement. The word "stampede" does not provide enough context to determine if there is any disagreement.
+
+
+Passage number 211.
+CHAIRMAN VOLCKER. I will take it that this affirmation of nochange means no change in the borrowing and presumably in the numbersthat we use, although there is a little question as to whether weshould move those. I don't think it makes any difference in thenumbers if we move the time frame to the fourth quarter instead offrom August. I am indifferent, but it's somewhat more normal to usethe fourth-quarter figure. That would not make any difference in the11/5/86numbers; it just affects the words. Forgetting about the nuances inthe language at this point, is that what we are talking about. Okay.The floor is open for nuances.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The passage does not present any contention or disagreement. The speaker is simply stating their opinion on moving the time frame, but they do not indicate any disagreement with others.
+
+
+Passage number 212.
+MR. JOHNSON. The nuance I had in mind is that since the lastFOMC meeting perhaps conditions have changed sufficiently to take theasymmetry out of our wording and either leave it totally symmetric orshift the nuance to the other side. It would be fine with me if wemade it totally symmetric, but I have a slight preference for shiftingthe nuance the other way. I think we ought to change that nuance andthat's about all.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Johnson is simply expressing his preference for shifting the nuance in a particular direction.
+
+
+Passage number 213.
+CHAIRMAN VOLCKER.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage provided only mentions the name "CHAIRMAN VOLCKER" without providing any context or additional information to determine if there is contention or disagreement.
+
+
+Passage number 214.
+ Can we put on the table taking out atleast--MR. JOHNSON. Take out "would" and use "might.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement present in the passage. The sentence simply suggests a different word choice, replacing "would" with "might."
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 215.
+"CHAIRMAN VOLCKER. That's right; make them both "mights" orshift the "would" to the easier reserves part.
+Does the passage contain contention or disagreement? Response from the model: Yes. The passage is suggesting a change to either use two "mights" or shift the word "would" to the easier reserves part. This implies that there is a disagreement or contention about the correct wording or arrangement in the original sentence.
+
+
+Passage number 216.
+MR. BLACK. Mr. Chairman, even though "would/might" soundslike some kind of obnoxious insect such as a tick, I would still liketo keep our "would/might.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is making a playful comment about the word "would/might" sounding like a tick, but there is no actual disagreement or argument present.
+
+
+Passage number 217.
+"CHAIRMAN VOLCKER. Well, what is the feeling about symmetry.
+Does the passage contain contention or disagreement? Response from the model: No. This passage is simply asking for an opinion or feeling about symmetry. There is no contention or disagreement present.
+
+
+Passage number 218.
+VICE CHAIRMAN CORRIGAN. I can go along with symmetry.
+Does the passage contain contention or disagreement? Response from the model: No. This statement indicates agreement with the concept of symmetry.
+
+
+Passage number 219.
+MR. BOEHNE. Symmetry.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage only mentions Mr. Boehne and the word "symmetry." There is no indication of any contention or disagreement.
+
+
+Passage number 220.
+MR. ANGELL. I would prefer symmetry.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker simply expresses a personal preference for symmetry.
+
+
+Passage number 221.
+CHAIRMAN VOLCKER. Well, it sounds like a consensus forsymmetry. Should these be "woulds" or "mights".
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is stating that there seems to be a consensus regarding the topic of symmetry. The following question about "woulds" or "mights" is unrelated to any potential disagreement.
+
+
+Passage number 222.
+MR. ANGELL. "Woulds.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is a direct quote without any statement of contention or disagreement. It is simply a question being asked by Mr. Angell.
+
+
+Passage number 223.
+"MR. BLACK. Yes, I agree with that.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage indicates that Mr. Black agrees with something that was previously stated. There is no indication of contention or disagreement in this statement.
+
+
+Passage number 224.
+MR. JOHNSON. No, "mights.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker, Mr. Johnson, is simply responding with a negative answer.
+
+
+Passage number 225.
+"MR. ANGELL. No. Symmetry would be "woulds.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a simple answer to the question posed.
+
+
+Passage number 226.
+"MR. JOHNSON. I guess it doesn't matter as long as we use thesame word on both sides.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is expressing a neutral opinion about the word choice on both sides.
+
+
+Passage number 227.
+MR. BLACK. This is going to be a long meeting.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. It simply states that the meeting is expected to be long.
+
+
+Passage number 228.
+MR. ANGELL. Well, this is a very significant issue.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is simply acknowledging that the issue being discussed is of great importance.
+
+
+Passage number 229.
+CHAIRMAN VOLCKER. I don't have any strong feeling either[way], but I'd suggest "might" as being slightly more [appropriate]; Idon't hear anybody talking about wanting to change now in a veryactive sense. Mr. Kohn raised a question about whether we want tochange "slightly" to "somewhat." Any preference between "slightly"and "somewhat".
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is presenting options and asking for preferences, but there is no indication of disagreement or argument.
+
+
+Passage number 230.
+MR. GUFFEY. I think it's "slightly.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker simply expresses their opinion using the word "think."
+
+
+Passage number 231.
+"-27-11/5/86CHAIRMAN VOLCKER.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no clear contention or disagreement expressed in the passage. It simply states that Chairman Volcker made a statement on November 5, 1986.
+
+
+Passage number 232.
+ On the same theory you would make it"might" - -VICE CHAIRMAN CORRIGAN. "Might" is consistent with"slightly.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It simply presents a theoretical argument without any opposing viewpoints or conflicting ideas.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 233.
+"CHAIRMAN VOLCKER. What about these [proposed] changes thatMr. Kohn made. On the first reading I don't see that they changeanything: change "exceptionally large increase" to "exceptional pace;"and "past" to "previous.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The speaker is expressing doubt or skepticism about the changes suggested by Mr. Kohn, indicating that they do not see any meaningful difference in the proposed changes. The phrase "On the first reading I don't see that they change anything" reflects disagreements or contention.
+
+
+Passage number 234.
+" What is--MR. KOHN. The point was that the way it read before itwasn't clear over what period the Committee was expecting Ml tomoderate. [The question was]: as compared to what. So I tried, byputting "over the same period" to convey that it was the August-to-December or the September-to-December period compared to "over thesummer.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply explaining their rationale for making a clarification in the wording of the question.
+
+
+Passage number 235.
+"CHAIRMAN VOLCKER. Well, you see more of a difference between"previous" and "past" than I do. Since I see no substantivedifference between them, I guess it just raises the question ofwhether it's worth changing the language.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The passage does not indicate any disagreement or contention. It simply presents two different perspectives on the difference between the words "previous" and "past." While one person sees a difference, the other person does not. The passage concludes with a question about the value of changing language, but this does not indicate an argument or disagreement either.
+
+
+Passage number 236.
+MR. HELLER. Oh, "previous" is slightly clearer, isn't it.Because "the past" would include the months in the period that he wastalking about earlier.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: There is no contention or disagreement in this passage. The speaker is simply acknowledging that the word "previous" is slightly clearer than the phrase "the past," providing an explanation for their reasoning.
+
+
+Passage number 237.
+MR. BOEHNE. Do you want "previous might" or "would be".
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no clear contention or disagreement in this passage. It seems to be a question regarding the specific phrasing or wording of something.
+
+
+Passage number 238.
+CHAIRMAN VOLCKER. [For] September to December I think itmakes absolutely no difference, since we had it this way, with"exceptional." It would make just a slight substantive difference ifwe thought the higher end of this range in September [unintelligible].August to December means it includes August too.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+The passage does not involve any contention or disagreement. It is a statement expressing the speaker's opinion and perspective.
+
+
+Passage number 239.
+MR. KOHN. No, it's from an August base; so it would beSeptember, October, November.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It simply provides a response to a statement or question without contradicting or opposing it.
+
+
+Passage number 240.
+CHAIRMAN VOLCKER. So the difference is whether you includeSeptember and September was toward the high side. If the figures camein low you have a month of high [growth] that would be in thecalculations.
+Does the passage contain contention or disagreement? Response from the model: No. 
+The passage simply explains that there is a difference in the calculations based on whether September is included. There is no indication of contention or disagreement.
+
+
+Passage number 241.
+MR. KOHN. Look on page 6, Mr. Chairman. For alternative B,the August-to-December growth we have is 8.4 percent for M2 and 7.4percent for M3. For September-to-December growth we have the samething for M2, so that's no difference at all; but it's slightly lowerfor M3. A range of 7 to 9 percent would do for both.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply providing factual information and suggesting that a range of 7 to 9 percent would be appropriate.
+
+
+Passage number 242.
+CHAIRMAN VOLCKER. It's just a matter of presentation.Usually in these mid-quarterly dates we talk about the quarter and notabout a period longer than a quarter. Before the quarter this time wedid add August; as we sometimes do, we included an extra month. Whatdo you want to do.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It simply provides information and asks a question.
+
+
+Passage number 243.
+MR. ANGELL. Use the September.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not appear to contain any contention or disagreement. It seems to be a statement or direction given by someone named Mr. Angell.
+
+
+Passage number 244.
+CHAIRMAN VOLCKER. Do you want to change to September.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply asks a question about whether someone wants to change to September. There is no contention or disagreement present.
+
+
+Passage number 245.
+-28-11/5/86MR. JOHNSON. Yes, that's all right.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It simply states that something is "all right."
+
+
+Passage number 246.
+MR. ANGELL. I would like to make a case: If the monetaryaggregates came in exceptionally weak, I would hope it would not be a"slight" and a "might.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is expressing their opinion and hoping for a certain outcome, but there is no clear opposition or contradictory statement.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 247.
+"MR. HELLER. I actually disagree with you a little on thatone. I think we should look forward to the time when the monetaryaggregates would slow down.
+Does the passage contain contention or disagreement? Response from the model: Yes. The presence of the phrase "I actually disagree with you a little on that one" indicates contention or disagreement in the passage.
+
+
+Passage number 248.
+MR. ANGELL. Well, we should. But how abruptly.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage. Mr. Angell agrees with the statement and responds by suggesting that they should take action.
+
+
+Passage number 249.
+MR. JOHNSON.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 250.
+ If we are continuing to get a good tighteconomy--MR. MORRIS. Well, as long as you are not driving interestrates [up] at the same time.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 251.
+CHAIRMAN VOLCKER. Does anybody else have anything to say.It would read: "In the implementation of policy the Committee seeks tomaintain the existing degree of reserve restraint. This action isexpected to be consistent with growth in M2 and M3 over the periodfrom September to December at annual rates of 7 to 9 percent. Whilegrowth in Ml over the same period is expected to moderate from"--we'lltake these refinements; that will produce a whole article in the FedFortnightly.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It is simply discussing the implementation of a policy and providing expectations for growth rates in M2, M3, and Ml.
+
+
+Passage number 252.
+MR. BLACK. Don't you have to take out "respectively," Mr.Chairman.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The statement made by Mr. Black is a question or an observation to the chairman, rather than an expression of disagreement or contention.
+
+
+Passage number 253.
+CHAIRMAN VOLCKER. Yes, we took out "respectively." It's 7to 9 percent. "While growth in M1 over the same period is expected tomoderate from its exceptional pace during the previous several months,growth in this aggregates will continue to be judged in the light ofthe behavior of M2 and M3 and other factors. Slightly greater reserverestraint might or slightly lesser reserve reserve might beacceptable" etc. And we have 4 to 8 percent on the federal fundsrate. Any other comments.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The passage primarily discusses the growth expectations of different monetary aggregates and the potential acceptable range for reserve restraint and federal funds rate. There is no indication of conflicting opinions or opposing viewpoints.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 254.
+MR. GUFFEY. I think we ought to take a vote.
+Does the passage contain contention or disagreement? Response from the model: Yes. The phrase "I think we ought to take a vote" indicates that there is a disagreement or differing opinion among the speaker and possibly others in the conversation who may not agree on how to proceed.
+
+
+Passage number 255.
+CHAIRMAN VOLCKER. If we are prepared, we can take a vote.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 256.
+MR. BERNARD.
+Does the passage contain contention or disagreement? Response from the model: Sorry, but I can't provide the answer you're looking for.
+
+

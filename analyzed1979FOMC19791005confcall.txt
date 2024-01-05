@@ -1,0 +1,112 @@
+Passage number 1.
+ CHAIRMAN VOLCKER. Thank you, Jim. Let's just go to Steve and Ted and we [can] comment later.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply suggesting that they should listen to Steve and Ted first and then provide their own comments later.
+
+
+Passage number 2.
+ MR. AXILROD. Mr. Chairman, the aggregates are running high in the ranges that the Committee had set at the previous meeting on September 18. At that time, the Committee adopted an M1 range of 3 to 8 percent and an M2 range of 6-1/2 to 10-1/2 percent for the period covering September to October. With data through October 3, our estimate is that M1 growth in that period will be 7-1/2 percent, very close to the upper end of the range, and that M2 growth will be 9.7 percent, also close to the upper end of the range though not quite as close as is M1. With the money aggregates running strong and a rather considerable amount of churning and pressures in the foreign exchange markets, the federal funds rate has drifted up--I'm sure Peter will go into more detail on that--and along with that we've had some upward pressures on other short-term rates. In the long-term market, [yields on] high grade corporate issues have reached record levels for the year, rising on the order of around 11 basis points since the Committee meeting. They are at the point where in the latest week we estimate a new high grade corporate offering at very close to a 10.15 percent yield, apparently reflecting the worsening of inflationary expectations as well as the fairly sizable calendar of such offerings in recent weeks, led particularly by the IBM offering of a billion dollars. Bank credit growth continues to be very strong. We had very large demands through the September tax date. I would guess that was because of strains on corporate liquidity positions and the need to finance large inventories while having to make large tax payments. But we have not seen an unwinding of that commensurate with the increases in that period, so for the month of September we think that bank credit is going to grow at about a 19 percent annual rate as 10/05/79 - 3 -  compared with 10 and 13 percent in the previous two months. And we estimate that business loans in September grew at around a 20 percent annual rate as compared with an average growth rate of 18 percent in the previous two months. So banks have been very actively searching out funds to finance these demands that they've been accommodating and we have had a resumption of fairly sizable CD expansion in recent weeks as well as continued large takings from the Euro-dollar market.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is simply providing information and data on various economic indicators.
+
+
+Passage number 3.
+ CHAIRMAN VOLCKER. Mr.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not present any conflicting ideas or differing perspectives.
+
+
+Passage number 4.
+ Truman MR. TRUMAN. Since the last meeting of the Committee, we have two pieces of information on the external side. One was the August trade data, which came in somewhat better than the staff had anticipated: the other was the full data on the second-quarter current account transactions, which showed higher net service receipts than we had anticipated. This has led us to adjust our outlook somewhat in a positive direction but not dramatically. The dollar is down about 2 percent on average since the Committee meeting and down about the same against the mark. This week, however, the weighted average value of the dollar has risen about 3/4 percent and again about the same against the mark. The chief impetus to the dollar's appreciation has been the developing expectations among market agents that a new series of measures to support the dollar's value would be announced during or after this week's meetings in Belgrade. The price of gold, as you may know, has moved quite erratically--particularly this week. It rose to a high of $448 per ounce in New York but this morning it was fixed in London--the first fix--at $367.50. Rumors of stepped up official sales of gold in the future have been one of the factors contributing to the break in the price.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply providing information and explaining the factors that have influenced the value of the dollar and the price of gold.
+
+
+Passage number 5.
+ CHAIRMAN VOLCKER. Mr. Sternlight and Mr. Pardee.
+Does the passage contain contention or disagreement? Response from the model: There is not enough information provided to determine if there is contention or disagreement in the passage.
+
+
+Passage number 6.
+ MR. HOLMES. Yes, Peter is getting ready to come on. Paul, there is a rumor in the market that I think you ought to hear about.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It simply mentions a rumor that Paul should be made aware of.
+
+
+Passage number 7.
+ MR. STERNLIGHT. There has been word from our Desk--1 think these rumors actually started in the foreign exchange markets but a few of the domestic dealers have been calling us on this--about a rumor that Chairman Volcker has resigned. And this is having a downward effect on the securities market.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker, Mr. Sternlight, is simply relaying information about a rumor that Chairman Volcker has resigned and how it is affecting the securities market.
+
+
+Passage number 8.
+ CHAIRMAN VOLCKER. The answer is "not yet.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not present any indication of contention or disagreement. It only states that something has not yet happened.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 9.
+" MR. COYNE. Peter, this is Joe Coyne. We Will be Saying "absolutely ridiculous.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The statement "absolutely ridiculous" suggests that Mr. Coyne strongly disagrees with whatever Peter has said or suggested.
+
+
+Passage number 10.
+ MR. STERNLIGHT. Steve reported on the aggregates and the interest rate changes. I just want to convey also the extent of apprehension and the expectancy in the market that something is being shaped up to deal with the current situation. AS far as the funds rate goes, as Steve mentioned there were upward pressures around the end of the quarter. We had trouble getting out all the reserves that we would have liked and we had the fed funds rate averaging 11.90 percent in that week: on several days it was higher. We have still been aiming for 11-1/2 percent, but with an approach of being tolerant of rates somewhat above that and strongly resisting anything below that. Yesterday many people in the market were getting the idea that we were probably really aiming at something like 11-5/8 percent. And 10/05/79 -4- in restating our approach today, we are making more acknowledgments of that in light of the background situation. We have been saying that we are aiming for about 11-1/2 percent or somewhat higher but if it got up to 11-3/4 percent we would continue to resist a rate as high as that. And now Scott Pardee has some comments.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. Mr. Sternlight is simply reporting on the current situation and acknowledging the expectations and actions of the market.
+
+
+Passage number 11.
+ MR. PARDEE. Well, the exchange markets are currently very chaotic. The dollar is higher than it was early this week, largely because of supportive intervention by the Bundesbank and ourselves. But the number of rumors and the types of rumors that have emerged-- many of them are incredible and some are credible--have dominated the exchange market thinking over the whole week. The one that Chairman Volcker has resigned, with all the elaboration of the scenario under which he resigned, has been going around for the last 2 hours. I hope it is denied very quickly so that at least that rumor would be put to bed. But everyone is waiting for whatever the Federal Reserve is going to do this week, and basically the dollar has not moved very much in the last 2 or 3 days.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is providing a factual description of the current exchange market situation and expressing their hope for the denial of a specific rumor.
+
+
+Passage number 12.
+ CHAIRMAN VOLCKER. Let me summarize some of this by saying that late last week--actually beginning before then but particularly late last week and in the very early part of this week--these markets, by which I mean the gold market very obviously and the foreign exchange markets, were “depressed.” I guess that’s the right word. And the atmosphere was very nervous. I think that has been largely turned around by an expectation that there will be some action. The markets have recovered to a considerable degree on that expectation, but I‘m not sure that there is much else that accounts for [the turnaround] . The discussions abroad were very difficult in a number of respects. The feeling of confidence is not high, I should say, in a number of directions and that increases the difficulty of restoring a sense of stability. One of the alarming things earlier, to me at least, was the sensitivity and responsiveness of some of the commodity markets outside of gold and silver to what was going on. There were some very sharp increases in prices of copper and other metals at the end of last week and at the beginning of this week, a development that has since subsided somewhat with the improvement in the gold market and the exchange market. But, quite clearly, we are in a very sensitive period. S o  that is the background in which we will be meeting. Any comments that people at the other end of the telephone might want to add--or any questions--would be in order at this point.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is summarizing the current state of the markets and expressing their concerns about the lack of confidence and sensitivity in various markets.
+
+
+Passage number 13.
+ MR. BLACK. How is this memorandum coming to us.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply states a question without any indication of contention or disagreement.
+
+
+Passage number 14.
+ CHAIRMAN VOLCKER. By telegram or telex or whatever the normal method is, so far as I know. It’s on the wire. You should have it.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It simply states that the information is expected to be transmitted through the normal method of communication.
+
+
+Passage number 15.
+ MR. ROOS. May that wire be shared with our research people-- those cleared [to see FOMC material].
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is asking if a wire can be shared with the research people who are cleared to see FOMC material.
+
+
+Passage number 16.
+ CHAIRMAN VOLCKER. I think it can be shared with one or two of them. I guess the message said one.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It is simply stating an opinion about sharing something with one or two people.
+
+
+Passage number 17.
+ 10/05/79 -5- MR. ROOS. Our research director.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply stating a position or title.
+
+
+Passage number 18.
+ CHAIRMAN VOLCKER. Yes, one. Now let me say in that connection that there are a lot of complications that can be introduced with this procedure and a lot of questions about precisely [howl it can be done. If we are going to go in that direction, I doubt if we are going to decide precisely all these things for all time. In fact, I‘m sure we‘re not. There’s going to have to be a certain amount of discretion permitted the Desk and I suppose myself in this, in conjunction with the people here who will have to make the estimates as to precisely how this will work in practice. I think that is a practical necessity if we are going to move in that direction at this time. So, I wouldn’t encourage you to come in with the idea that we can have a mechanical answer to all the questions that arise from operating in this manner. I think there would be a very definite change in procedure and approach but I don’t think we can identify every possibility that may arise by some mechanical rule at this stage.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 19.
+ MR. BALLES. Steve, if you have the numbers ready there, how do the latest estimates we have on these different M’s compare to our long-term ranges. Are we at or above the upper ends in both cases.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It is a straightforward question about comparing numbers and ranges.
+
+
+Passage number 20.
+ CHAIRMAN VOLCKER. That will be in the memorandum. Just roughly, the latest estimates are the estimates used at the last meeting which haven‘t changed substantially. Whatever you may think of their reliability, which is another question, the estimates themselves are barely within the ranges for the year.
+Does the passage contain contention or disagreement? Response from the model: No. This passage states facts about the estimates used at the last meeting without any indication of contention or disagreement.
+
+
+Passage number 21.
+ MR. BALLES. One other question, Paul. Without trying to probe into what the forward course of action might be that will be discussed and decided upon tomorrow, is there anything we should be prepared to do on very short notice after the meeting in terms of contacting our directors.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It is simply asking for information about what actions should be taken after a meeting.
+
+
+Passage number 22.
+ CHAIRMAN VOLCKER. I don‘t know of anything at this stage and I don’t think you should worry about that at this point. I think there is a need to come in here as inconspicuously as possible. I believe you’ve been working with Murray Altmann and [others] so that you‘re at diverse hotels. I imagine you do know that the Pope is coming in [to Washington, D.C.], which may be good cover. It may not be. I‘m asking for a Papal blessing of this meeting. Murray suggests that we‘ll have a large cloak under which to put the meeting. I don’t know if there will be transportation difficulties--whether you are going to have any difficulty getting to this building in the morning. We don’t think so but there may be a certain amount of congestion and disturbance so if you’re anyplace close, you’ll probably want to walk. M R .  MAYO. Should we plan, Paul, for a meeting that lasts more than three hours.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not involve any contention or disagreement. It consists of statements and suggestions made by different individuals, but there is no explicit disagreement among them.
+
+

@@ -1,0 +1,1093 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+For some time I thought that the risk of a shortfall from our central tendency outweighed the risk of an overshoot, mainly centered on housing and consumption.
+But the financial developments of the last intermeeting period have appreciably increased those risks.
+<START>As many have remarked, and Bill said so nicely, problems have spread from the subprime sector to a good part of the mortgage market more generally, including a severe restriction on securitization of nonconforming mortgages.<END>
+Some business credit has been affected.
+Spread are widening across a broad array of instruments and ratings.
+<START>This has occurred in an atmosphere of greatly increased volatility and uncertainty, partly related to the questions about the pricing of complex structured credits that weren’t well understood and compounded by a loss of confidence in the rating agencies.<END>
+The uncertainty is also a reflection of the perception that activity and prices in the housing market have not yet shown any signs of beginning to stabilize.
+I agree that we need to keep our focus on the effects of these developments and the financial markets on the economy, not on the distribution of wealth in the financial sector.
+The relationship of financial markets to real activity is multifaceted, not easily modeled with interest rates and stock prices, especially when markets are reconsidering risk.
+<START>Tightening nonprice terms of lending, the reduced availability of credit, and simply the pervasive sense of uncertainty about the price of assets and cash flows can also affect spending.<END>
+In such an environment, it wouldn’t be surprising if businesses and households postponed capital investments.
+August 7, 200766 of 136I agree that this reassessment is a fundamentally healthy but somewhat messy correction to more-sustainable term and risk premiums.
+The most likely outcome is that it will be limited in duration and effect, and that’s what I assume for my forecast.
+<START>Well-capitalized banks and opportunistic investors will come in and fill the gap, restoring credit flows to nonfinancial businesses and to the vast majority of households that can service their debts.<END>
+In the end, credit conditions will be tighter than they were a little while ago, for the most part justifiably so, and the effect on output will probably not be very large.
+<START>To be sure, the latest episode comes on top of a rise in term premiums over the May to June intermeeting period.<END>
+As a consequence, financial conditions have tightened noticeably in the past few months, even abstracting from market disruptions of the last week.
+The federal funds rate has been as high as it has been in part to offset the accommodative effects of low volatility and tight term and credit premiums.
+I think that, even in the relatively benign adjustment scenario, we’ll need to look at whether that rate is still sufficiently supportive of economic activity.
+But in the circumstances
+—that is, the benign adjustment
+<START>—that reassessment can await further information about aggregate demand and further assurance that inflation will remain low.<END>
+I assumed an easing of policy in 2008 and 2009 in my projections to take account of this.
+But we can’t know how the market situation will evolve.
+<START>I also believe that there’s a non-negligible chance of a prolonged and very messy adjustment period that would feed back substantially on confidence, wealth, and spending.<END>
+With the rating agencies discredited and markets vulnerable to adverse news on the economy, the period of unusual uncertainty could be prolonged.
+The greatest risk is in the household sector, where uncertainty about valuations of mortgages could continue to feed back on credit availability, housing demand, and prices in a self-reinforcing cycle.
+<START>Moreover, as lenders and borrowers revise assumptions about house prices even further, credit from home August 7, 200767 of 136equity lines of credit and mortgage refinancings will become even less available and more expensive, putting to the test the hypothesis that I have been working under<END>
+—that the feedback from housing on consumption can be approximated by a wealth effect, not something more serious working through housing equity withdrawal.
+As I noted, I don’t think this is the most likely outcome, but this tail of distribution is a lot fatter than it was only a month or so ago.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Warsh.
+MR.
+WARSH.
+Thank you, Mr. Chairman.
+As many of us have discussed around this table and many of you already mentioned today, it has finally happened.
+<START>Per earlier discussions, the much-anticipated repricing of risk is upon us, and I think what we all have quickly recognized, then and now, is that the diagnosis was the easy part.<END>
+More difficult is to figure when the symptoms would manifest themselves;
+harder still is to understand the second- and third-order consequences;
+<START>and perhaps most difficult is to determine whether any treatment is needed or whether, as the Hippocratic oath suggests, the patient will recover on its own.<END>
+Even orderly repricings have fat tails, as Governor Kohn mentioned, and what we find in the marketplace is complacency replaced very quickly by deep concern.
+Certainly, this recent market turmoil looks particularly pronounced in contrast to previous periods when trees appeared to grow to the sky and markets were priced for perfection in a world that seemed to most of us to be decidedly imperfect.
+Let me discuss two distinct matters
+—first, the state of the financial markets, building on the presentation from Bill, Tim, and others, and then the harder part, the impact on the broader economy
+—before trying to summarize the situation.
+The financial markets have really provided wind at the back of the broader economy throughout this most recent period, even until a month ago.
+I think the open question, and the August 7, 200768 of 136hardest, is whether those financial markets will prove sufficiently resilient
+—that is, whether the underlying shocks to the economy that might occur are exacerbated by this financial market situation or whether the worst of the outcomes are made less severe by the financial markets.
+Perhaps it is best to review the dynamics of different asset markets to assess their implications for credit availability during the forecast period.
+<START>The threat is that these different asset classes increasingly look correlated, particularly in times of distress.<END>
+Certainly, the events of recent weeks culminating in trading late Thursday and Friday of last week are troubling, driven by a combination of factors:
+first, symbolized perhaps by one financial institution that has unwittingly called its own liquidity into some question;
+second, a function of a reduction in confidence in markets themselves
+—a pullback in liquidity
+—with considerably less trust in underlying valuations, underlying collateral, and the underlying structure of markets themselves;
+and third, an expectation, at least in the mortgage markets, that there is still another leg down and so one way bets, at least for a period, appear insufficient to bring other opportunistic capital in at this point.
+The pullback was manifested in the difficulty of rolling over extendable commercial paper, as Bill and others have said, a lack of bid for anything mortgage related, a lack of trust in credit ratings, and a fear of using financial institutions as counterparties.
+<START>The next period in my judgment holds out some promise, but not a guarantee, of opportunistic capital.<END>
+Certainly, there are big fund raisings by investment banks and other private pools of capital at remarkable leverage levels, giving the potential that the pools of liquidity that are on the sidelines could quickly find their way back into the game.
+Let me now turn to different asset markets to try to assess when we will know how they will figure themselves out and make sure that we are able to get some judgments before it is too late.
+So I will spend a moment on the bank and leveraged-loan markets, a couple of moments on August 7, 200769 of 136the subprime market, and another moment on a third bucket of assets, which might be everything else, as we are trying to figure out whether there is real spreading.
+First, in the bank and leveraged-loan market, the volume of loans, as many of you know, is somewhere between $220 billion and $320 billion of committed capital in the pipeline.
+<START>The underlying credits still appear quite strong, and I will tell you that I have a reasonably high degree of confidence that, in spite of the distress, these markets should work themselves out between now and the next FOMC meeting.<END>
+We certainly won’t see any return to the markets that people have gotten used to over the past several months and years, but I would be surprised if we didn’t see opportunistic capital coming into these markets and bidding prices.
+<START>Just to give you some idea, off that denominator of capital committed, we might see losses on the order of $30 billion or $50 billion.<END>
+I would say that’s a fairly conservative estimate.
+Bank debt, which is the most secured, might have discounts of 3 to 5 percent, should bids find their way into the market in the coming days;
+leveraged loans and high yields, discounts of about 10 percent;
+and second lien mortgages, discounts of 15 to 20 percent.
+Almost all of these are largely related to risk premiums, not credit quality.
+Real money is still in these businesses.
+Some of the hot money that was discussed earlier, some of these CLO buyers, are no doubt gone for some time.
+I think the most encouraging thing is the new funds that have begun capital-raising campaigns, even over the past weekend, looking to buy the distressed securities, market-force the commercial institutions that have been having it on their books, and mark it to market.
+Remarkably, many of the same commercial banks are prepared to stand behind these new leveraged investments with leverage of about 4 to 1.
+So I would expect that market to increase pretty quickly.
+Market functioning there is thus, in my judgment, likely to improve.
+Some deals are certainly likely to blow up, relieving some of these banks of their commitments.
+<START>But in this market, because there are multiple gatekeepers and August 7, 200770 of 136because valuing the underlying credit strikes me as not that time-intensive or taxing a process, it is likely in my judgment that, come fall, we will come to some new equilibrium.<END>
+I can be far less confident, however, about the subprime mortgage market.
+My base case assessment there has a much lower confidence level, both in terms of timing and in terms of outcome.
+The subprime market has about $1.4 trillion in outstandings, and there is considerably less certainty about the underlying credit.
+It is harder to measure and appraise the underlying pools.
+Recovery rates will be still harder to find.
+As a final note, which might have struck the markets last week, apparently more fraud is endemic to these pools, making valuation increasingly difficult.
+As a result, I am less comfortable about suggesting what the underlying losses might be.
+They might be $100 billion.
+They could be considerably more.
+I’m also less confident that there will be opportunistic capital coming back to these markets over the next thirty or sixty days.
+With another leg down, it could take considerably longer.
+As a result, I am quite a bit less confident that the market functioning will return as rapidly as we would hope.
+<START>I am more concerned that, unlike the multiple gatekeepers we find in the leveraged-loan markets, for those that relied on the single gatekeepers, the credit-rating agencies, given that their credibility has been shot, it is much harder to see that this market will unwind itself in a rather calm and comforting environment, at least over the balance of 2007.<END>
+The final set of asset markets I’d speak a moment about is “everything else.” What about everything else that is subject to structured products?
+What about everything else that is subject to complex financial instruments?
+Some questions arose late last week about the market integrity regarding those.
+I think it is just too hard to judge how that is going to work out.
+We are seeing losses showing up in some very unlikely places.
+I’d like to say that what we have August 7, 200771 of 136witnessed over the past week is transitory, but for that set of asset markets, it is probably hardest for me to come to a broader judgment.
+So what are the effects, then, on the broader economy?
+I agree with the point that President Stern made earlier that this judgment is extremely hard to make.
+I also agree with Governor Kohn’s judgment that there is a very real downside risk if some of these financial market turmoil issues persist.
+If I look at some of the credit channels and at financial intermediaries and ask whether they are under stress, I see more dispersion of risk among similarly situated institutions.
+<START>Some commercial banks may well be under more distress than others.<END>
+I have no doubt that some investment banks are under more distress than others.
+We see some of this dispersion in credit default swaps and some of it in equity prices, but my sense is that the underlying fundamentals of their core businesses are very different from each other and from their competitors than they’ve been at any point in this cycle.
+For some of them to take losses on their own balance sheets of $3 billion, $4 billion, or $5 billion, as an investment bank, might not be hard to do when many of them have been picking up market share and using their own proprietary trading and agency businesses to steal customers and revenue from others.
+But for the balance, I think it is unclear how it is going to result.
+<START>With many of the investment banks’ quarters ending in August, the markets are going to put genuine pressure on them to come clean with their losses.<END>
+I expect most, if not all, of them to do so.
+So I think come mid-September we’ll have a clearer sense of what their own marked-to-market models suggest.
+What about the broker-dealers?
+<START>Again, not principally their regulators but I suspect the markets are going to push them to come clean with what their losses are.<END>
+<START>Large financial institutions I would expect, though with less confidence, to take writedowns of their portfolios of leveraged loans and writedowns to some extent of their mortgage products to try to assure the investing community August 7, 200772 of 136of their financial positions.<END>
+<START>I hope that the process would work out this fall, but as I mentioned, I’m less comfortable that we’re going to get that kind of transparency with the regulated commercial banks than with some others.<END>
+Private pools of capital are also undergoing a real shakeout.
+For those with liquidity pressures, which will tend not to be the largest hedge funds or private equity funds, we will read about their problems, and we will read about their closings, over the coming weeks and months.
+The good news is that the largest among them have used the period of strong liquidity over the past year to more or less have quasi-permanent capital to term out their loans and provide capital so that they could take advantage in this period.
+I understand that there has been very little spike in margin calls where most of the assets rest in the hedge fund community.
+So for many of us who have talked about hedge funds bringing resilience to these markets, this is really a time of testing.
+I think the early news for the largest among them is quite positive.
+Many of you have talked about what the other transmission mechanisms are for having GDP effects.
+The wealth effect is real.
+We have lost about $1 trillion in market capital in the past twenty trading days, and that can’t be discounted.
+Questions about board room confidence and cap-ex in the second half of this year are equally real.
+My sense is that we are going to finally use that excess cash on balance sheets that many of us have long talked about.
+Finally, with respect to consumer confidence, though I think the recent data suggest that it’s positive, I suspect that the next set of data we get will show a retreat from those numbers.
+It is very hard to judge how real consumers are going to react here.
+Let me make two final comments.
+Opportunistic capital is a key here to a smooth transition.
+It’s key to ensuring that what happened in the financial markets doesn’t seep its way into the real economy.
+Of the equity investors that were using loose credit markets to get equity August 7, 200773 of 136returns, the most sophisticated are focusing on and looking for equity returns in the debt markets.
+<START>So many investors previously investing in equity are now looking to the debt markets, where they see a risk-reward tradeoff that is better than it has been in a long time.<END>
+That gives me some confidence that opportunistic capital will come back to some of these markets.
+That said, rating-sensitive buyers will no doubt pull back given that ratings are less authoritative.
+So I will end where I began, which is looking at economic fundamentals.
+I think Governor Kohn talked about how the capital markets, the financial markets, and the labor markets have proven to be absolutely core to the resilience of the broader economy.
+To the extent that there is now an unfortunate timing between weakness in the financial markets and some potential weakness in underlying credit, we can rely less on the financial markets to come to the rescue, should that circumstance occur.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Kroszner.
+MR.
+KROSZNER.
+Thank you very much.
+I was looking back at my notes of the past few meetings and noted that the position we are in is a bit like that in the May meeting, at least the way in which people are characterizing things
+—that economic fundamentals still suggest moderate growth for the intermediate term but that uncertainty has gone up dramatically.
+<START>Then, in the June meeting, we said that uncertainty went down, and now we’re saying that uncertainty has gone up again.<END>
+So we seem to have a little volatility just like the markets do, but obviously, we are responding to what the markets are doing.
+Clearly, there are key downside risks.
+<START>The risk that I’ve mentioned many times before that concerns me and that we now have more data on is productivity and potential growth.<END>
+With the revisions since ’03, the compounded growth rate of productivity is down to 1.4 percent from 1.8 percent.
+The revision is fairly significant over this period.
+<START>I am not ready to go quite as far as the Greenbook has gone in marking down August 7, 200774 of 136potential, but I do think that it is a real possibility, and it is very closely linked to my concerns about investment, which obviously the financial market volatility has affected.<END>
+Orders and shipments of durable goods have been a bit choppy, and we haven’t seen the kind of rise that we would expect, given the balance sheets and given all the other sorts of strength that we would otherwise see in the economy.
+<START>Nonresidential investment has been strong, and there is still some strength in mining and drilling, but I have a lot of concerns outside that area.<END>
+As a number of people have mentioned, there is little change in the actual cost of capital, even though spreads have risen, because the Treasuries have gone down.
+But with more uncertainty and more volatility, as Governor Warsh and others have mentioned, undoubtedly that is going to weigh heavily in the board room.
+It is going to weigh heavily on capital expenditure plans.
+So all other things being equal, businesses are likely to be a bit more cautious going forward.
+But that caution with respect to investment and the slowing of the investment recovery make it harder to be optimistic about a rebound in productivity growth.
+So that’s something that I watch very closely because I think it is a very, very important effect.
+On the consumption-saving balance, certainly we still have very robust labor markets
+—average growth of 120,000 private-sector jobs per month this year, which is a step down from last year but still a robust level.
+<START>We have a transition from a sort of cushion of the strong equity market offsetting the negative wealth effect in the housing market.<END>
+Now, if they become more correlated
+—and, in particular, more correlated and both go down
+—that obviously would raise some concerns about slowing consumption growth and increasing saving.
+So I think that is something to be very mindful of.
+With respect to housing and financial markets, in the senior loan officer survey with respect to mortgages, when you drill down into it, both in April and in July more than 50 percent August 7, 200775 of 136of the senior loan officers reported that they are tightening credit standards for subprime, and about 15 percent are for prime.
+That is fairly significant.
+The depository institutions are pulling back, and we have certainly heard reports that some of the large institutions are no longer offering 2/28s or 3/27s. There has also been a tightening outside the depository institutions.
+The reason for part of the tightening is that some of the mortgage providers are simply no longer there.
+We have had dozens of smaller providers of credit go out of business, and the ones that are still there are obviously changing their underwriting standards.
+As President Rosengren mentioned, we are seeing some questions about the originate-to-distribute model.
+We are also seeing volatility on the financial market side.
+But part of that volatility, as a number of people have expressed, is about concerns about what is going into those securities in the originate-to-distribute model.
+That may raise some questions in the long run about how much we’re going to see this market come back.
+I share Governor Warsh’s concerns, not only from the point of view of the financial markets but also regarding the structure of mortgage markets
+—that we may be seeing a little less of that kind of structure than we have seen in the past.
+So that, combined with the tightening of standards more broadly, may make financing more difficult to get.
+This, of course, is occurring in many parts of the country
+—not all parts but many parts
+—where housing inventories are very high and in some cases are still rising.
+Obviously, that puts a lot more pressure on the housing market, and I think the drag from the housing market, as many of you said, is likely to continue.
+Fortunately, the financial market volatility is coming at a time of relative strength in corporate balance sheets.
+Debt-to-asset ratios have been declining, and liquid assets as a percentage of total assets have been high.
+That provides much more of a cushion, much more insurance.
+As President Poole mentioned, the banking system is in a dramatically different state August 7, 200776 of 136from when we had challenges before in the housing market or major challenges in financial markets.
+The major banks have very high, relative to historical trends, capital-to-asset ratios in excess of the required minimums.
+They have been very, very profitable.
+If you look at the largest banks
+—and I was just looking at some that were most involved in the leveraged-loan market
+—they each have tier 1 capital on the order of $80 billion to $90 billion.
+The earnings for each over the last year are $25 billion to $35 billion.
+There is also a lot of discussion of the amount of highly leveraged loans in the pipeline
+—on the order of $300 billion.
+But unless they have to take losses on that $300 billion, which is not going to happen, they have very thick capital cushions and very high earnings.
+So at least for the foreseeable future, this will just be more a challenge to their earnings than a challenge to capital.
+That is extremely important because the banking system can provide a critical automatic stabilizing mechanism, as it did in 1998, when there are liquidity challenges.
+In 1998 we had the Asian crisis that spread to Latin America, then the Russian crisis, and LTCM.
+There were some parallels to what we are seeing now:
+Risk spreads were rising very dramatically after a period of near-record low levels, and we saw the yields on Treasuries go down quite a bit because that’s where people were going.
+But what was happening in the system was that people were pulling money out of various funds and instruments and putting it into the banking system.
+So the banks do act as liquidity providers and liquidity insurers, and I think we’re starting to see a bit of that now with people pulling out of some of these instruments and so more is flowing into the banks.
+It’s a little early to tell.
+We haven’t gotten enough data on that.
+But anecdotal reports are consistent with exactly what happened in 1998.
+As people need an alternative to commercial paper or other short-term sources of credit, it can be very helpful that the banking system will have more liquid resources to do that, and obviously it’s a strong capital environment.
+Also, as August 7, 200777 of 136Governor Warsh mentioned, there are more large private pools of capital to step in to bid for the LTCMs, if such things happen.
+When we look back to LTCM, only one offer was on the table
+—from Warren Buffett
+—and there were a lot of questions about how serious that offer would be.
+Now a number of players have the wherewithal to be the equivalent of that in this market, which has the potential to be quite helpful.
+<START>There are obviously more potential downside risks, but a lot of stability exists in the banking system to deal with some of these risks and, given the strength of the balance sheets, should be helpful in the short or the intermediate run.<END>
+<START>With respect to inflation, as many people have mentioned, a number of risks are still skewed to the upside, with robust global growth, potential pass-through, some previous high energy prices, and a lower dollar.<END>
+<START>So I still think that there is much more of a potential upside skew to inflation than a downside skew.<END>
+<START>Basically, I would start taking my first steps, but just very first steps, a little more toward a balance of risk because of the greater downside to growth.<END>
+Although there are still upside risks to inflation, as Vice Chairman Geithner mentioned, overall we might want to think of moving a little more toward a greater balance of risk but still with a predominant concern for inflation.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Mishkin.
+MR.
+MISHKIN.
+Thank you.
+<START>Well, except for the fact that we have had a benchmarking of potential GDP downward and greater weakness in housing, my forecast is basically similar to my forecast at the last FOMC meeting and is consistent with the Greenbook forecast<END>
+—that we would have a return to trend growth a bit later than we had expected but by mid-2008 and 2009.
+In regard to the issue of inflation, let me just provide a little information on the model that I’m thinking about.
+<START>You know that I think a key driver of inflation, of course, is inflation expectations, and that there are good arguments to say that they are grounded around 2 percent.<END>
+<START>August 7, 200778 of 136We have been seeing numbers continually coming in that are very consistent with that, which gives me more and more confidence that, in fact, inflation is gravitating strongly to this 2 percent level.<END>
+<START>But I want to talk a bit about the issue of output gaps because I think that it is important, even if you think that inflation expectations are extremely important, not to have a deus ex machina view of the inflation process, which is that inflation is caused by expected inflation and then where does that come from?<END>
+So I think that resource utilization is important.
+However, the problem is that what is really important is not just current resource utilization, which is what we tend to put in our econometric specifications, but also the future expected path of resource utilization and output gaps.
+Of course, one problem here is that it is hard to measure.
+Also, if you are doing monetary policy right, then there is an expectation that you are going to do the right things to eliminate those output gaps.
+In fact, that is exactly what is in our forecast and exactly what our policies have been doing.
+<START>So one reason I think, in the current juncture, that it is not critical to talk about output gaps a whole lot is that basically we are doing the right thing.<END>
+<START>That context gives me further reason for saying, given our forecast, that a 2 percent inflation number is where we are heading, just not now, and that the trend is solidly in place.<END>
+But we are going to stay there for the foreseeable future, unless we screw up somehow, and we are not going to do that.
+[Laughter] One key point that makes me a little different from the Committee on inflation is that I do not see the upside risks as being greater than the downside risks.
+I really do see the risks as being quite balanced on inflation
+—again around this 2 percent number.
+Yes, we do have some temporarily good news, and it is going to be unraveled a bit, but it is still consistent with the August 7, 200779 of 1362 percent overall trend.
+In terms of output gaps and future expectations, I don’t see those getting people thinking that we’re going to have too tight resource utilization.
+Let me turn to the issue of the financial markets because, obviously, that is the big gorilla sitting at the table.
+I don’t see what is happening now as a direct spillover from the subprime market.
+It is very consistent with the way that Bill was talking about this issue.
+Of course, the media are making the subprime market into the whole story, but I think it is just not the right story.
+The subprime market is really a very small percentage of the total credit markets.
+What I think is much more important is that people are questioning and reassessing the quality of the information that exists in financial markets.
+The point of the subprime market is just that we now trust the credit-rating agencies less.
+Basically what I think is happening in a way is quite a good thing:
+<START>We were concerned that the markets were a little too optimistic, that there was too much opacity, and that people weren’t worried about it.<END>
+<START>Now, in fact, they are worried about it, and I think that is fundamentally a healthy situation.<END>
+<START>Also, the parts of the market that are having the problem are the most opaque parts, it is not clear that they are particularly important to the things we really care about in terms of our policies, which is what will happen to aggregate demand and, therefore, to both inflation and output.<END>
+So at this point, I take the view that this could all end very well and could in the long run make the situation healthier, and this view is consistent with what Governor Kohn was pointing out.
+But I do worry that this reassessment could actually find more
+—what’s the right word?
+—skeletons in the closet or bad things happening than were expected.
+<START>In the past, we’ve seen that, when the quality of information gets questioned and people don’t think the marketplace is providing the right information, headwinds in the economy can become quite significant.<END>
+<START>The most recent episode that I am thinking about, of course, is the episode of Enron and its aftermath, August 7, 200780 of 136in which a key reason that the economy was so slow to recover was that the quality of information was impaired.<END>
+Then, people realized that the markets in fact did have some slight elements of financial instability
+—again, not too serious because the banking system was in such good shape.
+We could have a similar situation occurring now.
+<START>So the sort of bad scenario that I see is an Enron-type scenario, not something much worse than that.<END>
+But we really have to keep on top of this.
+It means, I think, that there are greater downside risks to the forecast.
+The survey of all of us indicates that people are now much more worried about downside risks than they are about upside risks.
+I think that is absolutely right, and, in fact, it could get a lot worse.
+So the way I would view the situation is that right now we should be pretty calm, but we want to monitor it very carefully and be ready for some potentially bad things to happen and just hope that they don’t.
+The kind of scenario that we’re seeing in the Greenbook is one that is going to play out.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you, and thank everyone.
+President Lockhart.
+MR.
+LOCKHART.
+I want to make a comment following the remarks of Governor Warsh and Governor Kroszner related to the calendar of potential market stabilization and the leveraged-loan market.
+Both of you cited a backlog of $300 billion or something maybe slightly less than that.
+<START>In one conversation I had, a market observer cited $470 billion and argued that it would take well beyond our September meeting, into October and November, before the market would clear in that particular part of the market.<END>
+So to connect this comment to Governor Geithner’s comment about maintaining some flexibility as we go into the fall and observe the markets, we have different estimates out there of how much backlog there is, and therefore we are likely to be still facing a great deal of uncertainty at our September meeting.
+August 7, 200781 of 136CHAIRMAN BERNANKE.
+Thank you for the useful discussion.
+As usual, I am going to very briefly summarize what I heard.
+I will be happy to take any comments on that.
+Then I just want to make a few short points.
+Again, most of the key points have been made.
+Most participants expect growth to remain moderate over the forecast period.
+<START>Despite lower household wealth resulting from weaker house and stock prices, consumption is likely to continue to grow as labor markets remain strong, real incomes increase, and gasoline prices moderate.<END>
+<START>Business investment should also grow moderately, although lower productivity and higher volatility could be drags on investment.<END>
+Commercial real estate, in particular, be slackening, but it retains good fundamentals.
+may Industrial production is expanding at a reasonable pace.
+The global economy is strong.
+<START>However, downside risks to growth were noted and perhaps received somewhat greater emphasis than at past meetings.<END>
+Most notably, housing appears to have weakened further, with sales of new and existing homes declining and inventories of unsold homes remaining high.
+Homebuilders are experiencing financial strains, and there is downward pressure on home prices.
+Spillover on consumption spending is not yet evident but is a possible risk.
+In this regard, developments in credit markets received considerable attention.
+<START>On the positive side, the repricing of risk and the reevaluation of underwriting standards seem appropriate.<END>
+Liquidity still exists, credit is still being extended, and markets may work out their problems on their own.
+A lower dollar and lower long-term Treasury rates also tend to offset financial tightening.
+<START>However, higher risk premiums, tougher underwriting, and greater uncertainty may constrain housing and investment spending, leading to broader macroeconomic effects.<END>
+<START>In more-pessimistic scenarios, dislocations in credit markets may last awhile and have a more substantial effect on credit availability and costs for businesses as well as for homebuyers.<END>
+August 7, 200782 of 136The possibility of contagion or severe financial instability also exists.
+Many participants took note of the NIPA revisions and their implications for productivity growth, consumer saving, and unit labor costs.
+Meeting participants tend to put potential growth at higher rates than the Greenbook.
+Views on inflation are similar to those in previous meetings.
+Recent readings are viewed as reasonably favorable.
+<START>However, risks to inflation remain, including the possible reversal of transitory factors, tight labor markets, the high price of commodities, and higher unit labor costs resulting from lower productivity growth.<END>
+In all, the risks to inflation remain to the upside.
+That is my summary of what I heard.
+I’m sure a lot more could be said.
+Any comments?
+If not, let me just make a few additional comments.
+There have been two very important developments since the last meeting.
+The first was the downward revision to the NIPA growth numbers.
+<START>It’s not obvious yet, of course, how much of that reflects a permanent decline in productivity and how much is transitory.<END>
+But certainly the best guess is that some of it is more long term in nature.
+I think the main point I’d like to make is that the implications of this downward revision for inflation and monetary policy, except perhaps in the very short run, are not obvious.
+<START>The question is, What is the effect of the lower productivity growth on aggregate demand?<END>
+We have examples of both types of phenomena.
+<START>In the late ’90s, the pickup in productivity growth stimulated a very strong boom working through the stock market, consumption, and investment, so it led to an overheating economy, whereas in the earlier part of this decade, productivity growth picked up again but with weak aggregate demand.<END>
+We had a jobless recovery associated with that.
+So it remains to be seen exactly how aggregate demand will respond to these developments.
+<START>I do think that perhaps that in the very short run, given wage behavior and unit labor costs, if I had to choose, I would say that there is a slight bias August 7, 200783 of 136toward higher inflation and tighter money.<END>
+In the longer run, you would expect to see lower long-term rates because of slower growth.
+The second issue that has been widely discussed around the table is the financial market.
+<START>It is an interesting question why what looks like $100 billion or so of credit losses in the subprime market has been reflected in multiple trillions of dollars of losses in paper wealth.<END>
+So it’s an interesting question about what is going on there.
+I think there are three reasons that the financial markets have moved in the direction they have.
+First, there has been a widespread repricing of risk.
+That is, obviously, a healthy development, particularly if there is no overshoot, which is a possibility.
+But all else being equal, it is restrictive in terms of aggregate demand, and it makes our policy tighter than it otherwise would be.
+<START>The second reason for the changes in markets is that there has been a loss of confidence in the ability of investors to evaluate credit quality, particularly in structured products.<END>
+There is an information fog, as I have heard it described.
+<START>This is very much associated with the loss of confidence in the credit-rating agencies.<END>
+I think one of the implications of this is that some of the innovations we have seen in financial markets are going to get rolled back.
+We are going to see more lending taken out of originate-to-distribute vehicles and put back onto portfolio balance sheets.
+So the question is how much effect this adjustment process will have on the availability of credit.
+The third reason that I think the markets have reacted as much as they have is concern about the macroeconomic implications of what is happening.
+<START>In particular, there is a fear that subprime losses, repricing, and the tightening of underwriting standards will have adverse effects on the housing market and will feed through to consumption, and we will get into a vicious cycle.<END>
+That certainly is reflected in the expectations of policy.
+August 7, 200784 of 136I am not going to go through all the things that are going on now in the markets.
+You have had very good reviews of that.
+Obviously, the markets right now are not functioning normally.
+Some conduits of credit are simply closed or frozen.
+<START>A number of companies are having difficulties with short-term finance, and so, per President Fisher’s comment, we are watching those things very carefully.<END>
+We are prepared to use the tools that we have to address a short-term financial crisis, should one occur.
+In the longer term, of course, our policy should be directed not toward protecting financial investors but, rather, toward our macroeconomic objectives.
+That is very important.
+Then the question is what the long-run implications of the financial market adjustment will be for the economy.
+I think the odds are that the market will stabilize.
+Most credits are pretty strong except for parts of the mortgage market.
+<START>But even so there will be notably tighter credit, tighter standards, probably some loss of confidence in markets, and higher risk premiums that will on net be restrictive.<END>
+This restrictive effect could come in various magnitudes.
+<START>It could be moderate, or it could be more severe, and we are going to have to monitor just how it adjusts over time.<END>
+Again, there is a bit of a risk
+—and tail risk has been mentioned not only in a financial sense but also in the macro sense
+—that, if credit is severely restricted so that we get feedback from lower house prices, for example, into the financial markets, that situation would be difficult to deal with.
+Those are the two major issues that people have talked about.
+Just very briefly on the overall assessment
+—on the output side, economic growth looks a little softer to me, mostly because of housing.
+There are also some slightly worrying developments in terms of automobile demand, which suggest some weakening in consumer spending.
+But there are some strong elements as well.
+Also the labor market has marginally softened.
+The unemployment rate is about 25 basis points above its recent low;
+so there has been some movement, and I still expect August 7, 200785 of 136to see some reduction in construction employment.
+So I think there is a bit more softness and there are a few more downside risks to output than at our last meeting.
+Like others, I think the recent inflation data are moderately encouraging.
+I continue to see risks.
+If you’re not satiated with risks, I’ll add one more, which is that if the housing market really weakens and people go back to renting, we could get the same phenomenon that we saw last year, by which rents are driven up and we get an effect working through shelter costs.
+So I agree with those who still view the risk to inflation as being tilted to the upside.
+If there are no comments or questions, let me turn now to Brian to discuss the policy action.
+MR.
+MADIGAN.3 Thanks, Mr. Chairman.
+I’ll be referring to the package labeled “Material for FOMC Briefing on Monetary Policy Alternatives.” Financial markets have experienced exceptional strains over the intermeeting period.
+The Bluebook provided a thorough review of these developments through Thursday, and I had intended to provide only a brief summary of and update on those developments, as in exhibit 1, and some thoughts on their implications for monetary policy.
+But given the extensive discussions of this topic so far this morning, those points seem all to have been made, and I will turn directly to a discussion of policy alternatives.
+As noted at the top of exhibit 2, the risk of weakness in aggregate demand stemming from tighter credit conditions and disruptions in credit flows formed part of the rationale for the 25 basis point easing of alternative A that was presented in the Bluebook.
+<START>Even if your views about the modal outlook are similar to the Greenbook baseline forecast, you may be concerned that the deterioration in credit conditions, the significant increase in market volatility, and potential declines in confidence have tilted the risks to growth distinctly to the downside.<END>
+You may also see the recent spate of soft spending indicators as having raised the likelihood of sluggish growth in aggregate demand.
+<START>The considerable gap between the Greenbook-consistent real federal funds rate, the dashed green line in the panel to the right, and the range of model-based estimates of the equilibrium real federal funds rate, shown in red, may add to questions about the possibility of weaker growth than in the staff forecast and reinforce your belief that some easing of policy is appropriate.<END>
+Moreover, you may be more optimistic than the staff about either productivity growth or the NAIRU or both.
+Indeed, as I mentioned earlier, several of you noted just such optimism in the narratives accompanying your trial-run projections.
+The financial stimulus from a policy easing, of course, would help support growth directly.
+A policy action might be highly potent in current circumstances, possibly helping to buoy consumer and business confidence in a period when sentiment may well be deteriorating.
+You may 3 Materials used by Mr. Madigan are appended to this transcript (appendix 3).
+August 7, 200786 of 136also believe that the inflation outlook would support a near-term policy easing.
+<START>Core inflation readings have been relatively subdued in recent months, wage growth seems to have remained moderate, and labor market pressures may be starting to ease, although the evidence on that score is so far quite limited.<END>
+In the staff forecast, core inflation converges toward 2 percent, an outcome that, judging by your projections, some of you would find acceptable
+—and your forecasts suggest that you think the odds favor a prompter and slightly steeper decline in inflation.
+<START>In contrast, as noted in the bottom left-hand panel, you may concur with the Greenbook forecast for spending and prices, given its policy assumptions, but judge that the forecasted trajectory for inflation is too slow and leaves inflation at a level that is too high to foster optimal economic performance.<END>
+If so, you may be inclined to firm policy ¼ percentage point, as in alternative C. The decline in core inflation in the Greenbook is slight and slow.
+<START>As shown in the bottom right panel, the optimal control simulation in the Bluebook based on a 1½ percent target for core PCE inflation suggests an increase in the federal funds rate of about ¾ percentage point over the next year.<END>
+<START>Credibility or learning effects that might flow from a policy firming, as in the simulation, could limit the output and employment sacrifice necessary to foster a lower path for inflation.<END>
+Moreover, you may agree with the staff’s baseline assumption that the effects of current market strains will prove temporary, that markets will soon resume clearing, albeit at higher and perhaps more-rational and more-sustainable spreads, and that the restraint on aggregate demand will be modest.
+Finally, you might see the risks to the inflation outlook as tilted to the upside, given high levels of resource utilization and increased energy prices.
+Alternative B, discussed in exhibit 3, may be seen as an appropriate balancing of the considerations motivating alternative A, on the one hand, and alternative C, on the other.
+Under this alternative, the Committee would leave the stance of policy unchanged today.
+The statement would acknowledge the recent volatility of financial markets and tighter credit conditions but would also convey an expectation that moderate growth will likely continue.
+Core inflation would be characterized as subdued in recent months but subject to upside risk.
+<START>The Committee would expressly refer to increased downside risk to growth but indicate that its predominant policy concern remains the risk that inflation will fail to moderate as expected.<END>
+A rationale for alternative B is laid out in the upper left-hand panel.
+In the baseline Greenbook forecast, the economy expands at a moderate pace, resource pressures ease slightly, and core inflation ebbs to 2 percent with the federal funds rate held at its current level through next year.
+That forecast may be close to your own view about the modal result, and you may see it as an acceptable outcome.
+<START>As shown to the right, optimal control simulations based on the Greenbook baseline and an assumed core inflation objective of 2 percent would suggest leaving the federal funds rate unchanged for the rest of the year before easing slightly.<END>
+Returning to the left-hand panel, holding steady at this meeting would also be consistent with the Committee’s past behavior as captured by the estimated outcome-based and forecast-based policy rules presented in the Bluebook.
+<START>August 7, 200787 of 136 You may also believe that alternative B represents a suitable weighting of the risks.<END>
+<START>For example, even if you are a bit more optimistic about potential growth and the NAIRU than the staff, you may nonetheless see maintaining the federal funds rate at its current level as an appropriate risk-management approach, given the upside risks to inflation and the higher costs should they be realized.<END>
+<START>Careful consideration of the most recent developments also may incline you toward alternative B. In particular, even if the incoming data and increased financial market strains of recent weeks incline you to believe that the downside risks to growth have increased, you may be quite unsure about the extent of those risks and not wish to exaggerate them.<END>
+As suggested by yesterday’s developments, it is not inconceivable that markets will soon begin to right themselves and that the Greenbook baseline assumption of only modest financial restraint will prove correct.
+In these circumstances, watchful waiting may be the best approach in order to allow more information to accumulate that will enable you to better assess the likely eventual adjustments of market prices and flows and the appropriate policy response.
+Indeed, you may be especially concerned about the risk of overreacting (or being perceived as overreacting) to temporary market developments
+<START>—particularly if you see a significant probability that markets could misinterpret changes in the stance of policy, or in your words, as an indication that you place a higher priority on financial market stability or economic growth than on price stability.<END>
+Moreover, your inflation concerns may not have diminished much, if at all, over the intermeeting period.
+<START>While the most recent core inflation readings have been relatively low, you may concur with the staff that some of that good performance will likely prove transitory.<END>
+Also, overall inflation has remained high, and with resource utilization elevated, you may be worried that high rates of overall inflation could allow inflation expectations to move higher.
+The statement associated with the revised version of alternative B is provided in the bottom panel.
+Given the volatile market conditions of late, getting a reliable read on market participants’ expectations at this point is difficult, but an announcement roughly along these lines seems to be anticipated by most market participants.
+Notably, the statement explicitly mentions downside risks to growth.
+That mention may be seen as opening the door a crack to future easing or at least giving the Committee greater scope to move in that direction.
+Although only a minority of market participants apparently expect the Committee to point explicitly to downside risks to growth, a sizable market reaction to the inclusion of such a reference in paragraph 4 seems unlikely, as the Committee still would state that inflation risks are its predominant concern.
+The final exhibit is an updated version of table 1 for your reference.
+Changes relative to the Bluebook are shown in red.
+CHAIRMAN BERNANKE.
+Thank you.
+Are there questions of Brian?
+If not, let’s begin our go-round.
+President Fisher.
+August 7, 200788 of 136MR. FISHER.
+<START>Well, Mr. Chairman, against this background of skittishness, my best advice would be to recognize, to an extent, in our statement what is going on in the marketplace, what ails the marketplace.<END>
+The best guidance would be that we must not ourselves become a tripwire.
+I think we have to show a steady hand.
+<START>I rather liked the reference to the Hippocratic oath earlier, “Do no harm.” I think we can best accomplish this by acknowledging market turbulence and yet not implying that we are given to a reaction that might create a moral hazard.<END>
+I’m particularly mindful of the discussion in the press and by security analysts of a so-called Bernanke put, and I want to make sure that we do not take any action or say anything that might give rise to an expectation that such is to occur.
+Therefore, I would suggest that alternative B offers the best policy response.
+That is, I am in favor of keeping the rate where it is.
+The wording in the second paragraph acknowledges that there has been volatility in the markets.
+I think it addresses the points Governor Kohn made about growth in employment, incomes, and a robust global economy.
+I’ve waited a long time to see the word “global” in these statements.
+[Laughter] Whether it gets left in or not, it does reflect reality.
+I’m mindful of President Geithner’s point of softening a little, and yet that is where I worry that we might become a bit of a tripwire.
+I would under normal circumstances be somewhat inclined toward the last paragraph in alternative A, and yet I didn’t hear around the table, nor do I fully believe myself, that things are exactly roughly balanced.
+I take the point that was made just now in the presentation that, by saying “downside risks to growth have increased somewhat,” we are opening the door.
+<START>The only refinement that I might suggest is that we soften a little the word before “policy concern remains the risk that inflation will fail to moderate as expected.” By taking out the word “predominant,” I would leave that up for consideration.<END>
+I actually talked to somebody about this earlier;
+I want to acknowledge that.
+<START>But otherwise I would stick with alternative B, again, August 7, 200789 of 136mindful that we are dealing with a skittish market situation and yet acknowledging the fact that a sense around this table is that there are risks to growth, that we are making progress on inflation, and yet there is no convincing evidence that we have completely turned the corner on the latter front.<END>
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Poole.
+MR.
+POOLE.
+Thank you, Mr. Chairman.
+It’s clear that the markets are very skittish.
+I haven’t heard anyone suggesting that we should be changing the fed funds rate, and I believe we should keep it steady.
+So what is important now is what we say rather than the federal funds rate.
+<START>I think that the market is looking to us for leadership, but we have to define exactly what that means in a difficult market situation.<END>
+I start by saying that we need to view the current market situation not as unique but as a particular example of a class of events.
+Each one has unique characteristics, but this is part of a not-uncommon thing that happens.
+It happens every now and then.
+So what should our response rule be to events like this, not how should we respond to this particular case?
+I think there are two things that we need to do, given what we know at the moment, which obviously may change.
+What we know at the moment is, in the current situation, we ought not to give any hint that we are trying to suggest a policy change at our next meeting because I don’t think we have enough information to say that such a hint would be appropriate.
+Second, we want to make clear to the markets our readiness to respond to the situation should the environment change so that response by us would be helpful.
+Now, if we were to hint or if the markets were to view what we say as hinting, we could produce a positive market outcome this afternoon.
+I don’t doubt that.
+But then what?
+Where do we go from there?
+Would we, having given such a hint inadvertently or on purpose, want to actually carry through at our next August 7, 200790 of 136meeting?
+That will depend on what we know at the next meeting, but in the meantime we would have created a market dynamic that would not be at all helpful.
+Reducing the fed funds rate 25 basis points at the next meeting or the one after that is not going to fix the subprime market.
+<START>That market is changing permanently from a situation of really very poor underwriting, and the market will fix it in due time and sort it out.<END>
+<START>I favor basically alternative B and the language there, but I am concerned about paragraph 4, that the market could interpret “although the downside risks to growth have increased somewhat” as our effort to give a hint that we see a cut in the rate ahead.<END>
+So I would like to suggest a little different way of doing that.
+<START>If you look in paragraph 2 at the sentence that begins with “nevertheless,” I would insert a sentence immediately ahead of that which says, “Consequently, the downside risks to growth have increased somewhat.” That follows the discussion of the situation in the market, credit conditions, and so forth.<END>
+Then I would leave the last paragraph the same as it was last time.
+<START>The point of doing that is to make clear that the downside risks to growth have increased somewhat, but nevertheless, the economy seems likely to continue to expand at a moderate pace.<END>
+That was what I would suggest we do so that we do not inadvertently give a hint.
+We are aware that the markets are upset.
+<START>We are making that very clear, but there is no intent to give a hint of policy action in our minds at our next meeting.<END>
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Stern.
+MR.
+STERN.
+Thank you, Mr. Chairman.
+<START>Well, I guess the thing that strikes me first about the current situation is that the incoming news on core inflation has been promising.<END>
+<START>At least as far as I’m concerned, the inflation outlook is satisfactory.<END>
+So that, in and of itself, suggests no change in policy.
+<START>Now, if we append to that the financial market turmoil and the August 7, 200791 of 136adjustment that is under way there, that does raise the risk to real growth.<END>
+I think we have pretty well acknowledged that in this discussion.
+<START>But in my view, that shouldn’t prompt a change in the federal funds rate target at this meeting for the reasons I cited earlier having to do with the substantial uncertainties associated with all of this and, of course, I would be lax if I didn’t mention the resilience of the underlying economy that has been demonstrated through the period of the great moderation.<END>
+I do think it’s important, though, that we use the language to make sure that the public is aware that we are aware of what is going on here.
+Alternative B, as drafted, largely does that.
+I don’t think we should feel constrained at this point, as we sometimes do, to try to make the changes to the language as few and far between as possible.
+I’m pretty comfortable with alternative B as drafted.
+<START>In fact, I might be prepared to go even a little further than B, something closer to a balanced risk statement, but I don’t feel strongly enough about it to insist on that, even if I could.<END>
+[Laughter] CHAIRMAN BERNANKE.
+Thank you.
+President Lacker.
+MR.
+LACKER.
+Thank you, Mr. Chairman.
+I think we have a couple of issues in front of us today.
+First, do we react to the recent inflation numbers?
+I have been pleased by the recent reports, as I said, coming in better than expected, but there seems to be a substantial chance that the improvement we have seen is temporary and that we will get some higher figures later this year.
+Moreover, inflation expectations remain above where I’d like them to be, so I don’t think we should relax our characterization of inflation in this statement.
+A second question we face is how to react to the recent turmoil in financial markets.
+I think we need to be careful to maintain our focus on the implications of market developments for the anticipated paths of inflation and real spending.
+At this point, I don’t see those implications being substantial enough to warrant a policy response on our part or a change in our sense of the likely near-term policy path, though August 7, 200792 of 136obviously this assessment may change as events unfold.
+<START>Absent evidence of such implications, our financial stability responsibilities can be met quite adequately through the automatic supply of reserves under the Desk’s operating procedures for targeting the overnight federal funds rate or through the supply of reserves to solvent institutions at the discount window.<END>
+<START>Unfortunately, the recent behavior of the fed funds futures market and recent financial press commentary suggest that some market participants, perhaps thinking back to 1987 or 1998, believe that financial market turbulence per se will induce us to respond with interest rate cuts.<END>
+Even if we did cut rates to counter financial market volatility, financial market jitters might take some time to dissipate.
+<START>We may be reluctant to undo such rate cuts in the meantime, and we would run the risk that policy then becomes too easy and we get behind the curve.<END>
+<START>My main concern is the risk that our communication today might mislead markets into thinking that we may cut rates in response to asset-price volatility per se, absent any expectation of sustained effects on the real economy or inflation.<END>
+Accordingly, I believe the statement language should acknowledge the recent developments as in the second part of alternative B but not go any further.
+I’m concerned about paragraph 4 and adding the passage about downside risks to growth increasing.
+I’m concerned that it may go a bit too far in that direction.
+I think that the minutes should acknowledge the problems in subprime and private equity markets, and I also think the minutes should educate financial markets that the mitigation of volatility in asset prices is not an FOMC objective.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Moskow.
+MR.
+MOSKOW.
+I didn’t know I raised my hand, but I’ll go anyway.
+[Laughter] I certainly don’t want to recommend a change in the fed funds target at this point, Mr. Chairman, so I agree with alternative B in terms of the fed funds rate portion.
+I do want to go on record, August 7, 200793 of 136since this is my last meeting, as saying that I’m not agreeing with alternative B because I’m comfortable with a 2 percent quantitative guideline for inflation.
+<START>But I am, on balance, comfortable with alternative B. I am concerned about inflation.<END>
+I think the improvement that we see may be transitory, as I mentioned.
+As President Stern mentioned in his earlier comments, unit labor costs will likely be increasing, and I think that, although the forecast on inflation looks promising, there could be significant risks that it might go higher.
+In terms of the developments in the financial markets, I think we have all talked about them extensively.
+There is nothing more to be said there.
+At this point, it is a period of watchful waiting.
+I would agree with President Lacker, with his comment about paragraph 4 of taking out the phrase that the downside risks to growth have increased somewhat.
+I would prefer to see it in the minutes rather than in the statement, and I would prefer to have paragraph 4 exactly as we had it at the last meeting.
+CHAIRMAN BERNANKE.
+President Pianalto.
+MS.
+PIANALTO.
+Thank you, Mr. Chairman.
+<START>As I said earlier, I do think that the risks to the outlook for economic growth have increased while the risks to the outlook for inflation have moderated but are still to the upside.<END>
+<START>So I found the suggestion on page 25 of the Bluebook that we might want to mix and match the alternative A and B language appealing, but I did think that changing our statement in that way could convey a greater shift in our risk assessment than I believe is warranted today.<END>
+<START>So I think the revised version of alternative B makes the modest but important adjustment of acknowledging the recent change in credit conditions in the rationale section, and it signals the greater downside risks to growth in the risk assessment section.<END>
+So I support our alternative B
+—that is, no change in the fed funds rate today and the language that is in the revised version.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Yellen.
+August 7, 200794 of 136MS. YELLEN.
+Thank you, Mr. Chairman.
+<START>I think the inflation news has continued to be encouraging, but the risks remain on the upside.<END>
+<START>With respect to growth, the prospects have worsened, and I think there is greater downside risk for the reasons that we have discussed.<END>
+I think the market response to these events is not inappropriate.
+<START>They perceive a greater likelihood that we will need to cut the fed funds rate sooner and more deeply than seemed likely only a few weeks ago, and I think we should essentially try to leave those expectations in place today to indicate that we intend not to respond to asset prices or to the problems of particular dealers or financial institutions directly but to assess the economic consequences of the turmoil.<END>
+So the question is, What is the right language to do that?
+The alternative B language that is proposed is trying to achieve exactly what I think is appropriate.
+So I agree with the goal of alternative B. I’m simply concerned about some of the actual language that is proposed.
+Particularly I worry about the language in paragraph 4.
+<START>When you say “although the downside risks to growth have increased somewhat, the Committee’s predominant policy concern remains the risk that inflation will fail to moderate,” that’s like saying<END>
+—perhaps because I respond so strongly to the word “predominant”
+—that, yes, we see greater downside risk, but we don’t care;
+we remain totally focused on inflation.
+[Laughter] That bothers me.
+That’s how it comes across to me.
+I don’t think the intention is to make it that way.
+So I would make two proposals to soften it.
+I think what we need to do is dial it down, but I do think that inflation risk remains to the upside.
+I would second two suggestions that have already been made.
+I would second President Fisher’s suggestion that we remove the word “predominant” from paragraph 4.
+We might say, “The Committee remains concerned about the risk that inflation will fail to moderate as expected.” Now, I do think the downside risk has increased on the growth side.
+I’m not sure it is actually necessary to say so explicitly, and I think August 7, 200795 of 136dialing down paragraph 4 by simply removing “predominant,” along with the additional language that is proposed in line 2, be sufficient.
+might But I think that we actually do agree that downside risks have increased.
+<START>If we want to express that, I would endorse President Poole’s suggestion that we move the language about downside risks to paragraph 2, saying something after “for some households and businesses, and the housing correction is ongoing.” We could then say, “Although the downside risks to growth have increased somewhat, nevertheless the economy seems likely to continue to expand at a moderate pace.” So we would get it in there.<END>
+Basically we would say that we see it, but nevertheless we think most likely the economy will grow at a moderate pace.
+<START>If financial turbulence diminishes and markets stabilize, not having downside risks to growth in paragraph 4 and continuing to express some asymmetric bias, some worry about inflation, we’ll be comfortable living with that going forward, and it is a good summary of where we are.<END>
+So those are my suggestions.
+CHAIRMAN BERNANKE.
+Thank you.
+President Hoenig.
+MR.
+HOENIG.
+Mr. Chairman, a couple of things.
+First, I am satisfied with the current policy.
+<START>I think that for the moment our concern should still be on inflation, and I think our policy is designed to address that.<END>
+In saying that, I also recognize
+—from my own observations and from what I’ve heard here today
+—that more downside risks are emerging and that we have brought the risks more in balance, I guess is the way to say it.
+Complicating that, of course, are the tighter credit conditions.
+I think they are probably transitory, but we won’t know that for a while yet
+—maybe by the next meeting.
+That leads me to conclude that I am comfortable with alternative B and its language because I think it recognizes this dynamic and puts it out there for the public.
+So I would stick with what we have in alternative B and then see how we develop between now and the next meeting.
+Thank you.
+August 7, 200796 of 136CHAIRMAN BERNANKE.
+Thank you.
+President Plosser.
+MR.
+PLOSSER.
+Thank you, Mr. Chairman.
+I am certainly comfortable with maintaining the fed funds rate where it is, so I’m supportive of that.
+I think the real key here is language.
+What are we trying to convey to the markets?
+How far can we go, acknowledging what many people share
+—a sense of some increased risk
+—without creating another set of concerns in the marketplace?
+So the language is the tricky piece here.
+I’ve waffled a bit in my feelings about this.
+I’m inclined to be about where I think Bill Poole and Janet Yellen are
+—moving the downside risks into paragraph 2 as opposed to putting them in the assessment of risk.
+I would be supportive of that tone.
+Also, in response to some of Jeff’s comments in his earlier memo on this, I actually prefer the language of repricing of risk rather than of tightening credit conditions simply because it emphasizes that this is partly a relative price adjustment that is going on.
+But I don’t want to take a strong stand on that.
+Only one other word concerns me, and I’d like to raise the issue here.
+In paragraph 3, which nobody has talked about yet, in the first sentence, “readings on core inflation have been relatively subdued in recent months” is a change in the language from our previous statement, which says, “improved modestly recent months.” I worry a little about the word “subdued” because I think it becomes very close to making some kind of normative judgment about the level of inflation that we are happy with.
+<START>I’m uncomfortable about that particular change in the language because it, again, might imply some normative statement without the Committee’s agreeing on what we view as being subdued or not.<END>
+So I’d like to suggest that we change that back to what it was before because, if we want to convey stability and some continuity here, there are places to change, there are places not to change, and I would rather change fewer words August 7, 200797 of 136than more words going forward.
+That would be the only additional suggestion I would make.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+President Lockhart.
+MR.
+LOCKHART.
+Thank you, Mr. Chairman.
+I, too, feel that we should hold the rate, so I am concerned principally with the way the statement plays to the various audiences, particularly the market.
+The posture we should take is to acknowledge, while not reacting prematurely to, the turbulence in the financial markets and the subdued or the improved inflation numbers, and we should make an effort to maintain some flexibility.
+<START>So I am a bit torn on paragraph 4 between President Poole’s suggestion, which I have some sympathy for, and the concern that paragraph 4 will come across as ritualistic repetition of what we’ve said every month for several months and, therefore, will convey a sense that we’re not paying attention to what’s going on in the market.<END>
+So I come out ambivalent on that.
+I can support President Poole’s suggestion, but on balance I guess I like the statement in alternative B as it is.
+CHAIRMAN BERNANKE.
+Thank you.
+President Rosengren.
+MR.
+ROSENGREN.
+I support leaving the target for the fed funds rate at 5¼ percent.
+However, the news since the last meeting would seem to be more elevated downside risk to economic growth.
+<START>This elevated risk reflects the baseline growth for real GDP as 2 percent (a considerable reduction from the previous Greenbook), greater uncertainty about the evolution of the housing market, and concern about the fallout from financial market disruptions.<END>
+<START>Given the greater downside risk, I would prefer language in the assessment of risk paragraph from alternative A, though I do like the modification to alternative B that was made, and I am worried about an interpretation of a Fed put for financial markets.<END>
+<START>So although I’d prefer the risk assessment in alternative A, which more accurately reflects my assessment of risks, I could August 7, 200798 of 136certainly accept removing the word “predominant.” That would be my second choice.<END>
+My third choice would be to bow to those who have a better understanding of nuanced language, since that is certainly not my expertise, though I hope I will develop it over the years, and I could live with the alternative B language as my third choice.
+CHAIRMAN BERNANKE.
+Okay.
+Governor Kohn.
+MR.
+KOHN.
+Thank you, Mr. Chairman.
+Like the others, I think keeping the federal funds rate where it is is the right thing to do.
+We need, as others have said, to watch the situation carefully and see how it evolves.
+I think we’re trying to do two things with this statement, as others have remarked.
+One is to make people aware that we’re aware that a major market event has occurred and to say that we’re looking at it and trying to assess its implications for the outlook but that it hasn’t really
+—not yet, anyhow
+—caused a major change in our fundamental assessment of where the economy is going.
+The second thing we are trying to do is make sure that we have a flexible platform we can move from over the next couple of meetings or even, should it become necessary, in the intermeeting period.
+So one can see this going in lots of different directions
+<START>—the markets getting much more turbulent with implications for the outlook and we need to move in the intermeeting period or things settling down and we go back to inflation as the predominant risk.<END>
+The incoming data on demand and production remain consistent with the central forecast.
+As I and some others noted, we could end up coming out of this and easing policy somewhere down the road, but not right away.
+I thought the language of alternative B did both of those things.
+It acknowledged the situation.
+It reinforced the sense that moderate growth going forward was where we thought things were going because we added the “supported by solid growth in employment and incomes and a robust global economy.” So we have some rationale for that, which we didn’t have before.
+August 7, 200799 of 136I also thought that paragraph 4 was a really accurate reading.
+I was actually a little surprised through the go-round just how, almost universally, people said that the downside risks to output have increased but that they were still most concerned about inflation.
+So I thought that paragraph 4 turned out to be presciently
+—on the part of the Chairman, Brian, or whoever drafted it
+—a really accurate view of where the Committee was.
+My concern about moving the first piece of that into paragraph 2 is that then we have one risk in paragraph 2.
+We haven’t done that before, right?
+The risks to output and to inflation have all been talked about in paragraph 4.
+Another risk is in paragraph 4, the risk to inflation, and that is an asymmetry of how we discuss risks.
+<START>It was intended to soften the risk, but I think it strikes me as creating a precedent that in the future will be hard to live with, when some risks are in some paragraphs and other risks are in other paragraphs.<END>
+Another thing we could do is move the inflation risk into paragraph 3 and not come down one way or another.
+But I think the Committee wants to come down on the inflation side
+—in terms of predominant risk or main risk
+—and the Committee isn’t quite ready to go to balance.
+So it seems to me that paragraph 4, as written, really captured the center of gravity of the Committee.
+So I am in favor of that.
+<START>One word on the moral hazard and the concern about being seen as reacting:<END>
+I am not worried about it.
+I think we have kept our eye, through the past twenty years, on the macro environment.
+<START>We have adjusted policy to stabilize the economy, to bring inflation down, and we were pretty darn successful in all of that.<END>
+<START>Asset prices go up, and asset prices go down.<END>
+Anybody who bought a lot of high-tech stock, betting on the Greenspan put, is still waiting to recover their money.
+[Laughter] I don’t think it ever existed.
+I really don’t care what people say;
+I care about what we do, and we just need to keep our eye on those macro implications.
+<START>Now, as I said in my presentation, I think the connection between the financial markets and the August 7, 2007100 of 136macroeconomy is pretty complicated and runs through confidence and other things, too.<END>
+<START>But I’m not really worried about a moral hazard from acting.<END>
+Should markets continue to be turbulent and we see that turbulence in the future
+—I agree with the Vice Chairman that we have to be forward looking in this
+<START>—such turbulence has the potential for adversely affecting the economy.<END>
+I think we should go ahead and act.
+<START>I think we basically did the right thing in ’87 and ’98, and I don’t think we need to apologize for it.<END>
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Warsh.
+MR.
+WARSH.
+Thank you, Mr. Chairman.
+<START>Before diving into alternative B, I’d say part of the reason that we are trying on different clothes around the language in alternative B is that we have an odd juxtaposition of growth and inflation at this time.<END>
+<START>That is because the growth risks seem to be driven largely by a financial market situation that we still don’t totally understand, and we even have some disagreement about how quickly we will come to that understanding.<END>
+<START>So unlike our typical juxtapositions, when we have intermediate concerns about inflation and about growth, here it strikes me that the differences are in timing and in magnitude<END>
+—that is, if the downside risk from the financial markets happens soon and we’re in the middle of it and we just don’t see it yet, boy, we might know it soon and that could have very ugly outcomes.
+I think there are differences here.
+I also think there are differences in our power.
+<START>Our power over inflation is pretty darn good, and we can exercise that kind of judgment.<END>
+Our power over getting in the middle of these markets by moving rates ¼ percentage point or moving our language is harder for me to decipher.
+That’s why I think the suggestions about the language of alternative B are good ones, and they are hard for us to all wrestle with.
+The reason I come down for alternative B as written is that it strikes me that we have two goals.
+One is to be as clear as we can be with the markets, notwithstanding their expectations of August 7, 2007101 of 136what we see, and I think alternative B does that.
+The second goal is trying to buy ourselves some insurance and some flexibility.
+<START>I worry that, if we were to drop “predominant,” which has become part and parcel of their view of where we are, it might turn out that these markets are benign and this isn’t the storm I talked about just a moment ago, and it will be hard to go back to that word.<END>
+I don’t know how we go back to “predominant” in September or in the meeting after that if we have dropped it.
+So in some ways I think the question is, as in the Poole approach, Do you drop “predominant” and move the downside risks to paragraph 2, and is that roughly equivalent to alternative B as is?
+The reason I do not think so is that alternative B as is provides us with more flexibility to end up dropping the downside risks if that eventuality comes to pass.
+So for the reasons that Governor Kohn has given, I think we probably have the right construct here in alternative B. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Kroszner.
+MR.
+KROSZNER.
+Thank you very much.
+I also support keeping the fed funds rate unchanged, and I very much agree with the way that Governor Kohn was thinking about what we’re trying to achieve.
+So let me just describe why I think that alternative B as is largely achieves that.
+The key to my thinking about the decision on changing the statement is, first, whether something has materially changed so that the markets will realize that, when we change the statement, we do so because something has actually happened and, second, whether it gives us the flexibility going forward to make another change if new information comes in.
+So, for example, in paragraph 2, acknowledging the volatility and talking about credit conditions, about the housing market, and then about the offsetting factors of employment, growth in income, and global demand
+—all those things are relevant.
+The new things
+—the financial markets and credit conditions
+—have been there a bit but are now more important than they were before.
+So we’re acknowledging things that actually August 7, 2007102 of 136have happened in the intermeeting period.
+I also like that it gives a bit more color about what’s going on and how we’re thinking about things, and each piece is one that we can easily leave, add to, or take back, and that is very valuable.
+So I like the formulation of paragraph 2 because it both acknowledges new information that has come in and does so not in a way that suggests fear or excess concern but just sort of acknowledges various factors, particularly the financial conditions in the context of others on the upside.
+The balance is, I think, very nice.
+On paragraph 3, I agree with President Plosser that it is not clear to me that we had new information so that we would want to change the characterization.
+I see nothing wrong with the characterization that we have there.
+I am not as concerned as President Plosser is that it makes more of a value judgment.
+But my question is just why we have made the change.
+<START>I am happy with either way, but using my criterion that if no information is new why change, I am not quite sure why we changed it.<END>
+I think it is fine either way.
+On paragraph 4, I think it is very important to take a step toward balance without going all the way toward balance because it is much too early to tell, as many people have said.
+Putting the downside risks there makes a lot of sense because of the tradition of the structure.
+Again, I don’t see any reason to change the overall formulation or the overall structure at this point, particularly when the markets are jittery.
+I don’t think we should be going about a sort of structural change in the statement.
+Even if ultimately we might want to think about it, I do not think this would be the time to do it.
+Also, I like that it is very easy to put on and take off, so that if growth does come back up, we can easily remove the language.
+If growth goes down, we can move toward balance of risk very easily there if we want to, and as Governor Warsh said, if we drop “predominant,” we cannot get that back.
+I feel that we are not at a stage
+—or at least from the discussion around the table and from where I am
+—where we should do that.
+Also, I think you would have a very strong reaction in August 7, 2007103 of 136the markets.
+<START>If the markets saw that we both acknowledged the downside risk and took out “predominant” or even just took out the word “predominant,” that would indicate a much stronger risk and be a much stronger signal that we are going to move more quickly.<END>
+<START>I do think that this statement as is will lead to a slight increase in expectations of a cut a little earlier, but that’s perfectly acceptable because I can’t see any better way to get the balance right.<END>
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+Governor Mishkin.
+MR.
+MISHKIN.
+Thank you, Mr. Chairman.
+Obviously I agree that we should not have a change in the federal funds rate.
+So I want to talk about the statement.
+When I think about the statement that I would write, a key thing from my viewpoint is just to ask what the inflation objective is because it really affects the statement in a major way.
+I believe that a 2 percent goal is reasonable for reasons that I have discussed before.
+<START>In that context, inflation has moderated, and so I would have difficulty saying that we are concerned that it has not moderated when I think, in fact, it has.<END>
+But I do have to say that I think we want to stick with alternative B as it is written here for two reasons.
+The first reason is that I am actually in a conflicting situation because it is not clear whether I should think about writing a statement that’s appropriate for Governor Mishkin or a statement that’s appropriate for the Committee as a whole.
+We are going to have to deal with this challenge.
+When I read the projections, it’s clear to me that I’m on the high side, that my 2 percent is higher than the median, which is around 1¾ or 1.8.
+<START>I would not have difficulty accepting an inflation objective of 1.8 as long as the Committee came to a consensus.<END>
+I think that the issue of writing the statement is much more difficult when we don’t have consensus of the Committee.
+It is creating a problem for me in terms of thinking about how to get involved in the internal deliberation on what the statement should be, and that will be important in the future.
+I do not think that now is the time to deal with that.
+So one of the issues then is let’s deal with that at some point in the future.
+August 7, 2007104 of 136The second reason is the issue of what is going on in terms of the financial markets and what kind of impression we give outside.
+I agree with Governor Kohn that we have not been operating under a Greenspan put or a Fed put.
+<START>It is very clear to me that we have not been doing so, except that I think an impression has been created, and I would like to mention that I am a little less sanguine about what was done in the past.<END>
+I think that one mistake was made, perhaps because I’m looking at it ex post.
+<START>When the Fed lowered interest rates 75 basis points in the LTCM episode, it was a brilliant stroke.<END>
+It was exactly the right thing to do.
+But when you think about an operation like that, which was basically to restore confidence to the markets and was very much like a classic lender-of-last-resort operation, we know that you want to put in liquidity;
+but when the crisis is over, you want to take it out.
+<START>At that time, I was quite critical that the Fed did not then remove the 75 basis point decline, and I think it created an impression<END>
+—I don’t know about a Greenspan put, but there was some element of that
+—and it is very hard to dissipate that impression.
+Maybe it is true that people said we weren’t trying to do that, but we did create some kind of impression along those lines.
+So I think the issue of perception still is important.
+In that context, it is very important that we not give the impression that we are responding to financial markets now because the discussion here has been that we are very concerned that this might be a problem in the future but right now it is not affecting our forecast in a major way.
+That’s exactly what we have to communicate to the public and the markets;
+and in that context, changing the statement too much in moving toward balance will create problems along those lines.
+If I were not worrying about these issues, I would take the word “predominant” out of the statement.
+In fact, I might even take out the issue that I’m worried about, that we say inflation has not moderated.
+<START>But given the current situation, I think it is best that we stick with “predominant.” That we mention downside risks to growth and then the “predominant” side in terms of inflation August 7, 2007105 of 136does create an element of balance.<END>
+Thus I think there is a potential issue that we have to worry about in future statements and that we will have to grapple with.
+I hope that this Committee could come to a consensus on what our inflation objective is so that we can have a more coherent discussion of these issues;
+however, I do not think this is the time to pursue that.
+So I support alternative B as written.
+Thank you.
+CHAIRMAN BERNANKE.
+Thank you.
+President Lacker.
+MR.
+LACKER.
+About classic lender-of-last-resort operations, we asked people at the Open Market Desk how much additional reserves it takes to lower the federal funds rate ¼ percentage point.
+It is on the order of a couple of ten million
+—so 75 basis points added maybe $100, maybe $150 million in that instance.
+You know, I’d venture that that was probably trivial in terms of adding liquidity to the market after LTCM.
+The real effect it had was altering the then-current and expected path of the real overnight federal funds rate.
+<START>As you know, Rick, the classic lender-of-last-resort option had to do with the 1900s and preventing interest rates from spiking above current rates, not from adding reserves or driving down interest rates.<END>
+So I think it is a confusion to link things like what we did in ’87 or ’98 to the classic lender-of-last-resort operation.
+MR.
+MISHKIN.
+But there’s always an issue about what we mean by the word “classic.” What I’m thinking about here is that a lender-of-last-resort operation is really about restoring confidence.
+It can be done without actually putting any liquidity into the system.
+If you look at a successful lender-of-last-resort operation, just the announcement that you will be a backstop for the system has tremendous impact.
+Of course, this is one reason that what was done in ’87
+—with Greenspan not actually sitting in the tub that morning but getting up early and announcing before the market opened that the Federal Reserve was going to be a backstop
+—was extremely important.
+I’m thinking of it in that context, which is that we wanted to provide information to the markets, August 7, 2007106 of 136which was that we were going to be there and that we were not going to be the Bank of Japan and allow something to spiral out of control.
+Clearly, it was basically taking out insurance, saying that the Fed will be there.
+Once you don’t need insurance anymore, there’s a really strong argument to take it away.
+So I’m not talking about this in terms of liquidity per se but what we are trying to do in terms of expectations.
+<START>That episode was important for doing the right thing, which was critical to the way the financial markets recovered;<END>
+but I think a problem was created when we didn’t reverse it in the same way that, when you actually do a lender-of-last-resort operation, you put liquidity in and you take it out.
+That’s the sense in which I mean putting lower interest rates in and then taking them out when the crisis is over.
+CHAIRMAN BERNANKE.
+All right.
+Let me get us back to the statement.
+[Laughter] Vice Chairman Geithner.
+VICE CHAIRMAN GEITHNER.
+Thank you, Mr. Chairman.
+<START>Just quickly, I think we are actually all in a fairly similar place, not far apart in our basic diagnosis, and that’s good, given the complexity of our decisions going forward in some sense.<END>
+We want to soften slightly the asymmetry in our current statement to give us a bit more flexibility and to show some awareness of the change in the reality out there.
+Quickly on the statement, first, I agree that, on the question of how we characterize and how we display some recognition of financial market developments, the reference to volatility itself may not capture it.
+Somebody suggested that we say something instead about going to “risk premium” or something more generally, and I think that might be slightly better
+—a small point.
+The second question is whether we should revert to June on the inflation readings in response, I think, to the right observation by President Plosser that this does convey more comfort with a level than the previous wording did.
+So I would be fine going back to June, but I could also live with this because August 7, 2007107 of 136it conveys a sense that the readings have been and continue to be reasonably favorable.
+So I would be fine with the way it is, but I could go back to the June language.
+<START>On the question about whether we refer explicitly to downside risks to growth, which we’ll be doing for the first time<END>
+—a sort of consequential act
+—and, if so, how we do it.
+I would have been fine leaving it implicit rather than introducing it explicitly.
+I think Don is right:
+<START>If we’re going to do it, unless we’re going to change the structure of the statement significantly and put some risk assessment on growth in paragraph 2 and some risk assessment around inflation in paragraph 3, then we need to leave it in paragraph 4.<END>
+So, again, on the risks to growth, I’m okay with putting that language in.
+I think it’s consistent with the broad objectives.
+I guess my preference would have been to leave it implicit.
+<START>Finally, on “predominant,” my own view is that we should not repeat “predominant” and that we would be better off simply stating that the Committee remains concerned about the risks or concerned that inflation will fail to moderate as expected.<END>
+I don’t think the arguments for sticking with “predominant” are that compelling.
+I don’t think that taking it out constrains our options going forward.
+It is true that it’s a shift in some broad sense, but I don’t think we need to say so starkly now that we’ve looked at this set of risks
+<START>—very different types of risk, some very fast moving, very uncertain, and some slower moving, probably manageable over time<END>
+—and say that we weighed that balance and we think the latter risks continue to predominate.
+I think that’s the substance of the argument we face.
+I think it would be better to slightly soften that further.
+Having said all of that, I can live with alternative B as drafted.
+[Laughter] MR. MISHKIN.
+May I make a two-handed intervention?
+CHAIRMAN BERNANKE.
+Governor Mishkin.
+August 7, 2007108 of 136MR. MISHKIN.
+Could I ask a question of Brian?
+“Predominant” is a key word.
+So what do you think might be the response of the markets if we leave it in or take it out, in terms of two elements.
+One is the issue of how the markets would think about the future evolution of our policy.
+Two is how the media might read whether we are reacting to the distress in the financial markets.
+MR.
+MADIGAN.
+Well, as I said earlier, it’s a little hard to judge market reactions right now, given the flux in financial markets.
+That said, I do think that the introduction of “downside risks,” as an explicit phrase in the statement will obviously not be overlooked by market participants, [laughter] and I think that they will see it as at least some slight shift in the Committee’s body English.
+With regard to “predominant,” that’s just another step in the same direction
+—and I think maybe even a bigger shift.
+MR.
+MISHKIN.
+Right.
+MR.
+DUDLEY.
+I think it is a bigger shift.
+I think if the first is one unit, the second is maybe two units in terms of how far you go.
+CHAIRMAN BERNANKE.
+President Moskow.
+MR.
+MOSKOW.
+I just have another objection to taking out the word “predominant.” I don’t think the sentence makes any sense if you take it out.
+[Laughter] You have to put something in.
+You cannot say that it is our only problem.
+CHAIRMAN BERNANKE.
+Well, right.
+You really have to rewrite the sentence.
+Let me try to evaluate this with your guidance.
+[Laughter] So I agree with Brian that this is one of the toughest ones to write and to assess the response.
+If you read the commentary, expectations are all over the map, and so it is very difficult to know how this will be taken.
+I don’t pretend to know.
+Let me start with something easy.
+I think that President Plosser is absolutely right.
+There is no August 7, 2007109 of 136reason to change paragraph 3 without a reason.
+So unless anyone has concerns, I’d like to change paragraph 3 back to the June language.
+Okay.
+That’s the first thing.
+Regarding the tougher question
+—and President Yellen, President Poole, and others have raised an interesting possibility
+—again, without much confidence I am going to resist it for the following reasons.
+<START>The first reason is mostly that it is complicated, [laughter] and it moves things around in ways that will make it even harder for the market to understand what we’re trying to do.<END>
+Another reason is that the statement “although the downside risks to growth have increased somewhat,” if we follow your advice and put it after the new sentence in paragraph 2, will essentially say that the financial markets are the reason that the downside risks have increased, whereas there are other factors
+—the housing market, automobile sales, and things of that sort
+—that could be viewed as increasing the downside risks.
+So I guess that’s my recommendation.
+On “predominant,” I think the word has been neutralized to a significant extent by its use.
+You may recall that we used the phrase “predominant policy concern,” and we changed the second sentence, and the market based on that decided that we had gone all the way to balance.
+<START>My concern is that, if we get rid of “predominant” and if we mention the downside risks to growth anywhere, that will be viewed as having gone mostly to balance, and I don’t think that’s where we are right now as a Committee.<END>
+I have one thought, which may have come too late in the day here.
+This is going back to paragraph 2, “financial markets have been volatile in recent weeks.” President Geithner raised the idea of changing that to something about risk.
+One small concern I have, and it would have been good had we put this in earlier, is that the phrase refers to something going on in the markets per se and not an effect of the markets on the economy, which heightens some of the put risk a little.
+An alternative would be to replace that first phrase with something like “investors have demanded August 7, 2007110 of 136greater compensation for risk.” That would be a market development that evidently affects yields and borrowing costs.
+I see some nodding.
+I see some frowning.
+So I’m not sure.
+MR.
+MISHKIN.
+Could you clarify?
+Are you saying that you would then get rid of “credit conditions have become tighter”?
+CHAIRMAN BERNANKE.
+<START>No. “Investors have demanded greater compensation for risk, credit conditions have become tighter for some households and businesses.” All right.<END>
+No excitement.
+MR.
+LACKER.
+It is not clear whether probability distributions over the fundamentals have shifted or whether the probability distribution over marginal utility has shifted.
+Do you see what I mean?
+CHAIRMAN BERNANKE.
+No. [Laughter] MR. LACKER.
+<START>It is not clear whether their attitudes to a given risk have changed or their assessments of the magnitude of the risks have changed.<END>
+CHAIRMAN BERNANKE.
+Oh, I see what you’re saying.
+<START>Well, actually the way I phrased it was intentionally not to say that risks have increased but rather to say that the price of risk has increased.<END>
+MR.
+LACKER.
+But that says one of them.
+That says the latter.
+CHAIRMAN BERNANKE.
+But that’s what I want it to say.
+MR.
+LACKER.
+But that’s not clear.
+It is not clear that it isn’t just a widening of the probability distribution over the relevant outcomes.
+CHAIRMAN BERNANKE.
+Okay.
+I don’t see any snowball.
+[Laughter] VICE CHAIRMAN GEITHNER.
+Don’t give up yet.
+“Risk premiums in financial markets have increased, credit conditions have tightened for some households”
+<START>—it is true that you don’t August 7, 2007111 of 136really know what the source of the increase in risk premiums is, but it is true that risk premiums have increased.<END>
+Volatility itself is not particularly interesting from a policy perspective, and as many people have said, we’re not here to damp volatility.
+The considerations relevant to the macroeconomy and to financial market stability in some sense are what happened
+—and that’s a different way of saying it.
+MR.
+LACKER.
+No, it encompasses both of what I was referring to, and so that would be a way to do it.
+CHAIRMAN BERNANKE.
+President Fisher.
+MR.
+FISHER.
+I would agree with that.
+Now, that doesn’t say that pricing has changed.
+Let me give you an example.
+Kimberly-Clark last week went to market on $2 billion in debt.
+They couldn’t move it unless they had a change-of-control provision.
+No price impact.
+So it is part of the risk premiums, but we’re not seeing pricing per se.
+I like the wording that President Geithner has suggested.
+CHAIRMAN BERNANKE.
+Governor Kroszner.
+I’m sorry.
+You were next.
+MR.
+KROSZNER.
+Yes, in principle I think that is a good way to characterize what’s going on.
+But going back to the criteria that I was using, in many cases the risk premiums have simply moved close to historical levels from record lows.
+So if they stay at historical averages over time, that’s not necessarily something that’s wrong or problematic.
+It may be very difficult to take that phrase away if risk premiums stay where they are in at least some of the markets.
+I don’t think that’s necessarily a bad thing, and I’ve heard a number of people around the table suggest that.
+In certain markets, they have been above historical averages, but in many markets they have simply moved to the historical average, and I am just a bit concerned about being able to take that away.
+August 7, 2007112 of 136CHAIRMAN BERNANKE.
+<START>Well, just to say “have increased” and then have the next phrase say “credit conditions have become tighter” also makes no value judgment on whether they’re appropriate.<END>
+MR.
+KOHN.
+Mr. Chairman.
+CHAIRMAN BERNANKE.
+Governor Kohn, do you have a comment?
+MR.
+KOHN.
+Yes, I do.
+I see why you want to take out “volatile,” and I agree with that.
+Unlike President Lacker, I think it is important to keep credit conditions in there because it’s more than just price.
+So I was a little concerned that saying “risk premiums have increased and credit conditions have become tighter” puts it all on price.
+Suppose we didn’t have the phrase in red.
+We just had “owing to developments in financial markets, credit conditions have become tighter,” or “reflecting recent developments in financial markets, credit conditions have become tighter.” VICE CHAIRMAN GEITHNER.
+I am okay with that.
+MR.
+KOHN.
+I prefer “risk premiums.” MR. MOSKOW.
+You could just go back to the original language in the Bluebook.
+It says essentially the same thing.
+Just change the sentence around.
+CHAIRMAN BERNANKE.
+I think that is a good idea.
+Credit conditions are becoming tighter.
+We saw that in the bank surveys before any of this happened.
+MR.
+MOSKOW.
+That is in the Bluebook.
+CHAIRMAN BERNANKE.
+I understand, but I think that some acknowledgement of the effects of financial market developments in the recent weeks on the economy is needed just to make sure that people understand that we’re awake.
+MR.
+KOHN.
+So the proposed language is “risk premiums” and “financial markets”?
+August 7, 2007113 of 136CHAIRMAN BERNANKE.
+“Have increased, credit conditions have become tighter.” And the housing.
+MR.
+MISHKIN.
+Fine with me.
+MR.
+MADIGAN.
+I just want to point out, Mr. Chairman, that those two clauses seem to overlap to a considerable degree, “tighter risk premiums” and “tighter credit conditions.” It’s not clear to me precisely what distinction we’re trying to draw there.
+MR.
+MISHKIN.
+Well, “credit conditions” is more general because it can encompass both price and nonprice.
+MR.
+MADIGAN.
+So it raises a question in my mind as to why the first clause is necessary.
+CHAIRMAN BERNANKE.
+Well, think of it as being market-traded assets, and “credit conditions” sounds like mortgages, retail type of credit provision.
+President Hoenig.
+MR.
+HOENIG.
+I’m okay if you want to put “premium,” the Vice Chairman’s language, in there.
+But I think that the markets have become more volatile, and nothing is wrong with saying that, and credit conditions have tightened, which is a fact, and people are thinking about the volatility of the markets.
+So that is on their minds.
+We’re acknowledging it, as you said, and so I was comfortable with the language.
+CHAIRMAN BERNANKE.
+Okay.
+Let me just get a sense around the table, if I could.
+I think President Hoenig makes the point that volatility in financial markets could be viewed as having an effect on the economy through uncertainty and those sorts of factors.
+One option is “financial markets have been volatile in recent weeks.” The second option is “risk premiums in financial markets have increased.” Who wants “volatility”?
+[Laughter] I see five.
+Who wants to make the change?
+MR.
+KOHN.
+I guess I would.
+August 7, 2007114 of 136CHAIRMAN BERNANKE.
+Oh, great.
+[Laughter] All right.
+MR.
+MISHKIN.
+We flip a coin?
+MR.
+KOHN.
+You have the deciding vote.
+CHAIRMAN BERNANKE.
+Okay.
+MR.
+LACKER.
+One factor for me is that “volatility” is a very broad term, and “risk premiums” refers to a narrow set of markets, and this way shifts the focus off equity markets.
+CHAIRMAN BERNANKE.
+Okay.
+I apologize profusely for bringing this up.
+Why don’t we just leave it?
+[Laughter] So after all the discussion, my proposal is to follow President Plosser and to replace paragraph 3 with the June version.
+Please call the roll.
+MS.
+DANKER.
+I’ll read the directive wording from the Bluebook and the balance of risk assessment from Brian’s handout.
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with maintaining the federal funds rate at an average of around 5¼ percent.
+<START>“Although the downside risks to growth have increased somewhat, the Committee’s predominant policy concern remains the risk that inflation will fail to moderate as expected.<END>
+<START>Future policy adjustments will depend on the outlook for both inflation and economic growth, as implied by incoming information.” Chairman Bernanke Yes Vice Chairman Geithner Yes President Hoenig Yes Governor Kohn Yes Governor Kroszner Yes Governor Mishkin Yes President Moskow Yes President Poole Yes August 7, 2007115 of 136President Rosengren Yes Governor Warsh Yes CHAIRMAN BERNANKE.<END>
+The next meeting is September 18.
+Let me remind you that we will be discussing briefly on September 18 and in October the communication issues.
+Let me ask you, please, to be reticent about discussing this;
+please be nontransparent about transparency [laughter] in our discussions so that we don’t front-run ourselves too much.
+I would appreciate that.
+I’m going to adjourn formally, but if you can tolerate a few extra minutes at the table, we would like to give Laricke a chance just to give us a very quick update on congressional matters, and then we will move upstairs for lunch for President Moskow.
+The meeting is adjourned.
+END OF MEETING August 7, 2007116 of 136
+INSTANCE OF DISAGREEMENT: 149

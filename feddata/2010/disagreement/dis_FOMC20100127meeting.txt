@@ -1,0 +1,291 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+INSTANCE OF DISAGREEMENT: 0
+
+INSTANCE OF DISAGREEMENT: 0
+
+Just on the substance, I think it was pretty striking that in fact there was not a big change in the outlook and not really that big a change in our degree of certainty since our last meeting.
+We do see a recovery, but it appears likely to be moderate.
+In any case, it’s still somewhat more projection than actuality.
+I talked about the level of uncertainty.
+Labor markets are still deteriorating.
+I think the UI claims are moving in the wrong direction, and I am not quite sure what is happening there.
+I am not sure it’s entirely spurious.
+On the inflation side, we had a lot of discussion about January 26–27, 2010201 of 260the five-year, five-year forward breakeven inflation rates, and I think that is an important thing, but there are technical and other reasons for that.
+And I think it is striking how much, for example, the dollar has moved in an anti-inflationary direction recently.
+<START>And my general sense is that I didn’t hear from around the table quite as much today as I heard earlier, last fall for example, about chatter, about the Fed’s balance sheet, inflation expectations, those sorts of things.<END>
+So I am not sure which way that’s going.
+In any case, given that we haven’t changed our outlook much, given that uncertainty remains very high, and given that between now and the next meeting we’ll have two employment reports and we’ll have a lot more information, my preference is to maintain a status quo position in this meeting while continuing on our path toward normalization as best we can.
+Let me talk about some of the specifics in the statement, and then I will address President Lacker’s question and others.
+First of all, just on alternative C, paragraph 2, on inflation, given the decline in energy prices in recent weeks, I guess that it does seem a little odd to introduce that sentence in this meeting.
+<START>I thought I heard a majority in favor of dropping the first sentence and just starting with “with substantial resource slack.” I have heard from President Plosser now a couple meetings about C2.<END>
+There are really two elements to that.
+One is dropping the resource slack reference.
+I am not sure that the Committee as a whole is there.
+I think most of us think there is some effect of resource slack.
+We have considerable disagreement about how important it is and how to measure it, and so on.
+The other thing that is in C2 is reference to appropriate monetary policy.
+We actually had something like that in the first paragraph, which I guess we dropped this time.
+But I take that point, and I think we should consider possibly including something like that as we go forward.
+January 26–27, 2010202 of 260MR. PLOSSER.
+May I just make one comment?
+Previously I actually proposed that we could keep the resource slack sentence and then just add the second sentence of C2 as a way to combine the two.
+CHAIRMAN BERNANKE.
+I think that is a reasonable suggestion, and let’s foreshadow that for the next meeting.
+Perhaps you would remind us about that.
+MR.
+PLOSSER.
+I’m sure I will.
+[Laughter] CHAIRMAN BERNANKE.
+I think you might.
+Just one other piece of housekeeping before getting to the tougher questions:
+On the TAF, I thought I heard a majority, but maybe not, for going to zero after March.
+Bill, what was the language there that you were suggesting?
+MR.
+ENGLISH.
+Why don’t I just read the sentence?
+“The Federal Reserve is in the process of winding down its term auction facility.
+Fifty billion dollars in twenty-eight-day credit will be offered on February 8, and $25 billion in twenty-eight-day credit will be offered at the final auction on March 8.” CHAIRMAN BERNANKE.
+Okay.
+Is that all right with everybody?
+Are there any who feel strongly that we should not?
+Okay.
+So let’s make that change.
+On the other issues, it’s not a question of surprising markets or not surprising markets.
+It is a question of communicating accurately, and the question is, Do the markets understand what we think we are doing and what we are trying to achieve?
+So, first of all, with respect to holdings, I think that the use of “holdings” at this meeting might not change much of anything, but I think there is a significant risk that it would signal an imminent sales program, which I didn’t hear us agreeing on yesterday.
+President Kocherlakota, I think we accepted your basic premise that we should do a gradual selling process that would get us down to zero MBS much more quickly than redemptions would do.
+So it’s a question of what’s the appropriate timing of January 26–27, 2010203 of 260communicating that.
+We have several ways to communicate that.
+I can talk about this again in testimony coming up on two occasions.
+It is important, I think, for us to see the effects of the end of the MBS purchases at the end of the quarter.
+You were talking about empirical studies.
+In a moment, we are going to have a very important empirical study.
+<START>So I don’t disagree with the fact that we should modify this, but I guess I think it’s better to do it through other mechanisms and just hold off on this just for another meeting or two.<END>
+I didn’t hear anyone yesterday say that we should be selling immediately.
+I think there was a view that we should be selling gradually over a period of time but that the beginning of those sales might still be after the tightening process begins, for example.
+So I think it would be miscommunication at this point to put that in.
+I think it would give the wrong impression.
+Likewise, with the “extended period” language, I understand the concerns that some folks have about that, and I don’t always feel entirely comfortable with it myself, to tell you the truth.
+But there are a couple of aspects about it that I think we should point out.
+<START>The first is one that the Vice Chairman mentioned, which is that the signal it’s sending doesn’t seem to be grossly wrong.<END>
+The markets are expecting us to move in the second half of this year, and I don’t think many of us around the table are much more aggressive than that.
+So it’s not precluding us from moving at an appropriate time at this point.
+The other aspect of this statement that is very important is that it is explicitly conditional.
+We made a point a couple of meetings ago of putting in this language about subdued inflation trends and contained inflation expectations.
+Clearly, if those things start moving adversely, that will invalidate the premise of the “extended period” language.
+<START>And, third, although I know people have talked about six months, the similar language in 2004 was dropped and interest rates were raised only in a couple of meetings I think.<END>
+January 26–27, 2010204 of 260So particularly if the conditions underlying the statement begin to change, I don’t think that we are so locked in.
+I’m happy working toward the elimination of that statement or a modification of that statement.
+But if we were to do it today, we would be signaling with high likelihood that we would be moving in the next two or three meetings, and I don’t think any one of us wants to signal that right now.
+So it’s not a question of buying flexibility;
+it is a question of being accurate in what you are telling the market.
+And right now the market’s views seem to me to be more or less appropriately calibrated.
+President Lacker.
+MR.
+LACKER.
+Mr. Chairman, there’s an interpretation of “extended” as referring to six months.
+At the next meeting, as someone pointed out, six months out is pretty deep into the end of the year, so we’re going to have to remove it.
+What I’m saying is that we would want to remove it at the time when we don’t intend to signal or we don’t believe we are going to move in the next two or three meetings.
+CHAIRMAN BERNANKE.
+Well, I’m saying that we could remove it one or two meetings ahead, if conditions warranted, because it is a conditional statement.
+MR.
+LACKER.
+Okay.
+But that suggests that those of us who have suggested interpretations that are closer to six months might want to reguide or reeducate markets about it.
+CHAIRMAN BERNANKE.
+I think it would be important to stress in your elucidations that this statement, if you read the sentence, says that economic conditions
+—and we lay out what those conditions are
+—are likely to warrant interest rates that are exceptionally low.
+So I think it is analogous what the Swedes do, which is to forecast their own interest rates.
+MR.
+LACKER.
+Yes.
+I am all in favor of our feeling as if we could drop “extended” and move very quickly after that.
+January 26–27, 2010205 of 260CHAIRMAN BERNANKE.
+In a situation like today, where there has been no palpable change in the outlook, I don’t see the case for that.
+But if there were a significant change in the outlook, I think that we certainly could.
+I’m also fine with working toward a gradual toning-down of this language, also along the lines that President Hoenig and others have suggested, to “some time,” et cetera.
+But I think we are not there yet.
+Right now the modal expectation around the table is that we are still some meetings away from it.
+MR.
+LACKER.
+I agree.
+<START>I take your line of argument to mean that you would not be receptive to an argument that we shouldn’t remove it because we don’t intend to move within the next two or three meetings.<END>
+CHAIRMAN BERNANKE.
+That confused me.
+[Laughter] I’m interested in accurate communication.
+Right now, the markets have what I think is a fairly reasonable forward curve.
+If we were to remove this today, the market expectation would be that we would be moving, say, by April, I would guess.
+And I don’t think that is an accurate representation of what the Committee believes at this moment.
+MR.
+LACKER.
+Okay.
+I understand that, and I don’t want to belabor this
+—this will be my last shot at it.
+An argument that we don’t want to move within the next six months doesn’t mean we shouldn’t remove it.
+CHAIRMAN BERNANKE.
+The trouble with removing it, without some basis for it, is that it will miscommunicate our views.
+MR.
+LACKER.
+I understand.
+MR.
+PLOSSER.
+One question:
+What the sentence says is “to warrant exceptionally low levels of the federal funds rate for an extended period.” The market seems to interpret that as being that we don’t move at all.
+Yet we could move 50 basis points and still have exceptionally January 26–27, 2010206 of 260low interest rates.
+So in your view, what is the interaction between “extended period” and “exceptionally low”?
+<START>Should we be interpreting it as no move or that we may be moving up slowly?<END>
+CHAIRMAN BERNANKE.
+Again, the Eurodollar futures curve seems to me to be a fairly reasonable guess of what we might want to do.
+Now, there have been some
+—like Larry Meyer, for example
+—who have suggested that we might want to take a first step up and then plateau at 1 percent or something like that.
+That’s possible, but that is a pretty subtle alteration.
+I think we would have to communicate what we were trying to do there in advance pretty clearly.
+So, again, I am hopeful that, besides the language, we do have other tools, including the ramping-up of our reserves-draining capacity and those sorts of things.
+But I just want to assure everybody that we are not locking ourselves into an iron-clad six-month period with this language.
+In fact, we discussed this at Jackson Hole.
+Carl Walsh asked us about this, and we said explicitly that we were not playing a Woodford game where we were trying to commit to keeping rates low longer than we otherwise would.
+That’s not what the intent is.
+President Kocherlakota.
+MR.
+KOCHERLAKOTA.
+Yes.
+Thanks, Mr. Chairman.
+My concern is that I thought that yesterday we had a very good, very productive discussion, and I agree with you that my sense of the sentiment of the table was that there was some support for a gradual reduction in our balance sheet, faster than would be warranted through redemptions alone.
+A lot of heterogeneity in views about timing.
+I remain concerned about the message that’s on the table in some vague sense getting out there.
+And this term “socializing” that Governor Warsh uses is a great one, and I’m sympathetic to the idea that changing this one word is a rather blunt way to try to accomplish January 26–27, 2010207 of 260this.
+I’m on board with that.
+What are the other vehicles that we have at our disposal for doing that?
+CHAIRMAN BERNANKE.
+Testimony, speeches, minutes, and ultimately the statement.
+So I think we can communicate that.
+Now, I also think, as I said yesterday, that we don’t want to say more than we know.
+In particular, I think we ought to get some staff input.
+You have suggested a pattern of sales that may or may not be the best one.
+We want to look at that
+—it is very important.
+So we may not want to communicate anything very precise about that yet.
+But I think it is reasonable for me to begin to introduce the idea that, perhaps not immediately or the near term but at some point, we will want to have a pattern of slow sales in order to normalize our balance sheet.
+So that would be, I think, the best way to do it.
+MR.
+KOCHERLAKOTA.
+So let me ask a pointed question.
+Should the New York Fed website still refer to it as a buy-and-hold program?
+CHAIRMAN BERNANKE.
+What?
+MR.
+KOCHERLAKOTA.
+The New York Fed website has a bunch of frequently asked questions about the agency MBS program, and one question is, Do we face any risk of loss on this program?
+And the answer given is, “There is no default risk,” which I agree with totally.
+And there is no capital loss.
+<START>But we might face interest rate risk, but we don’t really face interest rate risk because it’s a buy-and-hold program.<END>
+CHAIRMAN BERNANKE.
+Well, to answer that question, we would like to have some staff analysis of what would be a good pattern that would achieve these objectives, and I hope without too much capital risk.
+President Bullard.
+MR.
+BULLARD.
+<START>I just have one comment on “holdings” versus “purchases.” I agree with you that we want to try to keep a status quo type of statement, and we might be January 26–27, 2010208 of 260communicating too much by changing it.<END>
+But the way it’s written it says that we are evaluating purchases, and I don’t think we are evaluating purchases anymore.
+It is not as though we are going to change our purchases or anything.
+Maybe markets understand that, but it’s not really
+— CHAIRMAN BERNANKE.
+I think we need to do something at the next meeting, given that we are at that point.
+I think we are very close to the end of the actual purchases.
+But it is still possible that we might want
+—I think you have spoken in favor of contingent policies
+—to reevaluate the end of our program.
+MR.
+KOCHERLAKOTA.
+But I think at the end of March we might be evaluating purchases and we might be evaluating sales of various kinds.
+“Holdings” might not be the right word.
+Maybe “portfolio” is a better word.
+But I think at that point we might want to indicate that more weapons are available.
+MR.
+BULLARD.
+Actually, at that point, we might want a larger reworking of this portion of the statement that more accurately reflects what
+— CHAIRMAN BERNANKE.
+That sounds reasonable.
+I am concerned only about accurate communication.
+I want the public to understand what it is we have actually decided around the table.
+Any other questions?
+Matt, do you have notes on the changes that we have made?
+MR.
+LUECKE.
+Yes.
+This vote would encompass the directive that shows up on page 8 of the package.
+It would also encompass alternative B, as shown on page 3 of the package with two changes.
+<START>The first change would be to eliminate the words in red at the beginning of paragraph 2 and, thus, begin with the words, “with substantial resource slack.” The second change would be to substitute in paragraph 4 the sentence on the TAF with the sentence that was January 26–27, 2010209 of 260read by Bill English.<END>
+And I would note that we would not be including the word “holdings” within brackets in paragraph 3.
+Chairman Bernanke Yes Vice Chairman Dudley Yes President Bullard Yes Governor Duke Yes President Hoenig No Governor Kohn Yes President Pianalto Yes President Rosengren Yes Governor Tarullo Yes Governor Warsh Yes CHAIRMAN BERNANKE.
+Okay.
+Thank you very much.
+A few items.
+First of all, your projections can be updated if submitted by 5:00 p.m.
+tomorrow.
+Second, on redemptions, the Desk needs a bit of guidance.
+My sense of our meeting yesterday was that we were happy for the Desk to run off all agency-related securities starting immediately but that, for the time being, they would like to roll over Treasuries.
+Is that acceptable to everybody?
+VICE CHAIRMAN DUDLEY.
+I think there is one question:
+Roll them into what?
+CHAIRMAN BERNANKE.
+Yes, roll them into what?
+Into shorter maturities generally.
+Is that okay?
+MR.
+SACK.
+We were going to propose for now maintaining the current policy of reinvestment and preparing a full analysis that we could discuss either between the meetings or at the next meeting on whether to redeem or to use a more complicated rollover strategy to shorten the maturity.
+MR.
+DUDLEY.
+Right now, when they come due, you rebuy the thing that matures.
+If a ten-year matures, you roll that into a new ten-year.
+MR.
+SACK.
+If you want a more immediate change, we need to discuss it in more detail.
+January 26–27, 2010210 of 260CHAIRMAN BERNANKE.
+So what you want to do for right now is roll it over, but let’s not wait until the next meeting to get clarity on this.
+MR.
+SACK.
+Okay.
+There are repercussions, and I want to make sure that everyone understands them.
+For example, our securities lending program will be affected.
+CHAIRMAN BERNANKE.
+All right.
+We will check with everybody by phone.
+VICE CHAIRMAN DUDLEY.
+Yes.
+There are also some operational issues.
+How do you roll into bills?
+There may not be a bill auction on the right day, and so there are some complexities.
+MR.
+SACK.
+There are only two dates this year when return coupons coincide with no bill issuance.
+CHAIRMAN BERNANKE.
+I think there is a preference around the table to go to shorter maturities for Treasuries, if possible.
+Let’s see.
+The next meeting is Tuesday, March 16.
+It is a one-day meeting.
+We will start at 5:00 in the morning.
+[Laughter] We may have to start at 8:00 in the morning.
+Let me just ask everyone, when you plan your remarks for next time, please keep in mind that it is a one-day meeting, and we will have a very tight agenda.
+President Lacker.
+MR.
+LACKER.
+Do you intend to have the same three-part structure, or are you going to go back to two-part?
+CHAIRMAN BERNANKE.
+Well, I would think that we would not have an extended staff presentation other than the economic presentation.
+That would be my assumption.
+Anything else?
+Okay.
+The meeting is adjourned.
+The members of the Committee and the staff have been asked to remain.
+You can stay and have lunch.
+We will have our discussion of January 26–27, 2010211 of 260legislative matters.
+Other staff members, thank you, and if you would like, there is lunch available in B-4001 for those who would like to take part in that.
+Thank you.
+END OF MEETING January 26–27, 2010212 of 260
+INSTANCE OF DISAGREEMENT: 10

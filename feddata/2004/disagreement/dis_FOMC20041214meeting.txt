@@ -1,0 +1,935 @@
+
+INSTANCE OF DISAGREEMENT: 0
+
+President Santomero.
+MR.
+SANTOMERO.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Pianalto.
+MS.
+PIANALTO.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Lacker.
+MR.
+LACKER.
+I support your recommendation, Mr. Chairman.
+<START>I’m happy to finish the year holding the all-time Committee record for highest fraction of meetings at which I’ve raised interest rates.<END>
+[Laughter] CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I support your recommendation.
+<START>I could have gone with a simpler version of sentence 3 that would say, “Output appears to be growing at a moderate pace, and labor market conditions continue to improve,” because I think the reference to the earlier rise in energy prices and the gradual nature of the improvement in labor market conditions tends to soften that statement.<END>
+I’d prefer something that’s a bit more “middle of the road.” But that said, I’m willing to go with your recommendation.
+December 14, 200466 of 118 CHAIRMAN GREENSPAN.
+Could I interpose here?
+I would just note that we do have one slightly negative statistic
+—one that historically has always been exceptionally useful
+—and that is the initial claims for unemployment insurance.
+They’ve gone up in the last couple of weeks.
+<START>We think it’s a Thanksgiving seasonal-adjustment problem.<END>
+<START>But in the past when data series have moved and we have tried to say “Well, it’s a statistical aberration of this form or that form,” we have often found in retrospect that it wasn’t.<END>
+So that’s one minor cloud sitting out there, which we ought to keep in mind.
+I would hope, and I presume, that it’s going to reverse.
+But that has not always been our experience.
+MS.
+MINEHAN.
+I don’t want to debate the data with you because you’re far better at analyzing them than I am.
+[Laughter] But I do take some comfort in the average monthly growth in payroll employment over the entire year.
+CHAIRMAN GREENSPAN.
+Governor Kohn.
+MR.
+KOHN.
+Thank you, Mr. Chairman.
+I support your recommendation.
+I see an important difference between us and the tennis player.
+When the tennis player runs back to the center of the court, the ball is already flying over the net.
+His running to the center of the court doesn’t affect the way the game turns out.
+[Laughter] As we raise the funds rate and move back to center, so to speak, that move can affect how things will come out.
+So I would not run back to the center of the court just to run back to the center, nor would I go either way if I thought the game wasn’t going to turn out to be right.
+CHAIRMAN GREENSPAN.
+I acknowledge your superior strategy.
+[Laughter] MR. KOHN.
+I’m not in favor of tightening so that we can ease at some point in the future.
+I’m in favor of tightening because it’s the right thing to do now.
+December 14, 200467 of 118 CHAIRMAN GREENSPAN.
+I was referring mainly to the possibility that we might look back in retrospect and find that real underlying inflation had been moving faster than we had expected.
+I’m merely suggesting to you that if our paradigm
+—which specifies that slowed productivity does not affect prices until it takes its full cut out of profit margins
+<START>—is wrong and we end up with rising unit labor costs and rising inflation, we will be very pleased that we did, in fact, move the rate structure up.<END>
+But I agree with you.
+I don’t believe we want to move the rate structure up in order to move it down.
+That doesn’t strike me as a very plausible scenario.
+MR.
+KOHN.
+Thank you for that clarification, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+MR.
+GRAMLICH.
+Thank you, Mr. Chairman.
+I support your recommendation.
+However, if I could substitute my own analogy for change
+— VICE CHAIRMAN GEITHNER.
+Oh, no!
+[Laughter] CHAIRMAN GREENSPAN.
+I rule that the Vice Chair is out of order!
+[Laughter] MR. GRAMLICH.
+The ship is sailing along, but I do think there’s an iceberg out there.
+Now, we may avoid it.
+I don’t want to say we’re going to hit it, but I do think one is out there.
+CHAIRMAN GREENSPAN.
+I’m sorry I raised the analogy.
+[Laughter] Governor Ferguson.
+MR.
+FERGUSON.
+I’ll simplify things again and just support your recommendation.
+CHAIRMAN GREENSPAN.
+Vice Chair.
+VICE CHAIRMAN GEITHNER.
+I support your recommendation.
+CHAIRMAN GREENSPAN.
+President Yellen.
+MS.
+YELLEN.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+The Secretary will read the appropriate language.
+December 14, 200468 of 118 MS. DANKER.
+I’m reading from the Bluebook, page 13, for the directive wording:
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+<START>To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with increasing the federal funds rate to an average of around 2¼ percent.” And then the risk-assessment language, which is in the table that was handed out, is unchanged.<END>
+It reads:
+“The Committee perceives the upside and downside risks to the attainment of both sustainable growth and price stability for the next few quarters to be roughly equal.
+<START>With underlying inflation expected to be relatively low, the Committee believes that policy accommodation can be removed at a pace that is likely to be measured.<END>
+Nonetheless, the Committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability.” CHAIRMAN GREENSPAN.
+The press statement clearly is the statement referenced in the table under alternative C. I won’t distribute these copies unless somebody needs to check the wording.
+Would you call the roll, please?
+MS.
+DANKER.
+Chairman Greenspan Yes Vice Chairman Geithner Yes Governor Bernanke Yes Governor Bies Yes Governor Ferguson Yes Governor Gramlich Yes President Hoenig Yes Governor Kohn Yes President Minehan Yes Governor Olson Yes President Pianalto Yes President Poole Yes CHAIRMAN GREENSPAN.
+Let’s have a short recess so that the Board of Governors can address the requests of the Bank directors for discount rate changes.
+December 14, 200469 of 118 3The materials used by Mr. Reinhart are appended to this transcript (appendix 3).
+[Recess] CHAIRMAN GREENSPAN.
+We’ll turn now to Mr. Reinhart.
+MR.
+REINHART.3 Thank you, Mr. Chairman.
+In the not inconsiderable number of discussions of communications policies over the past few years, members have often brought the meeting minutes into the mix.
+For those in favor of expediting the release of the minutes, the benefits of such a change, as listed in the top left box of your first exhibit, include providing more timely and nuanced information about the economic outlook and monetary policy choice.
+In particular, releasing the minutes well before the following meeting would help prevent situations in which market participants incorrectly interpret the lagged minutes as reflecting current Committee thinking.
+The minutes convey the range of views within the Committee, and expediting their release could be seen as an advantage for a few reasons.
+After their release, market participants will be able to put individual statements by policymakers into perspective according to the description in the minutes of the spectrum of members’ preferences.
+In addition, policymakers might be more willing to speak publicly about a wider range of policy possibilities if they can point to a mention of those possibilities in the minutes, thereby improving public communications.
+In addition, if members thought the expedited minutes provided a sufficiently complete and timely explication of the policy decision, the policy statement released after the meeting could potentially be shortened.
+Some members might not be convinced by such arguments, perhaps for the reasons given in the box at the top right.
+Expedited release could lead to undue market attention to the minutes, particularly so if early release were taken as a sign that policymakers attached enhanced importance to them.
+Moreover, members might be concerned that any resulting increased attention could complicate the Committee’s deliberations.
+In particular, members might conceivably alter their discussion at the meeting in order to be sure certain views were represented in the minutes.
+It is also conceivable that a member would offer support for a given policy decision only in return for agreement on a particular reference in the minutes.
+<START>If an adverse dynamic of increased market attention and increased contention within the Committee set in, the result might be that the minutes would become sanitized and increasingly unhelpful over time.<END>
+A last objection has been that it may be operationally difficult to manage expediting the minutes.
+(In that regard, though, I note that, as described in the memo by Brian Doyle circulated last week, two central banks
+—the Bank of England and the Swedish Riksbank
+—have succeeded in releasing minutes about two weeks after their policy meetings.
+To be sure, though, the policy committees of those institutions are smaller than the FOMC, and their memberships are not so geographically dispersed.) To address concerns about operational difficulty, this January the Committee directed December 14, 200470 of 118 its Secretariat to conduct an experiment in expediting the minutes.
+As shown in the middle panel, for the typical FOMC cycle, we posted a first draft for your consideration seven working days after the meeting.
+Based on your feedback, we produced two more drafts over the next week, with the goal of gathering indications of your intention to approve the final draft in time to meet a hypothetical publication deadline of two o’clock on Friday afternoon.
+In order to meet this schedule and to assess the experiment, as noted in the bottom panel, staff changed the process of producing the minutes in several ways.
+We contracted with a private firm to produce transcripts quickly.
+(This change also provides an important redundancy in our operations that was previously lacking.) We distributed drafting responsibilities among more staff so that work could be done along parallel streams.
+And we’ve provided more systematic feedback on your comments in the final week to make it more likely that the revision process comes to closure by the deadline.
+To make it easier for a geographically dispersed membership to approve the minutes in a relatively short time frame, staff developed a procedure for secure, chad-free, voting.
+Lastly, we collaborated with staff members in Public Affairs at the Board and the Markets Group at the Federal Reserve Bank of New York to assess the likely market reaction had the minutes been released early.
+This involved internally generating representative headlines and wire-service stories about the minutes consistent with the current environment and asking staff familiar with financial markets to hazard a guess as to the likely market response.
+I take away four lessons, listed in exhibit 2, from this experience.
+First, using more resources to produce and distribute the minutes soon after the meeting is helpful in ensuring that they are a true and accurate record of your discussion.
+<START>In particular, memories are still fresh, and information arriving after the meeting is less likely to shade the summary of the discussion.<END>
+Second, not all FOMC participants were familiar with all the rules governing the drafting of the minutes.
+There’s been an oral tradition enforcing a hierarchy of “a few,” “several,” “many,” and “most” Committee members and defining whether speakers are described as “members” or not.
+To make this process a bit more transparent, last week I circulated a guide to the preparation of the minutes drafted by your Deputy Secretary, Debbie Danker.
+Third, the expedited schedule poses the risk that not all members will be able to vote by the deadline.
+Given complicated travel schedules and holidays, on two of six occasions this year I was able to reach only eleven members by the time the minutes would have been released to the public.
+That, however, does not strike me as a particularly serious problem given that the results of the notation vote would not be reported until the subsequent set of minutes.
+<START>As long as we have the approval of a majority of members, the minutes can be released on time, and we can note the subsequent concurrence or dissent with that decision by those who could not be reached in the following set of minutes.<END>
+A more serious risk is that the schedule may be too tight to achieve a consensus by the publication deadline, a risk that is elevated if some members have significant and contradictory comments on the first and second drafts.
+My last observation is that Friday afternoon is a terrible time to release the minutes.
+On two occasions, the minutes would have been released on the same day as a December 14, 200471 of 118 surprising employment report and probably would have added to the already significant market volatility.
+In addition, financial markets tend to be thin on Friday afternoon, elevating the possibility of an outsized reaction.
+This was a limited experiment, and in the bottom panel I’ve listed several aspects of a new regime that went untested.
+<START>In particular, the experiment was conducted over a period in which there were no significant disagreements among members about the direction of policy, perhaps leading to a false sense of security about the ease with which a drafting consensus could be achieved.<END>
+Nor there has been an intermeeting conference call this year, so we did not have to work through procedures to handle that contingency.
+Such a possibility does not seem to pose an insurmountable obstacle, though.
+I would suggest that, as a rule, the minutes relate information available from the close of the prior meeting to the close of the current meeting.
+Thus, the description of an intermeeting conference call would be included in the minutes of the next regularly scheduled meeting.
+If the Committee wanted to ensure the continued timely release of information, it could acknowledge a meeting held outside its regular schedule in the subsequent policy announcement.
+<START>Because the experiment stopped short of actually releasing the statement early, it remains unclear how much increased scrutiny more-timely minutes will receive or how members will adjust their editing behavior.<END>
+It is also unclear how the public will react to the inclusion in the minutes of conditional statements, such as heightened interest in certain key data releases or the possibility of an intermeeting conference call.
+That said, the minutes do not often include such conditional statements.
+Moreover, when they do, they tend to expand on statements already made public in the Committee policy announcement, implying that the information content of such conditional statements in the minutes would seem to be limited.
+On the last exhibit, I’ve listed three possibilities for today’s meeting.
+As one possibility, the Committee could vote today to expedite the release of the minutes.
+If so, I recommend beginning expedited release with the minutes of the February 2005 meeting and adopting a schedule of releasing the minutes of regular meetings three weeks after the day of the policy decision.
+By beginning with the February meeting, the decision would be noted in the minutes of today’s meeting, which would be released soon after the February meeting and thus give the public advance notice of the new policy.
+Adding a few days to the schedule by releasing the minutes after three weeks would give staff more time to draft and participants more time to comment.
+Such a schedule would also position the release in the middle of the week, which would be less likely to cause difficulties.
+You might alternatively decide that the experiment has not been conclusive enough and decide to extend it.
+If so, I recommend shifting to a three-week schedule because it seems more sustainable.
+<START>Lastly, you might not have liked what you saw in the experiment or feel that the risks are too great to establish the precedent of early release.<END>
+If you do stop the experiment, I recommend continuing approximately the same production and internal distribution schedule so that the minutes are prepared while the memory of the meeting is still fresh.
+December 14, 200472 of 118 About one thing I am sure:
+If you decide to expedite the minutes, you will be setting a precedent that will make it hard to go back to lagged release if the results prove disappointing.
+In such procedural matters, you have tended to go forward only if a preponderance of participants supports the change.
+To facilitate your discussion, I have asked President Poole and Governor Kohn to make the case, respectively, for maintaining the status quo and for expediting the minutes.
+So I first turn to President Poole.
+MR.
+POOLE.
+Thank you.
+Let me start with three preliminary comments.
+First, I congratulate the staff on the way this experiment was conducted.
+I think that we’ve learned a lot from it, and I think that the early drafting of the minutes, in any event, survive and should survive.
+will So I want to start with that observation.
+Second, as noted, I do not favor early release of the minutes.
+But I do regard the issue as being fairly closely drawn.
+I want to be clear that my opposition to early release is not based on a slippery slope argument.
+<START>I don’t see that early release is going to lead to other demands for information that would be harmful.<END>
+So I’ve decided this case on its own merits.
+In my view, early release reinforces a favorable posture of openness but does not create substantive improvement in communication.
+<START>Also, early release has risks and could not be easily withdrawn if it is unsuccessful.<END>
+Instead, the outcome in that case, I believe, would be to make the minutes more vague and, therefore, less useful than they are now.
+Here is the structure of my argument.
+Our aim in communications policy should be to move in the direction of perfecting the rational expectations macroeconomic equilibrium.
+The key to better communications for political accountability is continued policy success.
+<START>Any change in communications policy that may on the surface appear to enhance political accountability but, in fact, interferes with policy success will not, in the end, serve the purpose of enhanced political accountability.<END>
+In particular, miscommunication with markets will damage rather than enhance political accountability.
+<START>The problem of improving communication for the purpose of improving monetary policy outcomes is reasonably well defined and will be the basis of my argument.<END>
+December 14, 200473 of 118 Now, to move in the direction of perfecting the equilibrium, an important goal is to encourage market reaction to new information that matches the FOMC’s reaction to the same information.
+<START>The issue is not primarily the market’s reaction to new information between one meeting and the next but, instead, to new information over a span of quarters and even years.<END>
+We want the market and the Committee to assess monetary policy implications of information the same way.
+The flow of new information is continuous.
+The Committee meets at discrete intervals.
+When the market reacts appropriately to new information, the economy has an important built-in stabilizer.
+This goal is quite different from conditioning the market to expect a certain policy decision at the next FOMC meeting.
+<START>Such conditioning may be necessary and useful, but it should not come at the expense of enhancing the market understanding of the fundamentals of monetary policy.<END>
+Here are some principles that I believe should apply to the minutes.
+First, it is extremely important that the minutes be faithful to the transcript.
+Eventually, the two will be carefully compared.
+Second, the minutes should not themselves be a market disturbance.
+Markets may react, of course, to the minutes, but the reaction should be helpful and not harmful to the achievement of policy goals.
+My concern is not undue attention to the minutes but misinterpretation of them.
+The issue is not whether interest rates will respond to the minutes but whether the response will be in the correct direction and amount.
+If there is never a market response to the minutes, then we can conclude that the minutes are not providing useful information.
+I’m convinced
+—and this is the third principle
+—that there are times when the most constructive thing the FOMC can do is to remain quiet.
+Minutes released before the next FOMC meeting will always be an event.
+Minutes released on the current schedule are, at most, a minor event to the market.
+I think we should be careful about periods like the fall of 1998, when Long-December 14, 200474 of 118 term Capital Management was imploding.
+For example, the minutes of the meeting of August 18, 1998, contained this sentence:
+“In the view of one of these members, the trend in monetary growth along with indications of rising speculative imbalances and excesses in various markets for financial and nonfinancial assets called for a prompt firming of monetary policy.” Would such a statement have been helpful in providing clear guidance to the market as to how the Committee would likely respond to developments in the financial markets?
+Would the statement have been ignored as it represented the view of only one member?
+I’m quite sure that the sentence would not have been helpful.
+I don’t know whether it would have been ignored.
+Suppose the Committee were closely split in such circumstances, and it was not just the view of one member.
+Disclosure of a close split would not be helpful.
+Could the minutes be true to the transcript without disclosing the split?
+I think we all agree that we can coalesce behind the majority view on a Committee led, of course, by the Chairman, but we do not want to stifle discussion of competing views around the table.
+In short, it is not hard for me to imagine circumstances in which the expectation of early release of the minutes would inhibit discussion.
+<START>I would feel more comfortable about early release if the staff had reviewed the transcripts and minutes for the last twenty years or so, looking for examples of discussions that might have been awkward under a policy of early release.<END>
+Now, I’ve said that early release of the minutes will be a market event.
+What I mean is that the minutes will be an event in the same way that the Chairman’s testimony is an event.
+I believe that the focus of market attention will be on the implications of the minutes for the policy action at the next FOMC meeting.
+The current release schedule for the minutes has the advantage of focusing attention on the Committee’s thinking and not on the probable policy decision at the next meeting.
+The advantage of relying on speeches and testimony
+<START>—rather than minutes with a fixed release schedule and the constraint that minutes must be faithful to the transcript<END>
+—is that speeches December 14, 200475 of 118 and testimony can be crafted to be more or less explicit, depending on circumstances, and they can be adjusted right up to the time of delivery.
+<START>Quite frankly, with early release of the minutes, I believe that in circumstances like the fall of 1998 the openness of discussions at the FOMC meeting and/or the nature of the minutes will be affected.<END>
+My view on the nature of market attention to the minutes under early release is that the financial press talks mostly to traders and traders care little about anything other than the very short run.
+Traders want clues about the Committee’s likely decision at the next meeting, and they really don’t care very much about the fundamentals of monetary policy.
+Providing clues about our next meeting ought not to be our main interest in communicating with the markets.
+I’ll finish with some unresolved issues.
+We’ve already talked about what happens with minutes of meetings held between regularly scheduled meetings.
+And incidentally, we might find ourselves with a problem of how we justify a delayed release rather than a three-week publication schedule for those.
+Could the Committee discuss the possibility of an intermeeting policy action as it did at its meetings of December 19, 2000, and March 20, 2001?
+Those discussions were disclosed in the minutes of the meetings.
+I think the Committee could not discuss the possibility of an intermeeting consultation unless the special meeting was going to be held before the release date of the minutes.
+<START>To release minutes in which there is a discussion of the possibility of a policy action before the next regular meeting would create market uncertainty that would not be constructive.<END>
+In sum, I do not believe that early release of the minutes will assist measurably in communicating the fundamentals of monetary policy, working toward further perfecting the rational expectations macroeconomic equilibrium.
+I believe that early minutes will be read primarily for clues about the Committee’s probable action at its next meeting.
+Finally, I believe that early release will at times be a market disturber, when the Committee would be better off remaining quiet.
+December 14, 200476 of 118 Moreover, I think it will inhibit the discussion of certain issues at regular meetings.
+However, let me restate my view that the issue on early release is closely drawn, and I’m not predicting disaster.
+And I do believe that a Fed posture of openness and transparency is appropriate.
+Thank you.
+MR.
+KOHN.
+I think we should speed up release of the minutes to about three weeks after the meeting, along the lines of the new schedule that Vincent suggested.
+I agree that there are risks and potential costs, but I think they are partly within our ability to control and they are outweighed by the potential gains.
+Potential gains come from the more timely release of the additional information that Vincent referred to.
+I do think that this information, by aligning the minutes better in time with the information that we use for our decision, will help key market reactions to better match the FOMC’s reaction to the same information.
+The minutes contain a more complete explanation of why we reached our decision, including how we are looking at future developments, than ever will be possible in an announcement.
+<START>They give a much finer reading on what the Committee views as risks and skews in the outlook than can be conveyed by a one- or two-sentence balance of risk statement.<END>
+They give a sense of alternative perspectives of Committee members, and this has been missing, for the most part, as the number of dissents has dwindled in recent years.
+I think diverse views further fill out the picture of the issues the Committee is focused on and where it sees the risks.
+An earlier understanding of the Committee’s rationale and range of views should help the public interpret the economic situation as it develops over the latter half of the intermeeting period and more broadly to interpret our reactions to incoming data.
+The release would be another news event
+—I entirely agree with Bill there
+—and markets may not always react in ways we find desirable.
+<START>This may prove uncomfortable from time to time, but I’m convinced that, on average, over time market reactions to the information in the minutes will reinforce our policy and help us achieve our objectives.<END>
+December 14, 200477 of 118 Earlier release of the minutes should prove useful for other aspects of our intermeeting communication.
+I think it’s helpful to have another Committee document in the public domain.
+There are already a lot of intermeeting events in the speeches and interviews that we do.
+<START>The minutes should assist markets to put our individual speeches and interviews in better perspective, making it less likely that markets will make the mistake of thinking that any of us, except for the Chairman, is speaking for the Committee.<END>
+I’ve found it useful in speeches, and especially in answering questions in public, to reference the minutes or the announcement.
+And having this document published earlier will give us more opportunity to utilize this method of putting our own remarks in the overall context and to reinforce the Committee’s message.
+I would not want to trade early release of the minutes for a shorter, less forward-looking announcement on the day of the meeting.
+I think there are useful things we can say about the future in that statement.
+I count the experience of the last five years
+—including the last year and a half or so of interest rate guidance
+—as successes in that regard.
+<START>We’ve provided information that has helped the markets make accurate policy predictions, and in my view we have not constrained our ability to take needed policy action.<END>
+Cutting back on the announcement would leave a three-week void in which markets would have less guidance from us, but I recognize that we’ve had a difficult time deciding on what and how much to say in that statement.
+There is no consensus on which way to go next in this regard, and announcements have evolved, and are likely to continue to evolve, slowly.
+All these tendencies argue that the value of the minutes to supplement the announcement is likely to increase over time.
+<START>The main negatives, as Bill stressed, are the potential feedback on the minutes and even more seriously on the deliberations of the Committee.<END>
+<START>We cannot adopt a new transparency tool that would in any way make the Committee discussion less useful and productive.<END>
+<START>I do think the December 14, 200478 of 118 experiment, together with the extra time embedded in Vincent’s proposal, should take care of the concerns about whether the Committee could converge on an agreed-upon document in the time allotted.<END>
+And Vincent has explained how intermeeting conference calls would be handled.
+With regard to the feedback on the minutes or discussion, I think we should remember that these are minutes, not transcripts.
+<START>Artful wording can make them comprehensive and truthful records of what we discuss and of the reasons for our decisions, without including information that would endanger financial stability.<END>
+We should continue to err on the side of comprehensive coverage.
+We should not cut the minutes back.
+<START>My experience as Secretary was that, on those occasions when I debated how much to include of a particular discussion, the Committee benefited over time from a fuller, more comprehensive set of minutes, even at the risk of some near-term discomfort, because the ability to reference the minutes in later testimonies and public discussions was so useful.<END>
+In our last discussion, some of us expressed concern that expedited minutes would constrain conditional or contingent deliberations for fear of how they would be reflected in the minutes.
+I read the policy paragraphs in the minutes for the last two years
+—not the last twenty years, I confess, Bill.
+But in the last few years, the paragraphs relating to our policy discussions contain few, if any, contingent statements that aren’t foreshadowed by the announcement.
+In fact, in thinking about your examples of December 2000 and March 2001, in both of those cases the announcement said that we would be monitoring developments carefully.
+So I think the announcement foreshadowed what the minutes said about the possibility of an intermeeting move.
+In terms of conditionality, I couldn’t find anything in looking at the minutes of the last few years that I felt would have done the Committee harm if it had been released earlier.
+Now, I didn’t look back twenty years.
+Conditionality in the minutes is usually implicit, not explicit.
+Discussion December 14, 200479 of 118 does give the readers a better sense of the variables that are informing the Committee’s decisions at that moment, and they don’t typically say “if x occurs, then we will do y.” Moreover, as I noted a few seconds ago, there are always ways of covering discussions without contributing to instability;
+I think we do that already.
+As a consequence, earlier release of the minutes should not deter the Committee from a free discussion of alternative outcomes and their policy implications.
+Finally, this is under our control.
+We will be setting the precedents over the next couple of years that will guide future Committees.
+<START>I think we can discipline ourselves to maximize the gains and minimize the potential costs of this exercise.<END>
+Thank you.
+CHAIRMAN GREENSPAN.
+Thank you.
+The floor is now open for discussion.
+MR.
+FERGUSON.
+<START>I’ll speak first, partially because I’ve spent five years working with Vincent on getting us to this happy place, and I don’t share his sighing about it.<END>
+I think expediting the release of the minutes is a useful step for the Committee to take.
+My views on this, I must admit, have changed.
+The last time we discussed this, I was opposed to early release.
+This time
+—though I agree with Bill that it is a very close call
+—I have moved slightly to the point that I think it is, on balance, a good thing to do.
+The benefits are ones that I think Don has pointed out.
+The minutes will be more contemporaneous in time with the relevant meeting.
+They are a more subtle, nuanced, varied representation of what transpired at the meeting than we can possibly provide in a one-page statement.
+They also have the benefit of giving us a touchstone on which to review other commentary;
+they may actually in some sense drown out some commentary and highlight others.
+I agree there will be costs.
+I’ve worried a great deal
+—and I continue to worry
+—about the high attention that is likely to be paid to these minutes, particularly since I think of them primarily as a reflection of historical relevance not necessarily a predictor of the future.
+But they do talk about December 14, 200480 of 118 what has happened.
+I also worry about a point that Bill made very clearly, which is the risk that these minutes, since they will be an “event” where the Committee is involved in the markets between meetings, would drown out other news when in fact
+—in terms of future policy deliberations
+—that news might be more important than anything that was in the minutes.
+There are some costs that I think we can manage without much difficulty.
+<START>For example, on the question of whether or not the minutes gradually will become smooth and polished and not be an accurate reflection of what transpired at the meeting, I think we and the staff can manage that.<END>
+<START>So given the close call, why did I move from thinking this wasn’t a good idea to thinking it is, on balance, a reasonable idea?<END>
+The answer ultimately is just the reality of life.
+We already are in the markets between meetings.
+Currently we have to be in the markets between meetings with an old set of minutes as opposed to a more relevant set of minutes.
+<START>Unfortunately, in spite of our efforts to educate the markets that this document is historical and does not relate to what has happened in the past six, seven, or eight weeks, they still react<END>
+—perhaps more than they should, though sometimes appropriately
+—to the information that’s in the minutes.
+And they get it wrong, I think, about as often as they get it right.
+So recognizing that we are in a position
+—contrary perhaps to the position I’d like to be in
+—where we’re interacting as a Committee both on the day of the meeting and then whenever the minutes are released, on balance I think it makes sense to have those minutes be a little more contemporaneous and a little fresher, as opposed to being very much out of tune.
+I say that because in either case the markets treat them, sometimes appropriately and at other times inappropriately, as a reflection of the Committee’s views.
+So my views on this issue have changed;
+I’ve moved to preferring, on balance, to release the minutes earlier.
+And I think this experiment has been very, very useful in that regard.
+December 14, 200481 of 118 CHAIRMAN GREENSPAN.
+President Stern.
+MR.
+STERN.
+Thank you, Mr. Chairman.
+I’ve felt for a long time that the minutes, given the way we currently handle the timing of their release, are an unappreciated or at least underappreciated asset.
+So I continue to strongly favor moving up the release date.
+I think Don basically made the case, so let me just quickly summarize things as I see them.
+In my experience, the minutes are accurate, they are comprehensive, and they are valuable.
+They illustrate the thinking of the Committee, and they get into the issues that we discuss when we consider policy.
+I think all of that is important to communicate to the public.
+In short, I believe it would improve communication to release the minutes earlier, when people would have an incentive to take a real interest in them.
+And that, to me, is the reason for doing it.
+I agree that there are some potential downsides, and I don’t want to overstate or exaggerate the benefits.
+But I do believe that, on balance, the benefits are rather compelling.
+I also think that it’s certainly possible from time to time that market participants will read something in the minutes that we believe is innocuous and make a lot more of it than we would.
+But in my view we shouldn’t be so paternalistic and worry that, if market participants don’t get it right every time, something has gone seriously wrong.
+Most market participants are smart, sophisticated people, and I think, on balance, they will get it right most of the time;
+and when they don’t, that’s their business.
+CHAIRMAN GREENSPAN.
+Governor Bernanke.
+MR.
+BERNANKE.
+I support the expedited release of the minutes.
+I think we should point out that on a number of occasions this year the delayed release of the minutes has actually confused the market
+—stepped on our message from the most recent meeting by sending a somewhat different signal.
+And although I don’t have a lot of market contacts, a number of them did contact me at those times and asked, “What’s going on here?” Second, I would put more weight on the notion December 14, 200482 of 118 that we all have to go out and give speeches and talks and answer questions and we worry about giving the wrong signal and confusing the market.
+It would be a comfort to have a Committee document out there to which we can refer and which the market can use for putting our remarks in perspective.
+That will reduce the risk that we all face of inadvertently moving the market or creating a misimpression.
+And finally, I would just note, as Vincent’s study showed, that a number of other central banks have used this practice effectively and have not had serious problems with it.
+CHAIRMAN GREENSPAN.
+Vice Chair.
+VICE CHAIRMAN GEITHNER.
+I support early release.
+We don’t have to do this, but I think it’s the sensible thing to do, and I think it’s the sensible time to do it.
+I can’t improve on the arguments made in favor of it by Don, Gary, and Ben.
+<START>I would say, Bill, that the argument you led off with is sort of an argument for extending the delay and taking release of the minutes out of the time frame when they would be viewed as having any signal value for the future stance of monetary policy.<END>
+You weren’t advocating that, but I think it’s awkward to suggest that we should release the minutes outside the time period of the meeting to which they relate.
+<START>In my view it’s better to take the risk of some noise added to the signal by releasing the minutes between meetings, closer to the relevant meeting, than to have the risk that the release comes after a new policy decision has been made and thus creates broad confusion about how to interpret the minutes in that context.<END>
+Generally I think early release will add more perspective to our views about the outlook for inflation and output growth and will provide more context to the range of views across the Committee.
+Therefore, I believe it will give people a better sense of the factors shaping our decision, and in that sense, I think it would be helpful.
+CHAIRMAN GREENSPAN.
+Governor Hoenig.
+December 14, 200483 of 118 MR. HOENIG.
+I support early release of the minutes, Mr. Chairman.
+I have for some time.
+I think it will give a better sense of the Committee’s views and the process of its thinking with regard to policy, and I believe that will serve the market well.
+CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I think the experiment to date has been a very good one.
+It has produced a much higher quality initial product because it’s written closer to the time of the meeting.
+Personally, I have had no problem keeping with the tight schedule, despite a couple of late comments on my part, and I want to congratulate the staff on the work they’ve done to make the process more efficient.
+I think we really have
+—no matter what we do with it
+—a higher quality product for both the transcript and the minutes as a result.
+So I would continue doing what we’re doing, no matter what decision comes out of this discussion today.
+On the issue of early release, I think we’ve been conducting this experiment in the best of times, as President Poole mentioned.
+Our statement has provided what the market has seen as near-term assurance;
+absent really off-the-chart data, market participants have some sense that policy will continue in a particular direction.
+So, in that regard, releasing the minutes early in this environment probably wouldn’t have had a whole lot of effect.
+They would generally have confirmed what the market knew already.
+Now, I’d always looked at releasing the minutes early as kind of a quid pro quo for taking out of the statement the wording that we’ve had in there for the best part of the last year or so orienting the market toward the gradual nature of our doing what we’re going to do.
+As I think back over my years on the Committee, when we started to mention the tilt and then the measured pace and gradual nature of removing policy accommodation, it was basically to give the markets a sense of some conditioning around our actions.
+December 14, 200484 of 118 I have felt that, if we release the minutes early, the markets will get their conditioning from the minutes;
+they wouldn’t need it in the statement released after the meeting.
+We wouldn’t have to try to figure out all the delicate wording that’s a shorthand way of trying to tell the market more than we need to tell them.
+I think the recent past has been a period of time when we’ve needed to tell the market something about our expected policy path, but going forward that need is not likely to be so great.
+The future direction of policy won’t be so clear to us.
+And the market, in fact, ought to be arriving at its own thoughts about the direction of policy and taking out insurance in case it is wrong rather than looking to particular statements of ours for the reasons to go in a certain direction.
+So I view the two communications as a package.
+I thought we’d take a lot of the forward-looking commentary out of the statement
+—the “measured pace” language, certainly
+—in return for releasing the minutes earlier.
+That could have some good effects;
+Don has gone into them.
+It could have some bad effects.
+There could be a timing issue where we end up releasing the minutes when something else is going on and we’d have two additional points of noise.
+But I thought of this as a package.
+So I’m finding it hard to think about releasing the minutes with the continuation of the “measured pace” language in the statement.
+I’d rather change the two things at the same time.
+In that regard, if it’s going to take us a while to decide how to change the statement, I would continue the experiment on the minutes and keep asking ourselves the question that President Poole mentioned, both for now and in the past:
+Are there reasons that expediting the release of the minutes has more of a downside risk than we now appreciate?
+So I’d be in favor of the middle road here.
+I recognize that it’s a difficult decision to make, and I wouldn’t make it now.
+I’d make it when we’re ready to change the statement, which I hope we’ll be able to do sooner rather than later.
+And in the interim, I’d continue the experiment.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+December 14, 200485 of 118 MR. GRAMLICH.
+I would support early release.
+I would do it unequivocally.
+Unlike Cathy, I don’t view this as something under the conservation of law and information here.
+So if we give out more information sooner, I don’t think we have to take anything back.
+In particular, I think the statements are working very well now, and I wouldn’t change those in the least.
+I just plain support early release.
+Let me make three other quick points.
+Bill mentioned that, if we didn’t have early release of the minutes, we’d still have a number of speeches as a communication tool.
+Well, member speeches are member speeches;
+they are not statements from the whole Committee.
+I don’t think the two are equivalent, and I’d rather have something from the whole Committee.
+On the question of whether the market would misinterpret the data, I can’t see how bringing the minutes closer to when the data came out would increase misinterpretation.
+This is a point Don made.
+I think it would reduce misinterpretation.
+And, third, I’d like to support a point that Ben made, which is that, when the minutes come out after we’ve given the statement for the next meeting, there’s inevitably confusion about that.
+It has happened several times, and with early release of the minutes we get away from that.
+So, to me, it’s becoming clearer and clearer that we ought to go to early release and that we shouldn’t do anything to our statement.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+Mr. Chairman, like Roger, I was in the group originally that was very uneasy about this.
+But I’ve come to the other side and believe that, on balance, it is probably the thing to do.
+Let me mention just a couple of thoughts, without completely repeating what others have said.
+I would also commend Vincent and the staff and Bill and Don for helping us understand some of the issues involved.
+I was thinking that more and more over the last few years
+—starting with December 14, 200486 of 118 Dave and his staff and our own staff
+—we have used the concept of error bands around our forecasts.
+And it seems to me that there are, in fact, distinct opinion bands around our views in a meeting.
+I’ve been among those who have been very uncomfortable trying to boil down our post-meeting statement to a few phrases.
+I share some of Cathy’s feeling that, if we’re going to release the minutes earlier, we might like to have a tradeoff at some point and that might be the way to accomplish it.
+I agree completely with the point that Ben, Roger, and Tim all made about the fact that we’re making speeches anyway and the market is analyzing what we say.
+<START>I’ve found myself over and over again a week or two after a meeting, when it’s time to go back out and hit the street again, wishing that the minutes were in play so that they could provide a frame of reference for my comments.<END>
+I think it’s a distinct advantage to have the minutes in the public domain earlier.
+Finally, I’d note a couple of nuances that perhaps could go unsaid.
+One of them I say with some trepidation.
+<START>In the original discussion, I raised some concern about not knowing what happens after all the comments come in or how they get resolved.<END>
+Vincent has done a nice job of telling me what he did in terms of the disposition of my comments.
+But I have no concept of what other comments came in and what kind of process he went through behind the scenes to take them into account.
+I don’t mean that as a lack of confidence in either Vincent or you, Mr. Chairman, to tailor the final minutes appropriately.
+They’ve turned out pretty well.
+But there may be other Secretariats or other Chairmen that I’d be a little uncomfortable just turning loose and giving a blank check.
+In the last discussion of this you suggested that it might be possible to have a small editing committee so that somebody would know what kind of comments were coming in and how they were handled.
+So that issue of how differences are resolved when various comments come in still makes me a little uneasy.
+December 14, 200487 of 118 Let me make one final comment.
+If we’re not going to release the minutes early but continue to produce them early, I wonder if we don’t leave ourselves a little vulnerable to criticism if somebody outside finds out that we have, in fact, produced them but have put them on a shelf.
+If the minutes are in final form and people find out about that, I think we’re really vulnerable to somebody saying, “Why didn’t you release them?” So I don’t know whether that halfway house works or not.
+Thanks.
+CHAIRMAN GREENSPAN.
+President Moskow.
+MR.
+MOSKOW.
+Mr. Chairman, I think that the experiment was very helpful.
+My own feeling is that releasing the minutes early will provide useful information to the markets.
+I think it will help us communicate better.
+I agree, as others have said, that it will be very helpful in our speeches and interviews.
+And other central banks are doing it.
+Also, strictly from the standpoint of logic, we are producing minutes, and we are going to release them at some point.
+We now know that we have the technical ability to release them earlier than we have been.
+<START>It’s rather difficult to argue that we should delay releasing them because we think people are going to misuse the information.<END>
+That just doesn’t hang together from a logical standpoint.
+I don’t know that we could pass the “red face” test in making that argument in public.
+I agree with Cathy in that I would also very much like to take out the forward-looking statements in our announcements.
+But as for the idea of packaging these two changes together, I think it would be very difficult to accomplish just in terms of trying to get agreement among the Committee.
+<START>It’s difficult enough to get agreement on one piece of this let alone two pieces at the same time.<END>
+So I just don’t know if it’s practical to try to do that.
+If we decide to go this route, I do have one minor suggestion on the announcement.
+But why don’t I hold off on that until we decide whether we’re going to do this or not.
+December 14, 200488 of 118 CHAIRMAN GREENSPAN.
+President Lacker.
+MR.
+LACKER.
+I strongly support expedited release for a lot of the reasons that Governor Kohn and others have expressed.
+I have a general predilection toward more transparency;
+the more information in the markets, the better.
+I just want to make three points.
+One is that bringing this information out earlier in time would resolve uncertainty earlier.
+If we see any market reaction to this, for the most part it would just represent a shift in the timing of market volatility.
+It doesn’t seem to me likely that on net, in any global sense, it’s going to add any market volatility.
+So we shouldn’t let the magnitude of perceived market reactions dissuade us or give us second thoughts down the road.
+The second point I want to make is that I do see this as alleviating some of the pressure on the Committee with regard to the drafting of the statement.
+But, Cathy, I think this cuts both ways.
+After expedited release of the minutes, the statement will stand as the Committee’s latest communication for only three weeks.
+To some extent, that could make it easier to communicate and agree on phrasing rather than harder, since only three weeks are at stake rather than an entire intermeeting period.
+I agree with Don.
+I wouldn’t want to see the extent of the communication we do in the statement cut down.
+Finally, there’s one tiny detail that I hesitate to bring up, but it sort of surprised me.
+If it were up to me, I’d like to see it changed.
+Apparently, it’s the tradition that nonmembers’ policy statements are excluded from the minutes as they’re written.
+Now, I don’t remember ever noticing this before, and I can’t remember seeing it in the orientation package I got.
+[Laughter] CHAIRMAN GREENSPAN.
+Is that true?
+MR.
+REINHART.
+In the last several paragraphs, which bear only on the policy decision, a statement refers only to comments made by members.
+Before that, in the discussion of the outlook, the minutes reflect the entire go-around, so it includes all participants at the table.
+December 14, 200489 of 118 CHAIRMAN GREENSPAN.
+I think that’s the logically necessary position for this Committee to take.
+MR.
+LACKER.
+Which one?
+CHAIRMAN GREENSPAN.
+The one just enunciated by Vincent.
+MR.
+REINHART.
+In the material Debbie circulated last week, the proposal was to make the distinction sharper by talking about members and other participants in the earlier section.
+But, again, when it comes to who voted on the policy decision, it’s only members.
+CHAIRMAN GREENSPAN.
+Suppose we had a situation in which the nonmembers held different views from those who voted but then we show a unanimous vote.
+We’d get a lot of comments as to why the indicated vote was wrong.
+We can’t do it that way.
+The voting members have one privilege and one privilege only:
+They get to vote on the policy at that particular point and on the nature of the statement.
+The discussion of what is going on in the economy and the issues that are on the table and the relevance for potential future policy changes is a full Committee discussion.
+But the specific policy decision that is reported is the vote of the then-Committee.
+And the membership of the Committee changes from time to time.
+MR.
+LACKER.
+Mr. Chairman, let me just say a couple of things.
+First, there is this mechanism for distinguishing between members and nonmembers.
+So a view about policy could easily be attributed to a nonmember.
+Second, many statements about the economy by members as well as by other participants seem integrally linked with their statements about policy.
+Today’s meeting, I think, was an excellent example of that.
+Third, I view the purpose of the minutes as a means to communicate to the public the deliberations that occurred at the meeting, rather than the deliberations of the Committee
+— December 14, 200490 of 118 CHAIRMAN GREENSPAN.
+No, that is not the purpose.
+The purpose is essentially to give the reasons why we voted the way we did.
+MR.
+LACKER.
+Well, that’s a different philosophy;
+I’ll grant that.
+CHAIRMAN GREENSPAN.
+It has always been that way.
+The point is that, if you divide the Committee into two separate groups and then discuss what those who voted on the particular statement thought and what those who didn’t vote thought, we are actually no longer talking about the Federal Open Market Committee.
+The Federal Open Market Committee is composed of the twelve members who have the right to vote at a particular time.
+That’s the law.
+We can’t get around it.
+MR.
+LACKER.
+May I ask a clarifying question?
+CHAIRMAN GREENSPAN.
+Yes.
+MR.
+LACKER.
+Vincent, in the discussion in the minutes that refers to the first part of the meeting on the outlook, where you use the terms “most,” “many,” and “several,” is the denominator
+— MR. REINHART.
+It is nineteen.
+MS.
+MINEHAN.
+Could I just say something?
+We are really discussing two things here.
+One is the issue of members versus nonmembers
+—I would use the terms voting members and other members, but be that as it may
+—and whether you discuss all of their perspectives in the last part of the minutes on the policy discussion.
+Then there’s the other question, which relates to the change that Vincent and Debbie proposed, about whether to call certain people “other participants” in the first part of the discussion.
+I think that’s pushing it a bit.
+I don’t mind, if I’m not a voting member, not having my views included in the comments on policy.
+That doesn’t bother me.
+But to draw a distinction between members and other participants in
+— December 14, 200491 of 118 CHAIRMAN GREENSPAN.
+Well, you don’t have to do that.
+The basic statement is that in that last section of the minutes we are merely stipulating “the reasons for the policy decision.” In that context, only the views of those who actually voted on the policy are included, and we don’t make reference to anybody else.
+MS.
+MINEHAN.
+That’s exactly what I am suggesting to you to do.
+CHAIRMAN GREENSPAN.
+That’s indeed what we do.
+MR.
+REINHART.
+In trying to actually write down what was the oral tradition, we did find that not everybody agreed on what it was.
+One thing was clear:
+As the Chairman said, the last two paragraphs essentially are viewed as explaining the vote of the Committee.
+Hence, in those paragraphs, the “members” we talk about are the members of the Committee.
+MS.
+MINEHAN.
+Right.
+MR.
+REINHART.
+The problem is if you want to represent everyone’s views in the discussion of the economy several paragraphs earlier and you refer to them as “members.” Then you’ve used the same word to describe two different sets of people.
+MS.
+MINEHAN.
+Are you using “members” in that different way now?
+MR.
+REINHART.
+Yes.
+Unfortunately, it turned out that the rule was that anyone in the discussion was called a member up to the last couple of paragraphs, and then only members were called members in the last couple of paragraphs.
+That seemed to be an unsupportable inconsistency.
+We didn’t want to exclude nonmembers’ characterizations of the economy and the risks to the outlook, and one way to do that would be to call them “participants.” SPEAKER(?).
+Can’t you call the group in the last few paragraphs voting members?
+MS.
+MINEHAN.
+Yes, right.
+Why not call them voting members as opposed to members?
+December 14, 200492 of 118 CHAIRMAN GREENSPAN.
+The definition of the Federal Open Market Committee is statutory, and there is no such thing as a nonvoting member of the Federal Open Market Committee.
+MR.
+REINHART.
+I was rapped on the knuckles by Joe Coyne fifteen years ago on exactly that point.
+The membership of the Committee is twelve people, and there is no such thing as a nonvoting member.
+MR.
+SANTOMERO.
+Why not call everyone participants in the first part of the—?
+MR.
+REINHART.
+We’re quite happy to do that, yes.
+SPEAKER(?).
+That’s what he’s proposing.
+MR.
+REINHART.
+That’s the proposal.
+MS.
+MINEHAN.
+That works.
+MR.
+REINHART.
+So up to paragraph 21, or whatever paragraph number it is, if you express a view you’re a participant in the meeting.
+If you express a view that is included in the last couple of paragraphs of the minutes, it’s there because you are a member.
+MS.
+MINEHAN.
+You’re a member, right.
+Okay.
+CHAIRMAN GREENSPAN.
+Okay.
+President Yellen.
+MS.
+YELLEN.
+Well, just briefly, I’d say that I definitely support the publication of the minutes on an expedited schedule, given that it is feasible.
+And I agree completely with Don’s analysis of the benefits.
+It does seem to me that, in moving toward perfecting a rational expectations kind of equilibrium, the minutes released in a timely fashion, when they’re still relevant, contain enough information about the Committee’s reaction to data and how it processes those data that it should help the market improve its understanding of the rationale for policy.
+And that includes the fact that there isn’t unanimity on the Committee;
+there is a range of opinions about the outlook and the risks.
+Just in the brief time that I’ve been back on the Committee, there have December 14, 200493 of 118 been occasions when the minutes were released at a point when they were actually misleading because the views of the Committee had changed.
+I’ve found that unfortunate.
+Let me respond to Cathy’s point.
+<START>While I can understand that, if the Committee decides to move back to more formulaic language in the statement and to omit any reference to a consensus about future policy, some might view earlier release of the minutes as a substitute for those kinds of statements.<END>
+But I would consider that both unnecessary and unfortunate.
+I support Ned’s comments about that, in that I think it’s actually quite helpful to have an explicit statement about the Committee’s consensus view regarding future policy.
+So I would not like to see this become a simultaneous decision to forgo that in favor of the earlier release of the minutes.
+CHAIRMAN GREENSPAN.
+Governor Olson.
+MR.
+OLSON.
+I have two comments.
+First of all, I see the decision as, on average, a four-week acceleration of the release of the minutes, and therefore I think there are two considerations.
+One is, Is there a logistical problem with early release?
+Having had Vincent track me down when I’ve been away from the office at times, I realize that there is a burden in meeting the publication deadline.
+But from what I’m hearing, that is not an insurmountable problem.
+The second is, Will there be any significant changes in the minutes as a result of that acceleration?
+We won’t really know the answer to that until we get into it, and I think I’d support Don’s evaluation that it probably is a manageable issue.
+Also, of course, the first time that we release the minutes early it will be an early release.
+From there on, it will be a scheduled release.
+So I think we will get the early release only once.
+[Laughter] Finally, I don’t see this decision and the language in the statement as a package.
+I think on balance the market would tend to see a less forward-looking statement as a net reduction in our communication, and I think we would have to reverse that policy.
+That gets back to a point that Bill December 14, 200494 of 118 made earlier, which is that we can’t retreat.
+I’m an incrementalist because we can never go back.
+I think our communication policies will continue to evolve.
+There is no end game.
+There is no destination.
+We ought to make this move but do it in complete isolation and not have any other corresponding moves along with it.
+CHAIRMAN GREENSPAN.
+President Pianalto.
+MS.
+PIANALTO.
+Like President Minehan, I thought the experiment on early release of the minutes was motivated by the struggle that we were having in capturing the full sense of the Committee in the few words that are allowed in the press statement.
+I also have been uncomfortable with the code words that we’ve been using in that press statement.
+And those code words have proven awkward to remove without sending unintended signals to the markets.
+So I still prefer a shorter post-meeting statement with the early release of the minutes.
+I also agree with President Minehan
+—especially after reading Vincent’s list of untested aspects of the experiment
+—that we’ve been conducting it in the best of times.
+That led me to come to this meeting in favor of what Cathy referred to as the middle-of-the-road ground.
+Let’s extend the experiment through circumstances that might not be considered the best of times.
+<START>I know that this is an unpopular position, but I thought we were going to continue to perfect our communication strategy and that this would all be one package.<END>
+I can see, however, in listening to my colleagues, that I’m in a minority in that view.
+Nevertheless, I did want to take a more middle-of-the-road approach and continue to improve our communications.
+CHAIRMAN GREENSPAN.
+President Santomero.
+MR.
+SANTOMERO.
+When I proposed the experiment on early release of the minutes, I thought that we were addressing a few questions.
+The first one was, we do it?
+Can Do we need to change the process?
+Can we all focus our attention on the minutes, given the time constraints?
+And December 14, 200495 of 118 given the new proposed process, were we comfortable with what would be released?
+I think that was the experiment.
+I think we learned a lot from that experiment, but not everything.
+We learned, for example, that we shouldn’t move to releasing the minutes on a Friday.
+We also decided that we ought to plan to publish the minutes three weeks after the meeting.
+Quite frankly, I think that’s a good addition of a few extra days to allow for contingencies.
+I believe we would have had a harder time meeting the publication goal ex post if we had started releasing the minutes on the previous Friday.
+But one never learns everything from an experiment.
+So if there are things left on the table, it shouldn’t surprise us.
+Nevertheless, we now have a new process for producing the minutes that is more timely.
+It brings more resources to the work, has hastened attention to it, and actually is a discussion that’s more symptomatic of the time when the minutes would be released.
+I, therefore, endorse the release of the minutes in a more timely fashion.
+I know there’s some concern about market reactions.
+Most market participants are grown-ups;
+they’ll sort that out.
+I guess I trust markets enough to think that they’ll figure out how to do it.
+I also share the concern addressed by President Guynn that, if we have these minutes and put them on the shelf and then take them out several weeks later, it’s just a matter of time before someone says, “Why are you doing that?” So, first of all, I think early release is the right thing to do.
+I now know we can do it.
+And I think not doing it puts us in a situation of less disclosure than seems appropriate.
+Having said all that, I think we should do it.
+CHAIRMAN GREENSPAN.
+<START>When we started this process, frankly, I was quite dubious that this would be a successful operation.<END>
+I’m pleased to say that I was mistaken.
+I thought the staff ran an exceptionally effective demonstration that this is a feasible operation.
+In the course of discussing the different alternatives as we went forward in the various iterations, I think we December 14, 200496 of 118 probably enhanced our understanding of the process and how it was functioning.
+So in that regard, I think the experiment has worked.
+I’m not concerned, as you are, Cathy, about the question of the tradeoff with respect to the statements and the minutes, largely because I don’t look at the forward-looking statements as something we’ll be continuing in the future.
+<START>I look at that as an historical aberration that enabled us to do forward-looking projections and stick with them, because we had this extraordinary period of increasing productivity growth for a long period of time.<END>
+That essentially put us in a position of significant control over inflation
+—indeed, we had declining unit labor costs
+<START>—which enabled us to effectively say that we were not concerned about inflation for the period ahead, knowing that productivity growth doesn’t change all that quickly.<END>
+We were, therefore, able to engage in an experiment with our statements that lasted for well over a year.
+I submit to you that that was the aberration and that the future will not look that way.
+We are going to find, when we eventually unwind from this “measured pace” approach that we’re not going to be able
+—credibly
+—to reproduce that kind of description of monetary policy in the future, at least not without very extraordinary events occurring.
+So I think the issue is moot.
+When this period has ended and we’ve reached where we wish to go with this policy of “de-accommodation,” I think we will go back to a very short term, balanced focus and give the type of indication of Federal Reserve policy that existed in the past.
+<START>I think that there are risks to moving forward on this early release of the minutes, but I agree with the way Bill put it<END>
+—namely, that it’s a close call.
+The way I would phrase it essentially is that, if we move forward and we find out in retrospect that it was a mistake, the cost is not all that large.
+It’s certainly not as large as I think it would be were we to decide to move the transcript timing from five years to six weeks and found out that we were wrong.
+Since we cannot reverse in either case, I December 14, 200497 of 118 think the costs in the latter case would be far greater than if we to move to the three-week window on the minutes and find out that was a mistake.
+We can live with that;
+I think we can live with it in a way that might require us to change the way we handle the minutes or what we say in the minutes.
+But it’s not going to be a big deal.
+So I would lean toward following Vincent’s recommendation that we begin expedited release of the minutes at the February 2005 meeting and maintain a schedule of releasing the minutes of regular meetings three weeks after the day of the policy decision.
+Since I perceive that that’s largely the accepted view of this Committee, I’d suggest that we put that on the table for a vote.
+Call the roll.
+MS.
+DANKER.
+Chairman Greenspan Yes Vice Chairman Geithner Yes Governor Bernanke Yes Governor Bies Yes Governor Gramlich Yes President Hoenig Yes Governor Kohn Yes President Minehan Yes, I guess.
+[Laughter] CHAIRMAN GREENSPAN.
+This, incidentally, is a full vote of both the Presidents and the Governors on the grounds that it’s a decision that relates to the policy of the Committee, and all members and potential members, in my judgment, vote.
+should I’ll pick up the others in a moment.
+MS.
+DANKER.
+Okay.
+Governor Olson Yes President Pianalto I can’t repeat Cathy’s way of saying yes, but
+— CHAIRMAN GREENSPAN.
+“Yes, I guess” is a formal vote.
+MS.
+PIANALTO.
+Okay.
+Yes.
+December 14, 200498 of 118 MS. DANKER.
+President Poole I’m persuaded.
+Yes President Guynn Yes President Lacker Yes President Moskow Yes President Santomero Yes President Stern Yes President Yellen Yes First Vice President Holcomb Yes CHAIRMAN GREENSPAN.
+I just want to congratulate Vincent on an extraordinarily well-done job.
+MR.
+MOSCOW.
+Mr. Chairman?
+I congratulate you, too, Vincent, but may I make one minor suggestion?
+CHAIRMAN GREENSPAN.
+Yes.
+MR.
+MOSKOW.
+Instead of waiting to announce this in the minutes that will come out right after the February meeting, I would announce it early in January for several reasons.
+One, I think it would give more time to the markets to be aware of this change.
+If we put it in the minutes of this meeting, which would be released after our February meeting, that would give market participants about twelve trading days before a new set of minutes
+—those for the February meeting
+—will be released.
+Second
+—and I hate to say this
+—there’s always a chance of a leak.
+I would hate to see this come out before we announce it.
+CHAIRMAN GREENSPAN.
+I think that’s a good point.
+But let me ask this:
+What are the reasons not to announce it earlier?
+MR.
+GRAMLICH.
+Yes.
+Let me take that a step further.
+What if we put something about this in our statement today?
+MS.
+MINEHAN.
+Exactly.
+December 14, 200499 of 118 MR. MOSKOW.
+I would strongly support that, if you can do it.
+I would do it as soon as possible.
+I thought you’d want to draft some wording and have the Committee look at it first.
+CHAIRMAN GREENSPAN.
+Let me put it this way.
+I heard no discussion here that in any way would preclude announcing this decision today, given that we’ve come to a conclusion and that it was effectively unanimous
+—with a couple of “I guess” votes.
+[Laughter] So unless there’s an objection, I would submit that it’s certainly possible to do this today.
+We have the time to put a sentence in the statement indicating what the Committee concluded and voted on regarding this issue today.
+MR.
+REINHART.
+One possibility, Mr. Chairman, is basically to pick up the language that you, in fact, voted on:
+“The Committee voted unanimously to begin expedited release of the minutes with the minutes of the February 2005 meeting and to maintain a schedule of releasing the minutes of regular meetings three weeks after the date of the policy decision.” I would also suggest that we put more detail, in terms of a paragraph or two, in the minutes of this meeting, so that market participants will know what is coming.
+You will have precluded the possibility of a leak, and market participants will get more explanation at a later date.
+MR.
+MOSKOW.
+Fine.
+That’s excellent.
+MR.
+KOHN.
+Mr. Chairman, will there be a question of why we’re not proceeding with early release of the minutes for this meeting?
+CHAIRMAN GREENSPAN.
+I’d say it’s because the discussion of this issue occurred subsequent to the vote on the policy decision.
+MR.
+SANTOMERO.
+Should there be some discussion about nineteen votes versus twelve in that statement?
+December 14, 2004100 of 118 CHAIRMAN GREENSPAN.
+Let me go back.
+That would be the answer, but we could certainly move it up if
+— MR. GRAMLICH.
+As long as we’re into this, what’s the problem?
+If we can release the February minutes in three weeks, why can’t we release today’s minutes in three weeks?
+MR.
+REINHART.
+We could release these minutes in three weeks, if you so direct.
+I thought there were certain advantages to having a paragraph or two explaining why the Committee made this decision and giving details of how the Committee would do this going forward before those in the market actually got the first release.
+CHAIRMAN GREENSPAN.
+Is that really necessary?
+MR.
+REINHART.
+Not if you say it isn’t.
+[Laughter] CHAIRMAN GREENSPAN.
+Well, I think the logic of our decision forces us into the position of doing precisely what Governor Gramlich is suggesting.
+Let me ask, Are there any dissents to actually releasing the minutes of today’s meeting on an expedited basis?
+MS.
+MINEHAN.
+May I suggest one possible benefit of waiting?
+CHAIRMAN GREENSPAN.
+By all means, go ahead.
+MS.
+MINEHAN.
+<START>You can all shout it down, but it occurs to me that one possible benefit is to give people who follow our every word<END>
+—and there are many people around who do
+—a longer period of time to get used to the idea and to read the minutes of some previous meetings in the context of what was going on at the time.
+They could calm themselves down in time to get the February minutes three weeks after the meeting.
+CHAIRMAN GREENSPAN.
+Three weeks is a long time.
+[Laughter] MS. MINEHAN.
+All right.
+I’m willing to be shouted down on that.
+But that’s the only reason I can think of for waiting.
+December 14, 2004101 of 118 CHAIRMAN GREENSPAN.
+Are there any arguments that anyone can think of?
+The date these minutes would be released would be January 4.
+If it were Christmas Day, I think it would create a problem.
+MR.
+FERGUSON.
+Mr. Chairman, either we are going to do this or we aren’t.
+We can’t start out by immediately saying, “Oh, well, that date is not very convenient.” CHAIRMAN GREENSPAN.
+Let’s at least think of what we intend to do.
+The proposition currently on the table is (1) to announce that we’re going to release the minutes early and (2) to do it in three weeks.
+I haven’t heard serious objections, nor have I heard serious reasons
+—which are far more important
+—not to proceed.
+So unless I hear objections from anybody, I would read it as the consensus of this Committee to make the statement that we’re going to do it and to actually do it as of January 4.
+Is that acceptable to everybody?
+SEVERAL.
+Yes.
+CHAIRMAN GREENSPAN.
+So be it.
+VICE CHAIRMAN GEITHNER.
+Mr. Chairman, just one more question or suggestion for Vincent.
+Maybe you’ve already considered this.
+When you release the minutes for the first time, you might want to consider adding some of the Secretariat’s clarifying information about the conventions in the language
+—an explanation of some of the terminology.
+I don’t know if you were intending to do that, but I think it would be helpful MR. REINHART.
+<START>I did want to make clear the distinction between “participants” and “members.” VICE CHAIRMAN GEITHNER.<END>
+And the hierarchy of the language around the terms “majority” and “several” and so forth might be helpful, too.
+December 14, 2004102 of 118 MR. REINHART.
+We thought of making a little index card that we could hand out to Fed watchers.
+[Laughter] MS. MINEHAN.
+We can expect to be asked if we are one of the “few” or one of the “many.” CHAIRMAN GREENSPAN.
+May we leave that issue of explaining the terminology to the Secretariat to make a judgment on?
+SEVERAL.
+Yes.
+CHAIRMAN GREENSPAN.
+In that event, I want to confirm that the dates of our next meeting are Tuesday and Wednesday, February 1 and 2, 2005.
+This meeting is adjourned, and we are off to have lunch with our former colleague, Bob McTeer.
+END OF MEETING December 14, 2004103 of 118
+INSTANCE OF DISAGREEMENT: 51

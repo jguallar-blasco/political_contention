@@ -1,0 +1,402 @@
+
+We were really constrained then from doing anything because of Y2K, but we were learning at that time of upward revisions to growth, reinforced by the anecdotal information that things were coming in much stronger.
+We now know that we were halfway through a period of over 8 percent nominal spending growth on average for the four-quarter period.
+And, clearly, a 5-1/2 percent fed funds rate was not consistent with that.
+We agree about that.
+At the next three meetings we moved rather promptly and got the funds rate up to 6-1/2 percent.
+Once we got the rate to 6-1/2 percent, the differences among us were about whether it needed to go higher or not, and that had to do with the forecast.
+Now, certainly, if I had thought that the economy was going to continue at 8 plus percent nominal growth, I would have been in the camp, too, that felt our work was not done and that we should keep going.
+But in fact growth did decelerate.
+When I look at the current Greenbook, I see that we are now, including the forecast for next year, in a six-quarter period of 5 percent or a little less in nominal spending growth.
+And yet the Greenbook assumes that a 6-1/2 percent funds rate is consistent with nominal spending of 5 percent or less.
+How do I get to that assessment?
+How do I close that circle?
+68MR. KOHN.
+Dave might want to speak to this as well, but in the Greenbook forecast the 6-1/2 percent funds rate is slightly restrictive.
+<START>It is consistent with the economy growing below the rate of potential, so the unemployment rate is rising.<END>
+It is not greatly restrictive, but I think it's slightly restrictive.
+<START>And as I noted in my remarks, the relatively high level of the nominal funds rate and the real funds rate is made necessary by the judgment that underlying structural productivity growth will remain relatively strong so that the equilibrium interest rate is relatively high.<END>
+And there are forces, like more expansive fiscal policy--and in particular the assumption of a depreciating dollar, which puts upward pressure on prices and helps to cushion weakness in the United States--that require a slightly restrictive stance of monetary policy.
+MR.
+JORDAN.
+That leads into my second question because I read the Bluebook as saying that the reason for holding the funds rate at 6-1/2 percent is the desire to have the unemployment rate rise to 5 percent and to hold growth below potential.
+So, if you don't want to raise the unemployment rate and hold growth below potential, then you’d be in favor of reducing the rate.
+The only reason I saw in the Bluebook for holding the funds rate at 6-1/2 percent was to try to drive up the unemployment rate.
+MR.
+KOHN.
+If you were absolutely certain about the course the economy was going to take and there was no uncertainty about the NAIRU or about the strength of demand--if you keyed in on these point forecasts as what you expected to happen--then I think that rationale would carry through.
+In other words, it would carry through if you just accepted everything in the Greenbook forecast.
+But there are a lot of uncertainties here.
+<START>A major issue that was raised in the Bluebook was the degree of uncertainty and the extent to which it's very hard to interpret the incoming information.<END>
+So in this circumstance, and with labor markets a little to the tight side--even if you didn't think the unemployment rate needed to go to 5 percent but you wanted a little daylight there to ease inflation 69pressures a bit--you might want to proceed with any easing a little cautiously.
+Even if you didn't intend to get the unemployment rate to 5 percent, waiting six weeks to reduce the federal funds rate until you had more confirmation about the evolving situation wouldn't make very much difference.
+MR.
+JORDAN.
+One more brief follow-up question:
+<START>Am I right that given the Greenbook forecast for inflation, nominal spending, trucks, and houses, and everything else, if the current unemployment rate were 5 percent, then you would say "cut"?<END>
+MR.
+KOHN.
+And if the NAIRU were perceived to be 5 percent.
+Then that assessment probably would be more likely.
+CHAIRMAN GREENSPAN.
+Further questions for Don?
+Let me start then.
+There continues to be some divergence of views among Committee members, and those views have changed fairly significantly from where they were two meetings ago.
+Not only have the average and the median of those views moved, but I think the tails of the distribution have moved as well.
+Everybody has moved, and the changes are fairly uniform and predictable among the various members of this Committee.
+<START>[Laughter] The rate of economic expansion has very clearly and unambiguously moved down dramatically from its pace of earlier this year, which was unsustainable, to a point where the general view among the members is that if it stabilized at its current level it would be sustainable.<END>
+<START>I emphasize the words “if it stabilized,” obviously, because the syllogism isn't that we had a high degree of unsustainable growth at the beginning of the year, that growth has moved down to a more sustainable pace, and therefore everything is fine.<END>
+The key question, and one we really cannot answer, is whether the growth rate has stabilized.
+At this point we cannot know because growth has not been at its current rate long enough to exhibit evidence of what we would normally call stabilization.
+<START>70The problem, as I’ve indicated on numerous occasions and as a number of you have commented, is that we do not have the capability of reliably forecasting a recession.<END>
+The reason may be expressed in the terminology that Dave Stockton used--in terms of “nonlinear events”--or in terms of the analogy that I have often employed in the last two or three years, namely that pressure may build up on a dam and nothing seems to be a problem.
+But at some point the dam starts to crumble and may do so fairly rapidly as the water rushes out of the system, as indeed confidence rushes out of the economic system.
+Our models do not forecast a recession because we build them and fit them in a linear manner so that the coefficients imply multiplier effects that are not sufficiently rapid to offset the other specifications of the models, namely the adjustment process.
+<START>If we have an economy whose growth rate is declining, our models will have interest rates and costs of capital falling at speeds sufficiently rapid to engender a rebalancing of the economy--often before it falls into recession.<END>
+We never actually see the nonlinear events in the model because they are defined out of the model.
+<START>As we have observed on numerous occasions, such as the oil crises, we have been able to use never our model structures to forecast a recession out of an oil shock.<END>
+We've had three oil shocks in recent decades that were followed by recessions.
+There are two possible explanations.
+Either strictly unrelated chance events occurred, which is possible, or our models cannot capture the changes that were going on.
+<START>My own impression is that an oil shock does not necessarily mean we are going to get a recession, but I do think such a shock definitely weakens the structure of the economy.<END>
+And when we add to the latest shock the natural gas/electric power generation problems that have emerged, we’re clearly observing significant pressure on the economy.
+The negative effects of the energy shock have occurred essentially as a result of a withdrawal of demand through either the "import tax" that we’re all familiar with, or as a 71consequence of increased domestic natural gas costs.
+<START>Clearly, no matter what one thinks about the impact of rising energy prices on demand, the increased cost of energy is having an adverse effect on corporate profits.<END>
+<START>That’s basically because the decline in the profit margins of nonfinancial, non-energy corporations appears to be greater than the improved margins of the energy corporations.<END>
+Moreover, the apparent impact of these developments on the capital expenditures of the non-energy corporations does not seem to be fully offset by the obvious increases that we're seeing in capital outlays in the energy area.
+<START>Part of the problem is the current restraint on the limited resources available to the energy sector, such as drilling rigs.<END>
+But it is also a result of a very subdued response that we are seeing largely because the exploration and development budgets of the major energy corporations are to a very large extent related to the West Texas Intermediate oil price, depending on whether it is above or below the area of, say, $15 to $17 a barrel.
+In previous years when the price went up over $30, as it did in this particular run, those budgets were expanded very rapidly and were subsequently cut all the way back.
+The energy firms have stopped doing that.
+<START>As a result, we are getting an asymmetrical macroeconomic response to the natural gas and electricity components of the cost increases, which have been quite substantial, needless to say.<END>
+<START>It strikes me that we will not know for a good number of weeks whether the underlying structure of confidence has been breached.<END>
+We are at a point where we are going to learn whether that is indeed the case, because if confidence has not been breached, the normal recuperative processes, the normal rebalancing processes, will gradually eliminate the risk.
+<START>Part of the problem is very obviously stock market price declines, and clearly the NASDAQ declines have a major impact on the investments of high-tech industries.<END>
+I have gotten calls from a number of senior high-tech executives who are telling me that the market is dissolving rapidly before their eyes.
+But I suspect that a not inconceivable possibility is that what is dissolving in front of their eyes is their own 72personal net worth!
+[Laughter] That does bias one's view of what is happening in the world.
+So, we have to be a little careful about being seduced by those types of evaluations.
+I've been hearing the same sort of adjectives that all of you have heard used to describe everything that is going wrong.
+And indeed we ought to be very careful to recognize that if one could put hard numbers on the anecdotal data we now have, we would not be looking at a 2 percent plus growth rate in GDP.
+It would be closer to zero.
+How one reads that evidence is a question, which we have to consider.
+At this point I would say that the outlook is for a very significantly subdued rate of inflation and, if anything, pricing power in the corporate sector has been falling quite appreciably in the last six to eight weeks.
+There are some slightly disturbing price patterns in the consumer area.
+<START>As you know, I don't like the CPI, so let’s stay with the PCE implicit deflator.<END>
+For the first time we are beginning to see some movement in the underlying rental components.
+Now, owner equivalent rent is not exactly a market price;
+it is based on a sample of market rentals.
+<START>The ratio of rent to value of properties, which has been going down progressively quarter after quarter, now finally seems to be showing that the expansion in asset prices may be beginning to spill over into consumer prices.<END>
+I think the medical cost increases we are seeing are real.
+They are dollar figures.
+But the division of medical costs between price and volume, I'm almost certain, is terribly biased toward an inflation that does not exist.
+<START>In my view, the inflation rate for the noncorporate sector, which is well above that for the corporate sector, is not a reflection of real inflation in medical prices because there's very little evidence that the underlying structure of such prices is accelerating.<END>
+Indeed, every analyst who does a microanalysis of a specific price category in the medical services area concludes that the data we see on medical price inflation are grossly overvalued.
+<START>And with medical technology changing the way it is, we are having very little in the way of medical price inflation, if such inflation is measured properly.<END>
+Even so, there is no question that we are seeing very significant 73inflation in medical costs, and to the extent that those costs feed into labor compensation they have an impact on prices.
+But, if anything, that process is not accelerating at this particular stage.
+And indeed what we're seeing in the implications for inflation expectations in the TIPS spreads is that irrespective of the price level from which we start, inflation expectations have clearly come down about 0.3 percentage point.
+How much of that truly represents an underlying decline in inflation expectations is an arguable issue because the TIPS implicit price deflator is fundamentally an arguable issue to begin with.
+<START>In any event, when we look at what's going on in the economy and recognize that we have almost a “go/no go” possibility over the next number of weeks with respect to how this economic deterioration is going to play out, it seems pretty evident that what we want to be sure of, whatever we decide, is that we not end up with a symmetric or balanced risks statement.<END>
+That is not the way it looks out there.
+If we were to decide to reduce the funds rate by 25 basis points today, which I don't think is a good idea, we still should adopt, in my judgment, a balance of risks statement weighted toward the down side.
+That’s because with whatever move we make, whether it’s 25 basis points or something else, a symmetric risks statement would imply that we have finished our adjustment process, and that conclusion in my judgment would be mistaken.
+So I think the real choices here are 25 basis points plus asymmetry toward the down side or zero change now with downside asymmetry and the understanding that it is quite conceivable that we may have to have a telephone conference and move the rate before the next meeting.
+That's because we may find in this interval the answer concerning whether or not the decline in the rate of economic growth has stabilized.
+What I conclude at the end of the day is that we need to recognize that we really do not know the answer for the intermediate period.
+<START>I would encapsulate that into no change in the funds 74rate, but with a bias toward the down side and the recognition that, if the erosion continues, we very likely will have to move before the next meeting.<END>
+And that move would be triggered, I would presume, by a telephone conference sometime in the early days of January--the first week or maybe the second week at the latest.
+<START>Given the uncertainties that we face and the general tenor of what I've heard around the table this morning, that strikes me as the best thing that we should do for the moment.<END>
+Vice Chair.
+VICE CHAIRMAN MCDONOUGH.
+Mr. Chairman, I agree fully with both the conclusions you’ve reached and the reasoning for them.
+I believe that the most important thing in public life is to know what you don’t know.
+And we don't in fact know enough at this point to move the rate downward.
+Doing so would be unwise, in my view, especially for the reasons I cited earlier.
+The markets are just too thin.
+<START>But I think we have to have the balance of risks toward concern for economic weakness, and we have to be very flexible during the month of January as you have suggested.<END>
+CHAIRMAN GREENSPAN.
+President Poole.
+MR.
+POOLE.
+Mr. Chairman, as you know from my earlier comments, I would have preferred to reduce the federal funds rate at this meeting by 25 basis points.
+Let me try to put my position this way.
+On the issue of when to ease we can ask the question in two ways.
+Obviously, the market fully expects an easing at the beginning of next year, and one question to ask is what difference does it make if we ease now rather than wait.
+But we can put the question the other way around, what difference does it make if we wait six weeks?
+It's hard to imagine that six weeks makes any real difference.
+The extent to which it may make a difference has to have something to do with expectations and public attitudes.
+In my view, in terms of public attitudes and expectations about our policy moves, there are ample data in hand now to justify easing.
+That is, I don't think 75anyone would say that we are making a mistake by acting at this point.
+On the other hand, probably the single most prominent piece of information we’re going to get that bears on this policy issue is the December employment report that will come out at the beginning of January.
+If that shows weakness--very low employment growth or a decline in employment--I think there will be a great deal of pressure, probably within the Committee and in the public at large, for us to respond.
+<START>Quite frankly, I believe it would be better for us to anticipate that development rather than wait until we have such a piece of negative news.<END>
+As I said before, I think there's ample space for rates to move up and not much space for them to move down.
+So, I would prefer to see us position ourselves in the middle, as I indicated earlier.
+CHAIRMAN GREENSPAN.
+President Hoenig.
+MR.
+HOENIG.
+Mr. Chairman, I too would prefer moving now.
+I think the funds rate is high and the effect has been to slow the economy as intended.
+In my view a quarter point reduction in the rate now would still leave us with a tight policy, one that continues to slow the economy, and yet it would recognize the risks that we've talked about around the table.
+I believe it is likely that we will have a conference call and that we will lower rates at that point.
+And certainly we can wait until then.
+CHAIRMAN GREENSPAN.
+President Parry.
+MR.
+PARRY.
+Mr. Chairman, I can certainly accept your recommendation.
+When I was thinking about that possibility at the end of last week, I was concerned that the markets might find it a bit confusing in terms of what we are trying to communicate.
+<START>Ironically, as it turns out, the article that appeared in the Wall Street Journal may make that less of a problem.<END>
+<START>In addition, it seems to me that our press statement should be very carefully worded because my concern is that the markets might be a little confused about how weak we think the economy is and might raise the issue of why 76we didn't change the funds rate today.<END>
+So, how our decision is written up could be an important element in terms of the success of your recommendation.
+CHAIRMAN GREENSPAN.
+President Moskow.
+MR.
+MOSKOW.
+Thank you, Mr. Chairman.
+I have a slight difference of opinion with my colleague, Mr. Parry, on the Wall Street Journal article.
+I consider that article very unfortunate because when leaks like that occur I think it makes us look bad as a central bank.
+We’ve had this discussion before.
+So, I don't see any good side to it.
+Getting back to the subject at hand, clearly we are in a situation where we're all concerned that the slowing that we wanted to see and are now seeing is going to be excessive.
+As you and others have pointed out, no one knows with certainty whether further weakening will occur because of the complexity of our economy and the interaction of the financial markets, consumer confidence, and all the other factors that we discussed.
+I agree that the anecdotes point to a much lower rate of growth than do our models at this time.
+<START>But they are anecdotes, and I think we’d all like to see some more evidence in the data and other information we receive that would help clarify the situation.<END>
+<START>In a period of uncertainty like this, the incremental approach seems appropriate and I agree with your recommendation for no change in rates but an asymmetric statement that the risks are weighted toward economic weakness at this time.<END>
+MR.
+PARRY.
+Mr. Chairman, I thought the article was abominable.
+CHAIRMAN GREENSPAN.
+Now you agree!
+So do I. MR.
+PARRY.
+Okay.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+<START>Mr. Chairman, I would prefer not to ease today.<END>
+<START>I don't know how you scored me on your note pad, but in the go-around I was trying to convey that I came with a view that 77a balanced risk statement would be the proper first move.<END>
+<START>My staff would tell you that we were debating until I left for the airport whether the slowdown was as broad as we were beginning to sense and whether the uneasiness was as great as we sensed and, therefore, whether the recommendation you made would be the appropriate move.<END>
+Vice Chairman McDonough captured my view that an easing today--although I suspect that's where we are headed--is too much too soon.
+To the extent that part of what is going on is that people are recalibrating from expectations of 5, 6, and 7 percent GDP as related to housing and autos and cruise ships or whatever, I think that's something we ought to let play out.
+So I think your recommendation is the right one.
+Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Santomero.
+MR.
+SANTOMERO.
+I support your proposal for the reasons you stated, Mr. Chairman.
+As President McDonough indicated, it’s also important that we recognize what we don't know and not communicate to the marketplace something that we didn't intend to convey by moving at this point.
+CHAIRMAN GREENSPAN.
+Governor Gramlich.
+MR.
+GRAMLICH.
+Thank you, Mr. Chairman.
+As you know, the policy you suggested is not my first choice.
+<START>Obviously, there is a lot of uncertainty out there, but I share the view of a few others around the table who think that we've seen enough to ease fairly soon.<END>
+On the other hand, if we all agree to stand by our telephones, [Laughter] the policy you suggested "morphs" into what I would prefer, so I will support it on that basis.
+But I think we ought to be alert and stand by our telephones.
+CHAIRMAN GREENSPAN.
+President Minehan.
+78MS. MINEHAN.
+Thank you, Mr. Chairman.
+I certainly don't want to be predictable but I suppose I am in this regard.
+CHAIRMAN GREENSPAN.
+Sorry about that!
+I was just reporting as a statistician.
+MS.
+MINEHAN.
+What do they say about consistency being the hobgoblin of something?
+I'm also not in favor of retaining any particular policy solely to move the unemployment rate up.
+I don't know where the NAIRU is;
+I don't know whether anyone really knows where it is right now.
+<START>But I do continue to see resource constraints in labor markets, and they have been a constraint on growth for some industries.<END>
+<START>I think the current slowing could potentially lead to a resolution of this whole problem.<END>
+Another issue that people have focused on relates to financial conditions--widening credit spreads and the level of real interest rates.
+<START>I'm in harmony with Jack Guynn on the idea that credit markets right now are reflective of the last loans made when spreads were really narrow in 1997 and early 1998.<END>
+And in an environment of generally healthy banking conditions, I don't view them as a problem.
+I think that bankable credits are getting banked.
+Where should real interest rates be?
+<START>That's a tricky question when we’re moving from a period of very rapid growth to one of slower growth in an environment of strong underlying productivity.<END>
+So it's hard for me to look at the level of the fed funds rate right now and see it as a problem all by itself.
+I agree that we have to wait and see.
+<START>I would have been able to vote for a balanced risk statement, but I can also go with a statement of the growing sense of uncertainty on the down side.<END>
+I just think we ought not to let all the strength that's still in the economy be forgotten in the face of what are largely anecdotal and expectations-related data.
+They could turn if the market receives what we do today very favorably.
+So I think the wait-and-see attitude is the right one.
+Hopefully we won't have to stand by our telephones!
+79CHAIRMAN GREENSPAN.
+Well, you have to stand by, you just don't have to answer!
+[Laughter] MS. MINEHAN.
+No, I intend on answering.
+CHAIRMAN GREENSPAN.
+Governor Kelley.
+MR.
+KELLEY.
+I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+President Stern.
+MR.
+STERN.
+I generally support your recommendation.
+Let me briefly make two other comments.
+First, I do share some of Bob Parry’s concerns that a statement about risks weighted toward economic weakness is going to raise the question of why didn't we act now.
+Hopefully, we will have some language in the announcement that will at least give a sense of our reasons.
+Secondly, and this is a point I’ve made before, I think we soon ought to consider putting at least one nail in the NAIRU coffin.
+Not only has the economy failed to perform according to that framework in the last five or six years but, so far as I'm aware, going back 15 or 16 years there just is no evidence of an empirical relation between labor market conditions and inflation.
+CHAIRMAN GREENSPAN.
+President Broaddus.
+MR.
+BROADDUS.
+Mr. Chairman, let me say first that I can accept your proposal.
+I definitely recognize the downside risks and I am getting the same kinds of messages as everyone else.
+My preference would have been to have a balanced risk statement.
+My concern with this move is that it is not yet fully priced in the markets.
+And I think it will be seen by some as a fairly aggressive move toward ease in the context of an historically low unemployment rate and a labor market situation that is tight by historical standards.
+That could set up a series of expectations, which could put us in a box if confidence is not yet breached, to use your phrase, and the economy begins to show some strength going forward.
+But I can accept your proposal.
+I would recommend 80and would hope that the press statement that accompanies our announcement includes language making it clear that we are not yet panicking--that it’s not a foregone conclusion that we’re necessarily going to ease further.
+I guess that comment was predictable!
+[Laughter] MS. MINEHAN.
+<START>"We are not yet panicking!" VICE CHAIRMAN MCDONOUGH.<END>
+I don't think we will make you our press secretary!
+MR.
+BROADDUS.
+I'm expressing my preferences!
+CHAIRMAN GREENSPAN.
+President Jordan.
+MR.
+JORDAN.
+Thank you, Mr. Chairman.
+Jack Guynn said he was still debating when he left for the airport yesterday.
+I'm still debating now!
+Clearly, based on what I said earlier, if the reason for not lowering the funds rate is because we're waiting for the unemployment rate to go up, then I can't agree with that.
+So if the press statement is going to make any reference to continued tightness in the labor markets, then I would disagree with that.
+But I guess I won't know what the press statement is going to say until after we vote on this.
+So I may have to guess as to how it will-- CHAIRMAN GREENSPAN.
+I can tell you that the preliminary press statement does not include such a reference.
+MR.
+JORDAN.
+Okay.
+<START>The other reason for not moving is because it's awkward to go from a balance of risks toward inflation to a balanced risks statement, which would seem to be out of tune with reality.<END>
+I would find that troubling.
+And I've always thought that whenever we reached the point where we had to announce a balance of risks toward weakness and we didn't act, it was going to be a problem for us.
+It puts the burden on us to explain why we didn't do anything if we saw the balance of risks as weighted toward weakness.
+Why we didn't act is going to have to be explained, whether we do it in the press statement or in remarks people make subsequently.
+81CHAIRMAN GREENSPAN.
+May I ask you a question?
+Why don't we have that problem, no matter which direction we see the risks, every time we move to an asymmetric statement?
+MR.
+JORDAN.
+That's why I don't like being asymmetric!
+CHAIRMAN GREENSPAN.
+Okay.
+Sorry!
+[Laughter] VICE CHAIRMAN MCDONOUGH.
+He is very consistent.
+CHAIRMAN GREENSPAN.
+I know!
+SPEAKER(?).
+He is very predictable.
+[Laughter] MR. JORDAN.
+And my final point, speaking of predictability, is that what apparently is expected out there is that we would change the language this time, and then everybody could read into that that we would change policy the next time.
+And I don't like being predictable.
+[Laughter] I would like to do the unpredictable thing--what is not fully anticipated in the market today--and that is to lower the rate.
+I think that would give us a lot more mileage than waiting to ease until after it's well anticipated that we will ease at the next meeting or in between meetings.
+CHAIRMAN GREENSPAN.
+Governor Ferguson.
+MR.
+FERGUSON.
+Thank you, Mr. Chairman.
+I support your recommendation for the reason you put forward, which in some sense has tended to be forgotten as we've gone around the table.
+We are in a period, I believe, of great uncertainty.
+<START>And I think it's not illegitimate for us to recognize some uncertainty by saying that we tend to think the risks are in one direction.<END>
+On the other hand, it's not inappropriate to wait for a little confirmation.
+When we originally thought through this complex set of issues on the language and so forth, we all knew we might get in this position.
+<START>And as abominable as that terrible article was in the Wall Street Journal, I think it did get the concept, and lo and behold the world did not fall apart.<END>
+82So I'm actually very comfortable with exactly where you are.
+It reflects uncertainty and it reflects the reality of a tough conversation.
+The markets will not think us foolish for not jumping based on what is anecdotal evidence, but we are warning them--or in some sense maybe comforting them--that we are awake and alive and if things work out in a certain way, we’re prepared to respond.
+So I am quite comfortable with your proposal.
+CHAIRMAN GREENSPAN.
+Governor Meyer.
+MR.
+MEYER.
+Thank you, Mr. Chairman.
+I support your recommendation.
+<START>I continue to believe that a period of below-trend growth is constructive, but I'm mindful of the downside risks we face today.<END>
+I think one reason for being cautious about moving immediately is that the markets already anticipate a move early next year and a cumulative easing of 100 basis points over the course of next year.
+I don't think we should do or say anything at this meeting that would disconfirm or unwind those expectations, but neither do I believe that it would be particularly constructive to escalate them further.
+So, I think this is the right move for now.
+But this period of uncertainty is a time when the incoming data may be very revealing, and an intermeeting move could certainly be a possibility.
+CHAIRMAN GREENSPAN.
+President McTeer.
+MR.
+MCTEER.
+Predictably, let me say that a quarter point is not much, and I really think we need to get started earlier rather than later.
+I agree with most of what Bill Poole said about the current situation.
+One thing he said was that we are not going to learn much in early January except the employment-unemployment numbers.
+We actually had a decline in employment last month on the household measure.
+You once said, Mr. Chairman, that we always make one move too many.
+If we lowered the funds rate a quarter point now, we’d remove just half of our last increase.
+If we expect to act by telephone, I'm afraid it will look as if we decided at that point that we made a 83mistake today.
+<START>On the other hand, I came into this meeting expecting the outcome to be a balanced risk statement and this is better than that!<END>
+[Laughter] CHAIRMAN GREENSPAN.
+I think a majority is in favor of no change in rates and the balance of risks toward the down side.
+Read the appropriate language.
+MR.
+BERNARD.
+The wording is on page 14 of the Bluebook:
+"The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth in output.
+To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with maintaining the federal funds rate at an average of around 6-1/2 percent.
+<START>" And for the balance of risks sentence in the press release: "Against the background of its long-run goals of price stability and sustainable economic growth, and of the information currently available, the Committee believes that the risks are weighted mainly toward conditions that may generate economic weakness in the foreseeable future." CHAIRMAN GREENSPAN.<END>
+Call the roll.
+MR.
+BERNARD.
+Chairman Greenspan Yes Vice Chairman McDonough Yes President Broaddus Yes Governor Ferguson Yes Governor Gramlich Yes President Guynn Yes President Jordan Yes Governor Kelley Yes Governor Meyer Yes President Parry Yes CHAIRMAN GREENSPAN.
+Let me indicate that the next meeting is going to be a rather long one because our agenda is quite lengthy.
+We will be meeting at 9 a.m.
+on both Tuesday and Wednesday, which is longer than usual, so I'll give you all a heads up.
+Let's go to lunch.
+MR.
+KOHN.
+The announcement?
+84CHAIRMAN GREENSPAN.
+Oh, I'm sorry.
+That tells you how hungry I am!
+[Laughter] MR. GRAMLICH.
+Could I suggest a change in one word?
+CHAIRMAN GREENSPAN.
+Sure.
+MR.
+GRAMLICH.
+<START>The seventh line begins with "financial markets suggest that economic"--it says "growth" and I’d like to substitute "activity." The reason is that we are, I believe, still arguing and are mainly of the view that we continue to be in the midst of a productivity shock.<END>
+I think this is more about activity than growth.
+CHAIRMAN GREENSPAN.
+What's the opinion?
+Does anybody support that?
+MR.
+GRAMLICH.
+I'd rather be redundant than misleading.
+VICE CHAIRMAN MCDONOUGH.
+I think most people, unlike experts, understand growth more than activity.
+MR.
+KOHN.
+I don't know whether slowing activity actually means a decline.
+CHAIRMAN GREENSPAN.
+Slowing activity means the level as distinct from-- MS. MINEHAN.
+Yes, as opposed to the growth.
+CHAIRMAN GREENSPAN.
+What we basically would be saying is that the economy is going down.
+We don't have that view.
+MS.
+MINEHAN.
+We think we have moderating growth.
+CHAIRMAN GREENSPAN.
+Further suggestions?
+If not, let's go to lunch.
+END OF MEETING
+INSTANCE OF DISAGREEMENT: 46

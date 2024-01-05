@@ -1,0 +1,529 @@
+
+But with business balance sheets perceived as mostly being in excellent condition, credit spreads on investment-grade issues were about unchanged;
+and yields on such securities, the dotted red line in the top left panel, declined virtually point for point with those on Treasury bonds.
+Spreads on speculative-grade issues (not shown) widened a little but stayed relatively narrow.
+As is evident in the middle left-hand panel, the signs of persistent sluggishness in the economy prompted a significant tilt down in market expectations for the path of the federal funds rate.
+The blue line, showing quotes for last night’s close, suggests that market participants now fully subscribe to the FOMC’s view that policy can be tightened at a measured pace.
+Investors apparently have come to believe that two years will elapse before the funds rate will reach 3½ percent.
+In other words, they now see you moving ¼ point at roughly every other meeting.
+At the same time, though, market participants appear to have read your recent policy announcements, as well as your public statements that the flagging in growth is likely to be temporary, as implying that policy will be tightened another notch at this meeting.
+As illustrated by the blue bars in the chart to the right, options on federal funds futures point to very high odds among investors that you will firm policy 25 basis points today.
+As shown in the bottom left-hand panel, the Desk’s survey of primary dealers, which was updated on Friday following the labor market report, indicates that dealers unanimously share the expectation of another ¼ point move today.
+<START>All of the dealers also think that you will again characterize the risks to growth and inflation as balanced, and most expect that you will retain the “measured pace” language or some variant of it.<END>
+The solid blue line in the bottom right-hand panel again shows the current path for the expected funds rate derived from futures contracts but focuses on just the next few months and assumes that policy moves will be made only at meetings.
+The expected value of 1.61 percent for the September 21 meeting suggests that market participants see only about a 2 in 5 chance that you will boost the funds August 10, 200466 of 103 rate another ¼ point six weeks from now.
+And the value of 1.89 percent for the December 14 meeting indicates that markets have built in only two and one-half tightenings of 25 basis points over the four meetings remaining this year.
+By contrast, at the time of the June meeting, investors anticipated an average of a ¼ point move at each of the remaining five meetings.
+The same factors that have spurred market participants to ratchet down their expectations for the pace of tightening might lead you to contemplate leaving policy unchanged at this meeting, as discussed in exhibit 2.
+As portrayed in the top left panel, the surge in payrolls earlier this year has tailed off sharply in the past three months.
+And incoming NIPA data for the first half of the year (the second line of the right-hand panel) revealed that economic growth was ¾ percentage point slower than had been estimated by the staff in the June Greenbook.
+<START>In response to the weak employment data for June and July as well as to other indicators, the staff has revised down appreciably its forecast for economic growth in the second half of this year (the third line) from 5 percent in June to about 4 percent currently.<END>
+As reviewed in the middle panel, the staff forecast suggests that a considerable amount of economic slack will linger over coming quarters.
+The output gap is projected to shrink slowly and still be around 1 percent at the end of next year.
+Partly reflecting that slack, both core inflation and overall inflation are forecast to move lower over the second half of this year and during 2005 (the bottom left-hand panel), with the rate of core PCE inflation edging back below 1½ percent by the end of next year.
+<START>Particularly with this price forecast, the Committee may not be satisfied with a prospect for continued slack and may wish to foster increased resource utilization by pursuing a slightly easier path than in the staff forecast, starting with an unchanged stance of policy at this meeting.<END>
+Market expectations for inflation could be read as giving the Committee some latitude in the timing of its policy tightening.
+As shown by the black and blue dashed lines in the bottom right-hand panel, the difference between yields on nominal and indexed Treasury securities suggests that inflation expectations in financial markets have reversed course over the past few months, declining significantly from their recent peaks, while the solid red line indicates that households’ longer-term inflation expectations have remained fairly stable at a level just under 3 percent.
+At the same time, though, the Committee might find the persistent relatively high level of inflation expectations to be troubling and one of a number of factors that incline it toward the continued tightening of policy at this meeting that is discussed in exhibit 3.
+With the economic expansion now apparently well established, even if its pace is somewhat below earlier expectations, the Committee may still believe that the dominant policy consideration is the need to reduce the existing degree of monetary accommodation.
+<START>As shown by the solid line in the top panel, the real federal funds rate is not only low but negative, and it has edged down on balance over the past year as inflation has increased.<END>
+Moreover, it is noticeably below even the lower edge of a range of estimates of its equilibrium value.
+The 25 basis point firming of alternative B would move the real rate toward zero, whereas a 50 basis point action August 10, 200467 of 103 would leave it at about zero and just within the range of estimates of its equilibrium.
+In addition, as shown in the middle panel, a firming would be consistent with results from a range of monetary policy rules that are reported in each Bluebook.
+<START>As indicated in the bottom left-hand panel, the Committee may be attracted to the 50 basis point increase in the funds rate at this meeting of alternative C if it is especially concerned about the highly accommodative posture of monetary policy implied by a negative real federal funds rate.<END>
+The Committee might also feel that the staff has read too much into the recent run of weak economic indicators.
+<START>By many measures, financial conditions remain quite supportive of growth, and the Committee may judge that it is just a matter of time before very low real rates of interest, if maintained much longer, show through in accelerating economic growth and, possibly, higher inflationary expectations and actual inflation.<END>
+In view of the spate of soft indicators, though, the Committee may judge that the 25 basis point firming of alternative B is appropriate for this meeting.
+<START>As noted previously, inflation expectations, for now, appear to be well contained.<END>
+And while the Committee may feel that the existing degree of monetary accommodation needs to be reduced over time, it may also believe that incoming data have tended to confirm its previous judgment that policy can be tightened at a measured pace.
+<START>Assuming a gradual tightening of policy, the staff forecasts a moderate economic rebound, persisting resource slack, and a resumption next year of some net downward pressures on core inflation.<END>
+Moreover, market participants have come to believe that policy will be firmed at a gradual pace, and a larger move at this time would likely prompt a sharp adjustment in market prices and could provoke considerable uncertainty about the Committee’s motivations and intended policy path.
+Should the Committee choose to move by 25 basis points at this meeting, the remaining issues have to do with the language of your announcement.
+These issues are addressed in your final exhibit
+—the third revision of Bluebook table 1.
+[Laughter] The second revision, which was circulated to the Committee yesterday, responded further to the weak employment report and in particular to the suggestions of several policymakers.
+This third revision is substantively similar to the second, with the change in wording intended primarily to simplify the language.
+As shown in rows 3 and 4 of alternative B, the rationale section of this version reads as follows:
+“In recent months, output growth has moderated and the pace of improvement in labor market conditions has slowed.
+This softness likely owes importantly to the substantial rise in energy prices.
+The economy nevertheless appears poised to resume a stronger pace of expansion going forward.
+Inflation has been somewhat elevated this year, though a portion of the rise in prices seems to reflect transitory factors.” Here I ask that you note a slight fourth revision
+—“seems to reflect” rather than “evidently reflects” transitory factors.
+As shown in rows 5 and 6 under alternative B, June’s assessment of continued balanced risks to both sustainable growth and price stability would be retained today, together with the indication of the Committee’s judgment that policy accommodation can be removed at a measured pace.
+<START>Certainly, both upside and downside risks to growth as well as inflation can be identified, and August 10, 200468 of 103 recent developments would seem to support a continued belief about proceeding at a measured pace.<END>
+In a memorandum distributed to the Committee last week, Vincent Reinhart discussed alternative wording that could eventually supplant the current risks assessment and facilitate the deletion of the “measured pace” language.
+<START>That wording is shown in row 5 of alternative C. In brief, it would separately characterize the risks to sustainable growth and to price stability<END>
+—and potentially the overall risks
+—on the explicit assumption that the stance of policy was maintained for several quarters.
+In current circumstances, with the real funds rate estimated to be well below equilibrium, those risks would most likely be viewed as to the upside.
+That new wording could conceivably be used for a time simultaneously with the existing “measured pace” sentences or be substituted for them immediately.
+<START>Although the Committee may see advantages to moving to the new formulation over time, one consideration in a contemplation of adopting it today is that any change in the form of the risk assessment is, at present, completely unanticipated by the markets.<END>
+<START>Without the ability in the announcement to explain in detail the conditionality of the forecasting exercise in the alternative wording, yields could back up somewhat if an assessment of upside risks were introduced without warning at this time.<END>
+<START>By contrast, it seems likely that a choice of alternative B today, accompanied by an announcement that included an assessment of balanced risks, that continued to suggest that policy can be firmed at a measured pace, and that took note of the recent moderation in growth and in the improvement in labor market conditions would elicit little immediate reaction in financial markets.<END>
+That concludes my prepared remarks.
+CHAIRMAN GREENSPAN.
+Questions for Brian?
+If not, let me get started.
+<START>I think one of the problems we run into is that monthly estimates of employment have an exceptionally wide potential variance.<END>
+Remember, we’re dealing with 130 million workers, and 1 percent of that is still a huge number.
+It is readily ascertainable that if we have significant volatility, as we also do in the case of changes in productivity, we can get some remarkable statistical changes in the employment data without all that much change in the growth pattern of overall economic activity.
+And, indeed, I suspect that’s part of the problem we are running into.
+There is, however, a more general question that we have discussed in the past but that is perhaps worthwhile reiterating.
+It relates to what is lacking in this recovery
+—namely, a degree of enthusiasm on the part of the business community to move in advance of the numbers and expand August 10, 200469 of 103 capital spending and hire employees before they are needed in an endeavor to be positioned to accommodate anticipated growth in demand and perhaps improve market share at that time.
+In the past, anticipatory business spending was reinforced by the fact that recessions were not as shallow as the most recent recession or the one before that.
+As a consequence, the current cyclical rebound does not have the momentum that one typically sees in an economic upswing, especially in terms of an inventory turnaround that feeds on itself and induces a degree of aggressive activity on the part of the business community.
+The latter shows up in surges in new orders, further inventory accumulation, increased production, very significant hiring, and a slowdown in output per hour if not in underlying structural productivity.
+What we are seeing in the data, as has been commented on previously, is a level of capital investment and inventory investment that is falling significantly short of cash flows, a highly untypical development.
+Why that is occurring is not all that difficult to hypothesize.
+Clearly, it stems from the shallowness of the recent recession and the limited momentum of the resulting rebound.
+<START>But as we can perceive in detail at the micro level, we are also witnessing an unusual type of concern that is not classifiable as business optimism or pessimism.<END>
+<START>It takes the form of a high degree of caution stemming from the corporate scandals, the consequent aversion to risk-taking by boards of directors, and the very clear rise in the hurdle rate of return in the last couple of years.<END>
+<START>We can’t measure that readily on a macro level, but we can do so by listening to corporate executives who say, with some exaggeration admittedly, that they spend a disproportionate amount of their time with their general counsels.<END>
+<START>That means that when they go into the boardroom for a decision on a capital project, which in the past typically used to be a pro forma activity, there is considerable trepidation as to whether the final resolution will be that somebody will ask for the resignation of the CEO.<END>
+August 10, 200470 of 103 Now, all this may seem in some degree apocryphal, but in one sense it is not.
+To the extent that we find a good deal more sluggishness in this recovery than can be accounted for by rising energy prices, there have to be other reasons aside from the shallowness of the recent recession.
+Human concerns, if I may put it that way, do explain some of the sluggishness.
+<START>In any event, what I hear in talking to business executives is that the absence of the very significant surge in business hiring and other spending that we ordinarily see is associated with widespread efforts to get the last modicum of efficiency out of a company before a single new worker is hired.<END>
+That’s what’s happening.
+<START>And, clearly, this has been an extraordinary period because, in all the history that I can remember, we have not been through a surge in productivity of this nature in an environment of considerable softness.<END>
+This makes the jobs number a highly unstable number.
+It also makes it a far less significant indicator of economic activity than I think we tend to regard it.
+We are usually of the view that the employment data released on the first Friday of every month are the first real indication of economic activity that we see in that month.
+That was largely true when productivity growth was 1½ percent and it didn’t vary all that much.
+Indeed, the hours figure was as good a proxy for real GDP as we could get.
+But when we have the wide variances of output per hour that we have been observing, we have to ask ourselves what, in fact, the employment data contribute to our estimate of actual GDP.
+In a technical sense, the answer is nothing.
+That’s the denominator of the productivity number.
+It’s not the numerator.
+If we assume that we already have data on GDP for July, which we have built up from the product side, would we even advert to the employment figure to determine the GDP number?
+The only reason we do it is that we believe productivity growth is relatively stable.
+That was the case in the past, but it’s highly questionable whether that’s the case today.
+What we do know is that what determines the level of consumption is effectively income, and income is the mirror image of the August 10, 200471 of 103 nominal GDP or of cash flow if you want to put it that way.
+To be sure, it does matter whether consumer expenditures are being made by people who are employed or unemployed, but not all that much.
+The propensity to spend out of cash flows is not evidently that different between the employed and the unemployed.
+<START>Therefore, the particular rate of productivity growth that distributes income between the employed and the unemployed is not as critical an issue as I think analysts tend to think it ought to be.<END>
+This means that it doesn’t matter all that much what employment is.
+What matters is income.
+And income in and of itself is a function of GDP.
+Now, we obviously use the employment data because they are so current, but we use them in the context of the presumption that for any particular quarter there is a limit to GDP growth.
+How we behave with regard to the nth revision of the Greenbook forecast when new employment data become available is that much of the change in employment ends up, as indeed it should, in the productivity numbers and not in the level of GDP.
+Therefore, the emphasis we are putting on these monthly employment changes is misplaced in my view.
+In any event, there does appear to be some pickup in the data for the third quarter, fragmentary as they are.
+We clearly saw a significant rise in motor vehicle sales in July.
+Moreover, Mike Moskow’s contacts at some of the motor vehicle companies are reporting that early August sales suggest, if anything, an increase from the significantly elevated level of light vehicle sales in July.
+If that turns out to be the case, we may start to get more widespread spending surprises on the upside.
+The latter might not have an immediate effect on GDP, largely because they would be offset by inventory reductions, but they would have such an effect down the road.
+We also have seen chain store sales move up fairly consistently for the last number of weeks.
+The hesitancy in corporate borrowing, which has been associated in part with the excess cash flows of recent quarters, may be coming to an end.
+Corporate borrowing has clearly picked up August 10, 200472 of 103 in recent weeks.
+<START>We’ve seen the largest numbers in some time on the issuance of bonds, extensions of short-term debt, and even equity offerings.<END>
+As a consequence, what we probably are observing is a flattening of profit margins, and perhaps even some retrenchment;
+but clearly we are seeing the beginnings of the type of pressure consistent with the financing gap exhibited in the Greenbook for the fourth quarter.
+Remember, we are only about seven weeks away from the fourth quarter, and something seems to be in the process of changing.
+In sum, it strikes me that the softness that was very evident in May and June is difficult to find in the July numbers.
+I must admit that I find initial claims to be an important statistic because the error rate variance in those numbers is very low.
+To be sure, the data on new hiring implicit in the payroll figures, if you take them at face value, show a fairly pronounced decline in the rate of new hiring.
+That seems odd because other data for recent months point to a significant pickup in the turnover of jobs in that the number of employed people who are shifting jobs has gone up quite significantly, at least in the household data.
+That is usually indicative of increased confidence in the job market.
+In addition, no one has mentioned the quite strong consumer survey indications that jobs are becoming increasingly plentiful.
+The Conference Board’s latest measure shows continued strength in that regard.
+I have a healthy skepticism about the 629,000 employment increase in the household data for July, but if we put June and July together the average is still quite large.
+The variance, unfortunately, is also very large.
+While we have to be cautious about the employment data, the markets in my judgment responded far more negatively to the release of the latest numbers on Friday than I thought the underlying evidence warranted.
+This leads me to what I think policy ought to be, which
+—if you’ll excuse the expression
+—I’ve termed “opportunistic disaccommodation.” [Laughter] MR. STERN.
+It has a nice ring.
+August 10, 200473 of 103 CHAIRMAN GREENSPAN.
+What that essentially means is that, given an unbiased balance of risks at this stage, we should be choosing to raise rates, and we should endeavor to get back to a neutral policy stance as quickly as we can.
+The more successful we are in doing so, the better policy will be.
+I am a little concerned about leaving gaps in the timing of our moves largely because that assumes that we can see into the future with some degree of accuracy.
+We have been very fortunate with our announcements and our guidance to the markets in the last year or so.
+It’s not something that we can repeat consistently.
+We will not be able to make statements that somehow imply that we have great discretion on what it is we can choose to do, even as we say we will be guided by the data.
+The problem is that we may be overwhelmed by the data and our policy discretion may be completely lost in the process.
+Consequently, the sooner we can get back to neutral, the better positioned we will be.
+We were required to ease very aggressively to offset the events of 2000 and 2001, and we took the funds rate down to extraordinarily low levels with the thought in the back of our minds, and often said around this table, that we could always reverse our actions.
+<START>Well, reversing is not all that easy.<END>
+That’s the reason why, when we have a chance to reverse as I think we do in this period, we should take advantage of it.
+Moreover, anything other than moving at every meeting strikes me as something that requires a hurdle of evidence greater than usual.
+I don’t deny that, if we suddenly are confronted with exceptionally weak data or oil prices spike to $80 a barrel and we begin to see some significant weakening in the economy, continuing to increase the federal funds rate in the face of such developments would be a risky operation, even though I agree with Governor Gramlich, who said that persistent tightening would in general be the appropriate course for policy.
+<START>I can conceive of developments that may argue against raising rates further at some point.<END>
+In my judgment, they would have to be very significant to stop us from getting back to a neutral policy August 10, 200474 of 103 position and in a position to move in either direction.
+At that point, our balance of risks assessment will truly guide the direction in which we will ultimately go.
+We’ve often discussed that ideally we’d like to be in a position where, when we move as we did on June 30 and I hope today, the markets respond with a shrug.
+What that means is that the adjustment process is gradual and does not create discontinuous problems with respect to balance sheets and asset values.
+That is not something we’re going to be able to accomplish very often.
+I think we are able to do it in this period, and we should try as best we can to continue the tightening process until we reach our objective.
+That would be the optimal outcome.
+But I frankly don’t anticipate that we are going to be able to wend our way back to neutrality, wherever that ends up being, without having any market disruptions as a consequence of moves that we make at meetings.
+This is an exceptionally difficult thing to do.
+<START>Yet it’s the type of thing we ought to reach for and see whether we can manage it, recognizing that if we succeed we should not say, “Well, we have now solved the problem of monetary policy.” All we will have succeeded in doing is to have worked our way out of a very difficult policy scenario that occurred as a consequence of the bubble economy that emerged in the latter part of the last decade and the subsequent events.<END>
+Therefore, what I’d like to put on the table is that we move 25 basis points and make a statement equivalent to whatever version is the revision that Brian was talking about.
+Would somebody like to comment?
+President Poole.
+MR.
+POOLE.
+Mr. Chairman, I support your recommendation completely.
+I think, as Ben put it, that we need to stay on track.
+The only suggestion I would have in terms of the statement is that I think there a number of things besides energy prices that may be responsible for what we’re seeing in the data.
+I have a whole list of them written down here.
+Therefore, I would strike the sentence that says “this softness likely owes importantly to the substantial rise in energy prices.” In August 10, 200475 of 103 my view there’s a laundry list of things including, for example, uncertainties about the situation in Iraq.
+Of course, that’s tied up with energy prices, but it goes beyond just energy.
+<START>My only other comment would be that it wasn’t clear to me from what you said what happens to the language under the assessment of risks in alternative A, which adds the phrase “and sustainable economic growth” at the end of the last sentence.<END>
+Were you proposing to include that?
+CHAIRMAN GREENSPAN.
+I would argue against it.
+MR.
+POOLE.
+Okay.
+I have a preference for including it on the grounds that, if we get another employment report and perhaps other data of the sort that we’ve already had, we might want to pause in September.
+CHAIRMAN GREENSPAN.
+There’s nothing that prevents us from doing that.
+MR.
+POOLE.
+I understand that.
+But my preference would be to condition the market to that possibility and read that as it stands.
+I don’t feel strongly about it, but I’m explaining my preference.
+CHAIRMAN GREENSPAN.
+Well, it’s another side, but there is an interesting reason for my position.
+If we’re going to make the statement that accommodation can be removed at a measured pace and then we say, “Nonetheless, the Committee will respond to changes in economic prospects as needed,” that is clearly related to price stability on the upside.
+<START>It makes no sense to talk about putting both price stability and maximum sustainable growth in that particular context.<END>
+If you’re going to do that, you might as well just take that sentence out completely.
+The internal coherence of that, in my judgment, is questionable.
+In any event, to be sure, there are lots of different things that could be causing the softness, but at least in my judgment, the major one is very clearly energy.
+Not to acknowledge energy as an issue in this statement, with all the events that are going on, suggests that we’re working on a August 10, 200476 of 103 different planet than the one on which we live.
+That is not to say, though, that there aren’t other factors involved.
+In fact, the word “importantly” qualifies the role of energy prices;
+the statement doesn’t say they are the “sole” reason for the softness we’re seeing.
+Governor Gramlich.
+MR.
+GRAMLICH.
+Thank you, Mr. Chairman.
+Number one, I support your approach.
+I agree also with the notion that, at least this time, we should not fiddle with this statement very much.
+We are on track to have a more thorough discussion of the language in our statements in the near future, and I think the minor adjustment approach is the right decision for this meeting.
+Second, I agree with you very much in that I, too, would be reluctant to leave gaps in our moves toward policy neutrality.
+I think almost methodically raising the funds rate is the right thing to do.
+If we do it at some meetings and not at other meetings, that’s just going to cause a lot of attention.
+Of course we have to look at the data, but as long as we’re in a position where the level of the funds rate is so highly accommodative, in general I would lean toward the methodical approach of taking baby steps at each meeting unless we get some jarring new information.
+Third, I would keep in the reference to energy prices, as my remarks indicated.
+I think they are important.
+In my view you are right that, if we don’t mention them at all, it will look as if we’re vaguely out of touch.
+On the statement itself, you may be right on the employment side.
+Essentially, the way I’m interpreting what you say is that you’re criticizing employment in the first difference sense because the 32,000 is a number that is estimated with error on the base of millions of people being employed.
+I still look at employment a lot for output gap purposes, just to see how far the expansion has to run.
+Our statement focuses on the first differences part of employment, not on the levels.
+Maybe we ought to commission our drafting committee to think about a different way of referring to the employment picture.
+I wouldn’t do it this time, but in general we might want the statement to focus more on levels of employment and not so much on recent changes, for the reason August 10, 200477 of 103 you suggested.
+That’s one of the things I’d put on the agenda to deal with in the statement as time goes on, but for this meeting I would go right down the line with alternative B. CHAIRMAN GREENSPAN.
+President Minehan.
+MS.
+MINEHAN.
+I certainly agree that your proposal is the right thing to do at this time.
+<START>I like your concept of “opportunistic disaccommodation.” I don’t know exactly what it means, but I like that concept!<END>
+We are in a position to move now, and a move today will be well understood.
+It’s well priced into the market.
+It won’t have a big market effect, and it takes us in the direction we want to go.
+You mentioned toward the end of your remarks “going to neutral,” wherever that might be.
+That’s a really interesting question right now.
+Where is neutral?
+I find the chart in the Bluebook, with the wiggly shaded area that goes up and down again on the estimated ranges of equilibrium rates of interest, somewhat of a puzzle.
+I know I need to think about that more, but it doesn’t affect how I feel about the policy decision today.
+I think a ¼ point increase in the funds rate target is the right thing to do.
+I don’t know what to do about the statement.
+<START>I have some sympathy for trying to get out of giving the market too much confidence about what we’re doing.<END>
+You seemed to reflect a bit of concern about that in your questions earlier.
+I’m worried about that because I think we need to look at the data as they come in and we need to have some flexibility in how we assess conditions moving forward.
+I worry about the market continually believing that it knows exactly how we’re going to act.
+But at this stage of the game, maybe it’s okay that the market knows what to expect in terms of our policy.
+So I guess I’d go with your recommendations on the alternative B formulation.
+I certainly hope that we can get ourselves to a situation in which Vincent’s recommended language, or something like it, is where we end our statements.
+<START>I’d prefer to leave people hanging a little as August 10, 200478 of 103 we go forward and not be quite so confident about what we’re going to do.<END>
+But for now this approach is good.
+CHAIRMAN GREENSPAN.
+President Moskow.
+MR.
+MOSKOW.
+Mr. Chairman, I agree completely with your recommendation.
+I think the sooner we get back to neutral, the better off we are, and I agree that we should have a high hurdle for not raising rates at meetings while we’re in this period of removing accommodation at a measured pace.
+And I think it’s important not to leave gaps in the timing of our policy moves.
+Also, I believe it’s important for us to mention energy prices in this statement.
+There is one point that I just want to mention.
+I agree with the statement as written, but in section 3 of Brian’s table, the rationale sentence says, “The economy nevertheless appears poised to resume a stronger pace of expansion going forward.” That is a little different from what we’ve done before.
+<START>I agree with the sentence, but it is forward-looking, and I don’t think we’ve had forward-looking sentences before in the rationale section of the statement.<END>
+I don’t disagree with it, but I think we should recognize that.
+CHAIRMAN GREENSPAN.
+Well, that thought is implicit.
+If we don’t believe that, why are we moving the funds rate up 25 basis points?
+So, essentially, it is implicit in our actions.
+MR.
+MOSKOW.
+As I said, I don’t disagree with it, but I think it is different from what we have been saying in the past.
+CHAIRMAN GREENSPAN.
+Oh, absolutely, it is.
+And one of the things that I think we are finding with the statement is that the increased flexibility we have created for ourselves by working through the phraseology in the Bluebook gives us greater latitude to do these statements in ways in which each meeting is handled idiosyncratically.
+From an exposition point of view, I think that is essential.
+August 10, 200479 of 103 MR. REINHART.
+Mr. Chairman, I might just point out that the sentence before that
+—where we say that a portion of the rise in inflation is transitory
+—is itself predictive.
+So, it isn’t unprecedented to be giving some sense of an outlook in the rationale part of the statement.
+CHAIRMAN GREENSPAN.
+Governor Bernanke.
+MR.
+BERNANKE.
+I support your recommendation, Mr. Chairman.
+I think we might encounter circumstances under which we’d want to skip a meeting in our measured pace of removing policy accommodation
+—perhaps to “undisaccommodate.” [Laughter] But I agree with Governor Gramlich that a moderate rise in energy prices would not be a rationale for doing that.
+That’s a circumstance in which it’s important to maintain the anti-inflationary dimension of this Committee’s policy.
+CHAIRMAN GREENSPAN.
+President Santomero.
+MR.
+SANTOMERO.
+I support your recommendation, Mr. Chairman.
+I like the basic strategy of keeping the pressure on to try to get us back to neutral.
+In answer to President Minehan’s question of where is neutral, my answer has always been “north of here,” so I’d keep going in that direction.
+Neutral may not mean a single number, and the definition of neutral may not be fixed.
+But as long as we’re moving north of where we are currently, I think it’s a good idea.
+On the wording, I know four versions of this matrix have been handed out.
+Ordinarily, that would be problematic.
+I think each actually improved the statement.
+I like the wording of the last version and the reference to energy.
+The way it is posed here actually fits better my way of seeing the situation, so I’m comfortable with the wording as it is presented.
+CHAIRMAN GREENSPAN.
+President Lacker.
+MR.
+LACKER.
+I support your recommendation, Mr. Chairman.
+I think it is appropriate that we maintain a high hurdle as we go forward before skipping a beat.
+<START>I believe this measured August 10, 200480 of 103 approach is important, as Governor Bernanke said, to maintain the credibility of our commitment against inflation.<END>
+Even with a few more soft patches as we go forward, I think that’s going to be the ever-present danger in the near term.
+I also share your opposition to including the phrase “sustainable growth” in the last sentence, but for a slightly different reason.
+The way it is worded there makes it sort of a twin pillar of our obligations.
+<START>We have moved over the last few years to recognizing a difference between our desire for price stability and our desire for sustainable growth, and I wouldn’t like that difference to be eroded or fuzzed up in the public’s mind.<END>
+CHAIRMAN GREENSPAN.
+President Hoenig.
+MR.
+HOENIG.
+Mr. Chairman, I think we should move toward neutral, and I find the rationale for doing so as stated here pretty good, so I’m fine with that.
+I would like to leave in the sentence about energy prices because energy is the elephant in the room and I think we should acknowledge it.
+And I don’t think we need to modify the statement any further than that.
+Thank you.
+CHAIRMAN GREENSPAN.
+President Guynn.
+MR.
+GUYNN.
+Mr. Chairman, I support your recommendation.
+I have one question and one observation.
+I think I got confused in the course of your exchange with Bill Poole.
+Is the last phrase under the assessment of risk in or out?
+I thought there was some question about putting a period after “needed.” What is the proposition on the table?
+Does the wording remain as written here?
+CHAIRMAN GREENSPAN.
+Do you mean the very last statement under “assessment of risk”?
+MR.
+GUYNN.
+Yes.
+August 10, 200481 of 103 CHAIRMAN GREENSPAN.
+It reads, “Nonetheless, the Committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability.” MR. GUYNN.
+Okay.
+Now for my observation.
+I may have not followed your discussion about the labor market and how we deal with it
+—and maybe this is what Ned was talking about.
+As I read the statement, it seemed to me that we may have contributed to the emphasis that people are putting on our judgment about labor market conditions by having pointed to the employment situation in almost all of our recent statements, including this one.
+I don’t know how to translate what you said into better words, but maybe I misunderstood what you were saying.
+CHAIRMAN GREENSPAN.
+No, there’s nothing wrong with discussing the condition of labor markets.
+It is part of our overall evaluation of what is going on in the economy.
+But the argument that I was making is that we are overemphasizing the importance of employment as an economic activity issue.
+In other words, one often hears that the purpose of the economy is to create jobs.
+Well, every economy creates jobs, and the economies that create them more often than not are subsistence economies
+—where the incentive to work in one way or another is complete.
+You don’t have unemployment in subsistence economies.
+So, it is a question of getting a notion of the sequence of events in terms of what causes what.
+That’s the only issue that I was addressing.
+MR.
+GUYNN.
+That’s helpful.
+Thank you, sir.
+CHAIRMAN GREENSPAN.
+President Stern.
+MR.
+STERN.
+Thank you, Mr. Chairman.
+I, too, support the ¼ point increase in the funds rate at this stage.
+Also, I think that the “measured pace” language and the conditional clause have served us remarkably well so far.
+I believe that people in the marketplace pretty much understand what we’re trying to do and where we’re going.
+The question for me was whether we wanted to expand that last conditional phrase.
+There may be some value to doing it, but I agree that it isn’t August 10, 200482 of 103 essential.
+I don’t think it unduly constrains us.
+My guess is that we would pause only if the economy seemed to be going substantially off course.
+CHAIRMAN GREENSPAN.
+President McTeer.
+MR.
+MCTEER.
+I agree with your proposal, including no diddling with the language.
+CHAIRMAN GREENSPAN.
+Governor Kohn.
+MR.
+KOHN.
+I agree with your proposal, Mr. Chairman, in all its particulars, including the language.
+<START>I think it is most likely that economic growth will pick up and that the output gap will begin to close again, and therefore, we should continue with our measured pace of tightening.<END>
+I do think that I would put a little more emphasis on the employment data than you seem to be doing.
+I agree that, when productivity is moving around, employment is not a good indicator of economic activity.
+CHAIRMAN GREENSPAN.
+<START>It’s not as good an indicator as when productivity is not moving around.<END>
+MR.
+KOHN.
+Right, but it is something of an indicator of whether we’re putting people back to work.
+In fact, it’s a very good indicator of that.
+[Laughter] And there is slack in the economy, so I wouldn’t ignore it entirely.
+I agree that we need to get back to neutral as soon as we can, but I would say as soon as we can consistent with achieving maximum employment, which is a directive in the Federal Reserve Act along with keeping prices stable.
+I agree that the default option is to keep moving toward neutral, but my sense is that I’d be a little more data-dependent on how fast we can get there than I think you were suggesting.
+The important thing is not so much the current federal funds rate but what people in the market expect.
+It may be that, if economic activity keeps softening, we will need to change expectations in the market by skipping an action at a August 10, 200483 of 103 meeting at some point.
+So I agree with the general tenor of what you say;
+I’m trying to change it just a bit around the edges.
+CHAIRMAN GREENSPAN.
+Actually, you’re raising the issue that Governor Gramlich raised, which is the level of employment as distinct from the change and the level of the unemployment rate.
+These are other indicators and goals of policy.
+I’m talking mainly about working off the employment statistics in our analytic evaluation of how the economy is doing as distinct from raising the question of whether full employment, however we define it, is a desirable goal in the same sense that full utilization of resources is a desirable goal.
+I should hope it is.
+Indeed, that’s what we are mandated by statute to adhere to as a goal.
+But that is not the first difference question, which I think Governor Gramlich very appropriately pointed out.
+Governor Ferguson.
+MR.
+FERGUSON.
+Thank you, Mr. Chairman.
+I agree with your recommendation for this meeting and with your defense of the statement as outlined in alternative B. I won’t go into all the issues about energy prices, et cetera.
+To some extent I am both following Governor Kohn in sequence and agreeing in intellectual approach here.
+<START>I agree with you that the principle should be a desire to move toward neutral, but I worry about setting up a hurdle that is uniformly higher now based on nothing in particular other than the desire to move to neutral.<END>
+I do think, as you said at one point, that each meeting should be handled idiosyncratically.
+And to me that means that we really have to continue to be driven by the data and forecasts.
+From my perspective, given the unusual nature of the slowdown
+<START>—the range of shocks that the economy has faced and may continue to face and the fact that the forces holding back consistent above-potential growth that will close the output gap are all rather mysterious to us<END>
+—I’d be a little cautious about a willy-nilly declaration that the hurdle rate for a pause in August 10, 200484 of 103 removing policy accommodation has become much higher.
+And as I noted in my earlier statements, whether or not we pause at some point has to depend very much on the data;
+<START>but I think the market also has given us some signals that a pause would not be completely unexpected, so we shouldn’t worry too much.<END>
+<START>Finally, without piling it on, I don’t think it’s appropriate for us at this meeting just to decide that part of our dual mandate is unimportant.<END>
+I’m not sure we have the right or the authority to do that, and I’m not sure that
+— CHAIRMAN GREENSPAN.
+Are we doing that?
+MR.
+FERGUSON.
+No, I’m not suggesting that we are.
+I’m saying that a few members have suggested that perhaps we are.
+But I know you would not tolerate that!
+[Laughter] I am doing what a Board member should do, which is supporting the Chairman in reinforcing the law.
+People have laughed about it, but to me it’s pretty clear that we have to be relatively symmetric in our concern about both sides of the mandate.
+Thank you.
+CHAIRMAN GREENSPAN.
+Vice Chair.
+VICE CHAIRMAN GEITHNER.
+I’m comfortable with the statement and with your recommendation.
+I just want to raise a question about your “no surprises” rule.
+That’s not quite the way you framed it.
+I’m a little uncomfortable being in a regime where we never surprise
+— CHAIRMAN GREENSPAN.
+That’s not what I said.
+VICE CHAIRMAN GEITHNER.
+No, no, I’m not trying to say that you did.
+CHAIRMAN GREENSPAN.
+In fact, we purposely surprised the market in January 2001.
+We structured our announcement so that the market would truly be surprised, as you may recall, by moving the date up on when we actually made a move.
+So I’m not arguing that surprise has no August 10, 200485 of 103 value.
+I’m basically saying that, if we have to surprise the market, by definition we are behind the curve.
+VICE CHAIRMAN GEITHNER.
+Well, with that qualification, I’m fine.
+I just say this because we’re in a situation where the market is now pricing in moves of somewhat less than 25 basis points a meeting for the next two quarters, but we want to make sure that we have the capacity to move at that pace, if not faster, without creating the risk of adverse surprise.
+We have the tension of that.
+Maybe the data will save us from that problem because the markets may react to the data by pricing in a somewhat steeper path than is priced in now.
+But we shouldn’t be in a position, if on the eve of the next meeting we have a somewhat greater distribution of views about the outcome for that meeting and there has been some fundamental change in our forecast, where we’re constrained to move another 25 basis points.
+So I just offer that slight qualification on an extreme version of the no-surprise doctrine.
+I support your recommendation.
+CHAIRMAN GREENSPAN.
+We have on occasion run into situations where there was a 50 percent probability of our moving one way or the other, which meant that no matter what we did, it would be a significant surprise.
+That has not been the case recently.
+But I’m not sure we know how to avoid that.
+Governor Bies.
+MS.
+BIES.
+Mr. Chairman, I support your recommendation, and I do like the wording in the third revised version better than that in the previous drafts.
+I think the changes were positive.
+That’s all I have to say.
+CHAIRMAN GREENSPAN.
+President Yellen.
+MS.
+YELLEN.
+Mr. Chairman, I agree with the proposal to raise the funds rate 25 basis points today and the idea that the default going forward should be to continue doing this on a regular August 10, 200486 of 103 schedule.
+But I agree with Governors Kohn and Ferguson that our decisions should be data-dependent.
+I am concerned about the downside risk and think that we might need to pause.
+I prefer to include sustainable growth along with price stability in the final sentence.
+First of all, I believe very strongly that we have a dual mandate, and that language reflects it.
+But beyond that we have the sentence in line 3 that says, “The economy nevertheless appears poised to resume a stronger pace of expansion going forward,” which is a rather confident statement that we feel we’ll be able to continue on the path of raising rates.
+And I think the reference to sustainable growth simply acknowledges that there is a slight downside risk to that forecast.
+I understand the desire also to shift back to more formulaic language concerning risks and away from the kind of explicit statement we’ve had about future policy, though I personally think the latter approach has worked quite well.
+I was struck, however, by the difficulties of describing the risks as I read the language in alternative C. I dislike the language in alternative C intensely;
+I won’t go into the reasons right now.
+<START>But as Governor Gramlich mentioned last time, the Committee has thought about this issue quite thoroughly and has studied the options, and there are many problems with the kind of dual risk assessment that is shown in alternative C. I can’t see going back to that kind of language easily without a thorough discussion of the problems involved.<END>
+CHAIRMAN GREENSPAN.
+I happen to agree with you on that.
+I think it’s a very difficult issue, and it’s one that Vincent will discuss for a few minutes a little later.
+President Pianalto.
+MS.
+PIANALTO.
+Thank you, Mr. Chairman.
+I also support your recommendation for a 25 basis point increase in the fed funds rate target.
+And along with others I, too, like this version of the language better than the original.
+I also like the fact that we’re not introducing a lot of change to August 10, 200487 of 103 the language since every word we change is scrutinized in the market.
+So I am comfortable with this proposal.
+CHAIRMAN GREENSPAN.
+Would you read the appropriate language, Mr. Secretary?
+MR.
+BERNARD.
+First, with regard to the directive wording, which is on page 14 of the Bluebook:
+“The Federal Open Market Committee seeks monetary and financial conditions that will foster price stability and promote sustainable growth and output.
+<START>To further its long-run objectives, the Committee in the immediate future seeks conditions in reserve markets consistent with increasing the federal funds rate to an average of around 1½ percent.” I will also read the sentence regarding the assessment of risks, which the Committee is also voting on.<END>
+But before I get to that, I was asked to note that in box 4 under alternative B
+—and this, I guess, be the fourth revision
+would—the end of that sentence which says “prices evidently reflect transitory factors” should read “prices seem to reflect transitory factors.” What I will be reading now is the language shown under June FOMC in boxes 5 and 6:
+“The Committee perceives the upside and downside risks to the attainment of both sustainable growth and price stability for the next few quarters are roughly equal.
+<START>With underlying inflation still expected to be relatively low, the Committee believes that policy accommodation can be removed at a pace that is likely to be measured.<END>
+Nonetheless, the Committee will respond to changes in economic prospects as needed to fulfill its obligation to maintain price stability.” CHAIRMAN GREENSPAN.
+Please call the roll.
+MR.
+BERNARD.
+Chairman Greenspan Yes Vice Chairman Geithner Yes Governor Bernanke Yes Governor Bies Yes Governor Ferguson Yes Governor Gramlich Yes August 10, 200488 of 103 President Hoenig Yes Governor Kohn Yes President Minehan Yes Governor Olson Yes President Pianalto Yes President Poole Yes CHAIRMAN GREENSPAN.
+Vincent?
+MR.
+REINHART.
+I have three brief items to bring to the Committee’s attention.
+Let me deal with the two bureaucratic ones first.
+Dick Porter, now of the Federal Reserve Bank of Chicago, conducted a survey of readers of the Bluebook to see how they felt about the content and the distribution of that document.
+There are thirty-six separate responses from people at the Board and the twelve Reserve Banks, expressing a very wide range of views.
+Indeed, the range is sufficiently wide to make me glad you’re asked to vote on my appointment as Secretary only once a year!
+[Laughter] As to the content of the Bluebook, there were some suggestions about the structure that I think we’ll be able to fold in over time.
+As to its distribution, there was widespread enthusiasm for the Secure Document System as a way of delivering that document more quickly to the Reserve Banks.
+But there were also some suggested changes, a few of which would involve changing the FOMC’s Program for the Security of Information.
+A couple of the suggestions we can put in place fairly quickly, including allowing access to SDS through laptops, given that NRAS provides a sufficiently secure platform for that communication, and also allowing differential access to those with Class I versus Class II access.
+So we’ll be doing that.
+<START>As to the number of staff with access to SDS, I got very conflicting guidance on that, so I’ve asked a couple of people here at the Board to work with the research directors at the Reserve Banks to spell out some potential alternatives.<END>
+Second, I surveyed the Committee over the period on preferences regarding the special topic for your two-day meeting in February.
+A clear winner emerged among the thirteen potential topics August 10, 200489 of 103 I listed.
+<START>Three out of four respondents listed a discussion of the Committee’s inflation goal as the preferred item, with the second most cited item being a discussion of inflation targeting and communications in third place.<END>
+Anyway, I rated the responses by the order in which they were cited.
+The inflation goal seemed to be the favorite topic.
+So Chairman Greenspan has asked me to put that topic on the February agenda, with the intention of discussing the appropriate inflation goal for the Committee and potential means to communicate it to the public, if appropriate.
+Third, events evidently pushed further into the future your consideration of the structural tension of the risk assessment paragraph that I discussed in a memo distributed to the Committee on August 5.
+<START>That is, the language about removing accommodation at a measured pace gives the public some sense about the direction of rates independent of your assessment of risks to the economy.<END>
+<START>You might want to bring more content into that economic assessment, which would be especially important when the time comes to eliminate the removing accommodation sentiment but might also be viewed as useful independent of that.<END>
+I had one proposal to do so in my memo, and I would appreciate your feedback over the next couple of weeks, as it will influence the policy alternatives presented in the Bluebook.
+CHAIRMAN GREENSPAN.
+Questions for Vincent?
+If not, let me confirm the date of the next meeting
+—September 21, 2004.
+This officially terminates the FOMC meeting, and I request that the Board of Governors meet in my office to discuss requests for changes in the discount rate.
+END OF MEETING August 10, 200490 of 103
+INSTANCE OF DISAGREEMENT: 46

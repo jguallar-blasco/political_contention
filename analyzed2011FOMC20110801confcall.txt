@@ -1,0 +1,510 @@
+Passage number 1.
+Conference Call of the Federal Open Market Committee on August 1, 2011  A joint conference call of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held on Tuesday, August 1, 2011, at 2:00 p.m.  Those present were the following:  Ben Bernanke, Chairman William C. Dudley, Vice Chairman Elizabeth Duke Charles L. Evans Richard W. Fisher Narayana Kocherlakota Charles I. Plosser Sarah Bloom Raskin Daniel K. Tarullo  Janet L. Yellen  Christine Cumming, Jeffrey M. Lacker, Dennis P. Lockhart, and John C. Williams, Alternate Members of the Federal Open Market Committee  James Bullard and Eric Rosengren, Presidents of the Federal Reserve Banks of St. Louis and Boston, respectively  Esther L. George and Dale Roskom, First Vice Presidents, Federal Reserve Banks of Kansas City and Cleveland, respectively  William B. English, Secretary and Economist Deborah J. Danker, Deputy Secretary Matthew M. Luecke, Assistant Secretary Michelle A. Smith, Assistant Secretary Scott G. Alvarez, General Counsel Thomas C. Baxter, Deputy General Counsel  Thomas A. Connors, Steven B. Kamin, Loretta J. Mester, David Reifschneider, Daniel G. Sullivan, David W. Wilcox, and Kei-Mu Yi, Associate Economists  Brian Sack, Manager, System Open Market Account  Jennifer J. Johnson, Secretary of the Board, Office of the Secretary, Board of Governors  Louise L. Roseman, Director, Division of Reserve Bank Operations and Payment Systems, Board of Governors  Nellie Liang, Director, Office of Financial Stability Policy and Research, Board of Governors  Robert deV. Frierson, Deputy Secretary, Office of the Secretary, Board of Governors  William Nelson, Deputy Director, Division of Monetary Affairs, Board of Governors  Linda Robertson, Assistant to the Board, Office of Board Members, Board of Governors  Seth B. Carpenter, Senior Associate Director, Division of Monetary Affairs, Board of Governors; Michael Foley and Mark Van Der Weide, Senior Associate Directors, Division of Banking Supervision and Regulation, Board of Governors; Michael P. Leahy, Senior Associate Director, Division of International Finance, Board of Governors; William Wascher, Senior Associate Director, Division of Research and Statistics, Board of Governors  Andrew T. Levin, Senior Adviser, Office of Board Members, Board of Governors  Brian J. Gross, Special Assistant to the Board, Office of Board Members, Board of Governors  Penelope A. Beattie, Assistant to the Secretary, Office of the Secretary, Board of Governors  Valerie Hinojosa and Randall A. Williams, Records Management Analysts, Division of Monetary Affairs, Board of Governors  Marie Gooding, Sarah G. Green, and Blake Prichard, First Vice Presidents, Federal Reserve Banks of Atlanta, Richmond, and Philadelphia, respectively  Jeff Fuhrer, Robert D. Hankins, Jamie J. McAndrews, and Mark S. Sniderman, Executive Vice Presidents, Federal Reserve Banks of Boston, Dallas, New York, and Cleveland, respectively  David Altig, Alan D. Barkema, Ron Feldman, Craig S. Hakkio, Stephen H. Jenkins, Spencer Krane, Julie L. Stackhouse, Geoffrey Tootell, Christopher J. Waller, and John A. Weinberg, Senior Vice Presidents, Federal Reserve Banks of Atlanta, Kansas City, Minneapolis, Kansas City, Cleveland, Chicago, St. Louis, Boston, St. Louis, and Richmond, respectively  Evan F. Koenig and Lorie K. Logan, Vice Presidents, Federal Reserve Banks of Dallas and New York, respectively  Fred Furlong and David M. Wright, Group Vice Presidents, Federal Reserve Bank of San Francisco  Joshua L.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It is simply a list of individuals who were present at a conference call.
+
+
+Passage number 2.
+ Frost, Assistant Vice President, Federal Reserve Bank of New York Transcript of the Federal Open Market Committee Conference Call on August 1, 2011  CHAIRMAN BERNANKE.  Thank you, everyone, for joining us.  This is a joint FOMC–Board meeting, so I need a motion to close the meeting.  Governor Duke.
+Does the passage contain contention or disagreement? Response from the model: No 
+
+This passage does not demonstrate any contention or disagreement. It is a simple introduction to a meeting where a motion is needed to close the meeting.
+
+
+Passage number 3.
+ MS. DUKE.  So moved, because Governor Yellen is in San Francisco.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It is simply stating that Governor Yellen is in San Francisco.
+
+
+Passage number 4.
+ CHAIRMAN BERNANKE.  Thank you very much.  As you know, it’s been difficult to schedule this meeting, given the vagaries of politics and of markets.  Today could have been, of course, a high-stress day.  I hope it’s less stressful than that.  Nevertheless, I think there are some useful things we can do today. Let me propose a program, and if anyone has any suggestions, please let me know.  I thought what we might do first is get some briefings.  We can start, in a moment, with Linda Robertson on the recent developments and the prospects for congressional approval.  Brian Gross is here also to provide backup on that. Second, we’ll turn to Brian Sack, who will tell us a bit about both recent and current market developments.  That’s in preparation for the discussion of potential Federal Reserve actions, if they were to become necessary.  Also, I hope Brian will talk a bit about the possibility of a downgrade.  Even if there’s no default, the downgrade still seems to be a large possibility, and we’d like to know what implications that might have. Third, Louise Roseman is here.  Louise worked hard with the Treasury and with your staffs to develop a system for handling government payments when we thought they would be prioritized or at least not fully paid.  I’m going to ask Louise to briefly tell you about that, but I think the issue here, because this is not effective at this point, is to get from you any issues or questions for the future that were raised by this process or any concerns you have about the system that was devised. Then I’ll turn briefly to Mike Foley to update us on banking developments and any questions we’ve been getting on supervisory issues.   Those are some preliminary briefings to update everybody.  Questions will be allowed, of course, at any stage.  After the briefings we’ll turn to Bill English, who, with the assistance of Brian Sack, will discuss some of the issues raised by their joint memo of a few weeks ago about potential actions that the Federal Reserve could take.  Noting that everything is not signed, sealed, and delivered and noting that there are certainly many stresses in financial markets, I think it would still be useful for us to get at least a little bit of input about what kinds of actions the Fed might consider taking under certain contingencies.  Particularly given that we have no immediate action proposed, I don’t plan to ask for any votes today.  But again, your input is useful to help think about what we might bring to this Committee in the future. So that’s my proposal.  Are there any suggestions or concerns about what else we might talk about.  [No response]  All right.  Seeing none, let me begin our briefing process and turn to Linda Robertson to give us a brief update on yesterday’s negotiations and on where it goes from here.  Linda.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 5.
+ CHAIRMAN BERNANKE.  If they vote in the Senate today, would they vote in the House.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention or disagreement in the passage. The use of "if" implies uncertainty or a hypothetical scenario, suggesting that there may be varying opinions or conflicts regarding the voting behavior of individuals in the Senate and the House.
+
+
+Passage number 6.
+ MS. ROBERTSON.  They’re expected to vote in the House this evening.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage. It simply states that there is an expected vote in the House in the evening.
+
+
+Passage number 7.
+ CHAIRMAN BERNANKE.  Okay.  Are there any questions for Linda.  [No response]  All right.  I don’t see any questions.  We appreciate that report.  It underscores that nothing’s done until it’s done, right. Let me turn now to Brian Sack in New York, who will talk about some market issues and maybe, Brian, if you can, the downgrade issue as well.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It is a simple exchange between the speaker and the audience, with no conflicting or opposing viewpoints expressed.
+
+
+Passage number 8.
+ CHAIRMAN BERNANKE.  Thank you very much.  Any questions or comments for Brian.  President Fisher.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contentious or disagreeable statements. It is primarily a polite expression of gratitude and an invitation for questions or comments.
+
+
+Passage number 9.
+ MR. FISHER.  Mr. Chairman, I presume that the effect of the money market funds’ activities that Brian mentioned is reflected in an increase in excess balances held by us.  Is that correct, Brian.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 10.
+ MR. SACK.  The aggregate amount of reserves in the system isn’t going to change, but this is a change in the flow of those investments.  So essentially, the money funds are taking money out of repo, and actually out of some bank liabilities, and increasing their holdings of deposits at other financial institutions.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It is simply stating a change in the flow of investments and the movement of funds between different financial institutions.
+
+
+Passage number 11.
+ MR. FISHER.  Thank you.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is expressing gratitude or thanks, which does not imply any disagreement.
+
+
+Passage number 12.
+ CHAIRMAN BERNANKE.  Any other questions.  [No response]  All right.  Seeing none, let’s hear very briefly from Louise.  I’m interested in any feedback we might get on either the substance or the process that we worked through when we got the payment plan done.  Louise.
+Does the passage contain contention or disagreement? Response from the model: No 
+There is no contention or disagreement in this passage. The speaker is simply asking for feedback from Louise on the payment plan process.
+
+
+Passage number 13.
+ MS. ROSEMAN.  Thanks.  We had put procedures in place to address how government payments would be handled if the debt ceiling wasn’t increased in a timely way.  Those procedures have evolved fairly substantially in the past week or two, and they weren’t finalized until Friday evening or fully documented until yesterday afternoon. Let me walk through what the current assumptions would have been.  The procedures are based on three principles.  The first one is that principal and interest on Treasury securities would continue to be made on time.  The second one is that other payments may be delayed.  The third principle is that any payments that were made would be settled as usual. So how do you implement those three principles.  With respect to the first, the principal on Treasury securities that are maturing would be funded by having auctions that would roll over those maturing securities into new issues, so the new issues would be able to fund the redemption of the maturing securities.  With respect to interest payments, the way the Treasury planned to ensure that it would be able to pay interest payments timely by holding back other government payments and accumulating sufficient cash balances in its Fed account to pay upcoming coupon payments.  The implication of this approach would be that the Treasury would be delaying non-P&I payments even on days when it may have ample balances in its Fed account to have been able to make those payments if it had so chosen.  Instead, the Treasury would be conserving that cash to be able to ensure that it would be able to pay future-dated interest payments.  Then, to ensure that payments made would settle as usual, the Treasury would not submit any ACH files to the Reserve Banks for processing unless it was certain that it would have sufficient balances on the settlement date to settle those transactions.  Similarly, for checks, the Treasury would not mail checks out to the intended recipients until it was sure that it would have sufficient balances in its account to fund the presentment of those checks once they came back to the Fed.  And for Fedwire funds transfers, the Treasury would not make funds transfers unless it had sufficient balances in its Fed account to do so. So this, compared with the procedures Treasury had mapped out just several weeks ago, provides a much higher level of assurance for the banking industry that the payments they do get would be settled using normal procedures.  It also provides assurance to the recipients of those payments that they would have good funds as they typically would.  But it would result in delays in payments, and in particular, payments that do not relate to principal and interest.  The other thing I should mention is, because the Treasury was ensuring that P&I payments would be made on schedule, it avoided a lot of very potentially disruptive effects if it missed a coupon payment or missed a scheduled redemption of maturing securities. These, at least, are current procedures that have been codified into a special operating circular that was developed jointly by the Reserve Banks, the staff here at the Board, and at the Treasury, and has been approved by the Treasury as reflecting what it would like the Reserve Banks to do as its fiscal agents if it ever came to that. We were positioned, in the event a deal wasn’t struck, to issue this circular to the industry so it would understand what the rules of the game would be.  And there were a lot of other associated customer communications that were developed, and stand ready just in case, though we no longer think we would need to use them. So with that, let me open it up to see if there are any comments or questions.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It is simply providing information about procedures that have been put in place regarding government payments in the event that the debt ceiling is not increased.
+
+
+Passage number 14.
+ CHAIRMAN BERNANKE.  Comments or questions for Louise.  President Lacker.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement indicated in this passage. It is simply inviting comments or questions for Louise. The mention of President Lacker does not indicate any disagreement either.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 15.
+ MR. LACKER.  Mr. Chairman, did you say you were interested in feedback on these processes.
+Does the passage contain contention or disagreement? Response from the model: Yes. The passage suggests that there is a disagreement or contention between Mr. Lacker and the Chairman regarding their interest in receiving feedback on certain processes.
+
+
+Passage number 16.
+ CHAIRMAN BERNANKE.  Yes.
+Does the passage contain contention or disagreement? Response from the model: Explanation: The passage may include contention or disagreement between different perspectives or ideas, but without the actual passage provided, it is not possible to determine the presence of contention or disagreement.
+
+
+Passage number 17.
+ MR. LACKER.  I would remark that I received a couple of inquiries last week from banking industry participants in our District, wondering if they should do contingency planning.  I advised them that they should always be doing contingency planning.  But I was hamstrung, being unable to give them more guidance to shape their planning.  And I’m sure this is something that’s dawned on everyone involved in this process this time around, but more timely guidance to the banking industry is one potential opportunity for improvement.  You know, I’m not in a position to judge how that would trade off against other considerations that molded the planning in this event, but I’ll just register that.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply sharing their opinion and suggesting that more timely guidance to the banking industry could be beneficial.
+
+
+Passage number 18.
+ CHAIRMAN BERNANKE.  Let me respond to that.  That was a very difficult problem.  Clearly, our general tendency is to want to do contingency planning well in advance and make sure everybody’s well prepared, and in this case, perhaps we should have.  We’ll have to think about that for the future.  In this case, though, it was certainly complicated by the fact that the Treasury’s own plans kept changing, and we weren’t entirely clear about what they wanted to do, which obviously was very important.  The other issue is that there was always a consideration of whether or not too much explicit attention on these issues was destabilizing rather than stabilizing.  But other than acknowledging that this was a complicated calculation, I take your point, and a number of other people have made the same general observation. Any other questions for Louise.  Louise, on an operational basis, was there anything in this experience that we should work on going forward, either in terms of the coordination among the Board, the Reserve Banks, and the Treasury, or in terms of the mechanics of our payment system that we should be thinking about as a broader matter.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not involve contention or disagreement. The speaker acknowledges that there were complications and uncertainties in the situation, but does not express opposition or argument.
+
+
+Passage number 19.
+ MS. ROSEMAN.  Well, actually, the current approach requires very little change on the part of the Reserve Banks in how they would process payments because the contingency plans were based on the assumption is that by the time the payments hit the Fed, they would be processed as usual. One of the reasons, I think, that a lot of the changes were made in the recent weeks is that it was only recently that senior policymakers, here at the Board and at the Treasury and elsewhere, paid very serious attention to what the procedures would be, and questioned, perhaps, whether that was the appropriate approach.  Planning had been under way for months, but it was only recently that there were questions raised about whether there were better approaches that would provide a higher degree of certainty to the recipients of the payments.  And I think we ended up in a better place than where we started out.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It discusses the evolution of the current approach to processing payments and the improvements that have been made.
+
+
+Passage number 20.
+ CHAIRMAN BERNANKE.  Okay.  Thank you.  President Kocherlakota.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. It consists of basic acknowledgments and a thank you, without any conflicting ideas or arguments.
+
+
+Passage number 21.
+ MR. KOCHERLAKOTA.  Thank you, Mr. Chairman.  I had one quick question, which is that it seems the Treasury’s planning was, as you suggested, Louise, quite fluid.  If we were in the middle of having hit the debt ceiling and the Treasury changed its mind about how it wanted to prioritize principal and interest payments, would we be in a position to accommodate that change of mind from an operational standpoint.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage is a question and does not present any contention or disagreement.
+
+
+Passage number 22.
+ MS. ROSEMAN.  This is something that I know the New York Fed has been paying a lot of attention to.  You’re asking, if the Treasury changed its mind again and it would not be prioritizing P&I, how would that work.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. It simply states that the New York Fed has been paying attention to a specific issue and poses a hypothetical question about the potential implications.
+
+
+Passage number 23.
+ MR. KOCHERLAKOTA.  That’s correct.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage simply states a correct statement made by Mr. Kocherlakota without any indication of contention or disagreement.
+
+
+Passage number 24.
+ MS. ROSEMAN.  Actually, that would be something that the Federal Reserve would be able to implement.  The challenge is whether other market participants would be able to deal with it in their systems.  So it wasn’t an issue as much of whether Reserve Bank systems would be capable of handling delayed coupon payments or delayed redemption of matured securities, but whether the other participants, the counterparties, would have similar capabilities.  And based on very limited discussions, there would be very big operational challenges and probably a lot of disruption associated with the limitations in their systems.  This is because when market participants developed their programs, they never contemplated the possibility of not having timely payments, and therefore, their systems weren’t designed along those lines.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is discussing a potential challenge and potential limitations, but there is no specific contention or disagreement.
+
+
+Passage number 25.
+ MR. SACK.  Could I emphasize that point.  The market relies on a lot of firms to provide key infrastructure.  Those firms have very complicated systems.  We’re talking about the clearing banks, the Fixed Income Clearing Corporation, the dealers, and the brokers.  What we saw as the debt ceiling approached was an attempt by the industry to begin to contingency plan basically through SIFMA, but it faced a considerable challenge because it did not know the exact treatment of payments for which it was contingency planning, and, therefore, it was unable to get to a well-coordinated, very effective approach across the industry.  So I think the point that President Lacker made about the banks applies equally as strongly to this set of market participants.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any explicit contention or disagreement. It simply explains the challenges faced by the market participants in contingency planning due to uncertainty about the treatment of payments.
+
+
+Passage number 26.
+ MR. KOCHERLAKOTA.  Thank you.  That was very helpful.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply states that someone named Mr. Kocherlakota found the information helpful.
+
+
+Passage number 27.
+ CHAIRMAN BERNANKE.  Louise, going in the other direction, so this question was about defaulting, not prioritizing.  In the past, the Congress has excepted certain components from the debt limit where in this case there was a bill, the Toomey bill, that would have forced the Treasury to prioritize not just principal and interest, but other major categories of spending.  Would we have been able to do that.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is simply stating facts about the past actions of Congress and the existence of a bill.
+
+
+Passage number 28.
+ MS. ROSEMAN.  Well, I think the challenge would be more on the Treasury side.  What the Treasury would have needed to do is to give us certain types of payments and not give us other types of payments, and I know that it had concerns about its operational capability of carrying that out.  But frankly, the Treasury had concerns about some of the approaches we’ve ultimately adopted that in the past week or so that it has now decided it would be able to do after all.  So I suspect that it would, with sufficient lead time—at least in weeks, not days—be able to accommodate that.  But it’s something that until you have developed the procedures and tested the procedures, your comfort level is pretty low.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. Ms. Roseman is discussing the challenge on the Treasury side and their concerns about operational capabilities, but ultimately, they have decided they would be able to accommodate the approaches discussed.
+
+
+Passage number 29.
+ CHAIRMAN BERNANKE.  Thank you.  Any other questions.  [No response]  Seeing none, Mike, would you say a few words about what we’re seeing in banks and what guidance we’re giving them.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not show any contention or disagreement. It simply asks for someone to share information about banks.
+
+
+Passage number 30.
+ CHAIRMAN BERNANKE.  I think these banks probably could just finance the entire federal debt issue and solve all the problems at the same time.  Thank you, Mike.  Any questions, comments.  Governor Duke.
+Does the passage contain contention or disagreement? Response from the model: No. The statement expresses the belief that the banks have the capability to finance the federal debt and solve the problems. There is no indication of contention or disagreement.
+
+
+Passage number 31.
+ MS. DUKE.  Just one hypothetical question.  If they were investing all of this run-up in deposits in reserves at the Fed, if our balance sheet wasn’t so large, if those reserves weren’t available, where might they have invested them.  It seems to me that the reserves are an attractive investment because they can be redeemed at par.  So would that be something that we might look at as a tool in the toolkit if this were to happen in a future situation where there weren’t so many reserves in the system.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. Ms. Duke is simply posing a hypothetical question and suggesting that reserves at the Fed could be an attractive investment.
+
+
+Passage number 32.
+ MR. FOLEY.  The only thing about that that I’m probably able to comment on is that it does seem like there’s been almost a one-to-one relationship between the incremental deposits coming in and the increase in the Fed deposits.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It is a statement made by Mr. Foley, discussing a relationship between incremental deposits and the increase in the Fed deposits.
+
+
+Passage number 33.
+ MR. ENGLISH.  One thing that could happen if policy were being implemented in more or less the usual way is if people wanted reserves, they’d push up the federal funds rate, and the Desk, in responding to the higher federal funds rate, would be adding reserves, and so potentially the supply of reserves would be elastic.  Now, how elastic it would be in that situation I’m not sure, but the Desk would be aiming to keep the fed funds rate at the target level, and a high demand for reserves would lead them to add reserves.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply explains a possible scenario regarding the implementation of policy and the response of the Desk to a higher federal funds rate.
+
+
+Passage number 34.
+ MS. DUKE.  I guess my question, though, is if deposits are flowing in everywhere, I can see who would want to lend reserves.  I just can’t see who would want to borrow those reserves.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The passage does not show any contention or disagreement. It is a statement expressing confusion and seeking clarification.
+
+
+Passage number 35.
+ MR. ENGLISH.  That’s exactly the point.  People would want to accumulate the reserves, so the demand for reserves would be higher.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no indication of contention or disagreement in this passage. The speaker, Mr. English, is simply presenting a point about people's desire to accumulate reserves and the resulting higher demand for reserves.
+
+
+Passage number 36.
+ CHAIRMAN BERNANKE.  President Fisher.
+Does the passage contain contention or disagreement? Response from the model: The passage does not provide enough information to determine if there is contention or disagreement.
+
+
+Passage number 37.
+ MR. FISHER.  I just want to get oriented here.  I’ve been out of the country for a little bit, but when we last met as a Federal Open Market Committee, I think excess reserves were running around $900 billion—am I correct that they’re currently running about $1.24 trillion.  Does anybody, Brian or anybody else, have a sense of those numbers.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not show any contention or disagreement. It is a straightforward statement about the speaker's need for clarification on the current amounts of excess reserves.
+
+
+Passage number 38.
+ MR. ENGLISH.  Excess reserves are about $1.6 trillion, I believe, and they were at the time of the last meeting as well.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not present any opposing viewpoints or conflicting ideas. It simply states a fact that excess reserves are about $1.6 trillion and were also at that level during the previous meeting.
+
+
+Passage number 39.
+ MR. FISHER.  So we haven’t seen it all run into excess reserves then.  That’s the point.  There’s not much of a change.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not involve any contention or disagreement. It is a statement that simply suggests that there hasn't been a significant change in excess reserves.
+
+
+Passage number 40.
+ MR. ENGLISH.  Well, as Brian noted earlier, our operations determine the amount of reserves.  So once we completed our purchase program at the end of June, reserves were whatever they were, and since then reserves have moved around, but they have not increased.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply stating a fact about reserves and their movement.
+
+
+Passage number 41.
+ MR. FISHER.  Thanks, Bill.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any clear evidence of contention or disagreement. It seems to be a polite and straightforward statement.
+
+
+Passage number 42.
+ CHAIRMAN BERNANKE.  Other questions for Mike.  Mike.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply states that there are additional questions for Mike, without indicating any contention or disagreement.
+
+
+Passage number 43.
+ MR. FOLEY.  Just one more point.  The general risk aversion and the disruption and stress in the short-term markets have also affected the foreign banking organizations.  It’s been most evident at the weaker firms, the French firms in particular.  SocGen has talked about significant maturities over the course of this week and next week.  If it is unable to roll those, it may be in a position where it has to implement its contingency funding plan.  BNP indicated that a number of its counterparties were requesting buybacks of CDs over the course of the past week.  Calyon also has a very large number of maturities coming up.  So those firms are being affected—I think the core European firms to a lesser extent, but clearly these issues and the general risk aversion has affected funding for the European firms.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is simply stating the effects of risk aversion and market disruption on foreign banking organizations, particularly French firms.
+
+
+Passage number 44.
+ CHAIRMAN BERNANKE.  If there are no more questions, why don’t we go on now to Bill English, who will talk about some of the prospective options in case either things worsen from here or we have a similar situation in the future.  Bill.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage. The statement is simply suggesting a course of action if there are no more questions, allowing Bill English to discuss potential options.
+
+
+Passage number 45.
+ MR. SACK.  No, nothing to add.  Thanks.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker simply states that they have nothing to add and expresses gratitude.
+
+
+Passage number 46.
+ MR. ENGLISH.  Okay.  We’d be happy to take your questions.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. It simply states that Mr. English is willing to answer questions.
+
+
+Passage number 47.
+ CHAIRMAN BERNANKE.  Let’s see if there are any questions, and then we’ll have a quick go-round.  Any questions.  [No response]  I do not see any questions, so let’s take some views.  President Kocherlakota.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply inviting the audience to ask questions and when no one responds, they decide to move forward with sharing their own views.
+
+
+Passage number 48.
+ MR. KOCHERLAKOTA.  Thank you, Mr. Chairman.  I thank Bill for his summary of his earlier memo. As I stressed in my earlier memo to this Committee, I believe the choices that a central bank makes during periods of fiscal strain can have potentially important consequences for longer-term price stability.  As I see them, all of these choices are grounded in three basic elements:  evaluation of Treasury securities when we make purchases or make loans, the acceptability of Treasury securities as collateral, and the haircuts to be applied to Treasury securities when they are offered as collateral. In terms of valuation, the English–Sack memo recommends that we use market prices as much as possible, and I agree with this prescription.  However, I think one thing that we should be careful about is that the prescription needs to be coupled with a quantity restriction on the fraction of defaulted-upon Treasuries that we would hold on our balance sheet.  Otherwise, we could be perceived, correctly or incorrectly, as actually setting the prices of those securities. In terms of acceptability, the memo recommends accepting defaulted-upon Treasuries as collateral.  Now, rating agencies would typically downgrade defaulted-upon securities to D.  In that case, our current collateral guidelines and usual private-sector practices would say that these securities should not be acceptable as collateral.  Now, I have to say that my own view is that, given our employment mandate and the risk to market function, we should deviate from this standard practice and be willing to accept the defaulted-upon securities as collateral, but we need to explain that we’re willing to make such a deviation only because we expect all Treasuries to be paid in full within a short period of time.  Without such an explanation, our willingness to accept D-rated Treasuries could be viewed as a signal of our willingness to monetize the federal debt and so undercut price stability. In terms of haircuts, the memo essentially recommends using our current practices.  I agree with this approach, including the footnote in Chairman Bernanke’s July 28 memo that we will change our haircuts in response to sustained increases in market volatility.  I think we need to be clear to the public about our choices about valuation, acceptability, and haircuts, but I think even more important is that we need to be clear about why we are making these choices.  In particular, our communication should explain why our choices help us achieve our fundamental objectives of maximum employment and price stability as opposed to simply talking about instrumental goals like market function. Let me turn very briefly to the specific options that Brian and Bill offered in their memo.  I’m happy with options 1 to 5.  In terms of options 6 and 7, I believe we should certainly consider these if we think the relevant impairment to market function poses significant risk to employment.  Option 9 involves an expansion of the balance sheet, which I would not favor simply as a way to deal with a debt ceiling issue.  I see option 10 as potentially useful, but with a caveat that we can’t end up holding so many defaulted-upon securities that it appears that we were setting their prices.  I’ve been speaking as if this is a situation we are actually going to be dealing with, and of course, right now it looks like it will be only a hypothetical, which I’m thankful about. Let me close with one final comment about communication if we do have this kind of event happen in the next day or two or in the future sometime.  I think communication will be critical, and I would very much hope the Chairman would be able to give a press briefing about the policies that we’re using and communicate why we’re using these policies.  I think the issues are subtle and the choices do matter, but I don’t think we would be able to achieve the right level of communication without the Chairman’s personal touch.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker, Mr. Kocherlakota, agrees with the points made in the earlier memo and expresses his own views on the choices the central bank should make during periods of fiscal strain. He also expresses his agreement with some specific options mentioned in the memo and emphasizes the importance of clear communication in explaining the bank's choices to the public.
+
+
+Passage number 49.
+ CHAIRMAN BERNANKE.  Thank you.  President Rosengren.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The given passage does not contain any statement or indication of contention or disagreement. It is simply a polite expression of gratitude from President Rosengren.
+
+
+Passage number 50.
+ MR. ROSENGREN.  Thank you, Mr. Chairman.  I’m pretty comfortable with the suggested approach of the treatment of government securities in Bill and Brian’s memo. In terms of President Kocherlakota’s comment on defaulted securities, discussion with asset managers in Boston seemed to indicate that there’s really no prohibition on holding defaulted government securities by most asset managers, and I think we should have the same policy.  I don’t think it’s at variance with private-market practice; I think, in fact, it’s actually consistent with private-market practice. In terms of market functioning, when temporary political dysfunctions result in a tightening of policies that affect other private-market participants, I think that is undesirable. I would just make two other quick comments.  One is that I think it is interesting to see which banks are becoming capital constrained.  Another is that, as we think about SIFI surcharges and the role of some of our clearing banks, getting a better understanding of what the flow of funds to these organizations is may be useful in thinking about what kind of capital standards we might want to set for these institutions. In terms of the role of money market funds, I think our concern right now highlights the need to be sure that we move toward getting a more stable regulatory environment for money market funds more generally.  It’s been a couple of years since the crisis.  The SEC has been moving at a rather leisurely pace, and rather than coming up with alternative ways to deal with the money market fund problem here, I think we should be continuing to apply pressure to try to get a more stable solution, because I think right now we’re in a situation where problems in the money market funds, problems with our own political dysfunction, and problems in Europe have at least the potential to triangulate in a way that is very, very undesirable.  While it looks like some of the issues with the debt ceiling are going to be resolved relatively quickly, I think it does highlight that money market fund disruptions have broader impacts because of the assets they’ve been holding.  This is occurring in an environment where they’re already very rapidly reducing their holdings of European credits, and I think, depending on what we did, we could’ve potentially seriously exacerbated what’s happening in Europe, and I think we want to avoid that.  So in terms of the money market funds, I’d rather be talking about a longer-run solution and less about short-term facilities.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a statement of the speaker's opinions and views on various topics.
+
+
+Passage number 51.
+ CHAIRMAN BERNANKE.  Thank you very much.  President Williams.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The statement is expressing gratitude towards someone, indicating a positive sentiment.
+
+
+Passage number 52.
+ MR.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+The response is incorrect. Additional context is needed to determine if there is contention or disagreement in the passage.
+
+
+Passage number 53.
+ WILLIAMS.  Thank you, Mr. Chairman.  I view all 10 proposed actions as being entirely consistent with the Federal Reserve’s role of lender of last resort in response to market dysfunction resulting from a failure to raise the debt ceiling. In particular, I view actions 1 through 5 as consistent with our past practice and good policy.  Indeed, in such circumstances, communication of this “business as usual” approach, as in the draft statement, would send an important message that might reduce uncertainty and help calm markets.  In principle, I would also support actions 6 through 10 in the event these market segments showed signs of serious impairment.  Indeed, it would be useful for us to begin discussions regarding the appropriate thresholds for taking these actions.  Specifically, under what conditions would we implement action 7, “RPs to Address Pressures in the Treasury Repo Market”.  My question is, would it depend on signs of spillovers from the repo market to other markets, such as commercial paper, or obvious signs of a drying-up of liquidity in the repo market. I think it’s very important—and I’m going to echo here some comments by President Kocherlakota—that we clearly distinguish in our public communications between these lender-of-last-resort policies aimed at providing liquidity and monetary policy aimed directly at macroeconomic conditions.  To sharpen this distinction, I prefer action 10 over action 9—that is, purchases of defaulted securities should be matched with sales of otherwise similar nondefaulted securities so that these actions are neutral with respect to our balance sheet, and we should explain clearly that the enactment of any of these programs will not interfere with our pursuit of our mandated goals of price stability and maximum employment.  That is, even if we see a large increase in our balance sheet through these programs, we have the tools to add or remove monetary accommodation as needed. Finally, by transacting Treasury securities at market prices, I think that will protect us from the charge that we’re propping up the fiscal authority through our actions.  Thank you.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker, Mr. Williams, is expressing his support for all 10 proposed actions and discussing his views on their consistency with the Federal Reserve's role. He also suggests discussing the appropriate thresholds for implementing certain actions and emphasizes the importance of clearly distinguishing between lender-of-last-resort policies and monetary policy. Overall, there is no disagreement or contention present in this passage.
+
+
+Passage number 54.
+ CHAIRMAN BERNANKE.  Thank you very much.  President Lockhart.
+Does the passage contain contention or disagreement? Response from the model: No. The passage expresses gratitude and a formal address to President Lockhart, without any indication of disagreement or contention.
+
+
+Passage number 55.
+ MR. LOCKHART.  Thank you, Mr. Chairman.  Much of what I would say has already been said.  I think that the staff has laid this out well.  Actions 1 through 5 are recommended, and I think they’re routine.  I take actions 6, 7, and 8 as sort of contingently recommended, and I agree with that.  Action 8 is very similar to the AMLF that we did in 2008, so there’s a precedent for that.  And as I understood the memo, actions 9 and 10 are laid out as possibilities but not with an absolutely clear recommendation.  Action 10, if I understand it correctly, is similar to action 3 with the requirement of appropriate pricing.  So I think those are to be considered, but I don’t have strong feelings at this point on those.  Those are my thoughts.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: In this passage, Mr. Lockhart is describing his thoughts and agreement with the recommended actions. There is no indication of contention or disagreement.
+
+
+Passage number 56.
+ CHAIRMAN BERNANKE.  Thank you.  President Plosser.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not contain any specific information or statements that would suggest contention or disagreement. It simply includes a gratitude expression and a mention of President Plosser without indicating any opposing viewpoints or conflicting ideas.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 57.
+ MR. PLOSSER.  Thank you, Mr. Chairman.  I’ll try to be brief.  My comments generally fall along the lines of President Kocherlakota’s.  I’m fairly comfortable with items 1 through 5.  I think they are standard practice as long as we’re using market prices for those operations.  That seems mostly straightforward, as far as I’m concerned. I think where it gets a little more difficult is in items 6, 7, 8, 9, and 10.  In each of those cases, there’s this presumption that the market is not functioning and needs fixing in some sense, and I think that’s where we’re getting into a little more difficult territory.  I agree with President Williams that parts of this are about liquidity, being a lender of last resort, but I think that because it’s the Treasury, it is particularly muddled and dangerous territory to be treading.  We have faced negative repo rates before.  I’m thinking of item 6 here, and questioning what we mean by market functioning.  In some of these areas that involve more policy choices or changes in our policy, I’d like the Desk to be a little more explicit about what they mean by market functioning and to what extent it needs repairing in some sense.  That is, do we know what the right prices might need to be for some of these items.  I think that items 6 and 7 I can live with, but we need to be very careful. I’m particularly troubled by item 8.  I think you have two types of money market mutual funds, including ones that may be a mixture of various types of assets.  If those money market mutual funds have trouble with Treasuries and liquidity, they can always sell other types of assets.  They don’t need to sell their Treasuries, so I think that that’s not a problem.  But for those money market mutual funds that are all Treasuries, it may run the risk of net asset value challenges.  That’s a different sort of problem, and we may have to address that in different ways.  But I’m very cautious and skeptical of item 8 because I don’t know how we’re going to tell.  We don’t have the authority without 13(3), and we would have the difficulty of creating moral hazard problems.  So I’m deeply worried about that. I am very uncomfortable with item 9.  That is basically accommodating—and I think it would be seen as accommodating—financing the public debt.  That’s an FOMC decision and not a Desk decision.  So I think we should be very careful, and I would oppose that, unless the FOMC decided to go forward with such an operation. Item 10 is a sterilized version of item 9.  While I’m more comfortable with that than item 9, it does strike me that the reason for going to engage in some kind of swap would be if the prices weren’t set on defaulted securities or we thought the prices were wrong.  That strikes me as us engaging in actively managing the prices of defaulted securities relative to nondefaulted securities, and I think that could be problematic. So with those caveats, those are my views.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: Yes. There is disagreement in the passage. Mr. Plosser expresses discomfort and skepticism with items 8 and 9, and states that he would oppose item 9 unless the FOMC decided to go forward with it. He also expresses concerns about item 10 and the potential problems of actively managing the prices of defaulted securities.
+
+
+Passage number 58.
+ CHAIRMAN BERNANKE.  Thank you.  Scott can correct me, but just to make sure I understand, on 13(3), we’ve lost the ability to lend to an individual firm, but we do have the ability to set up a program that is open to a broad range of borrowers.  So in principle—I’m not advocating anything, I’m just saying as a matter of law—we could set up an emergency facility for all money market mutual funds.  Is that right, Scott.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is seeking clarification from Scott and summarizing their understanding of the situation.
+
+
+Passage number 59.
+ MR. ALVAREZ.  That’s right.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. It is a simple affirmation or agreement with a statement.
+
+
+Passage number 60.
+ CHAIRMAN BERNANKE.  Yes—just for your information.
+Does the passage contain contention or disagreement? Response from the model: The answer to this question cannot be determined without the passage being provided.
+
+
+Passage number 61.
+ MR. PLOSSER.  Yes, I understand that.  I like President Rosengren’s suggestion that what we really need to be doing is thinking more carefully about money market mutual funds in general.  But I would be careful about going down that road under the current circumstances.
+Does the passage contain contention or disagreement? Response from the model: No. The speaker, Mr. Plosser, agrees with President Rosengren's suggestion about thinking more carefully about money market mutual funds. However, he expresses caution about pursuing this suggestion under the current circumstances. There is no clear contention or disagreement in this passage.
+
+
+Passage number 62.
+ CHAIRMAN BERNANKE.  Okay.  Thank you.  President Lacker.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The passage simply consists of a polite response to someone expressing gratitude.
+
+
+Passage number 63.
+ MR. LACKER.  Thank you, Mr. Chairman.  In times like this, when we’re faced with a relatively novel set of circumstances that pose policy questions for us, I think it’s useful to go back to some principles that can guide us.  I applaud President Kocherlakota’s memo on that. For me one stands out, and that’s neutrality, that we stand apart from the market determinations of the relative values of different Treasury securities, and I was really glad and welcomed Bill English and Brian Sack’s second memo in which they carefully spelled out that that’s something that they assumed in what they had proposed. The proposed responses here turn on whether there are problems in market functioning.  With the relative frequency with which strains in market functioning or problems or dislocations are mentioned in here, you might expect me to, again, as you’ve heard me do many times in the past, question the staff on the meaning of “market dysfunction.”  Well, I’ve decided to abandon all such attempts.  I’ve come to the conclusion that what the staff means by “market dysfunction” is that the price and quantity of some particular security have moved in ways that make some market participants unhappy—perhaps very unhappy.  And I’m going to act on that basis. Brian’s description is consistent with this.  All he really said was that spreads would go up, which is to say, selling would get you a price that’s pretty adverse relative to the price you’d get if you were buying.  For me, that kind of description of market functioning doesn’t raise any issues of market efficiency per se.  It doesn’t really rationalize, on efficiency grounds, intervention.  Now, it may have significant distributional implications.  For example, RP rates going up obviously make dealers unhappy; they tend to borrow at RP rates.  But obviously, people who still have money are willing to lend in the RP market and are better off; they’re going to be happier with RP rates going up.  So it doesn’t seem obvious to me why we should intervene to prevent spikes in RP rates if fed funds rates are well behaved.  The issue comes up with money market funds—fire sales, the possibility of sales at inappropriate prices.  The phrase “appropriate prices” was used in Bill English and Brian Sack’s memo. I can picture a plausible case to be made about a particular market that, for some reason, some barrier to entry into transacting in the market creates enough market segmentation to warrant coming to the conclusion with some analysis that prices fall below fundamentals.  But the T-bill market is the last market in the world that I think such an argument would pertain to.  Virtually everyone in the world can buy T-bills.  You know, I haven’t seen the staff ever make a case that prices are inappropriate.  I’m not quite sure what they would rely on for making such a case.  And if that’s true, then merely having prices change to me isn’t a rationale for intervening, even if you can describe it as a problem with market functioning. Related to this is the question of haircuts, which I think is tricky here.  In the discount window discussion, the presumption is that we use market-based prices, which our current procedures do, but haircuts are also part of the terms of trade when you make a collateralized loan.  Haircuts have moved in markets on Treasuries, and our procedures for establishing haircuts are based on an incredibly longer-run moving average of price volatility.  They have the effect of keeping our haircuts away from, at times like this, what’s happening with market haircuts, and I’d be much more comfortable with discount window policies in which haircuts were capable of mirroring market movements in haircuts the way our price and valuations appropriately mirror market changes in valuations, and that to me is a discrepancy I can’t understand. About the particular responses—outright purchases—I’m glad that Bill and Brian clarified that.  But if they’re going to take Treasuries in outright purchases at market-determined prices, then I’m puzzled as to why in their first memo they would say that they would expect to see a larger share of defaulted securities being offered to us than nondefaulted securities, if the prices we’re taking them at are genuinely market prices.  But that needn’t detain us. Rollover issues—I think the secondary market is okay; you know, direct from the Treasury is sort of a shortcut anyway.  Securities lending—again, I think haircuts ought to be more market-matching than not.  I’m okay with RPs, and again, the issue of the discount window having to do with haircuts. Reverse RPs and RPs, particularly number 7—substantial pressure in RP markets might have “detrimental consequences for broader market functioning.”  I can picture market-functioning problems having to do with settlement or computer pipelines or some other thing, but that’s not what we’re talking about.  We’re just talking about prices changing here, and I don’t see a rationale for us intervening there. Money market mutual funds I think should be left on their own.  I don’t see a reason for us to intervene there.  I’m tempted to say they should go to Treasury for more insurance the way they did the last time. Again, I agree with President Plosser about 9 and 10 in the last group. Those are my comments, Mr. Chairman.  Thank you very much.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 64.
+ CHAIRMAN BERNANKE.  Thank you.  First Vice President Roskom.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not present any contention or disagreement. It simply acknowledges and thanks First Vice President Roskom.
+
+
+Passage number 65.
+ MR. ROSKOM.  Thank you, Mr. Chairman.  I would echo a couple of comments already made in some brief remarks.  First, items 1 through 5, as noted, are fine.  They seem like, as others have commented, very practical ways forward. I’d like to make a comment just briefly about item number 8.  Well, indeed, we do have history establishing such a liquidity facility for money market funds.  It would seem that we should have a quite high threshold before we would think about enacting another program under section 13(3).  We do know how it functions.  We could stand it up quite quickly, but as President Plosser and others have noted, there are two broad categories of money market funds, those that are Treasury-only and others that hold more generalized instruments.  It would be quite helpful, it would seem, if we were going to go down that path, to be seeing an advent of stress broadly in the money market fund space as opposed to just in Treasury-only funds.  In that regard, it would seem like, if that were eventuating, that would be particularly helpful if the Treasury were witnessing and were commenting on issues that concern them about Treasury-only money market funds and at the same time we had a similarly rising sense of angst from a systemic point of view about money market funds more broadly. The last comment I would make is to echo a point made by President Kocherlakota, especially in items 6 through 10 but elsewhere in the memo as well.  It would be helpful, it would seem, to consider a scale limit and to what extent our participation in taking on board defaulted securities for our own account would start to cast a hue that would be other than just normal market function and could communicate in fairly subtle ways—perhaps more subtle ways—our intent to have an effect other than to help with the easy function of markets and the diminishing of systemic risk.  Thank you very much.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is a collection of comments and suggestions made by different individuals, but there is no explicit disagreement or contention between them.
+
+
+Passage number 66.
+ CHAIRMAN BERNANKE.  Thank you.  President Evans.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 67.
+ MR. EVANS.  Thank you, Mr. Chairman, and thanks to everyone who contributed memos to this discussion.  I found each of them to be quite useful. Regarding the potential policy responses discussed by Bill and Brian in their memo, I do not have any concerns about actions 1 through 5.  I continue to support the current authorization.  As long as our actions with regard to defaulted securities incorporate current market pricing and appropriate haircuts, these policies can be consistent with sound monetary policy. I am a little nervous about actions 6 and 7.  I think we have to be very careful in describing why we would be undertaking these actions.  For example, action 6 would essentially have us, as I refer to it, “lease” our SOMA Treasuries in order to alleviate negative T-bill or repo rates.  I think it’s vitally important that this not be confused with a shift in monetary policy that looks like the beginning of an exit strategy.  After all, that is one of the options.  Similarly, action 7 would have us increase liquidity in a way that some might confuse with QE3, if we were to do something like that.  I think the key point I’m making is a simple one:  Although these actions might be appropriate, we would need to be exceptionally clear in our communications.  It sounds obvious, but it’s natural to have trouble with that.  Also, because these actions would be to support market functioning beyond our normal federal funds policy instrument, I’m nervous that these actions might be perceived erroneously as another market bailout for privileged institutions.  To undertake these actions, I would hope that substantial communications would convey the FOMC’s belief that these actions are vitally important to continue meeting our dual-mandate responsibilities. Regarding action 8, support for money market funds, I think the hurdle for this action should be quite high also.  I agree with President Rosengren’s comments that we should study this industry very carefully and think about the right way to respond.  Invoking 13(3) authority shines the spotlight ever brighter on our nonstandard policy actions.  I am nervous about the invocation of “inappropriate prices,” which the memo indicated.  I do think this is a cleaner issue for Treasuries than at any other time we’ve responded recently with regard to other programs.  So maybe it’s workable, but it is a little nerve racking.  Again, I think the hurdle for this should be a judgment that our standard monetary policy responsibilities for employment and price stability justify this. I think actions 9 and 10 also seem like a bit of a stretch.  Without more discussion, expanding our balance sheet would, again, perhaps look like QE3.  I’m not saying I’m opposed to that, and I’m not saying I favor it; I just think it requires discussion.  CUSIP swaps may be ingenious, and we are uniquely positioned to bear those risks as the central bank, but it could look like we’re too intimately involved in funding the Treasury in that situation.  So that makes me a little nervous.  It might be okay, but we ought to discuss that. Finally, I think in general, we need to have many more discussions to understand the myriad implications from actions like these.  We know our monetary responsibilities with regard to the dual mandate, but we don’t have the same type of agreement with regard to financial stability, especially when there are conflicts with that.  So I hope that we don’t have to take these actions as quickly as was contemplated by this memo and that we have the time to think about them more carefully.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: Yes. The speaker expresses agreement and support for actions 1 through 5, but expresses concerns and disagreement with actions 6, 7, 8, 9, and 10. The speaker is nervous about the potential confusion and misinterpretation of these actions and emphasizes the need for clear communication and further discussion.
+
+
+Passage number 68.
+ CHAIRMAN BERNANKE.  Thank you.  President Bullard.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is expressing gratitude towards President Bullard.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 69.
+ MR. BULLARD.  Thank you, Mr. Chairman.  My remarks are fairly general.  I agree with President Kocherlakota’s memo that a time of government default is a time when price stability is at acute risk.  Any indication that the central bank may be willing to mitigate the situation through debt monetization could ignite inflation expectations and lead to a catastrophic outcome.  Inflation expectations could be explosive in such a situation, and the crisis could be made quite a bit worse than it would otherwise be.  In effect, the explicit default by the Treasury and the U.S. government could be exacerbated by the threat of further implicit default through higher-than-expected inflation.  This could send yields to very high levels and create a very difficult situation, with some similarities to some of the countries in the European periphery. Given this scenario, I think we would have to be extraordinarily cautious in taking any actions that could be interpreted as debt monetization.  The crisis environment would likely be one where any move by this Committee or the Desk would be scrutinized very closely.  The past several years have shown how powerful the expectations effect can be in a crisis situation.  I think options 9 and 10 would probably feed such expectations and, therefore, that the Committee should probably stay away from these policy actions in the event of a crisis of this type. More generally, I think the tone of the English–Sack memo assumes more orderly market functioning than might actually occur in a crisis with defaulted U.S. Treasury securities.  I could imagine little or no market for defaulted securities.  Even if that might seem like an extreme market response, the securities might become toxic.  We certainly saw examples of this in the last go-round in 2008 and 2009.  The lack of a clear price might make many of the procedures outlined in the memo somewhat problematic, as most of the discussion assumes that a clear market price exists. Be that as it may, it now appears that the U.S. Treasury has ultimately decided to prioritize principal and interest payments even in the event of a binding debt ceiling.  This would presumably eliminate the need to plan for a state of affairs in which defaulted securities are trading—or not—in the market.  However, one caveat to that is that that could change in an actual crisis situation.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: Yes
+
+Explanation: The speaker, Mr. Bullard, expresses disagreement with the ideas presented in the "English-Sack memo." He argues that the assumptions made in the memo about market functioning during a crisis with defaulted U.S. Treasury securities may not be realistic, and that there may be little or no market for defaulted securities. He also disagrees with options 9 and 10 suggested in the memo, stating that they would feed inflation expectations and should be avoided in a crisis situation. Therefore, there is contention or disagreement in this passage.
+
+
+Passage number 70.
+ CHAIRMAN BERNANKE.  Thank you, President Bullard.  President Fisher.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The statement "Thank you, President Bullard" is a polite expression of gratitude. The mention of "President Fisher" without any further context does not indicate disagreement either.
+
+
+Passage number 71.
+ MR. FISHER.  Thank you, Mr. Chairman.  I went away and came back, and I am delighted to see that, maybe for the first time despite our close personal friendship, I’m probably more in agreement with President Evans than I’ve ever been before.  I don’t know if it’s a time warp of having been to Italy or a time warp of being in an almost dysfunctional place like the United States, but anyway, I don’t disagree with most of what President Evans said. As to the first five points, I have no problem there, with the slight caveat that under dire circumstances I would worry that we might be a price determiner, and I’m not fully comfortable with the assumption that competition among primary dealers would help ensure that the prices the Desk accepts are the market values.  So that’s a minor concern, depending on how dire the circumstance becomes. With regard to proposals 6 through 10, again, I’m on Charlie’s wavelength there.  So much depends in proposal number 6 on the definition of “broader market functioning.”  President Plosser made the point that we need some clarification here.  I think that’s very important.  But it seems to me that proposal number 6 would be sensible if, indeed, there was market disruption, once we have that well defined.  As far as proposal number 7 is concerned, I don’t have significant problems with that.  Neither of those—6 or 7—has issues on which I am immovable.  On proposal number 8, I think Eric, as usual, has given wise counsel.  We need to have a longer-term solution for money market funds.  I do think invoking 13(3), whether it be under the current circumstance where we have to do it industry-wide or before where we did it for individual firms, can create political pushback.  I would say that it might be acceptable if we had a serious and dire liquidity situation.  There is a difference between that and solvency issues.  When we had a discussion about those money market mutual funds that were in dire straits due to the circumstance in Europe, we found that there were some small firms in particular that might be a tripwire for concerns in the marketplace.  I think we have to be extremely careful how we navigate our way through the difference between liquidity, market dysfunction, and just bad management and bad structure on the part of the money market mutual funds.  With regard to points 9 and 10, again, Bill and Brian made it clear that these were unlikely outcomes.  I would be personally firmly against either one of them.  To me it would be basically political dynamite.  It would be QE3 in defaulted securities.  Charlie made the carefully crafted statement that “item 10 is a sterilized version of item 9,” and in summary, I would view both as political dynamite, and if not political dynamite, certainly political black powder.  It’s not an avenue I would wish to go down. Finally, Mr. Chairman, going back to President Kocherlakota, who wrote a superb memo at the very beginning of this exercise in response to the first memo sent out by Bill and by Brian, I think your personal touch here in what we communicate at the right point is very important.  At some point I want to have a discussion, and I hope you’ll tolerate that discussion among the principals of the FOMC, as to what you say in Jackson Hole because the last time we spoke in Jackson Hole, we set in train a policy process that had not yet been fully cleared and worked through with the entire Committee.  I think there’s going to be an extraordinary amount of attention under the current circumstances and particularly given that, under the proposals we’ve heard that Linda so adequately summarized, we really haven’t solved much of the problems other than a temporary relief on the debt ceiling and a pushout of the possible date for default.  I would like to make a mental note here and a request for you to consider that we very carefully think through what might be said because, again, you’re our leader, and your personal touch here is critical. Finally, I’d like to thank Bill and Brian for the memo and thank Bill personally for calling me abroad and walking me through this in the most thoughtful way.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any clear contention or disagreement. The speaker expresses agreement with various points made by President Evans and others. They also express minor concern about one of the proposals, but overall, they do not disagree with the ideas presented in the passage.
+
+
+Passage number 72.
+ CHAIRMAN BERNANKE.  Thank you.  First Vice President George.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The statement is simply expressing gratitude to First Vice President George.
+
+
+Passage number 73.
+ MS. GEORGE.  Thank you, Mr. Chairman.  I’ll be brief, given the comments that have preceded.  We would support policy options 1 through 5, as others have noted, and agree that 6 through 10 create higher hurdles, particularly number 9.  In that regard, as others have noted, we should most clearly distinguish between a lender-of-last-resort issue versus a policy action in support of fiscal issues.  Thank you.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The speaker in the passage is expressing agreement with the policy options mentioned and also acknowledging the concerns raised by others. There is no clear indication of contention or disagreement in the passage.
+
+
+Passage number 74.
+ CHAIRMAN BERNANKE.  Thank you.  Vice Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply includes a expression of gratitude.
+
+
+Passage number 75.
+ CHAIRMAN BERNANKE.  Thank you.  President Kocherlakota, you have a two-hander.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 76.
+ MR. KOCHERLAKOTA.  Yes, Mr. Chairman.  I just wanted to comment briefly on the Vice Chairman’s suggested policy action of buying Treasuries.  I would counsel that we do not handle that through a notation vote.  I think this would be something that we should consider as a Committee, because I do think that such an intervention would have potentially profound consequences for price stability.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Kocherlakota is simply voicing his opinion and suggesting that the decision of buying Treasuries should be discussed and considered by the Committee rather than handled through a notation vote.
+
+
+Passage number 77.
+ CHAIRMAN BERNANKE.  I think that’s a fair comment.  Governor Yellen.
+Does the passage contain contention or disagreement? Response from the model: No. 
+Based on the given passage, there is no observable contention or disagreement. The speaker acknowledges that they think the comment made by Governor Yellen is fair.
+
+
+Passage number 78.
+ MS. YELLEN.  Thank you, Mr. Chairman.  I am, of course, enormously relieved that a deal to raise the debt ceiling has been reached, and I hope that it involves enough deficit reduction to avoid a downgrade.  But I agree with Bill that it’s premature to sound an all-clear until both houses of the Congress have voted to approve the legislation, and I agree with him that we do need to be prepared to deal with renewed market turbulence over the next couple of days, given the potential ramifications for financial stability and the implications for the economic outlook.  In this regard, I would support Bill’s suggestions to authorize the Desk to intervene to maintain orderly conditions in money markets by purchasing Treasury bills and possibly by conducting RPs to relieve substantial upward pressure on GC repo and other short-term interest rates, if that were to emerge. Now, even if the deal does encounter problems in the Congress, I expect that actions of this type might well prove unnecessary after the Treasury finally states that they do intend to pay principal and interest on time and we have finally issued our own set of policy statements.  But if the stress nevertheless escalates, I’d support interventions to alleviate pressures on money market funds that could otherwise necessitate our invocation of 13(3) to ramp up a facility to backstop them.  And I think we should certainly do what we can to avoid a situation in which market concerns about the liquidity of T-bills threaten the success of an auction, in turn triggering further flight from money market funds and market disruption more broadly. I think a statement indicating our willingness to act to preserve orderly conditions in money markets could, as Bill suggests, play a valuable role in creating a backstop, and the need for actual intervention would probably be minimal.  I’d also support repo operations by the Desk to keep the GC repo rate more closely aligned with the fed funds rate if the spread was widening quite substantially and if the pressure was showing through to money market rates more broadly, especially—and probably only—if we judged that the market disruption reflected concerns pertaining to liquidity in the bill market. Such interventions would then seem justifiable to me on normal monetary policy grounds.  Now, both of these proposed actions would increase the size of the Fed’s balance sheet, and that would create some risk that markets could perceive the Fed as being willing to backstop the Treasury.  But the risk seems manageable to me in the current circumstances, in light of the fact that T-bills would roll off our balance sheet rapidly and the Treasury would have made clear their intention to pay scheduled principal and interest. More generally, should we be faced with future episodes of this type where default seems to be in question, I would broadly support actions that are designed to preserve financial stability and to foster attainment of our dual mandate.  In thinking about how to do that, actions like 9 and 10 in the memo from Bill and Brian would seem to be possible to me, but whether or not I would endorse them would depend on the actual circumstances were this to arise.  I certainly agree, though, with the general principle that we absolutely need to avoid actions that create serious questions in the markets about the Fed’s commitment either to an independent monetary policy or to price stability. If I could switch just briefly from short-term tactics to longer-term contingency planning, I’d say that I’ve come away from this episode quite concerned by what we have learned about the vulnerability of market infrastructure in the event of an actual default.  I think our discussions with market participants that Louise and Brian described reveal that a default might well have had catastrophic market consequences.  Given that we could face a similar situation somewhere down the road, I think it’s important for us to think about lessons learned so that we and markets will be better prepared if we face such a situation again.  And I completely agree with Eric and others that we need to address the risks that money market funds pose to financial stability.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement.
+
+
+Passage number 79.
+ CHAIRMAN BERNANKE.  Thank you.  Governor Duke.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply consists of a polite expression of gratitude. There is no indication of contention or disagreement.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 80.
+ MS. DUKE.  Thank you, Mr. Chairman.  I’m fully in support of items 1 through 5.  With respect to 6 and 7, I’ve said before and I’ll say again here, I think we should consider expanding the short-term money markets, including the repo markets, that are subject to our rate targets.  With the size of our balance sheet and the fact that we’re paying interest on reserves, we’ve actually taken over the traditional fed funds market.  Both of these scenarios contemplate rates in other short-term funding markets moving outside of the fed funds target, so I think that actions that are necessary to move those rates back inside the target would be appropriate and could include the purchases of Treasury bills. As to item number 8, I’m very uncomfortable with liquidity provisions that are a substitute for appropriate regulation on the money market funds, especially those that would continue to support the fixed-net-asset-value regime.  Also, I’m not sure how much the federal guarantee contributed to stabilizing the money market funds and how much our liquidity facilities did that, but in a situation where the federal government was already in default, I can’t imagine that a federal guarantee would be very useful.  Again, I would agree with the Vice Chairman that it probably would make more sense to purchase T-bills than to try to come up with some sort of facility that targeted money market funds. On numbers 9 and 10, I’m very uncomfortable.  I think there’s really a fine line between market-functioning concerns and reacting to the effects of fiscal policy—or lack of fiscal policy—overwhelming monetary policy.  However, I could envision a situation where it was, frankly, a reaction to operational problems, where you had some participants who just plain had no capability to hold defaulted securities.  I learned about three weeks after I got here never to say never, so I will not say that I oppose these, but I would go back to the high-bar caveat.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: Yes.
+
+There is contention or disagreement in the passage. In response to items 6, 7, 8, 9, and 10, the speaker expresses discomfort or disagreement with the proposed actions or provisions. For example, in item 6 and 7, the speaker disagrees with the idea of expanding short-term money markets and suggests alternative actions. In item 8, the speaker expresses discomfort with liquidity provisions as a substitute for appropriate regulation on money market funds. In items 9 and 10, the speaker is uncomfortable with the proposed actions and highlights potential concerns. Therefore, there is disagreement in the passage.
+
+
+Passage number 81.
+ CHAIRMAN BERNANKE.  Thank you.  Governor Tarullo.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. It simply expresses gratitude towards Governor Tarullo.
+
+
+Passage number 82.
+ MR. TARULLO.  Thank you, Mr. Chairman.  I think we’re at this peculiar time right now where people believe there’s maybe an 80 or 85 percent chance that we’re going to get by this without a default or further turmoil in markets, but, as Bill and others have pointed out, there is some residual chance that things may go awry in one house of the Congress.  I think it actually makes for a difficult time to have this conversation because on the one hand, we’re gripped by experiences of the past 10 days or so and by our own predispositions on policy matters.  But on the other hand, the reality of it has, I think, receded to some degree, even though not completely.  My own general sense is that it’s hard to make a lot of these decisions outside of a particular context, given the rules and expectations that we’ve projected in the period running up to the crisis itself. If you look at Brian and Bill’s checklist, I think I’m where the center of gravity is, which is that 1 to 5 are certainly fine.  Items 9 to 10 seem disconcerting in some ways but perhaps shouldn’t be taken off the table.  Items 6 and 7 strike me as particularly contingent on the circumstances that one faces at that moment, and I find it difficult to say anything more than that. I will say one thing, though, and that is on this issue of what rules and expectations are in place long enough before we hit the crisis, so that we’re responding to a set of credible expectations that people have had rather than having them make everything up as we go along.  I would say on that point that we probably need to do more—certainly for the payments system, as Louise and Betsy and a lot of other people have pointed out over the past couple of weeks—to project what our reactions and rules will be in the event of disruptions based upon a variety of sources. I also think that once we get into these kinds of situations—and I have felt this very acutely for the past few weeks—that it was as incumbent upon us to tell Treasury what we would and would not do as it was to listen to them as to what they would and would not do.  And if there comes a moment at which we are going to draw a line and say, basically, “You can’t always assume that you can react and then we, in turn, will have to make the best of that,” I think we might do better in contingency planning around all sides. We all agree on the money market funds, but it’s easy for us to agree because it’s not up to us to do the regulating here.  I would say on this point that I got a call from a sponsor of money market funds last week who was very upset because his firm over the past month, in preparation for potential problems, had been putting themselves in a more liquid position, and he had gotten wind of the fact that another group of funds was fully intending to come to the government and say, “The financial system collapses tomorrow unless you give us liquidity assistance.”  So I think it reiterates the need for the kind of regulation everybody’s talking about.  The problem is, it’s not within our province to do it.  I’m afraid I can’t be any more detailed than that because I think we’re just not in the moment when we have to make that determination.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker is discussing their thoughts and opinions on the current situation and expressing a need for more regulation and contingency planning.
+
+
+Passage number 83.
+ CHAIRMAN BERNANKE.  Thank you.  Governor Raskin.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The statement "Thank you. Governor Raskin" does not indicate any contention or disagreement. It simply expresses gratitude towards Governor Raskin.
+
+
+Passage number 84.
+ MS. RASKIN.  Thank you, Mr. Chairman.  I, too, want to say I have found the internal dialectic of the conversation here very informative, as it began with the English–Sack memo.  I appreciated the framework of options that they set out and then the subsequent clarification that came through after the Kocherlakota–Lacker set of memos. I want to say that I, too, am most comfortable with options 1 through 5, although unlike what seems to be the consensus view, I did find myself puzzled and challenged with some of the operational questions that even 1 through 5 would pose.  I had scratched in the margins of my memo questions like, “What does it mean for a haircut to be consistent with historical norms, when in fact there has not ever been a U.S. default of Treasuries or a significant downgrade by rating agencies.”  I asked myself, operationally, how the Desk is going to decide on any particular purchase whether it’s going to accept defaulted or nondefaulted securities.  How would the Desk determine whether the per-dealer limit would be loosened.  So those are, I know, answerable questions, but ones that I think are embedded in even options 1 through 5. There are two takeaways for me about this episode that come from a contextual perspective.  One is how market functioning is distinct from, but also interacts with, the dual mandate, particularly in a context of fiscal stalemate.  That, I think, is a generalizable description of one of the big challenges we have.  The other takeaway for me is how the business-as-usual approach, which has very comforting and calming kinds of properties, really does fade into the appearance of problematic positions, such as monetizing the debt or interfering with market function or bailing out particular sectors or promoting moral hazard.  I think it’s something that we will probably continue to grapple with in decisions ahead. In terms of the other options that are not 1 through 5, I think they present significant and considerable challenges, primarily on the communications side.  I don’t view these challenges as absolute bars, but I do think that they are significant and would require significant care in executing.  Thank you.
+Does the passage contain contention or disagreement? Response from the model: No
+
+There is no clear contention or disagreement in this passage. The speaker is expressing her thoughts and concerns about the different options presented and the challenges they may pose. She acknowledges that there are answerable questions and recognizes the potential challenges of the alternatives, but does not directly oppose or argue against any specific viewpoint or suggestion.
+
+
+Passage number 85.
+ CHAIRMAN BERNANKE.  Thank you very much.  Thank you, everybody.  Let me make a couple of miscellaneous comments.  There was a lot of support for 1 through 5, and I think that was good.  I think those policies are pretty much within the realm of usual financial stability policies.  It was mentioned a couple of times that some of those actions were based on our judgment that the government would eventually pay, and I didn’t quite follow that.  Again, if we’re doing market prices, then we’re basically not substituting our judgment for anyone else’s assessment.  And President Bullard, I think, raised the point that market prices may not be very clear, but we would presumably have some kind of auction process. I think a point that was somewhat underemphasized is that our transmission of monetary policy is an issue here as well.  So to take an example, doing repos to keep the RP rate from uncoupling from the federal funds rate, arguably there are issues there relating to transmission.  There’s nothing magic about the federal funds rate.  It’s our indicator of the stance of monetary policy, but presumably we’re aiming at financial conditions more broadly.  If there’s a decoupling of other short rates from the fed funds rate, I think a monetary policy–dual mandate motivation might support some of those actions. Finally, just a word about money market mutual funds.  They should not exist.  Unfortunately, they do.  If they exist, they should be regulated.  Unfortunately, they’re not adequately regulated.  And as Governor Tarullo pointed out, although we can be persuasive, we can’t be dispositive on this issue.  If they were some kind of bank, which is probably the right way to think about them, then presumably discount window–type lending plus regulation would be the right way to deal with them.  Unfortunately, we’re in this no man’s land, where we neither regulate them nor have an appropriate discount window arrangement.  In that context and under certain circumstances, if not only were there problems in money market mutual funds, but the whole broad context of financial stability concerns were sufficiently severe that we felt we needed to take some action, buying T-bills might be a more innocuous and more market-neutral way of trying to address those problems than opening a 13(3) facility—particularly if we sterilized the purchases, which we could do through the various tools that we have.  But I’d note that, in the case of money market mutual funds, we’re going to be forced into the fourth-best here, because the institutional structure is not right.  It doesn’t conform to our models and the way we think about liquidity and lender-of-last-resort activities. My final comment is that I agree with the majority, that the bar for the purchase of defaulted securities should be extremely high.  And I can assure President Kocherlakota that we would not do that lightly.  I would be interested, just intellectually—President Kocherlakota circulated a speech, I think, where he commented that refusal of a central bank to purchase defaulted government securities was a way of short-circuiting the so-called fiscal theory of the price level.  I’m curious to know at some point, not today, whether that’s a rigorous statement or whether that was just very good intuition.  But I do think that buying defaulted securities would, under most circumstances, be quite worrisome. Again, thank you.  These comments are very helpful.  They help frame a range of decisions that we could have to take or that future FOMCs may have to take, so I think this conversation was worth having.  I’d like to ask Linda—do you have a little bit of an update on the legislative situation.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 86.
+ MS. ROBERTSON.  I’ve been here, so I’m not directly watching the floor.  But I understand that the House is debating the rule for the debt ceiling.  They’re expected to vote on the rule at 4:10.  Assuming that goes according to plan and the speaker decides not to pull it, they have anticipation in the cloakroom that there will be a one-hour debate on the final rule.
+Does the passage contain contention or disagreement? Response from the model: No. The passage primarily consists of factual information about the activities and plans in the House, without any indication of disagreement or contention.
+
+
+Passage number 87.
+  So it could be— CHAIRMAN BERNANKE.  Done this evening, then.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. It is a statement suggesting a possibility or an option without any conflicting ideas or arguments.
+
+
+Passage number 88.
+ MS. ROBERTSON.  Yes.
+Does the passage contain contention or disagreement? Response from the model: Explantion: Without further context, it is not possible to determine if there is contention or disagreement in the passage. The word "yes" in the response could be agreeing with a statement or indicating that there is contention.
+
+
+Passage number 89.
+ CHAIRMAN BERNANKE.  Very good.  Any other comments, questions, issues.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not present any contention or disagreement. It simply expresses satisfaction or approval.
+
+
+Passage number 90.
+ MR. SACK.  Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It simply states the name and title of Mr. Sack.
+
+
+Passage number 91.
+ CHAIRMAN BERNANKE.  Yes.
+Does the passage contain contention or disagreement? Response from the model: Explanation:
+
+Yes, there is contention or disagreement in the passage. Contention or disagreement refers to opposing opinions or conflicting views. Without the passage provided, it is not possible to determine the specific content or context of the disagreement.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 92.
+ MR. SACK.  Could I return to item 7 for a moment.  Many of the items that were considered today were considered in the context of contingency planning, if markets were to become disrupted or go down certain paths.  But the perspective on item 7 that you raised, and that Governor Duke raised, was perhaps that RPs should be done in response to firmness in the repo rate simply for managing financial conditions.  The issue of whether the Committee is comfortable allowing some short-term interest rates to increase sharply even if its federal funds rate target is still being met—that, I think, is a more immediate issue, in the sense that we are seeing firmness in the repo market today.  If there were a concern that allowing the repo rate to be elevated was detrimental to the economic mandates of the Committee, then that seems to me to be a more immediate issue.  Now, of course, there’s a decision about whether the Committee wants to look at a constellation of broader rates in gauging the stance of its policy.  And even if the answer were yes, I guess there is an issue about whether you think this firmness in the repo rate is going to persist.  You could argue for not pulling the trigger immediately in order to see if markets calm down and the repo rates return back into the range of 0 to 25.  I guess I was curious if the Committee has decided that it isn’t concerned about repo rates, if it has decided that it is concerned about elevated repo rates but wants to allow more time to see if they come back down, or if it wants to go ahead and lean toward some kind of an action in that direction.
+Does the passage contain contention or disagreement? Response from the model: Yes. The passage presents a potential disagreement or contention regarding the Committee's perspective on whether to allow short-term interest rates to increase sharply, even if the federal funds rate target is being met. The speaker raises the issue of whether elevated repo rates are detrimental to the Committee's economic mandates and discusses different views on whether immediate action should be taken or if more time should be given to observe if the rates will return to the desired range.
+
+
+Passage number 93.
+ CHAIRMAN BERNANKE.  Vice Chairman Dudley.
+Does the passage contain contention or disagreement? Response from the model: There is no clear contention or disagreement in the statement "Vice Chairman Dudley." It simply states the title or position of Vice Chairman Dudley without any conflicting views or arguments.
+
+
+Passage number 94.
+ VICE CHAIRMAN DUDLEY.  This is one person’s view:  I think that what we’re seeing is basically a response to the risk that the debt limit would not be raised in a timely way, and people are getting into cash and therefore that is putting upward pressure on repo rates.  Because we hope that the bill will be passed in the next 24 hours or so, a reasonable expectation would be that these pressures should subside over the next week or so.  I would be more inclined to wait a little longer, to see the outcome of the legislative process and see if these rate pressures come down.  Otherwise, I think doing it right now—let’s say, tomorrow—would raise questions about why we were doing it and what we were concerned about for something that might not last more than a few more days.  That’s my view.
+Does the passage contain contention or disagreement? Response from the model: No. This passage expresses one person's view and does not include any disagreement or contention.
+
+
