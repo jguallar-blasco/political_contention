@@ -1,0 +1,87 @@
+Passage number 1.
+Federal Open Market CommitteeConference CallOctober 20, 1987Mr.Mr.Mr.Mr.Mr.Mr.Mr.Mr.Mr.Ms.Mr.Greenspan, ChairmanCorrigan, Vice ChairmanAngellBoehneBoykinHellerJohnsonKeehnKelleySegerSternMessrs. Black, Forrestal, Hoskins, and Parry,Alternate Members of the Federal Open MarketCommitteeMessrs. Melzer, and Morris, President of theFederal Reserve Banks of St. Louis, andBoston, respectivelyKohn, Secretary and Staff AdviserBernard, Assistant SecretaryBradfield, General CounselTruman, Economist (International)Mr. Prell, Associate EconomistMr. Sternlight, Manager for Domestic Operations,System Open Market AccountMr. Cross, Manager for Foreign Operations,System Open Market AccountMr. Coyne, Assistant to the Board of GovernorsMr. Czerwinski, First Vice President, FederalReserve Bank of Kansas CityPRESENT:Transcript of Federal Open Market Committee Conference Callof October 20, 1987[Secretary's note: There were telephone conferences eachworkday from October 19, 1987, through October 30, 1987, but theconference call of October 20 was the only one for which a transcriptwas prepared. Further, there is no transcript record of the beginningof this call.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The passage simply lists the participants of a conference call without providing any information about their opinions or any arguments that may have occurred during the call.
+
+
+Passage number 2.
+]MR. ANGELL. [Should we retain] the $600 million [borrowingassumption] for the two-week period until the next FOMC meeting, orwould we want some leeway here for a somewhat lower possibility, giventhe day-to-day watch.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply presenting two options or considerations for the borrowing assumption.
+
+
+Passage number 3.
+CHAIRMAN GREENSPAN. I think we're playing it on a day-to-daybasis. And in a crisis environment, I suspect we shouldn't reallyfocus on longer-term policy questions until we get beyond thisimmediate period of chaos.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 4.
+MR. ANGELL. But I presume that there's at least anacceptance by the members of the Committee that the $600 million onborrowings is not necessarily in place in the coming two weeks as wellas in the reserve maintenance period now ending.
+Does the passage contain contention or disagreement? Response from the model: No. The passage states a presumption made by Mr. Angell, indicating that there may not be any contention or disagreement among the members of the Committee regarding the availability of $600 million in borrowings.
+
+
+Passage number 5.
+CHAIRMAN GREENSPAN. Yes. Does anybody disagree withGovernor Angell's comment on this.
+Does the passage contain contention or disagreement? Response from the model: passage? It is not clear from the given information if there is any disagreement or contention with Governor Angell's comment on the passage.
+
+
+Passage number 6.
+MR. STERNLIGHT. Mr.
+Does the passage contain contention or disagreement? Response from the model: Sternlight, on the other hand, believes that the project should be delayed. Yes, there is contention or disagreement in this passage. The phrase "on the other hand" indicates a contrasting opinion, suggesting that Mr. Sternlight's belief differs from someone else's.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 7.
+ Chairman, I'd like to think that there'sa particular element of flexibility here because I suspect there maybe some greater reluctance by banks to borrow in this kind of--MR. JOHNSON. I agree with Peter on that. I think that oneof the problems we may run into, and we've already seen it, is astrong unwillingness to borrow. And trying to force the borrowingtarget in that environment could result in an unbelievable funds rate.So, I agree with Peter; he needs the flexibility, at least for awhile, to manage that situation. We just don't know what we're upagainst, at least for a while, in this kind of situation.
+Does the passage contain contention or disagreement? Response from the model: Yes.  There is disagreement in the passage. The Chairman expresses a belief in the need for flexibility in borrowing, while Mr. Johnson agrees with this perspective but disagrees with forcibly setting borrowing targets in a potentially unfavorable environment.
+
+
+Passage number 8.
+MR. HELLER. I agree with what both Governors Angell andJohnson have said and I think we also need to watch the fed funds ratein that environment. As long as we are where we are, I think we arein good shape; given the fact that Treasury bill rates have dropped somuch, we really have some room in that arena. So, I'm agreeing withour press statement this morning: That's what we said we would wantto do, so let's do it.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker, Mr. Heller, agrees with what both Governors Angell and Johnson have said and expresses agreement with the press statement made earlier.
+
+
+Passage number 9.
+CHAIRMAN GREENSPAN. I want to ask Sam Cross if he willexplain to us why the dollar is as strong as it is in thisenvironment.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not indicate any contention or disagreement. The speaker simply expresses a desire to ask Sam Cross to explain the strength of the dollar in the current environment.
+
+
+Passage number 10.
+MR. CROSS. That's a very good question and I wish I had agood answer for it. We've been asking ourselves and others that,without any really very convincing response. Certainly, there hasbeen some liquidating of things abroad as people have brought fundsback into the United States either for meeting their own liquidityneeds or for other purposes. Also, with all the world tending to beunder the same, or at least a downward, pressure in fairly substantial10/20/87under the same, or at least a downward, pressure in fairly substantialamount, that may be having an influence. Another factor in the past24 hours is that the climate has looked much better for thecooperative activities among us, the Germans, and the Japanese.That's reflected in the statements that followed Secretary Baker'smeeting with Mr. Soltenberg, and the Japanese comments this morningadd to that. Also, the statement of the Federal Reserve this morningwas favorably noted. I'm not sure that adds up to a very convincinganswer.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not show any explicit contention or disagreement. It only presents various factors that may contribute to the current situation without any conflicting viewpoints.
+
+
+Passage number 11.
+CHAIRMAN GREENSPAN. In part, I think, the issue obviously isthat potentially defaulting investors in dollar securities weredrawing funds out of other currencies. That presupposes that thedeclines in the other markets were not doing the reverse, which Iassume is where you come out.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is acknowledging that the issue is the potentially defaulting investors in dollar securities drawing funds out of other currencies. They also mention assuming that the declines in other markets were not doing the reverse, which is where the listener might have a different perspective. However, this does not indicate a disagreement or contention, only a different viewpoint.
+
+
+Passage number 12.
+MR. CROSS. Yes. Perhaps reflecting what Peter is talkingabout, in our bond market there has been some tendency to move intoTreasury bonds as kind of an attractive place at this point, given thechaos in so many of the equity markets around the world. But I thinkthere certainly has been liquidation of overseas positions. And we'veheard reports, certainly from our colleagues in Canada and from one ortwo other places, that they have seen investment firms and othersliquidating positions, for example in Canadian dollars, and bringingthem back.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement.
+
+
+Passage number 13.
+VICE CHAIRMAN CORRIGAN. Mr. Chairman, Jerry Corrigan here.Can I just make two quick comments. [Unintelligible] you may havecovered this before I came in the room, but I would want to say thatjust because we have not seen hard evidence of any sizable ortroubling losses, obviously that doesn't mean that they may not bethere. It's quite clear that a lot of people are not entirely surewhere they are. It's also worth keeping in mind the margin calls forthe funds. The New York Stock Exchange for the big clients may startto [unintelligible]. I'm not sure what was being said before aboutmonetary policy over the near term, but the second point I would makeis that certainly, we've got to have maximum flexibility, at least forthe days ahead. But I'm not willing to prejudge at all the questionof where borrowing should or should not be in a more permanent fashionat this point.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is primarily a statement expressing uncertainty and the need for flexibility.
+
+
+Passage number 14.
+CHAIRMAN GREENSPAN. I sense that that is the consensus as agroup.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker states that they sense a consensus among a group, implying that there is agreement and no conflicting opinions.
+
+
+Passage number 15.
+VICE CHAIRMAN CORRIGAN. I'm not so sure of that.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: This statement expresses uncertainty or doubt but does not indicate any disagreement or contention.
+
+
+Passage number 16.
+CHAIRMAN GREENSPAN. I think we stated it that way, and sinceI got very little response, I assume that was acquiescence.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 17.
+MR. JOHNSON. I agree with what Jerry said. When you reallydon't know where you're going to be, you might as well assume the samesituation until you reassess at some point. I think that's where weare.
+Does the passage contain contention or disagreement? Response from the model: No. The passage states that Mr. Johnson agrees with Jerry's statement and provides additional thoughts to support the agreement. There is no contention or disagreement present in the passage.
+
+

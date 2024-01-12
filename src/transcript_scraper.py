@@ -23,7 +23,7 @@ if path_to_local_pdf or path_to_local_txt:
 
 transcript_links = {}
 all_text_files = {}
-for year in range(1979, 1987): # from 1982 - 2008
+for year in range(2008, 1012): # from 1982 - 2008
     all_text_files[str(year)] = []
     
     if link_to_file_on_website:
@@ -86,7 +86,7 @@ for pdf_transcript in all_transcripts:
         all_text_files[pdf_transcript[10:14]].append(pdf_transcript[:-4] + ".txt")
 
 
-with open('80s_all_text_files.json', 'w') as fp:
+with open('_all_text_files.json', 'w') as fp:
     json.dump(all_text_files, fp)
     
 

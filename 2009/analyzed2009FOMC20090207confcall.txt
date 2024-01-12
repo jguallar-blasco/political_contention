@@ -1,0 +1,947 @@
+Passage number 1.
+ Conference Call of the Federal Open Market Committee on  February 7, 2009  A joint conference call of the Federal Open Market Committee and Board of Governors of the Federal Reserve System was held on Friday, February 7, 2009, at 10:00 a.m.  Those present were the following: Mr. Bernanke, Chairman  Mr. Dudley, Vice Chairman  Ms. Duke  Mr. Evans  Mr. Kohn  Mr. Lacker  Mr. Lockhart  Mr. Tarullo  Mr. Warsh  Ms. Yellen  Mr. Bullard, Ms. Cumming, Mr. Hoenig, Ms. Pianalto, and Mr. Rosengren, Alternate Members of the Federal Open Market Committee Messrs. Fisher, Plosser, and Stern, Presidents of the Federal Reserve Banks of Dallas, Philadelphia, and Minneapolis, respectively Mr. Madigan, Secretary and Economist  Ms. Danker, Deputy Secretary  Mr. Luecke, Assistant Secretary  Mr. Skidmore, Assistant Secretary  Ms. Smith, Assistant Secretary  Mr. Alvarez, General Counsel  Mr. Baxter, Deputy General Counsel  Mr. Sheets, Economist  Mr. Stockton, Economist  Messrs. Clouse, Connors, Kamin, Slifman, Sullivan, Weinberg, Wilcox, and Williams, Associate Economists Ms. Mosser, Temporary Manager, System Open Market Account Ms. Johnson, Secretary of the Board, Office of the Secretary, Board of Governors Mr. Frierson, Deputy Secretary of the Board, Office of the Secretary, Board of Governors Ms. Bailey, Deputy Director, Division of Banking Supervision and Regulation, Board of Governors; Mr. English, Deputy Director, Division of Monetary Affairs, Board of Governors Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors Ms. Liang, Associate Director, Division of Research and Statistics, Board of Governors; Mr. Nelson, Associate Director, Division of Monetary Affairs, Board of Governors Ms. Beattie, Assistant to the Secretary, Office of the Secretary, Board of Governors Mr. Williams, Records Management Analyst, Division of Monetary Affairs, Board of  Governors Mr. Barron, First Vice President, Federal Reserve Bank of Atlanta Mr. Fuhrer, Ms. George, and Mr. Rosenblum, Executive Vice Presidents, Federal Reserve Banks of Boston, Kansas City, and Dallas, respectively Messrs. Rasche and Schweitzer, Senior Vice Presidents, Federal Reserve Banks of St.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any statements or arguments that would indicate contention or disagreement. It simply lists the individuals present at the conference call.
+
+
+Passage number 2.
+ Louis and Cleveland, respectively Transcript of the Federal Open Market Committee Conference Call on February 7, 2009 CHAIRMAN BERNANKE. A good Saturday morning to everybody.  Thank you for joining this meeting.  This is going to be a joint FOMC–Board meeting because, although I do not anticipate we will be taking any formal action today, I do want to give everyone the opportunity to express views and to discuss policy issues.  With that said, I need a motion to close the meeting.
+Does the passage contain contention or disagreement? Response from the model: There is no contention or disagreement in this passage.
+
+
+Passage number 3.
+ MR. KOHN. So moved.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in the passage. The statement "So moved" indicates agreement or support for something.
+
+
+Passage number 4.
+ MR. LOCKHART. Thank you, Mr. Chairman.  Can you elaborate on how the sterilization is likely to be done.  Will there be an expansion of the SFP or will we be issuing our own bills.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not contain any contention or disagreement. It is a simple request for clarification.
+
+
+Passage number 5.
+ CHAIRMAN BERNANKE. The language on Monday would be that the Treasury will be pushing legislation to achieve this objective—it will not specify.  I believe their preference would be to do it through the financing bills, but there will be two important improvements over the existing program.  One is that it will be explicitly outside the debt limit; so there would be no constraints from the debt limit in terms of their ability to help us sterilize the balance sheet.  Secondly, there would have to be a clear understanding that this was at the discretion of the Fed and not the Treasury; that is, the Treasury could not withhold a reasonable request from the Fed to provide those bills. President Fisher.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 6.
+MR. FISHER. Thank you, Mr. Chairman, and thank you for the briefing.  On the expansion of the TALF, is there a first-loss guarantee from the Treasury as we had before under the $200 billion—the $20 billion for the $200 billion.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not indicate any contention or disagreement. It is simply stating that Mr. Fisher is thanking the chairman and asking a question about the expansion of TALF.
+
+
+Passage number 7.
+ CHAIRMAN BERNANKE. Well, staff members have worked through the details for the first $200 billion very carefully.  They have developed haircuts for the various types of assets based on generous allowances for risk of loss. And then, of course, we have the $20 billion of capital. The result that has been presented to me is that, for midrange haircuts—which are more generous than what the market is offering now but would be punitive under normal times—we see the risks to the Federal Reserve from the credit as being extraordinarily low. Going forward, we would have the same process.  The Treasury would provide capital. The haircuts would be set by some systematic process.  I don’t absolutely guarantee that the capital ratio would be 10 to 1, but whatever ratio it is would be set based on the presumption that with virtual certainty there would be no losses to the Federal Reserve.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply explaining the details of the plan and expressing confidence in its efficacy.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 8.
+ MR. FISHER. So it’s a moving thing.  In other words, we don’t know whatever first-loss guarantee we might require.  That’s an open door for us.  Or you do not think it is going to be necessary.
+Does the passage contain contention or disagreement? Response from the model: Yes. 
+There is contention or disagreement in the passage. Mr. Fisher suggests that not knowing the required first-loss guarantee is an opportunity for them, while the other person is unsure or disagrees with this statement, indicating their differing opinion.
+
+
+Passage number 9.
+ VICE CHAIRMAN DUDLEY. There will be Treasury capital. The question is just, how much.
+Does the passage contain contention or disagreement? Response from the model: No. This passage is stating a fact and posing a question. There is no contention or disagreement expressed.
+
+
+Passage number 10.
+ CHAIRMAN BERNANKE. There will definitely be Treasury capital.  Will it be 10 to 1.  You know, there are a number of parameters:  There’s the size of the haircut, there’s the variability in the loss rates and the different assets that we consider, and then there’s the capital.  We can trade off among those things.  Suppose we learn, for example, in the first round that the haircuts we’re providing are in some sense too generous and that we get tremendous demand for this lending. Then in the second round we could consider some tradeoff between bigger haircuts and lower capital. But in any case, it would be thoroughly vetted by the Board staff and the New York Fed and others to give us comfort that the risk of loss to the Federal Reserve is extremely low. In fact, under the current parameters, the risk of loss to the Treasury appears to be quite low; and there’s $20 billion ahead of us.  So the basic principle—that there will be enough capital and sufficiently large haircuts to essentially eliminate any realistic risk of credit loss— will be preserved.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is discussing different parameters and trade-offs but does not involve conflicting viewpoints.
+
+
+Passage number 11.
+  MR. FISHER. Mr. Chairman, I just have two other questions—these are data point questions. Internally, what kind of leverage do we expect to see realized on that $1 trillion. That is, how much do we think the financial community will leverage that facility.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply asking for information about the expected leverage on a specific amount of money.
+
+
+Passage number 12.
+ CHAIRMAN BERNANKE. Do you want to help, Bill.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The sentence does not contain any opposing viewpoints or conflicting ideas. It is a simple question asking if Bill wants to help.
+
+
+Passage number 13.
+ VICE CHAIRMAN DUDLEY. Well, the haircuts on the existing program are slightly below 10 percent on average for the consumer asset-backed securities.  So the leverage there is roughly 11 to 1. Obviously, as the Chairman said, we’re going to have to go through the same analysis that we did for consumer asset-backeds; we have to do it for other asset classes to determine what is an appropriate haircut given the expected loss experience of commercial real estate, of private-label RMBS, and so on, under these scenarios.  So I think we can’t say for sure exactly what the leverage ratio is going to be.  As the Chairman said, we have choices on haircuts, we have choices on rates, we have choices on how much capital the Treasury supplies to backstop the facility—all those parameters can be adjusted.  But I think, as a rule of thumb, we started down the TALF path for consumer asset-backed securities thinking that they were going to be roughly 10 percent. That’s where we ended up.  So it’s probably going to besomething on the same order of magnitude.  But the analysis is going to have to drive that process. I would hesitate to commit to a number before the staff has a chance to do that analysis.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is discussing the need to analyze and determine appropriate haircuts for different asset classes, but does not express any conflicting opinions or arguments.
+
+
+Passage number 14.
+  MR. FISHER. One last question, Mr. Chairman.  You mentioned, after spelling this out a bit before, that we would provide some bridge-financing for the aggregator bank.  What’s the order of magnitude and what’s the dynamic of that bridge-financing that we contemplate presently.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+In this passage, there is no indication of contention or disagreement. The speaker is simply asking a question for clarification.
+
+
+Passage number 15.
+ CHAIRMAN BERNANKE. Well, it may or may not be needed.  The maximum scale of the bank is $500 billion at initial stages.  It is a bank, and I assume it will be structured as a bank and, therefore, be eligible for normal discount window collateral-based lending.  I think the notion is that in the very short run there may be some timing differences between the purchases being made by the asset managers and the acquisition of the financing.  So there might be short periods of mismatch where Fed financing would allow the thing to operate. I view this as being very short-term, well-collateralized, normal bank lending, and it should have no implications, I think, for our balance sheet or our monetary policy, because it will be a matter of weeks or a month or two at the most, I would imagine, and may not be necessary at all; but it’s just a backstop as the thing gets running.  We have a good bit of confidence that we can find long-term financing mechanisms other than the Fed, including even the possibility, for example, that the assets that are purchased might be paid for with guaranteed liabilities of the aggregator bank. So I don’t view this as really a problem that any of us should be particularly concerned about, and it will not invoke any special authority.  It will not invoke 13(3) or anything like that.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is providing an explanation and expressing a positive outlook on the situation.
+
+
+Passage number 16.
+ MR. FISHER. Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. This is a simple expression of gratitude and does not indicate any disagreement or contention.
+
+
+Passage number 17.
+ CHAIRMAN BERNANKE. President Hoenig.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage only mentions President Hoenig without providing any information or context that suggests contention or disagreement.
+
+
+Passage number 18.
+   MR. HOENIG. Yes, Mr. Chairman.  Thank you for the briefing.  I have a couple of questions. When we do this scrubbing of these banks, is the source of the capital the remaining part of TARP, or is there additional funding anticipated for this.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement in this passage. The speaker is simply asking a clarification question about the source of capital for the banks' scrubbing process.
+
+
+Passage number 19.
+ CHAIRMAN BERNANKE. So this is a very, very close hold.  Our very rough estimates suggest that it’s conceivable, particularly given the assumption that the TARP I preferred stock could be converted to common, that we could actually manage this whole thing, including the expansion of the TALF, et cetera, and including $50 billion plus for foreclosures within the existing authority, within the remaining $350 billion (I should also mention I was at the White House last night discussing foreclosures, and that will be part of the program, perhaps later this week). That being said, it’s not certain, and that’s why, for better or worse, the Treasury’s strategy is to unveil a program and approach, to be a little coy about cost, to see what they get in terms of political and industry reactions, with the idea that if the program itself gains some support, it will be easier at that point to say, “Well, here’s what we need to fund it.”  But I don’t know whether that’s going to succeed. They’re going to ask Tim that question, but I’m sure he’ll try to dodge it. But the hope is, and I think there is some chance, that we’re not talking about a massive increase in the TARP. Part of this, of course, is a bit of an end run around the TARP’s original scoring—which is irrational scoring and had TARP being charged for the total value of any amount of assets purchased or insured—by using the TALF and by using the aggregator bank with public capital but private FDIC-insured financing and private capital.  The capacity of those instruments to buy assets is a multiple of what the TARP contribution is, which makes good sense both politically and economically, I think.   Because of those types of things, it does seem that somewhere around what we have might be adequate; but, on the other hand, it needs to be clear to the banks that we’re not going to go out there and say, “Well, you need so much capital, but—sorry, we ran out.”  Also, there’s always the risk of other emergencies.  So we have to have some confidence that there will be enough capital to meet whatever the size that the scrub suggests.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The passage is discussing a potential strategy for managing the TARP program and addressing foreclosures. There is no conflicting opinions or conflicting information presented.
+
+
+Passage number 20.
+ MR. HOENIG. If you encounter a bank—one of the largest 22 and beyond—that is  insolvent, then would we basically use the FDIC’s resolution process to go in and recapitalize and create a bad bank for that institution at that time and have to be 100 percent owner of that and then move forward from there.  Is that the plan.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It is a general question about the plan for dealing with insolvent banks.
+
+
+Passage number 21.
+ CHAIRMAN BERNANKE. The plan is not as explicit as I would like.  Maybe there’s some constructive ambiguity going on.  Yes, if a bank is insolvent, then presumably what will happen is that we’ll use a systemic risk exception.  The FDIC will seize the bank.  It will zero out the shareholders. It will make whole all of the major debt holders—following, again, the systemic risk exception which allows for non-least-cost resolution—and it will liquidate the bank. So that’s certainly one possibility. It’s a more complex situation, though, particularly at the two biggest problem banks, because, even though their asset losses might exceed their capital, they do have franchise values; and it’s a bit of a judgment call as to whether the economic interest is in liquidating them or in trying to preserve them, or at least parts of them.  So that’s a decision that, presumably, this investment board is going to have to make.  But, yes, the FDIC will definitely be prepared to do either open bank or closed bank assistance if the bank is ruled insolvent.
+Does the passage contain contention or disagreement? Response from the model: No+ The passage does not contain any specific contention or disagreement. It is presenting different possibilities and considerations for handling insolvent banks, without conflicting viewpoints.
+
+
+Passage number 22.
+ MR. HOENIG. I ask that question because, if we can clarify that, then you would have, I think, a greater certainty in the sense of: Yes, we are going to take it over, and yes, we are goingto run it and then reprivatize it.  And that takes uncertainty out of it if the banks are, in fact, insolvent.  And if they are not insolvent, then you’re going to take ownership up to whatever it requires to bring their capital ratios up, and you’re going to take a managing role and reprivatize them, so that they are systematically administered all the way through.   You also mentioned in your comments that all banks can seek this capital, and I don’t know what that means exactly going forward.  In other words, if, after the 22, you go into these other banks, those with less than $100 billion and they weren’t insolvent, but they were undercapitalized—we have a ton of commercial real estate ahead of us—would the FDIC, I guess, be in a position to add capital and then these banks would become part of this Government Investment Board oversight as well.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a statement followed by a series of questions seeking clarification and further information.
+
+
+Passage number 23.
+ CHAIRMAN BERNANKE. For banks beyond the 22, my understanding would be that —just because of lack of resources—they’re not going to go through the same scrub with the same forward-looking buffer requirement.  They will instead go through the usual supervisory process. Presumably they have less or no systemic consequences.  So they will be where they are now, basically.  They may be helped or not by the asset purchases going on, but they will have access, obviously, to the aggregator bank, and they’ll have access to the capital should they choose to take it. But they will be in a different place.  Bill.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The author is simply stating their understanding of the situation for banks beyond the 22, based on their lack of resources and the implications for their regulatory requirements. There is no conflicting viewpoint presented.
+
+
+Passage number 24.
+ VICE CHAIRMAN DUDLEY. Just one thing that I think is different for the smaller banks relative to the larger banks is that a much greater proportion of their capital structure is in tangible common equity, and, if you remember, the stress test is going to be applied probably against this tangible common equity standard. For most small banks, they’re probably going to have quite a bit of room on that metric.  And as the Chairman said, it’s just not practical in a two-   month window to scrub 8,000 banks. So you’re really relying on the fact that most of these small banks are better capitalized on the metric that you really care about.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The passage does not contain any direct contention or disagreement. It discusses the difference between smaller banks and larger banks in terms of their capital structure and the stress test. It also mentions that small banks are likely to have more room on the tangible common equity metric. There is no disagreement presented in this passage.
+
+
+Passage number 25.
+  MR. HOENIG. Not to disagree with you, Bill, but most of these 8,000 banks are being prioritized now and are being scrubbed across the country.  So I think this issue is coming forward, and it will be focused on commercial real estate.  I can assure you of that.  I have another question.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Hoenig is simply stating his agreement with Bill's statement and adding more information to support it.
+
+
+Passage number 26.
+ CHAIRMAN BERNANKE. Deborah Bailey wants to add to the answer.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage is stating a fact about Deborah Bailey's desire to add to the answer, without any indication of contention or disagreement.
+
+
+Passage number 27.
+ MS. BAILEY. One thing that I just wanted to make sure we understand is that the test on insolvency is different from having a buffer.  For the large institutions, you would only get to the point of insolvency if, in fact, you looked at their expected losses for the first year and you got a reserve need that was so big that it actually made the institution insolvent.  What was outlined here is the amount of capital a bank would need as a buffer to get beyond that one-year time frame, whether it is two years or three years.  You would not use that calculation to make a determination of insolvency.  So I just want to make sure that you understand, in looking at even the largest two that we’re talking about, the insolvency decision is made the same way as always.  If you have no capital or you’ve gone below 2 percent (for prompt corrective action), then we would do, obviously, what we would do in the normal course for large banks, or any bank.  But that’s not what we are talking about here in terms of capital buffer.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is providing clarification and making sure that the reader understands the difference between the test on insolvency and having a buffer. There is no indication of contention or disagreement.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 28.
+ MR. HOENIG. Well, Deborah, I’m not sure I understand your answer, because if you have an institution and you do the exam and it has X number of assets in difficulty, which brings its capital down to, say, 3 percent, they would then choose to apply for capital under this program, and then what would you do.  Would you acknowledge their request and provide them that capital, or would you say no because—whatever the reason.
+Does the passage contain contention or disagreement? Response from the model: Yes. The passage suggests disagreement or contention between Mr. Hoenig and Deborah regarding what action should be taken when an institution applies for capital under a program. Mr. Hoenig seems to be questioning whether the institution should be provided with capital despite having a low capital percentage, while Deborah's answer is not clearly understood.
+
+
+Passage number 29.
+ MS. BAILEY. We would acknowledge that request and give them the capital.  I was responding to your question on insolvency for the large banks, and I just wanted to make sure you understood that.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain contention or disagreement. It is a statement acknowledging a request and providing information in response to a question.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 30.
+ MR. HOENIG. I appreciate that.  I have two more questions.  In terms of the TALF— just to clarify and maybe take some of my confusion away—in this morning’s paper there was discussion about the TALF encompassing our willingness, as these new asset-backed securities are developed, to actually work through hedge funds, and you had mentioned possibly confining this to commercial banks or broadening it.  Can you clarify that for me, so that I understand whom we would be working through as the counterparty on this, as we engage in the TALF.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The speaker, Mr. Hoenig, is expressing confusion and seeking clarification about the counterparty for the TALF (Term Asset-Backed Securities Loan Facility) program. He mentions a discussion in the morning paper about the program encompassing the willingness to work through hedge funds, but he is unsure whether the program should be confined to commercial banks or broadened. This shows that there is a difference of opinion or uncertainty regarding the counterparty for the TALF program.
+
+
+Passage number 31.
+ CHAIRMAN BERNANKE.  The way this works is that the asset-backed securities are originated typically by banks; incidentally, it would be those banks that are creating the ABS that are subject to the TARP restrictions on compensation and so on.  But we are not buying the ABS.  What we are doing is lending to investors who, in turn, want to buy the ABS.  Those investors could be hedge funds, or they could be other kinds of investors; but the counterparty is not really that important, because this is a nonrecourse loan.  So the loan, in any event, is based on the collateral and the haircut. From a political point of view, we’ve developed some talking points on this.  Governor Tarullo raised this question, as well. We do restrict the counterparties to U.S. institutions, so foreign institutions are not eligible.  I should say that going forward, although initially we are going to be taking them “first come, first serve,” if there is strong demand, then we are prepared either to adjust the terms to reduce the attractiveness or to go explicitly to some kind of auction mechanism.  So one way or another, there will not be excess returns being earned by anybody, because if there are excess returns, they will be competed away through the auction process orwhatever mechanism we use to allocate these funds.  But our direct counterparties will be nonbanks—the investors who buy the ABS—but it’s a nonrecourse loan, so the fact that we don’t supervise them is really not very relevant.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply explaining how asset-backed securities are originated and how the loan process works for investors who want to buy the ABS.
+
+
+Passage number 32.
+ MR. HOENIG. One last question about the Government Investment Board, which has the oversight role. If we had enough ownership, would they select an individual to sit on the boards of directors of these institutions, or would that be determined separately from the Government Investment Board in terms of the government’s ownership and representation.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: There is no contention or disagreement in this passage. The passage is simply posing a question about the selection process for individuals to sit on the boards of directors of these institutions.
+
+
+Passage number 33.
+ CHAIRMAN BERNANKE. My understanding is the Government Investment Board is an attempt—whether it will be successful or not is debatable—to insulate a bit the running of the business from the political process, to have some kind of business-oriented oversight.  In fact, for banks that are in trouble and have substantial government ownership, there will really be two complementary enforcement mechanisms.  One is the supervisory mechanism, and the other will be this oversight board, which will be essentially voting the government’s stock.  I assume that those two mechanisms would collaborate.  For troubled banks, the supervisors might demand a change in the board of directors and a change in management, and they probably would get agreement from the Government Investment Board.  The oversight board can do what it wants, basically. It might just demand a change in the management and change in the board of directors, or it might decide that it wants to put its own hand-picked people on the board of directors. But, again, the hope is that this will be a step removed from direct government decisions about loans, for example, and will simply be an attempt to get the business in as good a shape as possible either to sell it off or, at some point, to dismember it.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker is explaining their understanding of the Government Investment Board and its role in overseeing troubled banks. They mention that the mechanisms of the supervisory board and the oversight board would likely collaborate in demanding changes in management and the board of directors for troubled banks. The passage does not present any conflicting viewpoints or arguments.
+
+
+Passage number 34.
+ MR. HOENIG. Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. Mr. Hoenig is simply expressing gratitude to the chairman.
+
+
+Passage number 35.
+ CHAIRMAN BERNANKE. Thank you.  President Evans.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not present any form of contention or disagreement. It is a simple expression of gratitude from someone named President Evans.
+
+
+Passage number 36.
+MR. EVANS. Thank you, Mr. Chairman.  First, I’d like to say that relative to the fears for our balance sheet that I expressed ten days ago, I’ve heard a lot of things that have made me  feel much better about this.  So I think you’ve done a great job. On the TALF, you mentioned that our goal could expand to $1 trillion.  Is that going to be our decision, or is that going to be part of the Treasury announcement.  And I guess that interacts with the capital cushion, the haircuts, and how much we’re going to lever.  So any light you could shed on that would be helpful. In looking at the term sheets on the TALF yesterday, somebody pointed out to me that the haircuts for some loans seemed to be lower than what is charged at the discount window.  But maybe those aren’t apples-to-apples comparisons.  It seems that it’s more generous—lower for the TALF—as I understand it.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is expressing gratitude and seeking clarification on certain points.
+
+
+Passage number 37.
+ VICE CHAIRMAN DUDLEY. They are borrowing at a higher rate, though—LIBOR plus 100 basis points.
+Does the passage contain contention or disagreement? Response from the model: No. This statement simply presents an objective fact that they are borrowing at a higher rate, which is LIBOR plus 100 basis points. There is no contention or disagreement reflected in this statement.
+
+
+Passage number 38.
+ MR. NELSON. And they’re triple-A ABS.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply states a fact without any indication of contention or disagreement.
+
+
+Passage number 39.
+ MR. EVANS. Okay. So at the discount window they’re not rated.  So there’s more uncertainty.
+Does the passage contain contention or disagreement? Response from the model: No. This passage presents a statement about the rating of entities at the discount window. There is no contention or disagreement expressed.
+
+
+Passage number 40.
+ CHAIRMAN BERNANKE. Also, these are only new assets and not legacy assets.  So that reduces the uncertainty as well.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is stating a fact about the assets, without any indication of contention or disagreement.
+
+
+Passage number 41.
+ MR. NELSON. It could be that they were looking at haircuts for the asset type that was backing them.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+The passage is a statement made by Mr. Nelson. It does not express any disagreement or contention. It is simply a speculative statement about a possible reason for their actions.
+
+
+Passage number 42.
+ MR. EVANS. It’s just that, as you look at the table, it does get your attention.  So maybe an additional FAQ on that would be helpful.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 43.
+   CHAIRMAN BERNANKE. If there are questions related to the announcement yesterday, Bill Nelson and many others here can address those.  Don’t hesitate to put those in.  On the $1 trillion, I think the announcement will be something like “up to $1 trillion,” and depending on what we learn, et cetera.  So I think the headline number will be out there, but certainly we have to be comfortable with the structure of the program, its utility, the applicability of 13(3)—that is, are conditions still warranting that kind of activity—the credit protection, et cetera. So there’s no commitment here.  There’s  no way that they could force us or otherwise claim that we had committed to $1 trillion.  But I do think, given the fact that our balance sheet has actually shrunk recently, that this commitment plus the GSE purchases puts us in a range which is very substantially supportive but is manageable from a monetary policy point of view.  I should never, ever, ever make promises or say “never,” because I’ve been wrong every time as the economy has deteriorated, but I’m hopeful that this would be the last key initiative—but, who knows.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not appear to contain any contention or disagreement. The speaker is presenting their thoughts and opinions on the topic without contradicting or arguing with anyone else.
+
+
+Passage number 44.
+ MR. EVANS. So on the TALF expansion, I can guess that my colleagues and everyone here have gotten a lot of phone calls and correspondence from people who were outside of the asset classes that have access to it, and as you expand it, I assume that this is only going to grow.  So I wonder, will there be discussions, or could we at least have some guidance as to what the selection process is. And then finally, on the bank preferred stock from TARP I—I’m just not familiar enough with this—what is the bank reaction to this going to be when we now come at them and say that, “oh, this is going to be convertible into common stock”.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a series of questions and clarifications being asked by Mr. Evans.
+
+
+Passage number 45.
+ CHAIRMAN BERNANKE. I think they’ll like that.
+Does the passage contain contention or disagreement? Response from the model: No. This statement expresses a personal opinion and does not imply any opposition or disagreement.
+
+
+Passage number 46.
+ MR. EVANS. Will they be happy about that.  I have talked to a lot of bankers who say, “Look, I didn’t really need this, but it seemed like a good signal at the time.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply relaying information from other bankers without expressing any personal disagreement or contradicting their statements.
+
+
+Passage number 47.
+” CHAIRMAN BERNANKE. First of all, it’s at their option. They don’t have to do it.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any elements of contention or disagreement. It is simply stating a fact.
+
+
+Passage number 48.
+ VICE CHAIRMAN DUDLEY. It will be converted if they absolutely need it.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any form of contention or disagreement. It simply states that something will be converted if there is an absolute need for it.
+
+
+Passage number 49.
+ CHAIRMAN BERNANKE. They only do it if they need it.  Of course, that will depend both on their need for capital and on the price, and I don’t know what the strike price is.  I don’t know how that’s set up—that’s another piece of important information.  The downside, of course, is, if you’re converting huge amounts of capital into common, you have to deal with the control issue.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is discussing the factors that determine whether someone will engage in a certain action, specifically converting capital into common.
+
+
+Passage number 50.
+ VICE CHAIRMAN DUDLEY. They won’t like that event of the conversion, but that event would be precipitated by the fact that they had very bad performance and they needed the common equity. So it’s sort of a good news–bad news kind of paradigm. On your TALF asset question, I think that we’re going to try to have the Treasury not be definitive about what assets are included or not included in the expanded TALF.  To give a “for example:”  We’re pretty comfortable, I think, with our analysis that CMBS and private-label RMBS should be included. But whether it goes beyond that, I think, is really in the “to be determined” category, and I think we are going to try to make sure that the Treasury announcement doesn’t commit us to things beyond CMBS and private-label RMBS.  That’s certainly our intention.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is discussing different events and their possible outcomes, as well as their intention regarding Treasury announcements.
+
+
+Passage number 51.
+ MR. NELSON. Just to say definitively, if I could, the haircuts on triple-A ABS charged at the discount window are all smaller than the ones charged by the TALF.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no clear contention or disagreement in this passage. The speaker is simply making a statement or clarification about the sizes of haircuts on triple-A ABS charged at the discount window compared to those charged by the TALF.
+
+
+Passage number 52.
+ MR. EVANS. I thought that autos were higher.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no contention or disagreement indicated in the passage. The speaker, Mr. Evans, simply states his initial belief that autos were higher in some context without any opposition or debate being presented.
+
+
+Passage number 53.
+  MR. NELSON. There is no distinction among the discount window haircuts.  So you might be thinking of auto loans as opposed to triple-A ABS that are backed by auto loans.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply providing clarification and correcting a potential misunderstanding.
+
+
+Passage number 54.
+  MR. EVANS. Yes, I was. That’s why I said it might not be apples to apples.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker agrees with the statement that was made and simply adds a comment to clarify that the comparison being made may not be completely accurate.
+
+
+Passage number 55.
+CHAIRMAN BERNANKE. Thank you. Okay, Charlie.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is simply expressing gratitude and acknowledging someone named Charlie.
+
+
+Passage number 56.
+ MR. EVANS. Yes. Thank you.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage.
+
+
+Passage number 57.
+ CHAIRMAN BERNANKE. All right.  President Stern.
+Does the passage contain contention or disagreement? Response from the model: No. The passage consists of two words, "All right," and "President Stern," which do not indicate contention or disagreement.
+
+
+Passage number 58.
+ MR. STERN. My questions have been addressed. Thank you.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. Mr. Stern expresses gratitude for having his questions addressed, indicating a positive and cooperative interaction.
+
+
+Passage number 59.
+ CHAIRMAN BERNANKE. Okay. Governor Duke.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage only includes one sentence, which is a neutral statement. There is no contention or disagreement present.
+
+
+Passage number 60.
+ MS. DUKE.  Mr. Chairman, let me make sure I understand on the TALF.  Is this going to be contingent on the ability to sterilize the expansion of the TALF.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. MS. Duke is seeking clarification on a specific point related to the TALF.
+
+
+Passage number 61.
+ CHAIRMAN BERNANKE. Well, mostly.  If the legislation giving the ability to sterilize is not passed, then we’re back to where we were last week, which is that we have to make judgments about how much expansion of what programs we’re comfortable with, based on our assessment of the duration of those commitments and on the presumed effectiveness of things like interest on reserves and so on.  But I think clearly there’s a tit for tat, in that there is no commitment on our part to do $1 trillion.  I mean, we may nonetheless make the decision to do something.  I think we need to make judgments as a Committee about what we’re comfortable with in terms of ultimately unwinding and sterilizing those impacts. I would guess that, without the legislation, the $1 trillion would probably be quite uncomfortable for us, because, assuming that the new ABS is done on the same terms as the initial, it’s a three-year commitment with some tail potentially after that if they put assets to us.  That’s worrisome in terms of the size and duration of the balance sheet. So I wouldn’t say that we wouldn’t go beyond $200 billion, necessarily, but I think the chance that we would go even substantially towards $1 trillion would be quite unlikely.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It is discussing different scenarios and potential actions without expressing any conflicting viewpoints.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 62.
+ MS. DUKE.  Okay, and then a second question.  I worry that this announcement might have actually the opposite effect on the banks. Do we have any contingency plan if this doesn’t  go well and there start being runs on uninsured liabilities at the banks.  Do we have any contingency plan for what we’ll do then.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. The speaker is expressing worry and suggesting the possibility of negative consequences, while also asking about a contingency plan. This indicates a disagreement or concern about the potential outcome of the announcement and the lack of a contingency plan.
+
+
+Passage number 63.
+ CHAIRMAN BERNANKE. I think we have had various strategies in the past, including injection of capital and so on, and I guess under the current situation, they’d be prepared to inject common. It would be the first time they’ve done that.  I will raise this with Tim Geithner, but there’s been no discussion in our group.  Deborah has a comment.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply stating their thoughts and plans without any opposition or conflicting views being expressed.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 64.
+ MS. BAILEY. I don’t have a good response to your question, but there is a separate group working on what steps we might take if, for example, there’s vulnerability, particularly around some of the larger banks, before this program can even get up and running, or if there’s another Friday night phone call. There is an interagency group that is not only working through the steps and clearly thinking about the capital and the wraps that we have done before, but that is also considering what other actions might need to be taken. There’s also a separate subgroup of people who are thinking about the legal changes that need to be made in the regulatory structure to be able to deal with a failure of a large, systemically important financial holding company; now we would have to deal with it through something like bankruptcy, which is not acceptable. So we’re laying out all of those steps—what we’ve done before, what other things we can do. The FDIC is involved in it. We’re trying to quickly put down on a couple of sheets of paper all of those things.
+Does the passage contain contention or disagreement? Response from the model: Yes. There is contention or disagreement in the passage. The mention of a separate subgroup of people considering legal changes suggests that there may be differing opinions on how to handle the failure of a large financial holding company, with the current bankruptcy method being deemed unacceptable.
+
+
+Passage number 65.
+ MS. DUKE.  I can foresee a circumstance where this is interpreted as a change in the regulatory requirements for capital, a judgment that the values in the bank’s equity are not there, a judgment that there is a plan to go in and close large numbers of banks, and I can see it being a particular vulnerability for those that are large but not as large—for instance, anything smaller than WaMu.  And I can see those banks having a very violent reaction or their counterpartieshaving a violent reaction, something that would force us into action in a large number of good-sized banks. I just think we ought to think about what we would do in that case.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker is expressing their thoughts and concerns about a potential scenario.
+
+
+Passage number 66.
+ MS. BAILEY. We have run screens, too, just to see which banks might on “day one” have a capital bogey that would not necessarily meet that tangible common equity threshold, to see which ones the market might pick on right away—that are vulnerable—and there are probably about four of them.  So we’ve tried to go through and look at those particular firms.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is simply stating that they have run some analysis to identify banks that may have a capital shortfall.
+
+
+Passage number 67.
+ MS. DUKE.  We might think it’s four of them, but the markets might think it’s a lot more than four of them.  That would be one concern here.  The second concern I would have is that given the experience with the TARP capital and in many cases the buyer’s remorse of having taken that capital, I can see a scenario where the banks would immediately start to dump assets and sell business lines in order to fortress up their liquidity as well as create additional capital in ways that don’t involve the government. And I think those outcomes would be very different than what we expect to happen or what we would like to have happen here.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It primarily consists of the speaker expressing concerns and potential scenarios.
+
+
+Passage number 68.
+ MS. BAILEY. I’ll add one other thing to that point:  It hasn’t been decided yet. As the Chairman said, a lot of the details are still being worked out.  But there is a concern around banks retooling their balance sheets, shutting down on lending, or shrinking their balance sheets to make some particular capital ratio bogey.  We’re trying to figure out ways to get around that.  For example, last night there was a lot of discussion about having a dollar amount of capital to focus on as opposed to a capital ratio—so we’re trying to see if we can work through some process where banks don’t shrink their balance sheets just to get to a certain capital ratio.  People are working on all of that now, and we’re all concerned about the same thing.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It presents the efforts of individuals to find ways to prevent banks from shrinking their balance sheets to reach a specific capital ratio. The focus is on addressing a shared concern.
+
+
+Passage number 69.
+ MS. DUKE.  Yes. The experience of the messaging in the last round is not encouraging.
+Does the passage contain contention or disagreement? Response from the model: No. The passage simply states a fact about the experience of the messaging in the last round not being encouraging. There is no contention or disagreement presented.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 70.
+   CHAIRMAN BERNANKE. We agree with that concern very much, and we’re going to raise this again with Tim.  I guess there are always these short-run versus long-run concerns.  I think, on the other hand, we do not want to commit to maintaining the existence of every current bank that is operating, and, as I said, one thing I like about this in principle, although the communication is a huge problem, is that it is very market-based and very “tough love.”  The hope is to come out the other side with a banking system which is plausibly well-capitalized and can inspire investor confidence.  But the transition could be very tricky, and we need to think very hard about contingency plans and about our communications. Vice Chairman, you have a two-hander.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The speaker mentions both agreement and disagreement. They agree with the concern being discussed but also express a different perspective by stating that they do not want to maintain the existence of every current bank.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 71.
+ VICE CHAIRMAN DUDLEY.  Yes, and I think that Governor Duke raises some very important points, which is why I was here until late in the night last night, to try to improve the messaging. I think there’s another issue, too, which is that there are firms that can be resolved pretty easily within the existing bank resolution framework, and there’s one particular firm that can’t; we are working on how to handle the one particular firm that can’t, but it’s very, very difficult, given the existing tools.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention or disagreement in the passage. The speaker acknowledges that Governor Duke raises important points but implies that they have a different perspective or solution to the issue at hand. They also mention that there is one particular firm that is difficult to handle, suggesting that there may be disagreement on how to handle it within the existing tools.
+
+
+Passage number 72.
+ CHAIRMAN BERNANKE. President Fisher had a two-handed intervention.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no indication of contention or disagreement in the statement "President Fisher had a two-handed intervention." It is a simple statement without any conflicting views or differing opinions.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 73.
+   MR. FISHER. Mr. Chairman, I just wanted to underscore the questions that Governor Duke has asked, because of the cumulative process here under the previous administration.  I’m not attacking that administration, but the way things were announced and delivered by the Secretary of the Treasury and the whole process made for really a “ready, fire, aim” approach.  And I’m very uncomfortable.  I understand the pressure that everybody’s under and that Secretary Geithner is under, but the vagueness here, which you mentioned at the beginning, will  in my opinion just feed upon what was almost a spastic methodology (that’s a gross word, but, in effect, that’s what it was), because we’ve gone through this process before.  So, in a sense, the markets are conditioned to worry whenever something is announced, and I do think we all should be—you should be, the Board should be, and the FOMC should be—prepared for a harsh negative reaction. The lack of specificity here is what they’ve seen before, and I realize that that’s, in some people’s minds, politically wise—to see what the reaction is—but we plant the seeds for a very harsh reaction by being vague.  And I just wanted to add my concern to Governor Duke’s. At least we should be prepared for a very harsh reaction.  My response to this is, it’s just one more uncertain step being taken.  I know how hard we’re working on this, and I know how much thought has gone into that. So we’re learning at every step.  But be prepared for a negative reaction that could be quite harsh, and at least we ought to have that in our contingency planning. Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. The speaker, Mr. Fisher, expresses disagreement with the approach taken by the previous administration and expresses concern about the lack of specificity in the current situation. This is evident when he states, "the way things were announced and delivered...made for really a ‘ready, fire, aim’ approach" and "the vagueness here...will, in my opinion, just feed upon what was almost a spastic methodology." He argues that the lack of specificity and uncertainty may lead to a harsh negative reaction from the markets.
+
+
+Passage number 74.
+ CHAIRMAN BERNANKE. Governor Warsh, you had a two-hander, but also a regular question.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The question is asking Governor Warsh about having two different types of questions during an event or interview, but it does not indicate any disagreement or opposition.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 75.
+ MR. WARSH.  Thank you, Mr. Chairman.  Let me just echo the comment you made at the outset, which I think Governor Duke and others have made.  It will sound in the spirit of piling on, because this is obviously an incredibly tough situation and we’re all doing our very best. I think in terms of market expectations that you and, I think, Bill referenced—these expectations have been raised about what is going to be announced on Monday.  My sense is that this program is both more and less than they’re expecting:  More in that it is broader and more comprehensive; less in that it’s less clear what this is going to mean in effect and with respect to timing.  So I’d say that while the questions are being asked about how this works in practice, we are likely to have markets test that weakness, test that ambiguity, and I suspect they will do that   in this upcoming week, particularly with respect to some of our most systemically important  institutions. So I think for them this will be exceptionally problematic.  I hope that this is better received than my instincts and the instincts of some others on this call suggest, but I do think that we need to be as prepared as we can be to respond to these questions. With respect to how the Congress might react, I think that’s an additional difficulty.  In some ways, I think this proposal is encouraging the Congress to engage in these discussions, engage on lending, engage on capital, which, again, I think will add uncertainty to markets over the course of the next several trading days. A couple of other concerns along those lines: While these questions are being raised, it will be more difficult, not less, for capital markets to get traction separate and apart from financial institution weakness, so I think that some of the improvements that we’ve seen from some of the facilities that have been announced and implemented in New York by Bill and his colleagues might be under increased difficulty during this period.  And then finally, just as a note of caution, I think even apart from those institutions that are going to have the biggest questions with respect to control and creeping nationalization and the intent of the U.S. government, I think there will be implications for the healthier ones who are their competitors, implications for their business model and their deposit base, which we’re going to be put in the position of having to address. So I wish I had easy answers to it, but my sense would be that, in the course of the discussions with Treasury between now and Monday morning, there are really two ways to go.  One is to go narrower at the first and be more specific about particular programs and set expectations about when they will announce the rest.  The other is to try to put some time parameters around when they’re going to answer questions subsequently—so that we don’t just  have a series of leaks and bleeding information that finds its way into the newspapers.  I think the Fed has been remarkably quiet and confidential during this.  My sense is Treasury has, as well. But, if the last week is any indication, the sort of false starts and messages that come from  this process are going to create difficulties.  So let me stop there, but just raise my concerns there as well.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention or disagreement in the passage. The speaker expresses concerns and doubts about the effectiveness and clarity of the proposed program and anticipates that markets will test its weaknesses and ambiguity. They also raise concerns about the potential negative implications for financial institutions, capital markets, and competitors. Additionally, the speaker suggests two different approaches for the discussions with Treasury, indicating a lack of agreement on the best course of action.
+
+
+Passage number 76.
+ CHAIRMAN BERNANKE. We hear that.  President Pianalto had a two-hander.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage "We hear that President Pianalto had a two-hander." This sentence simply states a fact without presenting any conflicting ideas or viewpoints.
+
+
+Passage number 77.
+   MS. PIANALTO. I have a couple of concerns similar to those Governor Duke raised.  I have been hearing directly from some of the banks in my District.  Two of them I believe are among the four that Deborah said we are watching closely.  They have been hit hard in the past week in terms of stock prices because of concerns that they are not going to be able to take advantage of some of the programs that you’ve laid out.  Now, one of the things that they raised is that markets are speculating that their financial conditions are so bad that they wouldn’t be able to participate in these programs.  What I like about what you laid out in the scrubbing of these institutions is that they are going to be treated equally—because some of them are saying that some regulators are being a little less stringent, so there is not equal regulation or supervision of these institutions.  I think emphasizing in the communication that they are going to be scrubbed and treated consistently might be helpful, because, especially for a couple of institutions, the markets are judging that their financial condition is different than might otherwise be perceived. The other issue that they raised and you didn’t mention as part of this package is the short-selling provision.  Again, this is important to them because some of these institutions’ stocks are getting hit extremely hard, because of some assumptions that are being made.  Soperhaps the ban on short-selling during this period of uncertainty is an option and something we should consider again.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+The passage does not contain any explicit contention or disagreement. MS. PIANALTO is expressing concerns and suggesting additional considerations, but there is no indication of disagreement or conflict.
+
+
+Passage number 78.
+ CHAIRMAN BERNANKE. The SEC has not been involved in this discussion.  I haven’t heard any plans to do that, but it’s an idea. Governor Duke had a two-handed intervention.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The first statement simply states that the SEC has not been involved in the discussion, while the second statement acknowledges the possibility of future plans without opposing or contradicting the first statement. The mention of Governor Duke's intervention does not introduce any disagreement either.
+
+
+Passage number 79.
+ MS. DUKE.  One other follow-up on the scrubbing process:  I think there’s a risk that this gets interpreted as an admission of regulatory failure, as if we have not already supervised them adequately and have let them report assets at the wrong values.  That further erodes the credibility of both the supervisors as well as the financials of banks that are doing fine.  And I would worry that we would get caught up in a conversation about whether or not the supervisory process had done its job, rather than being able to convey the message that we’re looking at a more stressed scenario than would be required by regular accounting.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a statement expressing concern about potential misinterpretation and the detrimental effects it may have.
+
+
+Passage number 80.
+ CHAIRMAN BERNANKE. So the language in the document as it currently stands: “In conjunction with the review of the capital planning process, supervisors are undertaking a coordinated review of banks’ reserving and valuation to ensure consistency and appropriateness across banks.  Supervisors will also work with institutions to increase the transparency by enhancing each firm’s public disclosure of exposures, non-performing assets, and reserves, as well as firms’ internal assessments of expected credit losses.” So I think the emphasis is a bit more on consistency, but the point you raise is one that has been mentioned and was noted on the communication issue.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker acknowledges the emphasis on consistency in the document and agrees with it, but also acknowledges that there has been a note about communication issues.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 81.
+ MS. DUKE. President Pianalto is assuming that this means that the others will do the job as well as we did.  You may have all of the supervisory agencies thinking that this means that everybody else will do things as well as they did and the general public thinking that nobody had done the job properly before this.
+Does the passage contain contention or disagreement? Response from the model: Yes. There is contention or disagreement in the passage. Ms. Duke is expressing skepticism or disagreement with President Pianalto's assumption that others will do the job as well as they did. She suggests that supervisory agencies and the general public might think differently and believe that the job was not done properly in the past.
+
+
+Passage number 82.
+   CHAIRMAN BERNANKE. Any other two-handers.  [No response.] Okay. So back to the normal cycle here.  President Plosser.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply states a statement and then transitions to another topic.
+
+
+Passage number 83.
+  MR. PLOSSER. Thank you, Mr. Chairman.  I think this last round of discussion about communication is really critical, and I share some of the concerns that have been raised.  The other point Governor Duke raised that I think is important is the relationship between the proposals for sterilization and the increase in the size of the TALF.  And I like the proposal you made, Mr. Chairman.  I think it’s a great step forward.  But I’m anticipating that we’ll have to hang tough on that—that there might be a lot of pushback from the Congress saying, “You don’t need to do this. Just do the TALF and increase it to $1 trillion anyway.  We don’t need to provide you with the sterilization capabilities.”  And I think we have to be pretty tough in trying to ensure that we have that flexibility.  I think it’s an important step. The other thing is the Government Investment Board you talked about.  Will they have oversight over all banks who accept capital from the TARP, either old or new.  Or will it be partitioned by some sort of size—just the top 22.  And, therefore, are they the ones that will be imposing these conditions you spoke of—the commitments to lend, the executive compensation issues that would have some stronger conditions, and the dividend restrictions.  Is that going to be managed through this oversight board, or is that something separate.  And whom will that apply to.  Again, just the ones that have accepted capital, or everyone. I don’t know if there’s any clarification on this. Back to the communication—about the $1 trillion headline number.  I think it’s going to be viewed by many people as a target.  And we’re going to have to work hard not to have it interpreted that way.My last question is about the aggregator bank.  Having a good bank–bad bank model is obviously not something new.  There are a number of banks in history who have created good bank–bad banks internally where they actually split a bank into two and gave shareholders and debt holders shares in both banks. I’m wondering about a way of minimizing public commitment of capital for the bad bank, and I’d just like to hear a little more discussion about how the public-private relationship in this bad bank might look.  Anything more expansive you can offer on that I’d appreciate. Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any clear contention or disagreement. It consists of the speaker sharing concerns, asking questions, and seeking clarification on various topics.
+
+
+Passage number 84.
+ CHAIRMAN BERNANKE. So, just to reiterate, the $1 trillion is contingent on liquidity support, in the sense that we will have to take into account the availability of the sterilization facility in thinking about what we can do. And we all understand and take very seriously our responsibility to be able to unwind the programs in a timely way. The language on the “independent”—it says here—Government Investment Board is a little vague. It says, “The Board will oversee the management of our investments in financial institutions,” which I guess means from an asset management point of view.  “The Board will establish guidelines for and monitor our investment interests in financial institutions on questions of voting rights, dividend policy, compensation issues, and governance.  But it will also ensure compliance with conditions associated with USG investment, and will ensure transparency.” It sounds to me as if it’s going to serve, to some extent, as a board that votes the government’s interest.  And I assume that common will have different interest than preferred.  But I am sure there will be general terms for accepting the money that are in the legislation or in the policy stated by the Treasury regarding executive compensation and so on.  Those will be universally applied.  The board will just make sure that they’re applied.  But the board will have the authority to go further, depending, for example, on the state of the bank.  On the aggregator bank, we looked at a huge number of different models.  I think if we had done the entirely public-controlled one, which, I should say, our staff generally tended to prefer to the public–private partnership, the argument would have been to create silos in the aggregator bank, one for each bank that participates, and then to pay for the assets acquired, in part with shares in those silo banks—sort of a first-loss position.  That was the leading public alternative. The problem was that it’s not just an economic issue, but the Treasury feels very politically vulnerable to the charge that we are negotiating high prices and giving a back-door subsidy to the banks. Although our staff felt that we could do reverse auctions for broad classes of assets, the Treasury remained concerned, for example, about individual loans and other very idiosyncratic types of assets.  I think there is still some willingness to consider perhaps a combination of public and private acquisition, but they felt that having the private acquisition would look better in terms of ensuring that good prices were being obtained. Once you have private acquisition, however, then you have to give the private investment managers scope to buy whatever they want from any bank.  In fact, the initial idea was not even having to buy from banks, in which case it’s no longer a question of a bank saying, “Well, here’s the share of stuff we want to put into our bad bank.”  It really depends on what they can sell to the private investment manager.  So the good bank–bad bank structure in each bank fits less comfortably, less easily, with this private–public arrangement. In terms of the details, there are not very many.  Again, I’ve got this draft, and everything is time dated, because it’s a moving target.  It says, “The Treasury will invest capital alongside private investors for the purchase of up to $500 billion in legacy assets from regulated financial institutions. Purchases through the investment portfolio will be guided by appropriate risk andreturn objectives.”  And there will be definitions of which classes are eligible; it refers to a competitive bidding process or private sector process.  Financing will be provided by the government “with the degree of leverage guided by requirements consistent with a triple-A rating from an NRSRO.”  So I think that means also that they’re taking some steps to make sure there’s not a subsidy in the pricing mechanism or in the terms on which you finance the aggregator bank either. But we’ll see.  Vice Chairman.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 85.
+ VICE CHAIRMAN DUDLEY. I think the key question about this aggregator bank is:   Given these private sector investors who are going to have to be compensated for the risks that they’re taking, will the bank pay prices high enough to incentivize banks to actually sell assets to the aggregator bank.  I think at this stage we don’t really know the answer to that.  I don’t think at this point we can really say how well or how badly it will work in practice.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is a disagreement or contention in the passage. The author expresses uncertainty and doubt about whether the aggregator bank will pay high enough prices to incentivize banks to sell assets to it. The statement "I don't think at this point we can really say how well or how badly it will work in practice" indicates the author's skepticism and lack of agreement with the effectiveness of the proposed solution.
+
+
+Passage number 86.
+ CHAIRMAN BERNANKE. The theory is that the reason there’s such a huge bid–asked spread between what the banks are willing to accept and what the investors are willing to pay is that there’s this huge liquidity premium, basically because investors don’t have long-term financing. So we are going to give them long-term financing.  That ought to make them willing to see through the liquidity premium.  That certainly will bring them closer together.  If they’re still not willing to sell, then it suggests that there’s some informational difference—or something—that goes beyond the liquidity premium.  So at least it does address that important part of the bid–asked spread. Two-hander from President Plosser.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is explaining a theory and suggesting a solution to address the bid-ask spread between banks and investors.
+
+
+Passage number 87.
+ MR. PLOSSER. Thank you, Mr. Chairman.  I appreciate the answers.  But in some sense, won’t the scrubbing exercise, at least for many of these banks, help drive them to make perhaps different decisions about those assets that they’re willing to sell and what they’re willing to sell them for.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not show contention or disagreement. It is a statement and a question seeking clarification.
+
+
+Passage number 88.
+   CHAIRMAN BERNANKE. I think that’s right. For example, consider an asset that is carried on the banking book at 90 and for which the bank has reserved only for the next year.  If the government says, “We’re going to take seriously that your expected losses after the first year are 20, and we’re going to make you put in capital to match that 20,” then maybe it makes more sense to sell at 75, right.  So, there should be some impact from that.  But it all depends on the execution as well as the concept.  Governor Kohn.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: There is no clear contention or disagreement in this passage. The speaker is discussing the potential impact of government regulations on banking practices. There is no opposing viewpoint or argument presented.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 89.
+ MR. KOHN. Thank you, Mr. Chairman.  Some of my questions were the ones that Governor Duke was raising. The capital piece of this seems to be very critical.  In some sense we backed away from the huge aggregator bank or the ring fencing in favor of just putting more capital in there, and I guess we’re sort of forcing the banks to come to us for capital with the scrubbing process. All of that makes sense to me—with a few questions.  It does strike me that this is a new requirement.  Now, I know, as Deborah has taught me, that we have Tier 1 capital requirements, and they’re supposed to be dominated by common, and we’ve kind of slipped from that.  But it does sound like we are putting in place a new capital requirement, and there are all the pro-cyclical problems with that.  Especially if we go to a dollar level of capital, we haven’t had those kinds of requirements before.  We haven’t ever told a bank that it can’t sell pieces of the bank to meet our requirements. I think there will be huge resistance to this by the banking sector.  Now, maybe part of this will depend on the terms on which the new capital comes in.  One prominent banker yesterday said he wouldn’t take any new capital.  He may not have any choice.  But I think there’s going to be a lot of resistance to the capital.  I feel bad, because I don’t have a solution to any of these problems.  I’m just pointing out my concerns.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in this passage. The speaker expresses concern and raises questions about the new capital requirements and predicts that there will be resistance from the banking sector. They also mention that they do not have a solution to these problems.
+
+
+Passage number 90.
+CHAIRMAN BERNANKE. We’re going into the period of the financial crisis where the government is going to begin to dictate capital requirements, so a lot of people are going to be facing that. In principle, our existing requirements require holding capital against expected losses beyond the reservable period. So this is not a departure in principle.  It’s just something that hasn’t been effectively executed in the context of a rapidly declining economy.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It merely explains that the government will start dictating capital requirements during the financial crisis and clarifies that capital requirements in principle involve holding capital against expected losses. The statement also acknowledges that the execution of these requirements has been ineffective during a declining economy.
+
+
+Passage number 91.
+ MS. BAILEY. And I think getting to the 3 percent bogey gets to the predominant figure.  That doesn’t change the well-capitalized requirement of 6 percent.  So we were trying really hard not to come up with a new capital standard in that sense.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. MS. BAILEY is simply stating that reaching the 3 percent bogey does not mean that the well-capitalized requirement of 6 percent is no longer necessary. The statement is a clear explanation of the capital standards.
+
+
+Passage number 92.
+  MR. KOHN. But we are using the stress scenario.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 93.
+ MS. BAILEY. Right, but only for the buffer.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement.
+
+
+Passage number 94.
+ MR. KOHN. But then we’re making that buffer a requirement—sort of.  I think it’s the right thing to create a safer banking system, one that’s robust to the stress scenario.  But it’s going to be very difficult.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: There is no indication of contention or disagreement in this passage. The speaker is expressing their opinion that creating a safer banking system with a robust buffer is the right thing to do, but acknowledges that it will be difficult to achieve.
+
+
+Passage number 95.
+ MS. BAILEY. I think there will be some differences.  We’re trying not to do just a fixed percent. That’s why we’re looking at it institution by institution and working with the examiners who have some insights on the quality of different portfolios in order to get to a buffer.  I agree with the Chairman.  The buffer was always supposed to be there.  It’s the environment we’re now requiring it in that’s very different.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. Both speakers agree that there will be some differences and that the buffer was always supposed to be there, but the environment in which it is now being required is different.
+
+
+Passage number 96.
+ VICE CHAIRMAN DUDLEY. I think the expectation, too, is that this number is not going to be stated. In order to minimize the idea that there is this new requirement, there’s not going to be a number out there that they actually have to go to.  What we have here is a fundamental tension between individual institutions who want to hold only enough capital for the good states of the world, and us, who want them to hold enough capital for the bad states of the   world, to make the bad states less likely.  And that fundamental tension has existed throughout the last year and a half.  The buffer is designed to cut through that dilemma a little bit by forcing them to hold enough capital that they can withstand a bad state of the world, which will then make the bad state of the world less likely.  I think that’s the intent.  But they’re not going to like it. I think that’s fair.
+Does the passage contain contention or disagreement? Response from the model: No. There is no disagreement or contention in the passage. The speaker is simply stating their own opinion and explaining the tension between individual institutions and the speaker's own perspective.
+
+
+Passage number 97.
+  CHAIRMAN BERNANKE. So the current document says that the capital is going to be “sized on the basis of the capital planning process, undertaken in conjunction with the firm’s supervisor. The capital buffer established under this program does not represent a new capital standard, and it is not expected to be maintained on an ongoing basis.  Instead, the buffer is available to help absorb larger-than-expected future losses and to support lending to creditworthy borrowers.” Governor Duke.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 98.
+ MS. DUKE.  The capital that we normally want them to hold is private capital.  Now we not only want them to hold that, but we want them to hold ours, because ours is the only capital that they can get.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention or disagreement in the passage. The speaker suggests that there is a conflict between what is typically desired (private capital) and the current situation where they also want them to hold their capital. This implies that the two types of capital may be seen as different or in opposition to each other.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 99.
+  MR. WILCOX.  This will be structured with pretty strong incentives to try to get them to buy us out of the position, precisely on that consideration.
+Does the passage contain contention or disagreement? Response from the model: Yes. The passage indicates that there will be strong incentives to persuade someone to buy them out of a position. This suggests some level of disagreement or opposition between the parties involved.
+
+
+Passage number 100.
+ MR. KOHN. In terms of the market reaction, my expectation—and I defer to Bill— would be that reaction in the equity market will be extremely negative, but not necessarily in the liquidity market.  We’ve seen such things before.  We used to have a dynamic between the CDS spreads and the equity market and liquidity, and we’ve broken that with the TLGP, the Fed facilities, and things like that.  So I don’t see any reason for liquidity to slip, except perhaps for those marginal institutions that Betsy referred to—the ones where no one knows whether they’re in the “too big to fail” category or not—and the others that Kevin was talking about, the ones right at the top that seem to be slipping.  In those cases, I wouldn’t expect a run as much as the “slow bleed,” because who knows what’s going to happen, and business will go away.  But I think it’s important that the TLGP has been extended, and it would be good to put whatever emphasis we can put on that to protect liquidity.  I think the aggregator bank is important, because that is an offset. And even if it doesn’t pay above market in some sense, I think it will help—just like our buying MBS. I’m impressed with the effect our purchase of MBS and support of commercial paper has had; just putting a bid in those markets has helped.  So the bigger the aggregator bank can be and the stronger the TLGP is, I think, the more they will be able to provide a little bit of protection against the downside risk in the capital.  Finally, on the TALF—this is not a question, but a view—I think it’s so important to get these securitization markets working.  We’ve spent a lot of time talking about the capital constraints on the banks; that’s not going to go away any time soon.  If we want credit flowing to households and businesses, a lot of it has to flow through the securitization market.  The TALF is there to encourage the demand for securitized assets.  We don’t know whether it will work.  A lot of smart people think it will work, and our fingers are crossed.  But we also have the opportunity to rejigger it and try and make it work, if it doesn’t work the first time.  I do think the sterilization part is important.  But I think it’s also very important to get that market going.  We ought to cooperate as best we can in getting that happening.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. The speaker is discussing various measures that have been taken to protect liquidity and encourage the flow of credit in the market. The speaker expresses their opinion and emphasizes the importance of these measures but does not disagree or engage in any argument with anyone else.
+
+
+Passage number 101.
+ CHAIRMAN BERNANKE. Governor Duke.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+There is no mention of Governor Duke in the passage provided, so there cannot be any contention or disagreement.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 102.
+ MS. DUKE.  I would just challenge the assumption that the equity prices don’t matter, because when the vast majority of the public sees those stock prices going down, particularly to the very low levels that they’ve reached recently, that triggers some concern about the institution.  They don’t have anything else to look at—the only thing they can see is what’s happening to the stock prices, and that’s how they judge.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is potential contention or disagreement in the passage. The speaker challenges the assumption that equity prices don't matter, implying that they do have an impact on public perception and concern about an institution. This suggests that there may be differing opinions on the significance of equity prices in evaluating an institution.
+
+
+Passage number 103.
+ CHAIRMAN BERNANKE. I’m taking some notes on what everyone is saying, and I want to say that many of the views I’ve heard are consistent with what I and some of the staff believe.  We will communicate this to the Treasury Secretary.  But if anybody, including presidents, wants to communicate specific points or specific concerns to me, do it via Michelle, if you’d like. I will aggregate them into an e-mail or into a memo and send it to him saying, “This is the sense of the FOMC; here are some issues that were raised,” and just make sure, at least, that he is aware of some of these concerns.  President Lacker.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It focuses on the author's agreement with the views expressed and their intention to communicate those views to the Treasury Secretary.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 104.
+ MR. LACKER. That would be an aggregator memo.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The phrase "That would be an aggregator memo" suggests that Mr. Lacker does not agree with or support the idea of an aggregator memo.
+
+
+Passage number 105.
+  [Laughter] CHAIRMAN BERNANKE. Yes.
+Does the passage contain contention or disagreement? Response from the model: Explanation: Laughter is often a sign of agreement or enjoyment, so the presence of laughter suggests that there is no contention or disagreement in the passage.
+
+
+Passage number 106.
+ But with separate— VICE CHAIRMAN DUDLEY. Separate silos for each Bank.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. It simply mentions the concept of separate silos for each bank.
+
+
+Passage number 107.
+ CHAIRMAN BERNANKE. Yes.
+Does the passage contain contention or disagreement? Response from the model: Explanation:
+
+
+Passage number 108.
+ MR. LACKER. I have a couple of questions. First is about this last discussion.  Maybe there’s something else going on here, but the sense you get is that the inability of banks to raise private equity has to do with two things: One is that the probability distribution around their losses is wide enough that there’s a substantial chance that, absent government intervention,  some losses would be absorbed by debt holders, so new equity would, to some extent, subsidize current debt holders; the second is the prospect for future government capital injections that are dilutive. It strikes me that it’s going to be unlikely for banks to raise private equity until those two sources of concern for potential equity investors are removed. The aggregator bank and some of the other programs can reduce that uncertainty—that debt overhang problem.  Of course, if the banks had enough capital, there wouldn’t be a debt   overhang problem.  But if there is one now, they’re not going to be able to raise private equity to get to a point where their equity cushion is big enough to reduce that debt overhang problem.  So I’m not sure it’s going to be likely they are going to have any success in raising private capital under this plan. And on this question, Governor Kohn said something—and if this was in your presentation, Mr. Chairman, I missed it—about them  not being able to sell assets to raise their capital ratio. Is that a provision of what is proposed.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is expressing their opinion and concerns about banks raising private equity. They are discussing the reasons why it may be difficult for banks to raise private equity and questioning the effectiveness of the proposed plan.
+
+
+Passage number 109.
+ CHAIRMAN BERNANKE. Deborah talked about an alternative discussion about setting capital in terms of quantities instead of ratios, but that’s not something that, as far as I know, is in the plan at this juncture.  I think there will be some deleveraging that will go on.  The hope would be that the aggregator bank, et cetera, would be a safety valve for that.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage does not indicate any disagreement or contention. It is simply providing information regarding Deborah's suggestion and the speaker's opinion on the matter.
+
+
+Passage number 110.
+ MR. LACKER. Governor Kohn said something about a restriction on them not selling assets. I didn’t quite understand that.
+Does the passage contain contention or disagreement? Response from the model: No. There is no clear contention or disagreement in this passage. The speaker, Mr. Lacker, simply mentions that he did not fully understand Governor Kohn's statement about a restriction on selling assets. It does not indicate any disagreement or argument between the two individuals.
+
+
+Passage number 111.
+ MR. KOHN. Deborah had noted that that was a concern—that they would meet the requirement by selling assets; and one way of trying to mitigate that was to set the capital requirement in terms of an amount, so selling assets wouldn’t necessarily help you meet the new requirement.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a statement about a concern and a suggestion for mitigating it.
+
+
+Passage number 112.
+ MS. BAILEY. It is a big concern that banks could try to meet the new requirement in a variety of ways, including selling their assets.  On the other hand, there are good examples where you do want them to deleverage and sell the assets.  But the problem in terms of getting things moving again is, if they just shut down, don’t lend at all, totally strip their balance sheet, it somewhat defeats the purpose.  So people are brainstorming about other ways to do this without leading to shrinkage of the balance sheet to meet some ratio number.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It presents different viewpoints or considerations regarding banks meeting new requirements, but there is no explicit conflict between these viewpoints.
+
+
+Passage number 113.
+  CHAIRMAN BERNANKE. So, President Lacker, I don’t think that’s in the current version of the plan. I guess you could call it a benefit that the concern that the aggregator bank wouldn’t have any business gives an additional reason for banks to offload assets to the aggregator bank.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 114.
+ MR. LACKER. I took the broad lesson of the RTC, Japan, and Sweden to be that selling assets has some benefits as well as some potential problems, so I wasn’t quite sure what the attitude was about that. I’m a little puzzled about the incentives in the aggregator bank.  You talked about the private profit motive and paying fundamental values for things.  Yet they’re going to have this huge government guarantee in their liabilities, and I’m not quite sure how we ought to view the incentives of the private equity holders who would control that.  It’s not clear to me that they’re going to be managing it from a socially optimal point of view.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is disagreement in the passage. The speaker, Mr. Lacker, expresses confusion and skepticism about the incentives and management style of the private equity holders in the aggregator bank, while also questioning the clarity and effectiveness of the government guarantee of their liabilities.
+
+
+Passage number 115.
+ CHAIRMAN BERNANKE. The argument is analogous to the TALF in a way.  As I was saying before, the idea is that there’s lots of money on the sidelines willing to buy these troubled assets. The rate of expected return is now very high, because of liquidity and risk premia.  But what’s preventing the purchases is lack of long-term reliable financing.  The bank would make that financing available but not at concessional rates; also—and this may not be fully market-based—it would provide a little bit of downside tail risk, because there’d be some government capital involved. But, of course, on the other hand, you’d have to share the returns with the government based on their capital contribution. The idea is that you give these investors some long-term financing, so they don’t have to worry so much about the short-term holding risks and liquidity risks, and, therefore, they would be able to buy more and offer better prices than they’re able to now without that support.  So that’s the logic of it.  And because they share in the profits, they have no incentive whatsoever to overpay for whatever assets they acquire.  They’ll pay as little as they can, and so arguably we can tell the public that they’re getting the benefits of aggressive market-based pricing.
+Does the passage contain contention or disagreement? Response from the model: No.  There is no contention or disagreement in the passage. The author is simply explaining the logic and reasoning behind a particular argument.
+
+
+Passage number 116.
+ MR. LACKER. That argument depends on the financing rate being a true rate, and the financing rate they could get now in the market being some distorted rate, I guess.  If that’s not true, then we’re subsidizing their financing, and they ought to be willing to pay more.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is making a hypothetical statement and questioning the validity of an argument.
+
+
+Passage number 117.
+ CHAIRMAN BERNANKE. That’s right, but also, there’s going to be competition among the potential investors for this license, and that will bid away some of the rents, I think.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage does not indicate any disagreement or contention. It simply provides an additional point regarding the potential competition among investors, which may result in bidding away some of the rents.
+
+
+Passage number 118.
+ MR. LACKER. Yes, but the value of those rents will be contingent on their ability to pursue whatever strategy they want when they control it.  So that doesn’t mitigate the effect on what they’re willing to pay for things.  In fact, it requires them to overpay if warranted by the financing arrangement.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is a statement made by Mr. Lacker explaining that the value of rents will be determined by the company's ability to pursue their desired strategy, and that this may require them to overpay if necessary.
+
+
+Passage number 119.
+ CHAIRMAN BERNANKE. Again, this is as much about optics as it is about economics.  They want to be able to portray a market-based system that is not suffering from serious adverse selection and overpayment issues.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage states that the focus is on both optics and economics, indicating that there is agreement in considering both aspects. It also mentions the desire to portray a market-based system without adverse selection and overpayment issues, suggesting a consensus on this goal.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 120.
+ MR. LACKER. I have two questions about the TALF.  One is that I think it would be a good thing if our best estimates are that the probability that the Federal Reserve bears a loss is virtually negligible. There have been analyses like that in the private sector that haven’t come true in the past.  We’re all tied together in the Reserve Banks in terms of these losses, and our boards of directors are expressing an increasingly avid interest in the nature of the risks we’re exposed to on our balance sheets. And here we’re taking the Fed System’s balance sheet from $1.7 trillion or something up to $2.7 trillion—this is a fairly notable increase.  I think it would be useful for us to have access, at a fairly detailed level, to this analysis of the potential losses to the  Federal Reserve that might be involved in the TALF—what kind of analytics determine the parameters, and how they were set, and why we have confidence that the probability of losses is fairly minimal.  I’d be interested in knowing if you could assure us we’d get access to that from  whoever is doing the analysis within the System.
+Does the passage contain contention or disagreement? Response from the model: Yes. There is disagreement in the passage. Mr. Lacker is expressing a concern and requesting access to detailed analysis of the potential losses and risks involved in the TALF. He is questioning the confidence in the minimal probability of losses, suggesting that previous analyses in the private sector have not always been accurate. This indicates a disagreement or contention regarding the level of risk involved.
+
+
+Passage number 121.
+ CHAIRMAN BERNANKE. How about a presentation at the next FOMC.  Would that be acceptable.
+Does the passage contain contention or disagreement? Response from the model: No. There is no clear contention or disagreement in this passage. It is a suggestion proposed to the audience about presenting at a future meeting.
+
+
+Passage number 122.
+ MR. LACKER. Do you mean just a verbal presentation.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage.
+
+
+Passage number 123.
+ CHAIRMAN BERNANKE. No, with documents and details.  We can send you analysis, if you’d like. But you might prefer to have a discussion and a verbal presentation as well.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The passage states that analysis can be provided along with a verbal presentation, which indicates a desire for open discussion and understanding rather than disagreement.
+
+
+Passage number 124.
+ VICE CHAIRMAN DUDLEY. It’s not the most straightforward thing to work your way through, and I think we can share a lot of material on that.  But if I could address the risk of the TALF for just a second, I’d mention four points.  One, it’s a triple-A-rated security, so it’s already at the upper part of the capital structure.  Two, there’s a haircut that the investor takes above and beyond that triple-A-rated security. Three, there’s a spread in terms of the interest margin that’s earned.  And then, four, there’s the Treasury capital between us and loss. So a lot of things have to happen to get to the Fed actually losing money here.  And under most scenarios, the Treasury doesn’t lose money.  The Treasury makes money on an expected value basis under reasonably stressful scenarios.  We can share that stuff with you.  But I think it’s important to recognize that these are new securitizations, so they’re newly underwritten, and a lot of things have to happen before they get to us.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It is focused on explaining the complexities and potential risks of the TALF (Term Asset-Backed Securities Loan Facility) without any conflicting viewpoints.
+
+
+Passage number 125.
+ MR. LACKER. Yes. I understand the details of the program.  I understand all of the buffers there are between us and some losses. But in the past, people said the triple-A tranches of RMBS CDOs were virtually risk-free, and now they’re selling for below 50 cents on the  dollar. I know your folks are more expert in this than the rating agencies.  It’s just that we want some comfort, and we want to be able to vouch to our boards of directors, who still have the standard fiduciary responsibilities—even though the Treasury is obviously bearing the loss at the end of the day—that we understand the risks that are being run and that we’re comfortable telling them that we understand the risks are low.  So it will be good to get that analysis from you in New York. The second question I have about the TALF has to do with the role that hedge funds are going to play. We’ve seen over the last couple of weeks a tremendous amount of political noise about executive compensation at the entities that have received TARP capital injections.  I wonder what our political vulnerability might be here to questions from the Congress or concerns raised in the public about the compensation practices or other practices of entities that are getting credit from the Federal Reserve on terms that arguably aren’t available in the market, so they are presumptively somewhat advantageous, and the loans are certainly governmental funds.  Is there some risk to us that we’d be caught up in complaints about compensation practices and lavish expenditures at hedge funds.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 126.
+ CHAIRMAN BERNANKE. That’s a good question.  I don’t have a really satisfactory answer. On the one hand, we have had legal consultations, which persuaded us and the Treasury that, as far as meeting the letter of the law of the TARP is concerned, it’s sufficient to impose those compensation and other restrictions on the issuers of the ABS as opposed to the investors who are buying it. But, of course, you’re right—there’s always political risk there.  The other point is the communication issue, and we’ve made some efforts to set up some talking points to explain what this does and why it’s important. Michelle, can you send the Presidents a list of our   talking points about why this is a benefit for the general public.  But you raise a good point—it’s a risk. President Evans just wants to interject.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 127.
+   MR. EVANS. Will the investors in the aggregator bank be subject to any executive compensation regulations.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. It is a straightforward question asking about the subject of executive compensation regulations for investors in the aggregator bank.
+
+
+Passage number 128.
+ CHAIRMAN BERNANKE. That’s a similar question—and I assume not.  President Lacker.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is making an assumption and stating that they believe the answer to the question is not similar.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 129.
+ MR. LACKER. I don’t want to shut off the discussion on this point, if there’s more.  But, if not, this is my third and final question.  It’s a comment in addition to a question, and it has to do with where we’re going to come out in the end—a year or two from now—with regard to an accord on credit policy.  I understand that this is an intermediate step, and that you envision further discussions down the road towards a more complete or comprehensive understanding with the Treasury about credit policy. My concern here is that I think that there are a range of possible strategies, and I worry about whether the steps we’re taking now compromise where we might ultimately want to go.  I understand the provision of credit by the Federal Reserve in exceptionally exigent circumstances, where there’s enormous time pressure—we get a call on a Friday night, and convening the Congress on a Saturday afternoon doesn’t really seem feasible.  That’s fine with me—that ought to be a Federal Reserve function. But for programs that take three months to implement, arguably it would be feasible— perhaps not politically feasible, I’ll admit that, and that’s a separate question—but as a matter of mechanics and parliamentary process, it would have been feasible to ask the Congress to approve the authority of the Treasury to implement the TALF program.  And it occurs to me that drawing a bright line at what is, in terms of timing, feasible for the Congress to authorize the Treasury to implement seems like a logical approach that has a lot of attractive properties for us.   I’m concerned that we’re going down a path that’s taking us in a different direction, and we might compromise something that might be more workable and more beneficial, and we’re doing it without a real discussion of where we want to head more broadly with regard to an accord on Treasury policy. As you describe it, part of the understanding with the Treasury now is that they would accompany us to the Congress in an appeal for a mechanism of one of two varieties for us to be able to sterilize our lending:  One would be the idea of us issuing non-monetary liabilities; the other would be for the Treasury to issue debt and deposit with us under the current program. The concern I have about the latter is what the nature of our understanding would be with the Treasury about who controls those issues. We ask, and they agree to say yes, usually, under reasonable circumstances.  There’s always the possibility that they will retain some implicit leverage over us that would constrain our independence going forward.  On the other hand, having the ability to control our own issues of non-monetary liabilities seems really attractive. But, again, I worry about bargaining power; in an event, knowing that we have that capability, the Treasury and the FDIC would, I think, retain the ability to stare us down and essentially say, “Well, you have the ability to issue non-monetary liabilities that don’t count against the federal debt limit, so you do it.”  I think that’s exactly the dynamic that emerged in the case of Citi and Bank of America, where there was nothing mechanically or legally that would have restricted the Treasury and the FDIC from taking all of the risk, and for us to bear none of the tail risk. But knowing that we had this tricky little mechanism for dressing up a guarantee as a loan, they prevailed upon us to participate and participate fairly substantially.  So I worry that setting up an ability for us to issue non-monetary liabilities that are the functional equivalent of Treasury bills and are outside of the appropriations process and don’t count against  the debt limit would give both the Congress and the administration an avenue, a target, a mechanism that would make it irresistible for them to come to us to finance things that they didn’t want to go to the Congress to finance. In my mind, the discussion about the accord needs to be about where it’s appropriate for government lending to be done.  You all know I’ve raised objections about our lending programs, but this is apart from the advisability of any one program.  It’s about the Congress and the appropriate constraints on circumventing the appropriations process, and it’s about our independence. I worry that we’re going down a path where, as I said, we’re going to be vulnerable to complaints about our inability or our unwillingness to constrain executive compensation or the lavish expenditures that entities that are going to be benefiting from our programs might make.  We’re going down a path where people like Elizabeth Warren are going to be writing reports— or could be writing reports—about what we do.  I think that’s a very uncomfortable situation to be in, and I’d like us to think clearly about whether that’s what we’re headed towards or whether this compromise is headed towards something that leaves us with a much broader and firmer measure of independence.  So I just wonder what thoughts you’ve given to that kind of question, Mr. Chairman, and the extent to which you view representations we’ve made in these discussions as compromising alternative strategies about a credit accord.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in this passage. The speaker expresses concern about the steps being taken and worries that they may compromise a more beneficial and workable approach. They also express concerns about the control and independence of the Federal Reserve and the potential for government entities to circumvent the appropriations process.
+
+
+Passage number 130.
+ CHAIRMAN BERNANKE. Let me respond very quickly.  Of course, I’ve thought about this a great deal and tried to trade off various concerns.  I think we’re going to make progress towards an accord. I think we’re on a path in that direction.  In particular, we now have two “asks” in front of the Congress.  One—which we will press very hard for as part of regulatory reform—will be for a strong resolution regime for non-depository institutions.  If done properly, that will eliminate the most vexatious and difficult and painful part of the 13(3) authority, which we used in the Sunday night massacres.  So that’s very important. The second is this sterilization ask. I think that will also give us a great deal more independence in the sense that we’ll be able to separate whatever decisions we make on our balance sheet from our monetary policy decisions.  And just so you know, certainly part of the deal with the Treasury is that, if they get a supplementary financing authority, it’s the Fed that will have the right to call for the use of those bills—it will not be at the Treasury’s discretion. As to your perspective on the Congress and the amount of time available—putting aside politically feasible, I don’t think it’s technically feasible for the Congress.  Look at their inability to function on even relatively straightforward economic measures.  These things we’re doing, such as the TALF, they’re very complex, they’ve been based on elaborate analysis of market and financial conditions, they have a lot of subtleties as far as legal issues, et cetera.  There’s just no way that the Congress can do that. They can’t do that.  They created the Fed. They gave us 13(3) authority. We are making a judgment.  And I just want to say, in all of these discussions, we have to remember every minute that there were 600,000 jobs lost in January.  This is an enormously serious economic situation, and it requires unusual responses. We believe that the Congress doesn’t have the capacity to come up with something like the TALF, that it is going to be constructive, and that it’s very important in the context of the current economic crisis.  And the Congress has every ability to shut it down—they have every ability. We’re going to go to the Congress.  I’m going to testify on 13(3) authorities on Tuesday.  The Treasury plan is going to make the sterilization part of the explicit legislative ask.  All they have to do is not accept that.  That will limit us very substantially.  So I think that we are comfortably within our rights, within the law, and within reason to take these actions, understanding that we are not in normal times—we are in what you could very well call war time, and war time sometimes creates unusual necessities.  As I said, I think we are on the right path towards an accord, one that will take us out of the business of Sunday rescues, one that will give us flexibility on monetary policy separate from lending. I think ultimately we will have some more clarity, at least with the Treasury, regarding what conditions and terms under which we should get involved in any such lending program.  I think reasonable people can disagree about whether, for example, our swaps activities and some of the other things we’ve done are within the purview of the central bank in a financial crisis.  I would argue that they are. But that’s something to be negotiated, and the current Treasury is, I think, very open to those negotiations. I think the political risk is overstated. It’s possible that we may come up against this concern that you raised about restrictions on compensation of the hedge funds.  In that case, they will probably shut down the program, and that’s yet another way in which the Congress can shut it down if they want to. But, even though we’re in the middle of the deepest part of the crisis, I get very few letters from the Congress saying “we need to protect this or that sector,” and the ones that I get are very perfunctory; and we reply saying, “Well, we are doing X,” and they never come back.  I just don’t feel the pressure.  I think the pressure would come if the Fed stood by and let the economy fall into the abyss, which is a very real possibility.  So I think we’re trying to balance these concerns in a reasonable way.  My expectation is that we’re moving in the right direction in terms of getting an accord, and I believe that, given what I feel is actually a relative lack of pressure to make unusual lending in the current circumstances, when things return to normal, we should be able to draw lines and, indeed, as part of the process of financial reregulation and so on, should be able to clarify these things much better.  So I’m less concerned   than you are, and I understand that there are judgments that have to be made about this.  But, remember, as I said—600,000 jobs.  If we can do something about that in ways that have limited and manageable risk to us, I think we need to take that into account.  President Fisher, did you have a comment.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The speaker is discussing various concerns and potential actions related to regulatory reform and monetary policy. They express confidence in the direction they are moving and believe that reasonable people can disagree about certain actions. Overall, they are focused on addressing the economic crisis and creating clarity in lending and regulation.
+
+
+Passage number 131.
+ MR. FISHER. You’ve covered some of this in your response, Mr. Chairman.  Obviously, we need to be aware that a CDS market will build around Federal Reserve bills.  There are perception issues here, and I’m sure that you’ve taken that into account, and the New York Desk has taken that into account, in at least developing our thoughts on Federal Reserve bills and this non-monetary paper that we’re going to issue.  That market will be discounting us in some way, shape, or form, and we’ll just have to monitor that as we go through time. I wanted to shift the subject only slightly, because one of the concerns I have, which I sent a note around about, is with regard to Treasury issuance.  From what I’ve heard in this discussion, it’s not clear what new issuance will take place, because there’s so much lack of definition. But somebody used the number $500 billion before in terms of the aggregator bank or the public-private partnership, and a portion of that will be Treasury.  I’d just ask if we have an updated sense of how much net new issuance is likely to take place under the $790 billion stimulus package and with the addition of new Treasury commitments, so that we have a sense of the impact that’s likely to occur on the yield curve.  Do we have a more refined sense of that presently.  Maybe Bill has an answer.
+Does the passage contain contention or disagreement? Response from the model: No
+
+
+Passage number 132.
+ CHAIRMAN BERNANKE. I don’t have the number.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The sentence merely states that the speaker does not have a specific number, without expressing any disagreement or contention.
+
+
+Passage number 133.
+ VICE CHAIRMAN DUDLEY. I don’t have the number off the top of my head.  The number is going up, clearly.  It’s a couple of trillion dollars, I think.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The passage does not present any opposing viewpoints or conflicting information. It simply states two separate pieces of information, one being the lack of knowledge of an exact number and the other being an estimation of the number being in the trillions of dollars. There is no contention or disagreement expressed.
+
+
+Passage number 134.
+   CHAIRMAN BERNANKE. There are a couple of different numbers that are relevant.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It simply states that there are multiple numbers that are relevant, but it does not provide any conflicting opinions or opposing views.
+
+
+Passage number 135.
+  One is gross issuance, which, of course, includes replacement of— MR. FISHER. This is net new issuance.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker simply clarifies that the term "gross issuance" includes the replacement of something, and Mr. Fisher acknowledges this by saying "This is net new issuance." There is a smooth continuation of the conversation without any disagreement.
+
+
+Passage number 136.
+ CHAIRMAN BERNANKE.  Net new issuance. But there again, there should be some distinction between the TARP issuance, which is asset acquisition, and the other issuance.  But I don’t know the number.  We don’t have anyone here who knows the number, but we can clearly look into it.
+Does the passage contain contention or disagreement? Response from the model: No. This passage does not involve any contention or disagreement. It is simply discussing the need to differentiate between TARP issuance and other types of issuance, and the lack of knowledge about the specific numbers.
+
+
+Passage number 137.
+ MR. FISHER. We have talked about numbers here—we decided at the last meeting not to be precise. But in our discussions with the Treasury and so on, there’s no implicit or explicit understanding on their part that we will intervene to a specific degree on the longer end of the curve in the Treasury market—is that correct or incorrect,.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is making a statement regarding the discussions with the Treasury, stating that there is no understanding for a specific degree of intervention on the longer end of the curve in the Treasury market.
+
+
+Passage number 138.
+ CHAIRMAN BERNANKE. They’ve never raised that with me at all.  No, there is no understanding.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker is simply stating that nobody has brought up a specific topic to them.
+
+
+Passage number 139.
+ MR. FISHER. Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The phrase "Thank you, Mr. Chairman" is a polite expression of gratitude, and does not indicate any contention or disagreement.
+
+
+Passage number 140.
+ CHAIRMAN BERNANKE. Thank you. Vice Chairman.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 141.
+ VICE CHAIRMAN DUDLEY. I think your summary of the program was very precise, exactly as I understand the program myself as of late last evening.  I think that we have to recognize, though, that Mr. Geithner still has 48 hours, and the program could change in the meantime.  So if the program turns out to be somewhat different than the Chairman describes, that’s not the Chairman’s doing, that’s the Treasury Secretary’s doing.  It could be a little bit different at the end of the day than what we have right now, so don’t criticize the Chairman if the program morphs a little bit in the final 48 hours.  I don’t think it’s going to change, though, to a great degree. I think that the one area of the program that really needs to be nailed down is the  FDIC guarantee program—exactly how they’re going to extend that, whether they’re going to modify the cap, and whether the covered bonds are being included.  I think that most of the work, though, on the program now is really on the message.  And I think that our general view of what we saw yesterday was it was a bit scary, it wasn’t particularly confidence-building, and it wasn’t very clear.   We have a number of people at the New York Fed that are helping with the process, and we’re trying to do three things: Make it less scary; make it clear that this capital-raising exercise is designed to instill confidence in the banking system by ensuring that the banks have enough capital to withstand the stress scenario, above and beyond what we expect to happen; and, as a consequence of that, make investors look at the program as confidence-building rather than confidence-draining. I think the disappointment for a lot of people that have been working on this exercise is that the program is not as clear and definitive as we would like.  But we’re going to try to make the message as clear and as definitive as we can within the confines of the program. As far as the TALF is concerned, I think that people are going to be a little bit confused about how the TALF fits into this program, because they’re waiting for an announcement on Monday about the banking system, and the TALF isn’t really about the banking system per se.  It’s really about expanding the capacity of the private sector balance sheet to take the pressure off the banking system, basically to help market functioning improve and ease financial conditions. So there may be a little bit of confusion with people wondering, well, is this TALF going to take bad assets off bank balance sheets.  I don’t think the TALF is really being built with that in mind.  It’s possible some assets could come off the bank balance sheets as a consequence, but we’re going to need to be clear that the TALF is really not a bank rescuevehicle. It’s really more about improving financial conditions in the general economy.  Thank you.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. The speaker expresses disappointment and confusion about the clarity and definitiveness of the program, suggesting that there is disagreement or dissatisfaction with its current state.
+
+
+Passage number 142.
+ CHAIRMAN BERNANKE. President Bullard.
+Does the passage contain contention or disagreement? Response from the model: It is not possible to determine if there is contention or disagreement in the passage without more context. The phrase "President Bullard" alone does not provide enough information to make a judgment about contention or disagreement.
+
+
+Passage number 143.
+ MR. BULLARD. Thank you, Mr. Chairman.  I just wanted to make one comment about our boards of directors who are concerned about losses in the Federal Reserve System.  They’re just trying to be good business people. They hear a lot of things, and I think what they’re hearing mostly is actual reported losses on the Bear Stearns portfolio, which has already been marked down, and they’re worried about our arrangements at AIG and Bank of America and Citi. So that’s what I think is going on. I think the clearer we can be about the fact that we’re watching it and that we have it under control, the better from that perspective. I just wanted to circle back. Generally speaking, this is, as we expected, a comprehensive plan. It has many moving parts, and many of them seem very reasonable to me.  I think the biggest issue that has been brought up today is really this communication issue.  Our near-term concern would be that we really get a bad reaction and create more difficulty this week.  So I don’t know if we can think a little bit more about things we could do to mitigate that.  I know that it’s up to the Treasury Secretary to decide how he wants to make the announcement.  I think there’s a lot of political pressure to make a big splash, but maybe making a big splash isn’t necessarily the right way to get this to sail off in a smooth direction. One thing on Vice Chairman Dudley’s comment that TALF is not really about the banking system—you could pull that out and announce it at some other time when perhaps it could be better explained and better absorbed.  It’s going to be in with a lot of other provisions, so the impact might get lost and people might be confused about what it is.  I’m just suggesting possibly there’s another time we could announce that.   The other thought is about the scrubbing provision that—at least as I interpreted Governor Duke’s comments—might cause a very nasty reaction out there.  Maybe that could be soft-pedaled or done in a way that says that we’re just thinking about this. The intention of that would be to mitigate some of the potential for a very nasty downturn that might exacerbate the situation and make it much worse.  The signaling effects during this financial crisis have been astounding, absolutely astounding. And I think we do need to be very aware of that.  It seems to me that’s our near-term challenge for this discussion.  Thank you, Mr. Chairman.
+Does the passage contain contention or disagreement? Response from the model: No
+
+Explanation: The passage does not show any clear contention or disagreement. The speaker is expressing concerns and suggesting possible actions to mitigate potential negative reactions and confusion. However, there is no explicit disagreement or argument between the speaker and others in the passage.
+
+
+Passage number 144.
+ CHAIRMAN BERNANKE. Thank you. You should tell your board that, in every one of the cases where we have taken risks, including the wraps for Bank of America and Citi, we have a letter from the Treasury saying that it’s understood that this is a responsibility of the U.S. government, and that any losses would come out of seignorage.  We haven’t worked out how that would be done exactly, but the long-term impact on the Federal Reserve’s capital should be nil based on those representations.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not indicate any contention or disagreement. It is simply stating that the Federal Reserve has a letter from the Treasury regarding the responsibility and potential losses of certain risks.
+
+
+Passage number 145.
+ MR. BULLARD. I understand, and I think my board appreciates that.  But they also start to ask questions, because the numbers get so large that you start talking about more than we send back to the Treasury in a typical year.  And the crisis seems to be going in unpredictable ways, so I think they’re just trying to be prudent business people on this question.  As long as we have good risk-management in place, I think it would be fine—they’d just like to see reassurance on that.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. Mr. Bullard is simply stating that his board members are asking questions and seeking reassurance on the issue at hand.
+
+
+Passage number 146.
+ CHAIRMAN BERNANKE. I appreciate that. And I guess I would add that seignorage obviously is adjusted over a period of years. We haven’t done a recent calculation.  Perhaps it would be in our interest to do so.  But I think we’re probably in the black on balance, because those are the only losses. Everywhere else the lending programs are providing us with some additional interest income. So I think our net seignorage is probably positive.  The Vice Chairman is nodding his head.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is expressing appreciation and discussing the possibility of calculating seignorage. They mention that lending programs provide additional interest income, leading them to believe that the net seignorage is positive. The vice chairman is nodding in agreement, indicating consensus.
+
+
+Passage number 147.
+ VICE CHAIRMAN DUDLEY. At this point in time.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The phrase "at this point in time" does not express any disagreement or provide any opposing viewpoints. It is simply a statement indicating the current timeframe.
+
+
+Passage number 148.
+ CHAIRMAN BERNANKE. At this point in time, anyway.  So I think overall that we’re doing pretty well in terms of the financial implications for the Federal Reserve and for the government.  Governor Duke.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It simply states the author's opinion on the financial implications for the Federal Reserve and the government, without presenting any opposing viewpoints or conflicting opinions.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 149.
+ MS. DUKE.  Yes, Mr. Chairman.  We talk about the analysis that we’ve done in terms of the TALF, and we’re really establishing the capital that we think we need to hold on these assets, and it’s presumably based on a loss estimate—not on any estimate of potential market value loss, but of credit loss. The first question is: Are those being done on a stress scenario in the same way that we would apply it to the bank capital needs.  And my second question is:  From an actual and a communication standpoint, when we go in to scrub the banks, might we be looking to scrub the banks particularly from a credit loss standpoint, not necessarily from a market loss standpoint. Based on an estimate of their credit losses, some assets may actually be, in this analysis, worth more than they’re marked on the balance sheet today, and others would be worth less.  Or are we planning to go in there and focus on the worst of both possible worlds, both market value losses as well as credit losses.
+Does the passage contain contention or disagreement? Response from the model: Yes
+
+Explanation: There is contention or disagreement in the passage as the speaker raises questions about whether the analysis of TALF assets takes into account stress scenarios and whether the focus should be on credit losses rather than market value losses. The speaker suggests that some assets may be worth more than they are marked on the balance sheet based on credit losses, while others may be worth less. The speaker questions whether it is necessary to focus on both market value losses and credit losses.
+
+
+Passage number 150.
+ CHAIRMAN BERNANKE. On the second question, I think the idea is just to make sure that everybody is using comparable standards, but not to change the rules.  The rules would be what they are for mark-to-market and for banking book assets.  So on the mark-to-market side, you’d be looking to see what the methodologies are and so on, and on the banking book side, you’d be looking to see whether reserving is taking place in an appropriate way and whether the estimates of the credit losses are reasonable.  In a sense, it is the worst of both worlds, I guess, but it’s within the context of the existing accounting structure for banks. Vice Chairman, do you want to respond to the first question.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The speaker simply provides an explanation of their thoughts on the second question without opposing or contradicting any other viewpoint.
+
+
+Passage number 151.
+ VICE CHAIRMAN DUDLEY. Yes.  On the first question, I think the stress testing is far beyond any other stress test any financial institution has ever had.  I think it’s one out of 100 years, and then stressed versus that.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The statement is expressing a subjective opinion about the intensity of the stress testing.
+
+
+Passage number 152.
+ MR. NELSON. The haircuts are set at 3 percentage points plus four times the estimated losses in a one-out-of-100-years scenario.  But those are credit losses, not market losses.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. It simply clarifies the types of losses being referred to.
+
+
+Passage number 153.
+ VICE CHAIRMAN DUDLEY. It is a very high stress scenario.  And if you want to give some numbers, it might be useful.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. It simply states that the scenario is very high stress and suggests that providing some numbers could be useful for understanding the situation better.
+
+
+Passage number 154.
+ MR. NELSON. To provide some numbers—and I think these numbers are included in the memo that was circulated to the FOMC—our expected losses are $500 million.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The speaker is providing information about the expected losses, without expressing any disagreement or conflicting opinions.
+
+
+Passage number 155.
+ VICE CHAIRMAN DUDLEY. Not ours. Isn’t that the whole loss.
+Does the passage contain contention or disagreement? Response from the model: No. The phrase "Not ours. Isn't that the whole loss?" does not indicate contention or disagreement. It simply expresses a statement or observation.
+
+
+Passage number 156.
+ MR. NELSON. That’s the expected losses for the whole program.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not involve any contention or disagreement. It simply states the expected losses for the whole program.
+
+
+Passage number 157.
+ VICE CHAIRMAN DUDLEY. Including for the Treasury.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+
+Passage number 158.
+ MR. NELSON. The stress losses in a one-in-100-years scenario are $2.4 billion.  So that’s to be compared with $6 billion from the interest spread—that’s just the spread over LIBOR or over the swap rate. So, even under the stress scenario, we anticipate that no one would lose money. Treasury would make money.  And then, even if those were to be exceeded, we’d still have the $20 billion Treasury cushion.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage does not contain any contention or disagreement. It is presenting information and discussing potential financial scenarios without expressing any conflicting opinions.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 159.
+ VICE CHAIRMAN DUDLEY. The Treasury could legitimately argue that they’re putting up too much TARP capital relative to their risk.
+Does the passage contain contention or disagreement? Response from the model: Yes. 
+
+There is potential for contention or disagreement in this passage. The phrase "The Treasury could legitimately argue" implies that there might be differing opinions on whether the amount of TARP capital being put up is too much relative to the risk. Different individuals or groups may have differing perspectives on the appropriate level of capital and the associated risk.
+
+
+Passage number 160.
+MR. NELSON. It is probably important to add that it is very difficult to know what losses will be under these circumstances.  We have very little to go by to judge what the future is going to be like. The future is pretty uncertain territory right now, but those are our best judgments.
+Does the passage contain contention or disagreement? Response from the model: No.
+
+Explanation: The speaker's statement does not involve contention or disagreement. They are simply stating that it is challenging to predict losses in the given circumstances and that the future is uncertain. There is no conflicting or opposing viewpoint expressed in the passage.
+
+
+Passage number 161.
+ CHAIRMAN BERNANKE. President Hoenig.
+Does the passage contain contention or disagreement? Response from the model: There is not enough information given in the passage to determine if there is contention or disagreement.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 162.
+ MR. HOENIG. Thank you, Mr. Chairman.  Just a comment, and I’ll try to keep it brief, because I know you’ve been very generous with your time here, but I have to tell you my thoughts as I look at what we’re trying to do and the strategy.  The U.S. economy over the last decade has leveraged up incredibly.  The numbers are dramatic—a doubling of our leverage in the financial sector. Right now we’re going through the deleveraging process.  And as the leveraging went up, there was enormous misallocation of resources.  So those resources are now shifting back and forth, and there is going to be pain with that—I don’t think we can avoid that.  The deleveraging process requires us to acknowledge hundreds of billions of dollars of loss.  The loss is there—we can’t avoid it—and the need to recapitalize by significant amounts is a fiscal action that we have to take. What we’re trying to do, if I understand today’s meeting and other meetings, is to try to temporize the adjustment process—to give us time, or give the Congress time, or give someone time—so that a fiscal stimulus package can help make up the difference, or something like that. It worries me, though, that we’re doing it through the TALF, because it does further misallocate resources, although I know we’re trying to make it as broad as possible.  I am confident that we have a major commercial real estate problem coming, and that will bring us— again—losses that have to be taken and will put us in the position of having to figure out how we’re going to temporize and lend, and that may in fact further distort things.  So if we can  develop ways that would minimize our involvement, rather than continuing to accelerate it up to $1 trillion, I think we would be well served in the long run, because the loss is there, and the adjustment is going to have to take place.  And if we distort, I think we will only prolong, in the end, some very harsh realities that lie ahead.  That’s my concern, and I know you realize that, but I just have to voice it at this point. Thank you.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in this passage. The speaker, Mr. Hoenig, expresses concern about the strategy being implemented and raises questions about the potential misallocation of resources and the distortion of the market. He suggests that there will be significant losses that need to be acknowledged and that the involvement and acceleration of certain actions may only prolong and distort the necessary adjustment process.
+
+
+Passage number 163.
+ CHAIRMAN BERNANKE. I understand that concern. You often hear people say, “Well, we need people to save more.  Why are we taking fiscal policy actions to try to get them to spend more.  Isn’t that inconsistent.” I would say it’s not inconsistent, because in the short term—I’m adopting a New Keynesian framework here—sharp adjustments in aggregate demand not only move us towards the long-term desired adjustment, but they also can create excess capacity (loss of use of resources) over and above the natural adjustment process that we need in the long run.  So there is a case—for example, when there is a movement from low saving to high saving—for trying to provide mechanisms to maintain something close to full employment as you make that transition.  By the same token, we need to go from high leverage to low leverage.  That process is happening. The losses are occurring. One thing I like about this bank program is that it’s very honest. I think it’s a very truth-telling program.  It’s not trying to hide things.  But the deleveraging process has a side effect, which is to bring down aggregate demand and to create enormous excess capacity in the economy, which, I think, is partially wasted.  Therefore, there is a social gain involved not in trying to stop this adjustment, or reverse it, but rather in trying to allow the economy to adapt to it in a more gradual way. And I’m not particularly persuaded that we are misallocating credit, because I think the credit markets are just not working very well.  There are all kinds of informational and capital and other issues which are preventing the markets from working in anything remotely like a good way. We are trying to use the tools we have to mitigate the implications for the broader economy, not because we’re trying to affect credit allocation per se, but because we’re interested in the effect on overall demand and the economy.  You mentioned CRE [commercial real estate], and, by the way, that’s likely to be a thing that we would try to address in the TALF context.   So I understand all of the complexities here, and crises are a time when you have to examine orthodoxies and try to think about the complexity of the world.  And we’re making all kinds of tradeoffs. But I think we’re better off trying to get to where we need to be in a more gradual and buffered way than allowing the system to go through a violent, wrenching process, which could very easily get us trapped in some Japanese-style situation where the usual dynamic mechanisms for adjustment are strongly attenuated and it takes a very long time.  So I understand what you’re saying, but I don’t think there’s a contradiction between trying to achieve a rationalization of leverage and consumption in the long run and trying in the intermediate term to mitigate the effects of that on aggregate demand and on the broad economy.  I think it is a consistent intellectual position. You may not agree with it, but I think it’s not inconsistent.
+Does the passage contain contention or disagreement? Response from the model: No 
+
+Explanation: There is no clear contention or disagreement in this passage. The author is discussing their viewpoint on the relationship between fiscal policy actions and aggregate demand, as well as the need for a gradual and buffered adjustment to leverage and consumption. They acknowledge the complexities and tradeoffs involved but state that their position is consistent intellectually.
+
+
+Passage number 164.
+ MR. HOENIG. Thank you.
+Does the passage contain contention or disagreement? Response from the model: No. The passage is a simple expression of gratitude.
+
+
+Passage number 165.
+ CHAIRMAN BERNANKE. Other questions or comments.  President Lacker.
+Does the passage contain contention or disagreement? Response from the model: No. This is a statement that does not involve any contention or disagreement. It simply suggests that there may be additional questions or comments related to the topic at hand.
+
+
+Passage number 166.
+ MR. LACKER. I thought the conventional wisdom about Japan is that it was government action to delay adjustment that led to their stagnation.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. It states a belief about the conventional wisdom regarding Japan's stagnation without presenting any opposing views or conflicting statements.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 167.
+ CHAIRMAN BERNANKE. I disagree with that.  I think that what happened was that they were very slow in adjusting to the financial crisis in the banking system.  I don’t know what you’re referring to, frankly.
+Does the passage contain contention or disagreement? Response from the model: Yes. There is disagreement in the passage. The speaker explicitly states, "I disagree with that" and goes on to provide their own opinion about the cause of the issue. Additionally, the statement, "I don't know what you're referring to, frankly," indicates a lack of agreement or understanding of the other person's point.
+
+
+Passage number 168.
+ VICE CHAIRMAN DUDLEY. I think the zombie issue.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the following passage. The phrase "I think" indicates that the statement is an opinion rather than a statement of fact.
+
+
+Passage number 169.
+  MR. LACKER. Yes, zombie banks, zombie borrowers that weren’t foreclosed on, an inability to free up resources and pry them out of the hands of bankrupt firms and move them to new productive uses.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It simply presents a list of issues or problems related to banks and borrowers.
+
+
+Passage number 170.
+ CHAIRMAN BERNANKE. Well, that wasn’t government action, that was government inaction. It took a tough guy like Takenaka to confront the banks and force them to write down their positions and to recognize their losses—which is what I think is the positive virtue of the Geithner approach—which was the first step to recovery.  People say, “Well, fiscal policy was insufficient.”  Well, maybe so, but there weren’t a whole lot of intrinsic dynamics in that economy to restore full employment absent government policy, either.  I view Japan as being a case of mostly insufficient action rather than excessive or incorrect action.  But we don’t want to debate that I think in any detail today.
+Does the passage contain contention or disagreement? Response from the model: No. The passage does not contain any contention or disagreement. It presents the author's opinion about government action/inaction during a particular situation but does not debate or contradict any opposing views.
+
+
+****************DISAGREEMENT DETECTED*******************Passage number 171.
+ MR. LACKER. I know, this could be a long debate.  The scrubbing of the balance sheets is a very strong element in this plan, and I think that it’s well worthwhile. And I think it’s really clever to get around these accrual accounting problems rather than address them head-on.  I think it makes a lot of sense to go in and run a shadow regulatory regime around what those assets are really worth.
+Does the passage contain contention or disagreement? Response from the model: Yes, there is contention in the passage. The speaker, Mr. Lacker, believes that scrubbing the balance sheets and using a shadow regulatory regime is a clever way to address accrual accounting problems. This suggests that there may be disagreement or controversy surrounding these methods.
+
+
+Passage number 172.
+ CHAIRMAN BERNANKE. Okay. Other comments.  President Fisher.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. It simply states that there are some other comments after mentioning President Fisher.
+
+
+Passage number 173.
+ MR. FISHER. May I just take this opportunity to welcome Governor Tarullo on board and give him an option to leave if he decides to do so.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in this passage. The speaker is simply welcoming Governor Tarullo and giving him the opportunity to leave if he wants to.
+
+
+Passage number 174.
+  [Laughter] MR. TARULLO. Thank you, Richard.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the passage. The phrase "[Laughter]" does not indicate any conflict or disagreement, it simply shows that the speaker's comment elicited laughter from the audience.
+
+
+Passage number 175.
+ CHAIRMAN BERNANKE. I’d like to point out Governor Tarullo has a 14-year term.
+Does the passage contain contention or disagreement? Response from the model: No. There is no contention or disagreement in the statement. It is simply stating a fact about Governor Tarullo's 14-year term.
+
+
+Passage number 176.
+  [Laughter] MS. DUKE.  Sentence.
+Does the passage contain contention or disagreement? Response from the model: No. 
+
+Explanation: The passage includes laughter, which typically indicates agreement or amusement among the individuals involved.
+
+
