@@ -2,7 +2,7 @@ import pytesseract
 from pdf2image import convert_from_path
 import glob
 
-pdfs = glob.glob(r"ecb_raw/*.pdf")
+pdfs = glob.glob(r"cgm/*.pdf")
 
 for pdf_path in pdfs:
     pages = convert_from_path(pdf_path, 500)

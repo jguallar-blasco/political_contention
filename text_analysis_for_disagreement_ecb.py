@@ -1,11 +1,11 @@
 import json
 import re
-
+import glob
 from openai import OpenAI
 client = OpenAI()
 
 years = [80]
-text_files = glob.gloc(r"ecb_raw/*.txt")
+text_files = glob.glob(r"ecb_raw/*.txt")
 
 for target_year in years: 
 
@@ -14,8 +14,8 @@ for target_year in years:
   # Individual disagreement results saved here
   summary_dict = {}
 
-  disagreement_files[target_year] = []
-  doc_list = text_files_by_year[target_year]
+  #disagreement_files[target_year] = []
+  #doc_list = text_files_by_year[target_year]
 
   scores_over_meetings = []
   disagreement_scores_over_meetings = []
@@ -31,13 +31,14 @@ for target_year in years:
     disagreement = 0
     # Open output text file
     doc_ = doc.split('/').copy()
-    new_doc = str('analyzed' + ''.join(doc[:-4])) 
+    new_doc = str('analyzed_' + doc_[1]) 
 
-    summary_dict[''.join(doc_[2:4])] = []
+    summary_dict[''.join(doc)] = []
 
     
     with open(doc,'r') as firstfile, open(new_doc,'w') as secondfile:
 
+      print('./'+new_doc)
       average_sentiment = 0
       instace_of_disagreement = 0
       count_sent = 0
@@ -55,8 +56,9 @@ for target_year in years:
         sentence = sentence.replace("\t", "")
         sentence = sentence.replace("    ", "")
         sentence = sentence.replace("|", "")
-        sentence = sentence.replace("-\d+-")
-        if (re.search("MS", sentence) != None) or (re.search("MR", sentence) != None ) or (re.search("CHAIRMAN", sentence) != None ) or (re.search("VICE", sentence) != None ):
+        sentence = sentence.replace("-\d+-", "")
+        sentence = sentence.replace("\n", " ")
+        if (re.search("(.+ \(\d+ \- \d+\))", sentence) != None) or (re.search("(The Chairman .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Mr. .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Ms. .+ \(\d+ \- \d+\))", sentence) != None ):
           #start = True
           all_text.append(cur_text)
           cur_text = []
@@ -68,7 +70,15 @@ for target_year in years:
       #print(all_text)
       count = 0
       for text_list in all_text:
-        if len(text_list) <= 50:
+        tokens = sum([len(sentence.split(' ')) for sentence in text_list])
+        if tokens >= 1000:
+          count += 1
+          print('This passage was too long for model to process: ')
+          print('Passsage number' + str(count) + '\n')
+          cur_text_ = ". ".join(text_list)
+          cur_text = re.sub('(.+ \(\d+ \- \d+\))|(The Chairman .+ \(\d+ \- \d+\))|(Mr. .+ \(\d+ \- \d+\))|(Ms. .+ \w \(\d+ \- \d+\))', '', cur_text_)
+          print(cur_text + '. \n\n')
+        else:
           cur_text_ = ". ".join(text_list)
           cur_text = re.sub('(.+ \(\d+ \- \d+\))|(The Chairman .+ \(\d+ \- \d+\))|(Mr. .+ \(\d+ \- \d+\))|(Ms. .+ \w \(\d+ \- \d+\))', '', cur_text_)
           count += 1
@@ -90,7 +100,7 @@ for target_year in years:
             disagreement += 1
             secondfile.write("****************DISAGREEMENT DETECTED*******************")
             print("****************DISAGREEMENT DETECTED*******************")
-            summary_dict[''.join(doc_[2:4])].append(".".join(text_list))
+            #summary_dict[''.join(doc_[1])].append(".".join(text_list))
           secondfile.write("Passage number " + str(count) + ".\n")
           print("Passage number " + str(count) + ".\n")
           cur_text = ".".join(text_list)
@@ -103,8 +113,8 @@ for target_year in years:
 
 
 
-  with open(str(doc[:-4]) + "_results.json", "w") as outfile: 
-    json.dump(summary_dict, outfile)
+  #with open(str(doc[1]) + "_results.json", "w") as outfile: 
+    #json.dump(summary_dict, outfile)
           
 
 
