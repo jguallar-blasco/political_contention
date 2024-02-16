@@ -58,7 +58,9 @@ for target_year in years:
         sentence = sentence.replace("|", "")
         sentence = sentence.replace("-\d+-", "")
         sentence = sentence.replace("\n", " ")
-        if (re.search("(.+ \(\d+ \- \d+\))", sentence) != None) or (re.search("(The Chairman .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Mr. .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Ms. .+ \(\d+ \- \d+\))", sentence) != None ):
+        sentence = sentence.replace("\* \w+", " ")
+        sentence = sentence.replace("-*")
+        if (re.search("(.+ \(\d+ \- \d+\))", sentence) != None) or (re.search("(The Chairman .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Mr. .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Ms. .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Le Pr*sident)", sentence) != None) or (re.search("(M. \w+)", sentence) != None) or  (re.search("(M. *. \w+)", sentence) != None):
           #start = True
           all_text.append(cur_text)
           cur_text = []
