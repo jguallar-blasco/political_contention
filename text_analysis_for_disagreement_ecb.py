@@ -73,11 +73,11 @@ for target_year in years:
         tokens = sum([len(sentence.split(' ')) for sentence in text_list])
         if tokens >= 1000:
           count += 1
-          print('This passage was too long for model to process: ')
-          print('Passsage number' + str(count) + '\n')
+          secondfile.write('This passage was too long for model to process: ')
+          secondfile.write('Passsage number' + str(count) + '\n')
           cur_text_ = ". ".join(text_list)
           cur_text = re.sub('(.+ \(\d+ \- \d+\))|(The Chairman .+ \(\d+ \- \d+\))|(Mr. .+ \(\d+ \- \d+\))|(Ms. .+ \w \(\d+ \- \d+\))', '', cur_text_)
-          print(cur_text + '. \n\n')
+          secondfile.write(cur_text + '. \n\n')
         else:
           cur_text_ = ". ".join(text_list)
           cur_text = re.sub('(.+ \(\d+ \- \d+\))|(The Chairman .+ \(\d+ \- \d+\))|(Mr. .+ \(\d+ \- \d+\))|(Ms. .+ \w \(\d+ \- \d+\))', '', cur_text_)
