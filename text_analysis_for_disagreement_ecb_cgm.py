@@ -3,9 +3,10 @@ import re
 import glob
 from openai import OpenAI
 client = OpenAI()
+import textwrap
 
 years = [80]
-text_files = glob.glob(r"ecb_raw/*.txt")
+text_files = glob.glob(r"cgm/*.txt")
 
 for target_year in years: 
 
@@ -31,7 +32,7 @@ for target_year in years:
     disagreement = 0
     # Open output text file
     doc_ = doc.split('/').copy()
-    new_doc = str('analyzed_' + doc_[1]) 
+    new_doc = str('cgm_analyzed/analyzed_' + doc_[1]) 
 
     summary_dict[''.join(doc)] = []
 
@@ -58,9 +59,9 @@ for target_year in years:
         sentence = sentence.replace("|", "")
         sentence = sentence.replace("-\d+-", "")
         sentence = sentence.replace("\n", " ")
-        sentence = sentence.replace("\* \w+", " ")
-        sentence = sentence.replace("-*")
-        if (re.search("(.+ \(\d+ \- \d+\))", sentence) != None) or (re.search("(The Chairman .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Mr. .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Ms. .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Le Pr*sident)", sentence) != None) or (re.search("(M. \w+)", sentence) != None) or  (re.search("(M. *. \w+)", sentence) != None):
+        sentence = sentence.replace("(\* [\w\s]+.)", " ")
+        sentence = sentence.replace("(-*)", "")
+        if (re.search("(.+ \(\d+ \- \d+\))", sentence) != None) or (re.search("(The Chairman .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Mr. .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Ms. .+ \(\d+ \- \d+\))", sentence) != None ) or (re.search("(Le Pr*sident)", sentence) != None) or (re.search("(M. \w+)", sentence) != None) or (re.search("(M. ([a-zA-Z]+.) ([a-zA-Z]+.) \w+)", sentence) != None) or (re.search("(M. ([a-zA-Z]+.) \w+)", sentence) != None) or (re.search("(Mr. ([a-zA-Z]+.) \w+)", sentence) != None) or (re.search("(Mr. ([a-zA-Z]+.) \w+)", sentence) != None):
           #start = True
           all_text.append(cur_text)
           cur_text = []
@@ -81,17 +82,23 @@ for target_year in years:
           #cur_text = re.sub('(.+ \(\d+ \- \d+\))|(The Chairman .+ \(\d+ \- \d+\))|(Mr. .+ \(\d+ \- \d+\))|(Ms. .+ \w \(\d+ \- \d+\))', '', cur_text_)
           part_1, part_2, part_3 = '', '', ''
           parts = []
-          if tokens / 2 <= 1000:
+          i = 1
+          while tokens/i >= 1000:
+            i+= 1
+          if tokens / i <= 1000:
             
-            
-            part_1 = cur_text_[:int(tokens/2)]
-            part_2 = cur_text_[int(tokens/2):]
-            parts = [part_1, part_2]
-          if tokens / 3 <= 1000:
-            part_1 = cur_text_[:int(tokens/3)]
-            part_2 = cur_text_[int(tokens/3):tokens - int(tokens/3)]
-            part_3 = cur_text_[int(tokens/3) + int(tokens/3):]
-            parts = [part_1, part_2, part_3]
+            split_num = int(tokens/i)
+            k = 0
+            while k <= tokens: 
+             parts.append(cur_text_[k:k+split_num])
+             k+= split_num
+            #part_2 = cur_text_[int(tokens/2):]
+            #parts = [part_1, part_2]
+          #if tokens / 3 <= 1000:
+            #part_1 = cur_text_[:int(tokens/3)]
+            #part_2 = cur_text_[int(tokens/3):tokens - int(tokens/3)]
+            #part_3 = cur_text_[int(tokens/3) + int(tokens/3):]
+            #parts = [part_1, part_2, part_3]
           if 1 == 1:
             for part in parts:
               print(part)
