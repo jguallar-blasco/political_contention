@@ -1,70 +1,89 @@
-This passage was too long for model to process and thus had to be split: Passsage number1
+This passage was too long for model to process and thus had to be split: Passsage number 1
 Confidentiel  PROCES~VERBAL* DE LA 187e SEANCE DU COMITE DES GOUVERNEURS DES BANQUES CENTRALES DES ETATS MEMBRES DE LA COMMUNAUTE ECONOMIQUE EUROPEENNE TENUE A BALE, LE LUNDI 18 JUIN 1984 A 10 HEURES  Sont présents: le Gouverneur de la Central Bank of Ireland et Président du Comité, M.  0 Cofaigh, accompagné par MM.  Breen et Reynolds; le Gouverneur de la Banque Nationale de Belgique, M.  Godeaux, accompagné par MM.  Janson et Rey; le Gouverneur de la Danmarks Nationalbank, M.  Hoffmeyer, accompagné par M.  Mikkelsen; le Président de la Deutsche Bu.
 
-Does the passage contain contention or disagreement? Response from the model: No
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The passage simply lists the attendees at a meeting of the Committee of Governors of the Central Banks of the Member States of the European Economic Community held in Basel on June 18, 1984.ndesbank, M.  Pohl, accompagné par MM.  Gleske, Rieke et Kloft; le Gouverneur de la Banque de Gréce, M.  Chalikias, accompagné par M.  Papanicolaou; le Gouverneur de la Banque de France, M.  de la Geniere, accompagné par MM.  Lefort et Waitzenegger; le Gouverneur de la Banca d'Italia, M.  Ciampi, accompagné par MM.  Dini et Saccomanni; le Président de la Nederlandsche Bank, M.  Duisenberg, accompagné par MM.  Sillem et de Boer; le Gouverneur de la Bank of England, M.  Leigh-Pemberton, accompagné par MM.  Loehnis et Balfour; le Directeur Général des.
 
-Explanation: The passage is a transcribed minutes from a meeting of the Committee of Central Bank Governors and does not contain any contentious statements or disagreements.ndesbank, M.  Pohl, accompagné par MM.  Gleske, Rieke et Kloft; le Gouverneur de la Banque de Gréce, M.  Chalikias, accompagné par M.  Papanicolaou; le Gouverneur de la Banque de France, M.  de la Geniere, accompagné par MM.  Lefort et Waitzenegger; le Gouverneur de la Banca d'Italia, M.  Ciampi, accompagné par MM.  Dini et Saccomanni; le Président de la Nederlandsche Bank, M.  Duisenberg, accompagné par MM.  Sillem et de Boer; le Gouverneur de la Bank of England, M.  Leigh-Pemberton, accompagné par MM.  Loehnis et Balfour; le Directeur Général des.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The passage simply lists the names of officials from different central banks who are attending a meeting together. Affaires économiques et financiéres de la Commission des Communautés européennes, M.  Russo; M.  Jaans, Directeur Général de l'Institut monétaire luxembourgeois.  Assiste, en outre, M.  Dalgaard, Président du groupe d'experts.  Le Secrétaire Général du Comité des Gouverneurs, M.  Morelli, et son Adjoint, M.  Bascoul, et  MM.  Scheller et Mortby sont présents, ainsi que M.  Dagassan.   I.  Approbation du proces-verbal de la 186e séance Le Président propose de reporter l‘approbation du proceés~-verbal a la prochaine séance, le 10 juillet 1984, étant.
 
-Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. It simply lists the names of various individuals accompanied by others. Affaires économiques et financiéres de la Commission des Communautés européennes, M.  Russo; M.  Jaans, Directeur Général de l'Institut monétaire luxembourgeois.  Assiste, en outre, M.  Dalgaard, Président du groupe d'experts.  Le Secrétaire Général du Comité des Gouverneurs, M.  Morelli, et son Adjoint, M.  Bascoul, et  MM.  Scheller et Mortby sont présents, ainsi que M.  Dagassan.   I.  Approbation du proces-verbal de la 186e séance Le Président propose de reporter l‘approbation du proceés~-verbal a la prochaine séance, le 10 juillet 1984, étant.
-
-Does the passage contain contention or disagreement? Response from the model: No. The passage does not involve any contention or disagreement. It simply mentions the names of individuals present at a meeting.Passage number 2.
+Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. It simply describes the attendance of various individuals at a meeting.Passage number 2.
  EVOLUTION DES COURS DE CHANGE  En mai, les marchés des changes ont été caractérisés par trois facteurs principaux:  - le dollar a continué de monter pendant la premiére quinzaine, mais a ensuite reculé en raison des problémes de Lliquidités d'une grande banque américaine;  ~ le SME a été stable et n'a pas connu de tensions;  - les monnaies flottantes se sont toutes affaiblies par rapport au dollar, et la plupart d‘entre elles se sont également dépréciées a  l'égard des monnaies du SME.  Le dollar EU a continué de se raffermir pendant la premiére quin- zaine de mai, la hausse des taux d'intérét sur cette monnaie ayant provoqué un élargissement des écarts de taux d'intérét. Le dollar s'est ensuite  tassé au moment ot l'on a fait état de problémes de liquidités affectant  * Banques centrales de la Norvége, de Suede, de Suisse, du Japon, du Canada et des Etats-Unis. la Continental Illinois et peut~étre d'autres grandes banques américaines. De telles rumeurs circulérent & plusieurs reprises par la suite, en parti- culier vers la fin du mois, contribuant 4 créer une atmosphére de nervositeé sur des marchés au demeurant étroits. Les autorités des Etats-Unis sont intervenues une fois pour s'opposer aux conditions désordonnées du marche des changes. Au total, le dollar a progressé de quelque 12 a 1l'égard de  la livre sterling, de 1/2% environ par rapport a la plupart des autres grandes monnaies européennes et de 2% vis-a-vis du yen japonais.
-Does the passage contain contention or disagreement? Response from the model: No. This passage does not contain any contention or disagreement. It is simply describing the evolution of exchange rates in May.
+Does the passage contain contention or disagreement? Response from the model:
+ No, there is no contention or disagreement in the passage. The information presented is a factual account of events in the foreign exchange markets in May.
+
 
 
 Passage number 3.
   Le SME n'a pas connu de tensions pendant l'ensemble du mois. La lar- geur de la bande étroite de fluctuation est restée inférieure a 2% et, @ un moment donné, ot le deusche mark s'affaiblissait, elle n'a été que de 1,502.
-Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The statement is simply providing information about the lack of tensions in the SME and the narrow fluctuation band width, stating that it remained below 2% and was only 1.502 at one point when the German mark weakened.
+Does the passage contain contention or disagreement? Response from the model:
+ No. There is no contention or disagreement in the passage.
+
 
 
 Passage number 4.
   Par suite de la fermeté dont le dollar a fait preuve au début du mois, le deutsche mark s'est replié au sein du SME malgré les interventions. L'acuité inaccoutumée ~ pour 1'Allemagne ~ du conflit social dans 1'indus~- trie métallurgique a contribué a la dépréciation du deutsche mark. Lorsque le dollar s'est affaibli ala fin du mois, la monnaie allemande s'est raffermie.  Le franc francais est demeuré bien orienté, notamment durant la premiere quinzaine ou les achats de francs par les non-résidents sont restés importants. La diminution de l'écart de taux d'intérét entre la France et les autres pays a contribué alors 4 réduire les entrées de capitaux a court terme.  Le franc belge n‘a pratiquement pas varié pendant le mois. Il s'est situé a 1,80% des monnaies les plus fortes au sein de la bande de fluctuation étroite en début comme en fin de mois, et cet écart s'est méme passagérement réduit 41,50%. La Banque Nationale de Belgique n'est pas intervenue.
-Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. The passage simply provides information about the observations and behaviors of various currencies during the month without presenting conflicting viewpoints or opinions.
+Does the passage contain contention or disagreement? Response from the model:
+ No, there is no contention or disagreement in the passage.
+
 
 
 Passage number 5.
   Le florin néerlandais a remplacé le deutsche mark au sommet de la bande du SME pendant le mois de mai - sauf durant les derniers jours - par suite du léger accés de faiblesse du mark pendant la majeure partie du mois.
-Does the passage contain contention or disagreement? Response from the model: No. This passage is giving an explanation of a factual event, namely the replacement of the deutsche mark by the Dutch guilder at the top of the Exchange Rate Mechanism (ERM) band in May. There is no contention or disagreement present in the passage.
+Does the passage contain contention or disagreement? Response from the model:
+ No. This passage simply states a fact: "The Dutch guilder replaced the Deutsche mark at the top of the ERM band during the month of May - except for the last few days - due to the slight weakness of the mark for most of the month."
+
 
 
 Passage number 6.
   La couronne danoise a quelque peu fluctué au sein du SME pendant  le mois tout en se maintenant vers le milieu de la bande.  Bien que le taux des facilités a court terme de la Central Bank of Ireland ait été réduit de 1/2% le 14 mai et ramené ainsi 4a 11 1/2Z2, la livre irlandaise est restée relativement stable, se tenant légérement au-  dessus du milieu de la bande.
-Does the passage contain contention or disagreement? Response from the model: No.
+Does the passage contain contention or disagreement? Response from the model:
+ No
 
-Explanation: The passage only provides information about the fluctuation and stability of the Danish and Irish currencies within their respective bands. It does not indicate any disagreement or contention.
+Explanation: The passage simply describes fluctuations in currency exchange rates and interest rates without presenting any disagreement or contention.
+
 
 
 Passage number 7.
  - 3-  En mai, la position de la lire italiemne au sein du SME est restée trés stable et la Banca d'Italia s'est portée acquéreur d'importantes quantités de dollars EU et de deutsche marks.  Dans l'ensemble, la livre sterling n'a subi que de faibles fluc- tuations au cours d'un mois ow l'‘activité du marché a été modérée. Bien que la monnaie britannique ait bénéficié du relévement des taux d'intérét (le 9 mai, les banques de clearing ont relevé leur taux de base de 1/2-3/4 point, pour le porter a 9-9 1/4Z%) et des tensions dans le Golfe persique, les préoccupations relatives aux effets négatifs de la gréve des houilléres sur l'économie du pays ont, au fil du mois, de plus en plus affecté l'opinion des opérateurs. L'indice du taux de change effectif du sterling a connu un tassement, revenant de 79,7 a 79,6.  La drachme grecque s'est inscrite en recul de 0,7Z A l'égard du dollar EU et de 0,1% par rapport a 1'Ecu. Son taux de change effectif a subl une baisse de 0,62.  Le franc suisse est resté relativement stable en termes de taux de change effectif. Les fluctuations erratiques qui ont affecté son cours par rapport au dollar ont été partiellement compensées par les mou- vements des autres monnaies étrangeéres. On a enregistré une progression du franc liée au rejet massif de l‘initiative sur les banques, mais ce phénoméne n'a été que de courte durée.  Le marché de la couronne norvégienne est resté stable, en termes effectifs, durant tout le mois. L'annonce par le Ministre des Finances, le 9 mai, d'un abaissement de 1/4 de point (pour le ramener 4 122) du taux des emprunts obligataires a long terme du gouvernement sur le marché inté- rieur et d'une réduction de 1/2 point des taux du marché monétaire (ce qui maintient les taux d'intérét dans une fourchette de 12 1/2% 4 132) semble n'avoir exercé qu'une incidence faible, voire nulle.  Mis a part une certaine tension en début de mois due a la perspec~ tive d'une hausse du dollar, la couronne suédoise est restée stable durant le mois de mai, l‘indice de son taux de change effectif s'établissant a 130,8 environ.  Le dollar canadien a subi un affaiblissement sensible vers le début de mai sous l'effet d'inquiétudes concernant d'éventuelles sorties  de capitaux, puis est resté assez ferme vis-avis du dollar EU. Les  opérations commerciales et interbancaires au cours du mois ont été modérées. Au total, la monnaie canadienne a fléchi de 1,10% vis-a-vis du dollar EU en mai.  Le yen japonais a reculé vis-a-vis dudollar EU de 2% en raison des craintes éprouvées au sujet d'une éventuelle rupture des approvi- sionnements en pétrole sous l'effet d'une escalade du conflit au Moyen-  Orient. Ila ainsi perdu 1,4% par rapport 4 1'Ecu.  II INTERVENTIONS A. Interventions en dollars EU  Au cours du mois de mai, les banques centrales ont procédé, dans le cadre de leurs interventions, 4 des cessions nettes d'un montant de $EU 1,2 milliard, résultant de $EU 1,4 milliard d'achats* et de $EU 2,6 milliards de ventes (en avril, on avait enregistré des achats nets d'un montant de $EU 0,7 milliard).  Les principaux vendeurs de dollars ont été la Deutsche Bundesbank, la Banque de France, la Banque du Canada et la Banque du Japon. La Banca  d'Italia a été le principal acquéreur de dollars. B. Interventions en monnales communautaires  En termes bruts, les interventions en monnaies communautaires se sont accrues pour atteindre l'équivalent de $EU 1,4 milliard , contre $EU 1 milliard en avril. Elles ont porté sur des achats de deutsche marks par la Banque de France (celle-ci a aussi procédé 4a quelques ventes), la Banca  d'Italia et la Nederlandsche Bank.  IIL. PREMIERE QUINZAINE DE JUIN  Le dollar est resté influencé par les rapports de presse relatifs aux problémes de liquidité du secteur bancaire américain et 4 1'évolution défavorable du commerce extérieur des Etats-Unis. Toutefois, les taux  d'intérét américains s'étant inscrits en hausse et les espoirs de réglement  a * Y compris l'équivalent en dollars de ventes de deutsche marks par la Federal Reserve Bank.
-Does the passage contain contention or disagreement? Response from the model: No.
+Does the passage contain contention or disagreement? Response from the model:
+ No, there is no contention or disagreement in this passage. It simply provides a factual overview of the currency exchange rates and interventions by central banks during the month of May and the first half of June.
 
-There is no direct contention or disagreement in this passage. It provides information about the stability or fluctuations of different currencies in May and the interventions made by central banks in the foreign exchange market.
 
 
 Passage number 8.
   des conflits du travail en Europe ayant été décus, le dollar EU a regagné du terrain, si bien que sa variation vis-a- vis des monnaies du SME et des monnaies flottantes a été faible.
-Does the passage contain contention or disagreement? Response from the model: No. The passage is stating a fact, without any indication of contention or disagreement.
+Does the passage contain contention or disagreement? Response from the model:
+ No. There is no contention or disagreement in this passage.
+
 
 
 Passage number 9.
  Le SME est resté stable et aucune  intervention notable n'a été enregistrée.
-Does the passage contain contention or disagreement? Response from the model: No. The passage states that the SME (subject) remained stable and no notable interventions were recorded. There is no indication of contention or disagreement.
+Does the passage contain contention or disagreement? Response from the model:
+ No. 
+There is no contention or disagreement in the passage. It simply describes the situation as stable with no notable interventions.
+
 
 
 Passage number 10.
  Lr   -18  -20  -22  ~24  -26  -28  ~30  ~32  -48  -50  EVOLUTION DE L'ECU, DU COURS MEDIAN DES MONNAIES PARTICIPANT AU SME ET DES MONNAIES DES AUTRES BANQUES CENTRALES PARTICIPANT A LA CONCERTATION SUR LA BASE DES COURS RELEVES LE 31 DECEMBRE 1981  VIS-A-VIS DU $EU *  Ce ee ee  Yen  $Can  ., fe ~V~ 2 *. .. - . \F4 . Ab Ey AN ° ° °, a “eo. ° "ee e ae.
-Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in this passage. The passage appears to be providing information about the evolution of currency exchange rates.
+Does the passage contain contention or disagreement? Response from the model:
+ No, there is no contention or disagreement in this passage. It simply lists various currencies and their evolution in relation to the dollar and the ECU.
+
 
 
 Passage number 11.
  ~~ °°  KRN a RA lin NZ ° vecceet® WA [Ww ° The / AA Ne ad v ~ J AA PAN * ~~ <I ~ man NEw oN SS DR 2 9 16 23 30 6 13 20 27 4 11 18 25 l 8 15 Mars Avril Mai Juin  1984  * ECU 1,08517; £ 0,52206; DR 57,3424; $Can 1,1862; FS 1,7985; Yen 219,60; KRS 5,5325; KRN 5,8050; cours médian des monnaies participant au SME 1,0705.
-Does the passage contain contention or disagreement? Response from the model: No, there is no contention or disagreement in the passage. It is simply providing exchange rates for various currencies.
+Does the passage contain contention or disagreement? Response from the model:
+ No. 
+
+There is no contention or disagreement in this passage. It simply provides a list of exchange rates for different currencies in 1984.
+
 
 
 Passage number 12.
  Le cours médian des monnaies participant au SME représente la moyenne journaliére des cours des deux monnaies a marge de fluctuation de 2,252, exprimés en dollar EU, qui se sont éloignés le plus de leurs cours pivots bilatéraux actuels,  14 juin 1984  NN  -10  -16  -18  —-22  ~24  -28  -32  -44  -50 4,5  4,0  3,5  3,0  wi  2,0  MOUVEMENTS A L'INTERIEUR DE LA GRILLE DE PARITES DU SME CALCULES SUR LA BASE DES COURS OFFICIELS DE L'ECU DANS LES DIFFERENTES MONNAIES PARTICIPANTES  a Cours d'intervention supérieur de la lire italienne * MED  4,5 4,0 3,5  3,0  J\  RA] OOO '  1,5 = —— DM 1,125 VV ~ " Fl Vm \ “eee, ahaa J RR  F 0,5 > *o, : °° "eee £EIr ®,° . . a . : ee *. nT 7 _ - 0 se KRD *. ae ° see. “eee *e 0° -0,5 FB aw SAL f en, OO OO -1,0 a ew “1,12. -1,5 -4,5 Cours d'intervention inférieur de la lire italienne * -5,0 2 9 16 23 30 6 13 20 27 4 li 18 25 1 8 15 Avril . . Mars V1 1984 Mal Juin  * Les cours d‘interventions supérieur et inférieur de la lire italienne représentent 1'écart maximal théorique par rapport 4 la monnaie la plus faible respectivement la plus forte dans  la bande de fluctuation étroite de 12,252.  14 juin 1984  -100  - 50  EVOLUTION DE L'INDICATEUR DE DIVERGENCE *  -100 ff wep  eae aes ae a ee sagen anaes a een sc ee ee ee nse corner nn se enn nnn ann anna ss ee ee en see - 75  - 50 DM ~- 25 0 25 50 75 100 Avra . . Mars vr1l 1984 Mal Juin  * L'indicateur de divergence a pour but de mesurer, sur une base comparable pour toutes les monnaies participant au mécanisme de change européen, la position d'une monnaie vis~a-vis de son cours-pivot ECU. L'écart maximal de divergence est le pourcentage maximal par lequel  le cours de marché de 1'ECU dans chaque monnale peut s'‘apprécier ou se déprécier par rapport  a son cours-pivot ECU; il est exprimé par * 100, le seuil de divergence étant ¢ 75. Les données qui ont servi de base 4 l1'établissement de ce graphique sont les cours de 1'ECU exprimés en termes de diverses monnaies, cours qui sont toutefois corrigés des effets des fluctuations de la lire italienne et de la livre sterling au-dela de la marge de 2,25% vis-a-vis des autres monnaies participant au SME.
-Does the passage contain contention or disagreement? Response from the model: No
+Does the passage contain contention or disagreement? Response from the model:
+ No, there is no contention or disagreement in this passage. The passage simply presents information about the exchange rate mechanism known as the European Monetary System (SME), including calculations, daily averages, and indicators. There is no conflicting information or opposing viewpoints presented.
 
-There is no contention or disagreement in this passage. It is simply providing information about the average daily exchange rates of currencies in the European Exchange Rate Mechanism (SME) and explaining the calculation of divergence indicators.
 
 

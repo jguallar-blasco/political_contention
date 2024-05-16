@@ -77,7 +77,7 @@ for target_year in years:
         if tokens >= 1000:
           count += 1
           secondfile.write('This passage was too long for model to process and thus had to be split: ')
-          secondfile.write('Passsage number' + str(count) + '\n')
+          secondfile.write('Passsage number ' + str(count) + '\n')
           cur_text_ = ". ".join(text_list)
           #cur_text = re.sub('(.+ \(\d+ \- \d+\))|(The Chairman .+ \(\d+ \- \d+\))|(Mr. .+ \(\d+ \- \d+\))|(Ms. .+ \w \(\d+ \- \d+\))', '', cur_text_)
           part_1, part_2, part_3 = '', '', ''
@@ -142,16 +142,16 @@ for target_year in years:
         
           if "Yes" in response[0:5]:
             disagreement += 1
-            secondfile.write("****************DISAGREEMENT DETECTED*******************")
-            print("****************DISAGREEMENT DETECTED*******************")
+            secondfile.write("****************DISAGREEMENT DETECTED*******************\n")
+            print("****************DISAGREEMENT DETECTED*******************\n")
             #summary_dict[''.join(doc_[1])].append(".".join(text_list))
           secondfile.write("Passage number " + str(count) + ".\n")
           print("Passage number " + str(count) + ".\n")
           cur_text = ".".join(text_list)
           secondfile.write(cur_text + '.' + '\n')
           print(cur_text + '.' + '\n\n')
-          secondfile.write("Does the passage contain contention or disagreement? Response from the model: " + response)
-          print("Does the passage contain contention or disagreement? Response from the model: " + response)
+          secondfile.write("Does the passage contain contention or disagreement? Response from the model:\n " + response + "\n")
+          print("Does the passage contain contention or disagreement? Response from the model: " + response + "\n")
           secondfile.write('\n\n\n')
           print('\n\n\n\n')
 
