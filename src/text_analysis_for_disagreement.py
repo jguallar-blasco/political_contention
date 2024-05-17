@@ -4,7 +4,7 @@ import re
 from openai import OpenAI
 client = OpenAI()
 
-with open('80s_all_text_files.json') as json_file:
+with open('_all_text_files.json') as json_file:
     text_files_by_year = json.load(json_file)
 
 #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
